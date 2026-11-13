@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Keyify - Car Key Compatibility Check</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Keyify</h1>
+    <p>Find out what key your car uses and how it gets programmed.</p>
+  </header>
+
+  <main>
+    <section class="search">
+      <label>Make
+        <select id="make"><option value="">Select make</option></select>
+      </label>
+      <label>Model
+        <select id="model" disabled><option value="">Select model</option></select>
+      </label>
+      <label>Year
+        <select id="year" disabled><option value="">Select year</option></select>
+      </label>
+    </section>
+
+    <section id="results"></section>
+
+    <p class="disclaimer">
+      Information only. Always verify the key type, chip and FCC ID against the
+      vehicle before cutting or programming. Entries marked "Not verified" have
+      not been tested on a real vehicle.
+    </p>
+  </main>
+
+  <script src="keys.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
