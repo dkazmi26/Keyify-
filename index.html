@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Keyify - Car Key Compatibility Check</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=1">
 </head>
 <body>
   <header>
@@ -25,7 +25,7 @@
       </label>
     </section>
 
-    <section id="results"></section>
+    <section id="results" aria-live="polite"></section>
 
     <p class="disclaimer">
       Information only. Always verify the key type, chip and FCC ID against the
@@ -34,7 +34,9 @@
     </p>
   </main>
 
-  <script src="keys.js"></script>
-  <script src="script.js"></script>
+  <!-- The ?v=1 stops GitHub Pages serving an old cached copy.
+       Add 1 to the number each time you change that file. -->
+  <script src="keys.js?v=1"></script>
+  <script src="script.js?v=1"></script>
 </body>
 </html>

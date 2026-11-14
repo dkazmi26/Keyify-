@@ -37,5 +37,11 @@ select { padding: 10px; font-size: 1rem; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.85rem; }
 .tag.ok { background: #d9f2e0; }
 .tag.no { background: #fde2c8; }
+.tag.unknown { background: #e3e7ec; color: #3d4752; }
+select:focus-visible { outline: 3px solid #2f80ed; outline-offset: 1px; }
+@media (max-width: 480px) {
+  .card dl { grid-template-columns: 1fr; gap: 2px; }
+  .card dd { margin-bottom: 10px; }
+}
 .disclaimer { font-size: 0.85rem; color: #5b6673; margin-top: 24px; }
 .empty { margin-top: 16px; color: #5b6673; }
