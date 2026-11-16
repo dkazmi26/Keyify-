@@ -78,11 +78,15 @@ function buildGroups(rows) {
 
   return [...map.values()].map(g => {
     const rs = g.rows;
-    // Part numbers first, then supplier SKUs, then FCC IDs (spec section 3).
+    // "parts" is what the card shows under Part #: OEM part numbers only.
     const parts = [], seen = new Set();
     rs.forEach(r => addUnique(parts, seen, r.partNumber));
-    rs.forEach(r => addUnique(parts, seen, r.sku));
-    rs.forEach(r => addUnique(parts, seen, r.fcc));
+
+    // "searchTerms" is what the search box can match: part numbers, then
+    // supplier SKUs, then FCC IDs. These are searchable but not shown under Part #.
+    const searchTerms = parts.slice(), seenSearch = new Set(parts.map(norm));
+    rs.forEach(r => addUnique(searchTerms, seenSearch, r.sku));
+    rs.forEach(r => addUnique(searchTerms, seenSearch, r.fcc));
 
     const supplies = [], seenSupply = new Set();
     rs.forEach(r => addUnique(supplies, seenSupply, r.supply));
@@ -107,7 +111,7 @@ function buildGroups(rows) {
       fcc: mostCommon(rs.map(r => r.fcc)),
       chip: mostCommon(rs.map(r => r.chip)),
       parts,
-      partsNorm: parts.map(norm),
+      partsNorm: searchTerms.map(norm),
       supplies,
       notes,
       vehicles: [...vehicles.values()],

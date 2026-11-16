@@ -58,5 +58,10 @@ button.link:focus-visible, button.more:focus-visible, summary:focus-visible { ou
 details.also { margin: 8px 0; }
 details.also summary { cursor: pointer; font-weight: 600; }
 details.also p { margin: 4px 0 4px 12px; font-size: 0.92rem; }
-.card .status { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.kd { margin-top: 14px; padding-top: 12px; border-top: 1px solid #e3e7ec; }
+.kd h3 { margin: 0 0 8px; font-size: 1rem; }
+.kd-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
+.kd-btn { padding: 10px 14px; font-size: 0.95rem; border: 1px solid #2f80ed; border-radius: 8px; background: #fff; color: #1f5fbf; cursor: pointer; text-align: left; overflow-wrap: anywhere; }
+.kd-btn:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
+.card .kd-hint { font-size: 0.82rem; color: #5b6673; }
 .card .vin { font-size: 0.85rem; color: #5b6673; }

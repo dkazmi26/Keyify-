@@ -129,6 +129,36 @@ function partsHtml(parts) {
   return `<p class="parts"><strong>Part #:</strong> ${shown}${more}</p>`;
 }
 
+const SUPPLY_ORDER = ["OEM", "Aftermarket", "Refurbished"];
+
+// One entry per supply option for this key: { supply, sku }.
+// In a vehicle search only listings that fit that vehicle and year are used.
+// If one option has several SKUs, the listing with the tightest year range wins.
+function supplyOptions(g, ctx) {
+  const rows = g.rows.filter(r => r.sku && r.supply && (
+    ctx.mode !== "vehicle" ||
+    (r.make === ctx.make && r.model === ctx.model && ctx.year >= r.yearFrom && ctx.year <= r.yearTo)));
+  const best = new Map();
+  rows.forEach(r => {
+    const span = r.yearTo - r.yearFrom;
+    if (!best.has(r.supply) || span < best.get(r.supply).span) best.set(r.supply, { supply: r.supply, sku: r.sku, span });
+  });
+  const rank = s => { const i = SUPPLY_ORDER.indexOf(s); return i === -1 ? SUPPLY_ORDER.length : i; };
+  return [...best.values()].sort((a, b) => rank(a.supply) - rank(b.supply) || a.supply.localeCompare(b.supply));
+}
+
+function keyDirectHtml(g, ctx) {
+  const options = supplyOptions(g, ctx);
+  if (!options.length) return "";
+  return `<div class="kd">
+      <h3>Available at KeyDirect</h3>
+      <div class="kd-buttons">${options.map(o =>
+        `<button type="button" class="kd-btn" data-action="copy-sku" data-sku="${h(o.sku)}">${h(o.supply)} · ${h(o.sku)}</button>`
+      ).join("")}</div>
+      <p class="kd-hint">Tap a button to copy the SKU, then search for it on KeyDirect.</p>
+    </div>`;
+}
+
 // ctx: { mode: "vehicle" | "part", make, model, year }
 function cardHtml(g, ctx, hidden) {
   const searched = g.vehicles.find(v => v.make === ctx.make && v.model === ctx.model);
@@ -145,6 +175,11 @@ function cardHtml(g, ctx, hidden) {
     also = `<details class="also" open><summary>Fits (${g.vehicles.length})</summary>${vehicleListHtml(g.vehicles, null)}</details>`;
   }
 
+  // Chip is hidden when it is blank or "Unknown".
+  const chipValue = String(g.chip || "").trim();
+  const chip = chipValue && chipValue.toLowerCase() !== "unknown"
+    ? ` <span><strong>Chip:</strong> ${h(chipValue)}</span>` : "";
+
   const options = g.supplies.length
     ? `<p class="options"><strong>Options:</strong> ${g.supplies.map(s => `<span class="badge">${h(s)}</span>`).join(" ")}</p>`
     : "";
@@ -156,16 +191,13 @@ function cardHtml(g, ctx, hidden) {
   return `
     <div class="card"${hidden ? " hidden data-extra" : ""}>
       <h2>${esc(g.keyType)}</h2>
-      <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span> <span><strong>Chip:</strong> ${esc(g.chip)}</span></p>
+      <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span>${chip}</p>
       ${fits}
       ${options}
       ${partsHtml(g.parts)}
       ${also}
-      <p class="status">
-        <span class="tag ${programmingClass(g.programming)}">${esc(g.programming)}</span>
-        <span class="tag ${g.verified ? "ok" : "unknown"}">${g.verified ? "Verified" : "Not verified"}</span>
-      </p>
-      <p class="vin">Fitment comes from supplier listings and is unverified. Confirm with your VIN before buying.</p>
+      ${keyDirectHtml(g, ctx)}
+      <p class="vin">Confirm with your VIN before buying.</p>
       ${notes}
     </div>`;
 }
@@ -221,6 +253,18 @@ results.addEventListener("click", e => {
   if (btn.dataset.action === "show-more") {
     results.querySelectorAll("[data-extra]").forEach(c => { c.hidden = false; });
     btn.remove();
+  } else if (btn.dataset.action === "copy-sku") {
+    const sku = btn.dataset.sku;
+    const original = btn.textContent;
+    const done = ok => {
+      btn.textContent = ok ? "Copied " + sku : "Select and copy: " + sku;
+      setTimeout(() => { btn.textContent = original; }, 2000);
+    };
+    try {
+      navigator.clipboard.writeText(sku).then(() => done(true), () => done(false));
+    } catch (err) {
+      done(false);
+    }
   } else if (btn.dataset.action === "more-parts") {
     const span = btn.previousElementSibling;
     const open = span.hidden;
