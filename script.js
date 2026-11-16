@@ -145,10 +145,14 @@ function cardHtml(g, ctx, hidden) {
   const chip = chipValue && chipValue.toLowerCase() !== "unknown"
     ? ` <span><strong>Chip:</strong> ${h(chipValue)}</span>` : "";
 
+  // Board code is hidden when it is blank.
+  const boardValue = String(g.board || "").trim();
+  const board = boardValue ? ` <span><strong>Board code:</strong> ${h(boardValue)}</span>` : "";
+
   return `
     <div class="card"${hidden ? " hidden data-extra" : ""}>
       <h2>${esc(g.keyType)}</h2>
-      <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span>${chip}</p>
+      <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span>${board}${chip}</p>
       ${partsHtml(parts)}
       ${fits}
       ${also}

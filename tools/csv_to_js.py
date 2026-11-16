@@ -2,12 +2,13 @@
 """Turn a keys CSV into a JavaScript data file that adds rows to KEYS.
 
 Usage:
-    python3 tools/csv_to_js.py data/toyota-keydirect.csv keys-toyota.js
+    python3 tools/csv_to_js.py data/toyota-keys.csv keys-toyota.js
 
 Then add <script src="keys-toyota.js"></script> to index.html (after keys.js).
 
 Only the compatibility fields go into the generated file:
-make, model, yearFrom, yearTo, keyType, chip, fcc, partNumber, programming, verified.
+make, model, yearFrom, yearTo, keyType, chip, fcc, board, partNumber, programming, verified.
+"board" is read as text so codes like 0020 keep their leading zeros.
 Supplier names, SKUs, supply types, notes and sources are left out on purpose.
 Rows that are identical once those are left out are folded into one.
 
@@ -43,6 +44,9 @@ def main(csv_path, out_path):
             problems.append(f"line {n}: yearFrom {yf} is after yearTo {yt}")
         if r["programming"] not in ALLOWED_PROGRAMMING:
             problems.append(f"line {n}: programming '{r['programming']}' not allowed")
+        board = r.get("board", "")
+        if board and not (len(board) == 4 and board.isdigit()):
+            print(f"  note: line {n}: board '{board}' is not a 4-digit number (kept as is)")
 
         entry = {
             "make": r["make"],
@@ -52,6 +56,7 @@ def main(csv_path, out_path):
             "keyType": r["keyType"],
             "chip": r.get("chip", ""),
             "fcc": r.get("fcc", ""),
+            "board": r.get("board", ""),
             "partNumber": r.get("partNumber", ""),
             "programming": r["programming"],
             "verified": False,  # always false until you test it on a real vehicle

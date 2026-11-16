@@ -13,18 +13,21 @@ function normChip(v) {
 }
 
 // One group per physical key.
-//   1. keyType + FCC ID                 (when the FCC ID is present)
-//   2. no FCC ID: keyType + chip + part number, so rows that would show
-//      exactly the same card fold together
+//   1. keyType + FCC ID + board code    (when the FCC ID is present; the board
+//      is part of the key only when it is filled in, so a blank board groups
+//      by keyType + FCC ID alone)
+//   2. no FCC ID: keyType + chip + part number + board, so rows that would
+//      show exactly the same card fold together
 //   3. nothing to go on: the row stays on its own
 // A blank value is never matched on its own.
 function groupKeyOf(row, index) {
   const type = norm(row.keyType);
   const fcc = norm(row.fcc);
-  if (fcc) return "F|" + type + "|" + fcc;
+  const board = norm(row.board);
+  if (fcc) return "F|" + type + "|" + fcc + "|" + board;
   const chip = normChip(row.chip);
   const pn = norm(row.partNumber);
-  if (chip || pn) return "N|" + type + "|" + chip + "|" + pn;
+  if (chip || pn || board) return "N|" + type + "|" + chip + "|" + pn + "|" + board;
   return "R|" + index;
 }
 
@@ -88,10 +91,12 @@ function buildGroups(rows) {
       rows: rs,
       keyType: rs[0].keyType,
       fcc,
+      board: mostCommon(rs.map(r => r.board)),
       chip: mostCommon(rs.map(r => r.chip)),
       parts,
-      // The only things the search box can match: FCC ID and part numbers.
+      // The only things the search box can match: FCC ID, board code and part numbers.
       searchTerms: uniqueValues([fcc].concat(parts)).map(norm),
+      boardNorm: norm(mostCommon(rs.map(r => r.board))),
       vehicles: [...vehicles.values()]
     };
   });
@@ -135,13 +140,17 @@ function searchVehicle(groups, make, model, year) {
   return hits;
 }
 
-// Groups where the FCC ID or any part number contains what was typed.
+// Groups where the FCC ID, the board code or any part number matches what was typed.
 // Needs at least 4 letters or digits so "ABC" does not match half the catalogue.
+// A board code must match exactly. Exactly 4 characters (like "0020") must match a
+// whole FCC ID or part number too, so a board code does not drag in every part
+// number that happens to contain those digits. Longer text matches anywhere inside.
 function searchParts(groups, query) {
   const q = norm(query);
   if (q.length < 4) return [];
   return groups
-    .filter(g => g.searchTerms.some(t => t.includes(q)))
+    .filter(g => g.boardNorm === q ||
+      g.searchTerms.some(t => (q.length === 4 ? t === q : t.includes(q))))
     .sort((a, b) => typeRank(a.keyType) - typeRank(b.keyType) ||
       String(a.keyType).localeCompare(String(b.keyType)));
 }
