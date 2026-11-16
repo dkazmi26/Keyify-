@@ -137,7 +137,15 @@ function searchVehicle(groups, make, model, year) {
     (typeRank(a.g.keyType) - typeRank(b.g.keyType)) ||
     (a.span - b.span) ||
     String(a.g.keyType).localeCompare(String(b.g.keyType)));
-  return hits;
+
+  // If this search already has a card with a board code for the same key type
+  // and FCC ID, a "no board" card for that pair looks like a duplicate, so hide it.
+  // (Only within this search: a vehicle whose only listing has no board keeps it.)
+  const withBoard = new Set(hits
+    .filter(x => x.g.boardNorm && norm(x.g.fcc))
+    .map(x => norm(x.g.keyType) + "|" + norm(x.g.fcc)));
+  return hits.filter(x => x.g.boardNorm || !norm(x.g.fcc) ||
+    !withBoard.has(norm(x.g.keyType) + "|" + norm(x.g.fcc)));
 }
 
 // Groups where the FCC ID, the board code or any part number matches what was typed.
