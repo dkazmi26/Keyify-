@@ -1,9 +1,11 @@
 const makeSel = document.getElementById("make");
 const modelSel = document.getElementById("model");
 const yearSel = document.getElementById("year");
+const partInput = document.getElementById("partq");
 const results = document.getElementById("results");
 
 const PROGRAMMING_OPTIONS = ["DIY", "Locksmith", "Dealer only", "Unconfirmed"];
+const CARDS_SHOWN_FIRST = 5;
 
 // Warns in the browser console (F12) if a keys.js entry looks wrong.
 // It never blocks the page, it just helps you catch typos early.
@@ -24,14 +26,19 @@ function checkData() {
 }
 checkData();
 
-// Makes text safe to put into the page, and shows "Unknown" for blank fields.
-function esc(value) {
-  if (value === undefined || value === null || String(value).trim() === "") return "Unknown";
-  return String(value)
+// Makes text safe to put into the page.
+function h(value) {
+  return String(value === undefined || value === null ? "" : value)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
+}
+
+// Same, but shows "Unknown" for blank fields.
+function esc(value) {
+  if (value === undefined || value === null || String(value).trim() === "") return "Unknown";
+  return h(value);
 }
 
 function unique(list) {
@@ -52,6 +59,9 @@ function fill(select, values, placeholder) {
   });
 }
 
+// Built once. Every card on the page comes from one of these groups.
+const GROUPS = buildGroups(KEYS);
+
 fill(makeSel, unique(KEYS.map(k => k.make)), "Select make");
 
 makeSel.addEventListener("change", () => {
@@ -60,6 +70,7 @@ makeSel.addEventListener("change", () => {
   modelSel.disabled = !makeSel.value;
   fill(yearSel, [], "Select year");
   yearSel.disabled = true;
+  partInput.value = "";
   results.innerHTML = "";
 });
 
@@ -69,10 +80,16 @@ modelSel.addEventListener("change", () => {
   rows.forEach(r => { for (let y = r.yearFrom; y <= r.yearTo; y++) years.add(y); });
   fill(yearSel, [...years].sort((a, b) => b - a), "Select year");
   yearSel.disabled = !modelSel.value;
+  partInput.value = "";
   results.innerHTML = "";
 });
 
-yearSel.addEventListener("change", showResults);
+yearSel.addEventListener("change", () => {
+  partInput.value = "";
+  showVehicleResults();
+});
+
+partInput.addEventListener("input", showPartResults);
 
 // Colour of the programming tag: green = you can do it yourself,
 // orange = needs a locksmith or dealer, grey = nobody has confirmed it yet.
@@ -82,34 +99,133 @@ function programmingClass(p) {
   return "unknown";
 }
 
-function showResults() {
+// "Avalon 2013-2018 · Corolla 2014-2020", grouped by make.
+// The searched make is left unlabelled, other makes get a label.
+function vehicleListHtml(vehicles, searchedMake) {
+  const byMake = new Map();
+  vehicles.forEach(v => {
+    if (!byMake.has(v.make)) byMake.set(v.make, []);
+    byMake.get(v.make).push(v);
+  });
+  return [...byMake.entries()]
+    .sort((a, b) => a[0].localeCompare(b[0]))
+    .map(([make, list]) => {
+      const text = list
+        .sort((a, b) => a.model.localeCompare(b.model))
+        .map(v => `${h(v.model)} ${h(formatRanges(v.ranges))}`)
+        .join(" · ");
+      return `<p>${make === searchedMake ? "" : `<strong>${h(make)}:</strong> `}${text}</p>`;
+    }).join("");
+}
+
+function partsHtml(parts) {
+  if (!parts.length) return "";
+  const shown = parts.slice(0, 2).map(h).join(" · ");
+  const rest = parts.slice(2);
+  const more = rest.length
+    ? ` <span class="more-parts" hidden> · ${rest.map(h).join(" · ")}</span>` +
+      ` <button type="button" class="link" data-action="more-parts" aria-expanded="false">+${rest.length} more</button>`
+    : "";
+  return `<p class="parts"><strong>Part #:</strong> ${shown}${more}</p>`;
+}
+
+// ctx: { mode: "vehicle" | "part", make, model, year }
+function cardHtml(g, ctx, hidden) {
+  const searched = g.vehicles.find(v => v.make === ctx.make && v.model === ctx.model);
+  const others = g.vehicles.filter(v => !(v.make === ctx.make && v.model === ctx.model));
+
+  let fits = "";
+  let also = "";
+  if (ctx.mode === "vehicle") {
+    fits = `<p class="fits"><strong>Fits:</strong> ${h(formatRanges(searched.ranges))} ${h(searched.model)}</p>`;
+    if (others.length) {
+      also = `<details class="also"><summary>Also fits (${others.length})</summary>${vehicleListHtml(others, ctx.make)}</details>`;
+    }
+  } else {
+    also = `<details class="also" open><summary>Fits (${g.vehicles.length})</summary>${vehicleListHtml(g.vehicles, null)}</details>`;
+  }
+
+  const options = g.supplies.length
+    ? `<p class="options"><strong>Options:</strong> ${g.supplies.map(s => `<span class="badge">${h(s)}</span>`).join(" ")}</p>`
+    : "";
+
+  const notes = g.notes.length
+    ? `<details class="also"><summary>Source notes</summary>${g.notes.map(n => `<p>${h(n)}</p>`).join("")}</details>`
+    : "";
+
+  return `
+    <div class="card"${hidden ? " hidden data-extra" : ""}>
+      <h2>${esc(g.keyType)}</h2>
+      <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span> <span><strong>Chip:</strong> ${esc(g.chip)}</span></p>
+      ${fits}
+      ${options}
+      ${partsHtml(g.parts)}
+      ${also}
+      <p class="status">
+        <span class="tag ${programmingClass(g.programming)}">${esc(g.programming)}</span>
+        <span class="tag ${g.verified ? "ok" : "unknown"}">${g.verified ? "Verified" : "Not verified"}</span>
+      </p>
+      <p class="vin">Fitment comes from supplier listings and is unverified. Confirm with your VIN before buying.</p>
+      ${notes}
+    </div>`;
+}
+
+function showMoreButton(extra) {
+  if (extra <= 0) return "";
+  return `<button type="button" class="more" data-action="show-more">Show ${extra} more ${extra === 1 ? "key" : "keys"}</button>`;
+}
+
+function showVehicleResults() {
   const year = Number(yearSel.value);
   if (!year) { results.innerHTML = ""; return; }
-  const matches = KEYS.filter(k =>
-    k.make === makeSel.value && k.model === modelSel.value &&
-    year >= k.yearFrom && year <= k.yearTo
-  );
-  if (!matches.length) {
+  const hits = searchVehicle(GROUPS, makeSel.value, modelSel.value, year);
+  if (!hits.length) {
     results.innerHTML = '<p class="empty">No match found.</p>';
     return;
   }
-  const count = `<p class="count">${matches.length} ${matches.length === 1 ? "key" : "keys"} listed for this vehicle. Different suppliers sell different versions, so compare before you buy or cut.</p>`;
-  results.innerHTML = count + matches.map(k => `
-    <div class="card">
-      <h2>${year} ${esc(k.make)} ${esc(k.model)}</h2>
-      <dl>
-        <dt>Key type</dt><dd>${esc(k.keyType)}</dd>
-        <dt>Chip</dt><dd>${esc(k.chip)}</dd>
-        <dt>FCC ID</dt><dd>${esc(k.fcc)}</dd>
-        <dt>Part number</dt><dd>${esc(k.partNumber)}</dd>
-        ${k.sku ? `<dt>Supplier SKU</dt><dd>${esc(k.sku)}</dd>` : ""}
-        ${k.supply ? `<dt>Supply type</dt><dd>${esc(k.supply)}</dd>` : ""}
-        <dt>Programming</dt>
-        <dd><span class="tag ${programmingClass(k.programming)}">${esc(k.programming)}</span></dd>
-        <dt>Notes</dt><dd>${esc(k.notes)}</dd>
-        <dt>Status</dt>
-        <dd><span class="tag ${k.verified ? "ok" : "unknown"}">${k.verified ? "Verified" : "Not verified"}</span></dd>
-      </dl>
-    </div>
-  `).join("");
+  const listings = hits.reduce((n, x) => n + x.matchingRows, 0);
+  const ctx = { mode: "vehicle", make: makeSel.value, model: modelSel.value, year };
+  results.innerHTML =
+    `<p class="count">${hits.length} ${hits.length === 1 ? "key" : "keys"} for this vehicle, grouped from ${listings} supplier ${listings === 1 ? "listing" : "listings"}.</p>` +
+    hits.map((x, i) => cardHtml(x.g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
+    showMoreButton(hits.length - CARDS_SHOWN_FIRST);
 }
+
+function showPartResults() {
+  const q = partInput.value.trim();
+  if (!q) { results.innerHTML = ""; return; }
+  // Searching by number replaces any vehicle choice.
+  makeSel.value = "";
+  fill(modelSel, [], "Select model"); modelSel.disabled = true;
+  fill(yearSel, [], "Select year"); yearSel.disabled = true;
+  if (q.replace(/[^A-Za-z0-9]/g, "").length < 4) {
+    results.innerHTML = '<p class="empty">Type at least 4 letters or numbers.</p>';
+    return;
+  }
+  const hits = searchParts(GROUPS, q);
+  if (!hits.length) {
+    results.innerHTML = `<p class="empty">No key found with the number "${h(q)}".</p>`;
+    return;
+  }
+  const ctx = { mode: "part" };
+  results.innerHTML =
+    `<p class="count">${hits.length} ${hits.length === 1 ? "key matches" : "keys match"} "${h(q)}".</p>` +
+    hits.map((g, i) => cardHtml(g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
+    showMoreButton(hits.length - CARDS_SHOWN_FIRST);
+}
+
+// One click handler for the "+N more" and "Show more" buttons.
+results.addEventListener("click", e => {
+  const btn = e.target.closest("button[data-action]");
+  if (!btn) return;
+  if (btn.dataset.action === "show-more") {
+    results.querySelectorAll("[data-extra]").forEach(c => { c.hidden = false; });
+    btn.remove();
+  } else if (btn.dataset.action === "more-parts") {
+    const span = btn.previousElementSibling;
+    const open = span.hidden;
+    span.hidden = !open;
+    btn.setAttribute("aria-expanded", String(open));
+    btn.textContent = open ? "show less" : `+${span.textContent.split(" · ").filter(s => s.trim()).length} more`;
+  }
+});
