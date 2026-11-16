@@ -93,7 +93,8 @@ function showResults() {
     results.innerHTML = '<p class="empty">No match found.</p>';
     return;
   }
-  results.innerHTML = matches.map(k => `
+  const count = `<p class="count">${matches.length} ${matches.length === 1 ? "key" : "keys"} listed for this vehicle. Different suppliers sell different versions, so compare before you buy or cut.</p>`;
+  results.innerHTML = count + matches.map(k => `
     <div class="card">
       <h2>${year} ${esc(k.make)} ${esc(k.model)}</h2>
       <dl>
@@ -101,6 +102,8 @@ function showResults() {
         <dt>Chip</dt><dd>${esc(k.chip)}</dd>
         <dt>FCC ID</dt><dd>${esc(k.fcc)}</dd>
         <dt>Part number</dt><dd>${esc(k.partNumber)}</dd>
+        ${k.sku ? `<dt>Supplier SKU</dt><dd>${esc(k.sku)}</dd>` : ""}
+        ${k.supply ? `<dt>Supply type</dt><dd>${esc(k.supply)}</dd>` : ""}
         <dt>Programming</dt>
         <dd><span class="tag ${programmingClass(k.programming)}">${esc(k.programming)}</span></dd>
         <dt>Notes</dt><dd>${esc(k.notes)}</dd>

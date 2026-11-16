@@ -45,3 +45,4 @@ select:focus-visible { outline: 3px solid #2f80ed; outline-offset: 1px; }
 }
 .disclaimer { font-size: 0.85rem; color: #5b6673; margin-top: 24px; }
 .empty { margin-top: 16px; color: #5b6673; }
+.count { margin: 16px 0 0; color: #5b6673; font-size: 0.9rem; }

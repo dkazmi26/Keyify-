@@ -1,0 +1,584 @@
+make,model,yearFrom,yearTo,keyType,chip,fcc,partNumber,programming,verified,sku,supply,notes,source
+Toyota,Highlander,2014,2019,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-21104H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2020,keydirect.ca
+Toyota,Sequoia,2020,2020,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-21104H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2020,keydirect.ca
+Toyota,Highlander,2007,2014,3-Button Smart Key,,HYQ14AAB,89904-0R060,Unconfirmed,false,RSK-TOY-3370-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2008-2015,keydirect.ca
+Toyota,Land Cruiser,2008,2015,3-Button Smart Key,,HYQ14AAB,89904-0R060,Unconfirmed,false,RSK-TOY-3370-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2008-2015,keydirect.ca
+Toyota,RAV4,2008,2012,3-Button Smart Key,,HYQ14AAB,89904-0R060,Unconfirmed,false,RSK-TOY-3370-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2008-2015,keydirect.ca
+Toyota,Venza,2010,2017,4-Button Smart Key,,HYQ14ACX,89904-0T060,Unconfirmed,false,RSK-TOY-CX4V,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2017,keydirect.ca
+Toyota,Highlander,2008,2013,4-Button Smart Key,,HYQ14AAB,89904-48110,Unconfirmed,false,RSK-TOY-HIGH-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2008-2013,keydirect.ca
+Toyota,Camry,2018,2023,4-Button Smart Key,,HYQ14FBC,89904-06220,Unconfirmed,false,RSK-TOY-CMR19,Aftermarket,Fits per KeyDirect compatibility tab; title years 2018-2023,keydirect.ca
+Toyota,Prius,2010,2015,4-Button Smart Key,,HYQ14ACX,89904-47150,Unconfirmed,false,RSK-TOY-ACAC,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2015,keydirect.ca
+Toyota,Avalon,2007,2012,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,RSK-TOY-3370-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2007-2013,keydirect.ca
+Toyota,Camry,2007,2011,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,RSK-TOY-3370-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2007-2013,keydirect.ca
+Toyota,Corolla,2011,2013,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,RSK-TOY-3370-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2007-2013,keydirect.ca
+Toyota,Avalon,2005,2009,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,RSK-TOY-AAB-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,Camry,2007,2008,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,RSK-TOY-AAB-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,Highlander,2008,2013,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,RSK-TOY-AAB-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,RAV4,2008,2012,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,RSK-TOY-AAB-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,86,2017,2019,4-Button Smart Key,,HYQ14ACX,89904-50F90,Unconfirmed,false,RSK-LEX-ACX-T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Lexus,HS 250,2010,2012,4-Button Smart Key,,HYQ14ACX,89904-50F90,Unconfirmed,false,RSK-LEX-ACX-T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Lexus,LS 460,2010,2014,4-Button Smart Key,,HYQ14ACX,89904-50F90,Unconfirmed,false,RSK-LEX-ACX-T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Lexus,LS 600h,2010,2014,4-Button Smart Key,,HYQ14ACX,89904-50F90,Unconfirmed,false,RSK-LEX-ACX-T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Scion,FR-S,2013,2015,4-Button Smart Key,,HYQ14ACX,89904-50F90,Unconfirmed,false,RSK-LEX-ACX-T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Scion,tC,2005,2010,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,4Runner,2003,2011,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Avalon,2005,2012,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Camry,2003,2011,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Corolla,2005,2013,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,FJ Cruiser,2008,2010,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Highlander,2004,2010,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Land Cruiser,2003,2011,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Matrix,2005,2013,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,RAV4,2007,2011,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Sequoia,2003,2010,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Sienna,2004,2011,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Solara,2004,2010,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Tacoma,2005,2010,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Tundra,2007,2009,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Venza,2009,2013,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Yaris,2008,2011,Transponder Key,4D67,,,Unconfirmed,false,K-TOY44D,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Camry,2014,2017,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Corolla,2014,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Highlander,2014,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Prius,2018,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,RAV4,2013,2017,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Sequoia,2016,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Sienna,2015,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tacoma,2016,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tundra,2017,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Yaris,2016,2019,Transponder Key,H-Chip,TOY44H,,Unconfirmed,false,K-TOY44H-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Scion,tC,2014,2015,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,4Runner,2010,2019,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Camry,2011,2015,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Corolla,2010,2013,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,FJ Cruiser,2010,2014,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Highlander,2011,2015,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Matrix,2014,2014,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Prius,2012,2016,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,RAV4,2010,2013,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Sequoia,2010,2015,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Sienna,2011,2015,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Tacoma,2010,2015,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Tundra,2010,2017,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Venza,2009,2016,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Yaris,2014,2015,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY44G,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,86,2017,2018,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY49,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2018,keydirect.ca
+Scion,FR-S,2013,2016,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY49,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2018,keydirect.ca
+Subaru,BRZ,2013,2017,Transponder Key,G Chip,,,Unconfirmed,false,K-TOY49,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2018,keydirect.ca
+Toyota,4Runner,1998,2002,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Avalon,1998,2004,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Camry,1998,2006,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Highlander,2001,2003,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Land Cruiser,1998,2002,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Prius,2001,2003,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Sequoia,2001,2002,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Sienna,1998,2003,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Solara,1998,2003,Transponder Key,,,,Unconfirmed,false,K-TOY43AT4,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Scion,xB,2008,2013,3-Button Remote Head Key,Chip 4D67,HYQ12BBY,,Unconfirmed,false,RK-TOY-301,Aftermarket,Fits per KeyDirect compatibility tab; title years 2006-2013,keydirect.ca
+Toyota,RAV4,2006,2010,3-Button Remote Head Key,Chip 4D67,HYQ12BBY,,Unconfirmed,false,RK-TOY-301,Aftermarket,Fits per KeyDirect compatibility tab; title years 2006-2013,keydirect.ca
+Toyota,4Runner,2010,2019,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RK-TOY-304G,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Toyota,Highlander,2015,2015,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RK-TOY-304G,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Toyota,RAV4,2010,2012,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RK-TOY-304G,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Toyota,Yaris,2012,2014,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RK-TOY-304G,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2019,keydirect.ca
+Toyota,Camry,2007,2010,4-Button Remote Head Key,4D67 Chip,HYQ12BBY,,Unconfirmed,false,RK-TOY-401,Aftermarket,Fits per KeyDirect compatibility tab; title years 2007-2010,keydirect.ca
+Toyota,Corolla,2009,2010,4-Button Remote Head Key,4D67 Chip,HYQ12BBY,,Unconfirmed,false,RK-TOY-401,Aftermarket,Fits per KeyDirect compatibility tab; title years 2007-2010,keydirect.ca
+Toyota,Avalon,2008,2012,4-Button Remote Head Key,,GQ4-29T,,Unconfirmed,false,RK-TOY-29T-67-4B,Aftermarket,Fits per KeyDirect compatibility tab; title years 2008-2012,keydirect.ca
+Toyota,Corolla,2009,2011,4-Button Remote Head Key,,GQ4-29T,,Unconfirmed,false,RK-TOY-29T-67-4B,Aftermarket,Fits per KeyDirect compatibility tab; title years 2008-2012,keydirect.ca
+Toyota,Yaris,2015,2018,3-Button Remote Head Key,,HYQ12BBY,89070-52G50,Unconfirmed,false,RK-TOY-BBYH,Aftermarket,Fits per KeyDirect compatibility tab; title years 2015-2018,keydirect.ca
+Scion,iQ,2012,2013,3-Button Remote Head Key,,MOZB41TG,89070-52850,Unconfirmed,false,RK-TOY-MZ-3,,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Scion,tC,2005,2012,3-Button Remote Head Key,,MOZB41TG,89070-52850,Unconfirmed,false,RK-TOY-MZ-3,,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Scion,xD,2008,2014,3-Button Remote Head Key,,MOZB41TG,89070-52850,Unconfirmed,false,RK-TOY-MZ-3,,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,Yaris,2007,2013,3-Button Remote Head Key,,MOZB41TG,89070-52850,Unconfirmed,false,RK-TOY-MZ-3,,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,Highlander,2008,2010,4-Button Flip Key,67 Chip,GQ43VT20T,,Unconfirmed,false,RFK-TOY-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2010,keydirect.ca
+Toyota,Sequoia,2008,2010,4-Button Flip Key,67 Chip,GQ43VT20T,,Unconfirmed,false,RFK-TOY-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2010,keydirect.ca
+Toyota,Sienna,2004,2010,4-Button Flip Key,67 Chip,GQ43VT20T,,Unconfirmed,false,RFK-TOY-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2010,keydirect.ca
+Toyota,Tacoma,2005,2010,4-Button Flip Key,67 Chip,GQ43VT20T,,Unconfirmed,false,RFK-TOY-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2010,keydirect.ca
+Toyota,Tundra,2005,2010,4-Button Flip Key,67 Chip,GQ43VT20T,,Unconfirmed,false,RFK-TOY-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2010,keydirect.ca
+Scion,IM,2017,2018,3-Button Flip Key,H CHIP,HYQ12BFB,89070-12C20,Unconfirmed,false,RFK-TOY-BFB-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2017-2018,keydirect.ca
+Toyota,Camry,2018,2018,3-Button Flip Key,H CHIP,HYQ12BFB,89070-12C20,Unconfirmed,false,RFK-TOY-BFB-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2017-2018,keydirect.ca
+Toyota,Corolla,2017,2018,3-Button Flip Key,H CHIP,HYQ12BFB,89070-12C20,Unconfirmed,false,RFK-TOY-BFB-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2017-2018,keydirect.ca
+Toyota,Land Cruiser,1998,2002,3-Button Remote Head Key,4C Chip,HYQ1512V,89070-60090,Unconfirmed,false,RHK-TOY-1512-L,,Fits per KeyDirect compatibility tab; title years 1998-2002,keydirect.ca
+Toyota,Avalon,2011,2012,4-Button Remote Head Key,,GQ4-29T,89070-12820,Unconfirmed,false,RHK-TOY-29T-G-4B,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2014,keydirect.ca
+Toyota,Corolla,2010,2013,4-Button Remote Head Key,,GQ4-29T,89070-12820,Unconfirmed,false,RHK-TOY-29T-G-4B,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2014,keydirect.ca
+Toyota,Matrix,2011,2013,4-Button Remote Head Key,,GQ4-29T,89070-12820,Unconfirmed,false,RHK-TOY-29T-G-4B,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2014,keydirect.ca
+Toyota,Venza,2010,2014,4-Button Remote Head Key,,GQ4-29T,89070-12820,Unconfirmed,false,RHK-TOY-29T-G-4B,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2014,keydirect.ca
+Toyota,FJ Cruiser,2008,2009,3-Button Remote Head Key,4D67 Chip,HYQ12BBT,,Unconfirmed,false,RHK-TOY-FJC-4D67,Aftermarket,Fits per KeyDirect compatibility tab; title years 2003-2009,keydirect.ca
+Toyota,Land Cruiser,2003,2007,3-Button Remote Head Key,4D67 Chip,HYQ12BBT,,Unconfirmed,false,RHK-TOY-FJC-4D67,Aftermarket,Fits per KeyDirect compatibility tab; title years 2003-2009,keydirect.ca
+Toyota,FJ Cruiser,2010,2015,3-Button Remote Head Key,G Chip,HYQ12BBT,,Unconfirmed,false,RHK-TOY-FJC-G,,Fits per KeyDirect compatibility tab; title years 2010-2015,keydirect.ca
+Toyota,Camry,2014,2017,4-Button Remote Head Key,H Chip,HYQ12BDM,89070-02880,Unconfirmed,false,RHK-TOY-BDM-H-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Corolla,2014,2018,4-Button Remote Head Key,H Chip,HYQ12BDM,89070-02880,Unconfirmed,false,RHK-TOY-BDM-H-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Highlander,2014,2019,4-Button Remote Head Key,H Chip,HYQ12BDM,89070-02880,Unconfirmed,false,RHK-TOY-BDM-H-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,RAV4,2013,2018,4-Button Remote Head Key,H Chip,HYQ12BDM,89070-02880,Unconfirmed,false,RHK-TOY-BDM-H-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Sequoia,2019,2019,4-Button Remote Head Key,H Chip,HYQ12BDM,89070-02880,Unconfirmed,false,RHK-TOY-BDM-H-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Tacoma,2016,2018,4-Button Remote Head Key,H Chip,HYQ12BDM,89070-02880,Unconfirmed,false,RHK-TOY-BDM-H-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Camry,2012,2014,4-Button Remote Head Key,G Chip,HYQ12BDM,89070-06420,Unconfirmed,false,RHK-TOY-BDM-G-4,,Fits per KeyDirect compatibility tab; title years 2012-2014,keydirect.ca
+Toyota,Sienna,2011,2020,6-Button Smart Key,,HYQ14ADR,89904-08010,Unconfirmed,false,RSK-TOY-SIENNA,Aftermarket,Fits per KeyDirect compatibility tab; title years 2011-2020,keydirect.ca
+Scion,xA,2004,2006,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Scion,xB,2004,2006,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,4Runner,2000,2002,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Avalon,1995,2001,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Camry,2000,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Celica,2000,2005,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Corolla,1998,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Echo,2000,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Highlander,2001,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Land Cruiser,1998,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,MR2,2000,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Matrix,2003,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Prius,2001,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,RAV4,1996,2005,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Sequoia,2001,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Sienna,1998,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Solara,1999,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Tacoma,1995,2004,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Tundra,2003,2006,3-Button Keyless Entry Remote,,BAB237131-056,08191-00922,Unconfirmed,false,R-TOY-BAB,Aftermarket,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Scion,xB,2004,2007,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,Celica,2000,2006,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,Echo,2000,2006,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,FJ Cruiser,2006,2008,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,Highlander,2001,2006,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,Prius,2000,2003,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,RAV4,2001,2004,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,Tacoma,2000,2006,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,Yaris,2007,2008,3-Button Keyless Entry Remote,,HYQ12BBX,,Unconfirmed,false,R-TOY-BBX-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2000-2008,keydirect.ca
+Toyota,4Runner,1999,2009,4-Button Keyless Entry Remote,,HYQ12BBX,89742-35050,Unconfirmed,false,R-TOY-BBX-5,Aftermarket,Fits per KeyDirect compatibility tab; title years 1999-2009,keydirect.ca
+Toyota,Sequoia,2001,2007,4-Button Keyless Entry Remote,,HYQ12BBX,89742-35050,Unconfirmed,false,R-TOY-BBX-5,Aftermarket,Fits per KeyDirect compatibility tab; title years 1999-2009,keydirect.ca
+Toyota,Avalon,1999,2004,4-Button Keyless Entry Remote,,HYQ12BAN,89742-AC050,Unconfirmed,false,R-TOY-BBX-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 1999-2004,keydirect.ca
+Toyota,4Runner,2020,2021,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Avalon,2013,2018,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Camry,2012,2017,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Corolla,2014,2020,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Highlander,2014,2019,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Land Cruiser,2014,2018,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Prius,2012,2018,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,RAV4,2013,2018,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Sequoia,2019,2020,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Tacoma,2015,2020,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Tundra,2021,2021,Emergency Key,,HYQ14FBA,69515-33100,Unconfirmed,false,K-TOY-EM36,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Camry,2018,2023,4-Button Flip Key,H Chip,HYQ12BFB,89070-06790,Unconfirmed,false,RFK-TOY-BFB-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2018-2023,keydirect.ca
+Toyota,Corolla,2020,2021,4-Button Flip Key,H Chip,HYQ12BFB,89070-06790,Unconfirmed,false,RFK-TOY-BFB-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2018-2023,keydirect.ca
+Toyota,RAV4,2013,2018,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-0020H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2018,keydirect.ca
+Toyota,Avalon,2013,2018,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-00204,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,Camry,2012,2017,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-00204,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,Corolla,2014,2020,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-00204,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,Highlander,2017,2019,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-21103,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,Land Cruiser,2016,2018,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-21103,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,Prius,2012,2015,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-21103,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,Tacoma,2015,2019,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-21103,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,Avalon,2006,2010,4-Button Smart Key,,HYQ14AAB,89904-06041,Unconfirmed,false,RSK-TOY-0140-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2006-2010,keydirect.ca
+Toyota,Camry,2007,2009,4-Button Smart Key,,HYQ14AAB,89904-06041,Unconfirmed,false,RSK-TOY-0140-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2006-2010,keydirect.ca
+Toyota,Avalon,2009,2012,4-Button Smart Key,,HYQ14AEM,89904-06131,Unconfirmed,false,RSK-TOY-AEM-4T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2014,keydirect.ca
+Toyota,Camry,2009,2014,4-Button Smart Key,,HYQ14AEM,89904-06131,Unconfirmed,false,RSK-TOY-AEM-4T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2014,keydirect.ca
+Toyota,Corolla,2011,2014,4-Button Smart Key,,HYQ14AEM,89904-06131,Unconfirmed,false,RSK-TOY-AEM-4T,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2014,keydirect.ca
+Toyota,86,2017,2017,4-Button Remote Head Key,G Chip,HYQ12BEL,SU003-05282,Unconfirmed,false,RHK-TOY-5282-AFTER,Aftermarket,Fits per KeyDirect compatibility tab; title years 2016-2017,keydirect.ca
+Scion,FR-S,2016,2016,4-Button Remote Head Key,G Chip,HYQ12BEL,SU003-05282,Unconfirmed,false,RHK-TOY-5282-AFTER,Aftermarket,Fits per KeyDirect compatibility tab; title years 2016-2017,keydirect.ca
+Toyota,Sequoia,2008,2017,4-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,R-TOY-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2008-2017,keydirect.ca
+Scion,tC,2011,2016,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,RSK-TOY-CX3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Toyota,4Runner,2010,2018,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,RSK-TOY-CX3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Toyota,Prius,2010,2016,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,RSK-TOY-CX3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Toyota,Venza,2009,2014,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,RSK-TOY-CX3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Toyota,Venza,2010,2017,4-Button Smart Key,,HYQ14ACX,89904-0T060,Unconfirmed,false,PRX-TOY-4B9,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2017,keydirect.ca
+Toyota,Avalon,2005,2009,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,PRX-TOY-3B6,ILCO,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,Camry,2007,2008,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,PRX-TOY-3B6,ILCO,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,Highlander,2008,2013,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,PRX-TOY-3B6,ILCO,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,RAV4,2008,2012,3-Button Smart Key,,HYQ14AAB,89904-48100,Unconfirmed,false,PRX-TOY-3B6,ILCO,Fits per KeyDirect compatibility tab; title years 2005-2013,keydirect.ca
+Toyota,Avalon,2007,2012,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,PRX-TOY-4B5,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2013,keydirect.ca
+Toyota,Camry,2007,2011,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,PRX-TOY-4B5,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2013,keydirect.ca
+Toyota,Corolla,2011,2013,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,PRX-TOY-4B5,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2013,keydirect.ca
+Toyota,Avalon,2006,2010,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,PRX-TOY-4B6,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2010,keydirect.ca
+Toyota,Camry,2007,2009,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,PRX-TOY-4B6,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2010,keydirect.ca
+Toyota,Prius,2004,2009,3-Button Smart Key,,MOZB21TG,89071-47080,Unconfirmed,false,PRX-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2009,keydirect.ca
+Toyota,Camry,2014,2017,4-Button Flip Key,H Chip,HYQ12BDM,,Unconfirmed,false,RFK-TOY-BDM-H4A,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2017,keydirect.ca
+Toyota,Corolla,2014,2017,4-Button Flip Key,H Chip,HYQ12BDM,,Unconfirmed,false,RFK-TOY-BDM-H4A,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2017,keydirect.ca
+Toyota,Prius,2012,2017,3-Button Remote Head Key,G Chip,HYQ12BDM,,Unconfirmed,false,RHK-TOY-BDM-G-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2017,keydirect.ca
+Toyota,Camry,2014,2017,3-Button Remote Head Key,H CHIP,HYQ12BDM,,Unconfirmed,false,RHK-TOY-BDM-H-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,Corolla,2022,2024,3-Button Remote Head Key,H CHIP,HYQ12BDM,,Unconfirmed,false,RHK-TOY-BDM-H-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,Prius,2013,2019,3-Button Remote Head Key,H CHIP,HYQ12BDM,,Unconfirmed,false,RHK-TOY-BDM-H-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,RAV4,2013,2017,3-Button Remote Head Key,H CHIP,HYQ12BDM,,Unconfirmed,false,RHK-TOY-BDM-H-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,Tacoma,2016,2023,3-Button Remote Head Key,H CHIP,HYQ12BDM,,Unconfirmed,false,RHK-TOY-BDM-H-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,Camry,2010,2014,4-Button Remote Head Key,,HYQ12BBY,89070-06650,Unconfirmed,false,RK-T-12BBY-G-4B,Aftermarket,Fits per KeyDirect compatibility tab; title years 2010-2014,keydirect.ca
+Toyota,Prius,2016,2021,3-Button Smart Key,,,89904-47530,Unconfirmed,false,RSK-TOY-03513,Aftermarket,Fits per KeyDirect compatibility tab; title years 2016-2021,keydirect.ca
+Toyota,Highlander,2008,2013,4-Button Smart Key,,HYQ14AAB,89904-48110,Unconfirmed,false,PRX-TOY-4B7,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2008-2013,keydirect.ca
+Toyota,4Runner,2010,2018,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,PRX-TOY-3B7,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Toyota,Prius,2010,2016,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,PRX-TOY-3B7,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Scion,tC,2011,2016,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,PRX-TOY-3B7,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Toyota,Venza,2009,2014,3-Button Smart Key,,HYQ14ACX,89904-47230,Unconfirmed,false,PRX-TOY-3B7,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2009-2018,keydirect.ca
+Toyota,C-HR,2018,2021,3-Button Smart Key,,MOZBR1ET,89904-F4020,Unconfirmed,false,PRX-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2018-2021,keydirect.ca
+Toyota,Highlander,2014,2019,3-Button Remote Head Key,,GQ4-52T,,Unconfirmed,false,RHK-TOY-3BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Prius,2013,2019,3-Button Remote Head Key,,GQ4-52T,,Unconfirmed,false,RHK-TOY-3BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,RAV4,2013,2018,3-Button Remote Head Key,,GQ4-52T,,Unconfirmed,false,RHK-TOY-3BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Sequoia,2019,2019,3-Button Remote Head Key,,GQ4-52T,,Unconfirmed,false,RHK-TOY-3BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tacoma,2016,2019,3-Button Remote Head Key,,GQ4-52T,,Unconfirmed,false,RHK-TOY-3BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tundra,2018,2019,3-Button Remote Head Key,,GQ4-52T,,Unconfirmed,false,RHK-TOY-3BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Yaris,2015,2017,3-Button Remote Head Key,,GQ4-52T,,Unconfirmed,false,RHK-TOY-3BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Camry,2010,2014,4-Button Remote Head Key,G CHIP,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BG,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2014,keydirect.ca
+Pontiac,Vibe,2008,2010,3-Button Remote Head Key,,,89070-02250,Unconfirmed,false,RHK-TOY-3BD2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2008-2010,keydirect.ca
+Toyota,Matrix,2008,2010,3-Button Remote Head Key,,,89070-02250,Unconfirmed,false,RHK-TOY-3BD2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2008-2010,keydirect.ca
+Toyota,Venza,2009,2009,3-Button Remote Head Key,,,89070-02250,Unconfirmed,false,RHK-TOY-3BD2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2008-2010,keydirect.ca
+Toyota,4Runner,2010,2017,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RHK-TOY-3BG1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2017,keydirect.ca
+Toyota,RAV4,2010,2012,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RHK-TOY-3BG1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2017,keydirect.ca
+Toyota,Yaris,2012,2014,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RHK-TOY-3BG1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2017,keydirect.ca
+Toyota,Corolla,2010,2013,4-Button Remote Head Key,,,89070-02620,Unconfirmed,false,RHK-TOY-4B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2015,keydirect.ca
+Toyota,Venza,2011,2015,4-Button Remote Head Key,,,89070-02620,Unconfirmed,false,RHK-TOY-4B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2015,keydirect.ca
+Toyota,Yaris,2015,2017,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RHK-TOY-3BH2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2015-2018,keydirect.ca
+Toyota,Prius,2012,2016,3-Button Remote Head Key,No-Chip,,,Unconfirmed,false,RHK-TOY-3BPC,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2012-2016,keydirect.ca
+Toyota,Prius,2015,2016,3-Button Remote Head Key,,,89070-42820,Unconfirmed,false,RHK-TOY-3BH3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,RAV4,2013,2018,3-Button Remote Head Key,,,89070-42820,Unconfirmed,false,RHK-TOY-3BH3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tacoma,2016,2019,3-Button Remote Head Key,,,89070-42820,Unconfirmed,false,RHK-TOY-3BH3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Camry,2018,2024,4-Button Flip Key,,,89070-06790,Unconfirmed,false,FLIP-TOY-4B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2018-2024,keydirect.ca
+Toyota,Corolla,2020,2021,4-Button Flip Key,,,89070-06790,Unconfirmed,false,FLIP-TOY-4B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2018-2024,keydirect.ca
+Toyota,RAV4,2019,2024,4-Button Smart Key,,HYQ14FBC,,Unconfirmed,false,RSK-TOY-RAV19,Aftermarket,Fits per KeyDirect compatibility tab; title years 2019-2024,keydirect.ca
+Scion,xB,2008,2013,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RHK-TOY-3BD1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2006-2013,keydirect.ca
+Toyota,RAV4,2006,2010,3-Button Remote Head Key,,HYQ12BBY,,Unconfirmed,false,RHK-TOY-3BD1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2006-2013,keydirect.ca
+Toyota,FJ Cruiser,2008,2009,3-Button Remote Head Key,4D67,HYQ12BBT,,Unconfirmed,false,RHK-TOY-3BFJ,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2011-2014,keydirect.ca
+Toyota,FJ Cruiser,2011,2014,3-Button Remote Head Key,4D67,HYQ12BBT,,Unconfirmed,false,RHK-TOY-3BFJ,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2011-2014,keydirect.ca
+Toyota,Land Cruiser,2003,2007,3-Button Remote Head Key,4D67,HYQ12BBT,,Unconfirmed,false,RHK-TOY-3BFJ,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2011-2014,keydirect.ca
+Toyota,FJ Cruiser,2010,2014,3-Button Remote Head Key,G CHIP,HYQ12BBT,,Unconfirmed,false,RHK-TOY-3BFJ2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2014,keydirect.ca
+Toyota,Matrix,2010,2014,3-Button Remote Head Key,G Chip,GQ429T,,Unconfirmed,false,RHK-TOY-3BG2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2009-2016,keydirect.ca
+Toyota,Venza,2009,2016,3-Button Remote Head Key,G Chip,GQ429T,,Unconfirmed,false,RHK-TOY-3BG2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2009-2016,keydirect.ca
+Toyota,Camry,2010,2011,4-Button Remote Head Key,G Chip,HYQ12BBY,,Unconfirmed,false,RHK-TOY-4BG2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2011,keydirect.ca
+Scion,iQ,2012,2013,3-Button Remote Head Key,G Chip,MOZB41TG,89070-21120,Unconfirmed,false,RHK-TOY-3BG3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2011-2017,keydirect.ca
+Scion,tC,2011,2013,3-Button Remote Head Key,G Chip,MOZB41TG,89070-21120,Unconfirmed,false,RHK-TOY-3BG3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2011-2017,keydirect.ca
+Scion,xD,2011,2012,3-Button Remote Head Key,G Chip,MOZB41TG,89070-21120,Unconfirmed,false,RHK-TOY-3BG3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2011-2017,keydirect.ca
+Toyota,Yaris,2011,2014,3-Button Remote Head Key,G Chip,MOZB41TG,89070-21120,Unconfirmed,false,RHK-TOY-3BG3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2011-2017,keydirect.ca
+Toyota,Avalon,2008,2012,4-Button Remote Head Key,4D,HYQ12BBY,,Unconfirmed,false,RHK-TOY-4BD,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2012,keydirect.ca
+Toyota,Camry,2007,2011,4-Button Remote Head Key,4D,HYQ12BBY,,Unconfirmed,false,RHK-TOY-4BD,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2012,keydirect.ca
+Toyota,Corolla,2009,2011,4-Button Remote Head Key,4D,HYQ12BBY,,Unconfirmed,false,RHK-TOY-4BD,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2007-2012,keydirect.ca
+Toyota,RAV4,2019,2020,3-Button Smart Key,,HYQ14FBC,,Unconfirmed,false,PRX-TOY-3B3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2019-2020,keydirect.ca
+Toyota,RAV4,2019,2020,4-Button Smart Key,,,8990H-0R030,Unconfirmed,false,PRX-TOY-4B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2019-2020,keydirect.ca
+Toyota,Prius,2011,2011,4-Button Smart Key,,HYQ14AAB,,Unconfirmed,false,PRX-TOY-4B8,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 9904-4742,keydirect.ca
+Toyota,Camry,2014,2017,4-Button Remote Head Key,H Chip,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Corolla,2014,2019,4-Button Remote Head Key,H Chip,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Highlander,2014,2019,4-Button Remote Head Key,H Chip,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,RAV4,2013,2018,4-Button Remote Head Key,H Chip,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Sequoia,2019,2019,4-Button Remote Head Key,H Chip,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tacoma,2016,2018,4-Button Remote Head Key,H Chip,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BH,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Avalon,2005,2008,4-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,R-T-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2008,keydirect.ca
+Toyota,Solara,2004,2008,4-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,R-T-20T-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2008,keydirect.ca
+Toyota,Sienna,2004,2020,5-Button Keyless Entry Remote,,GQ43VT20T,89742-AE031,Unconfirmed,false,R-T-20T-5,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Sienna,2004,2018,6-Button Keyless Entry Remote,,GQ43VT20T,89742-AE051,Unconfirmed,false,R-T-20T-6,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,Prius,2004,2009,3-Button Smart Key,,MOZB31EG,,Unconfirmed,false,PRX-TOY-3B8,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2009,keydirect.ca
+Toyota,4Runner,2020,2021,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B9,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2015-2021,keydirect.ca
+Toyota,Highlander,2017,2019,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B9,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2015-2021,keydirect.ca
+Toyota,Land Cruiser,2016,2018,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B9,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2015-2021,keydirect.ca
+Toyota,Sequoia,2019,2021,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B9,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2015-2021,keydirect.ca
+Toyota,Tacoma,2015,2021,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B9,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2015-2021,keydirect.ca
+Toyota,Tundra,2019,2021,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B9,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2015-2021,keydirect.ca
+Toyota,Prius,2012,2020,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B10,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,RAV4,2016,2018,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-3B10,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,Avalon,2013,2018,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-4B10,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,Camry,2012,2017,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-4B10,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,Corolla,2014,2020,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-4B10,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2012-2020,keydirect.ca
+Toyota,Highlander,2014,2019,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-4B11,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2014-2020,keydirect.ca
+Toyota,Sequoia,2020,2020,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-4B11,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2014-2020,keydirect.ca
+Toyota,RAV4,2013,2018,4-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,PRX-TOY-4B12,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2018,keydirect.ca
+Toyota,RAV4,2013,2018,4-Button Remote Head Key,,HYQ12BDM,,Unconfirmed,false,RHK-TOY-4BH3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2013-2018,keydirect.ca
+Toyota,Corolla,2017,2018,3-Button Flip Key,,,89070-12C20,Unconfirmed,false,FLIP-TOY-3B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2017-2018,keydirect.ca
+Toyota,4Runner,1999,2009,4-Button Keyless Entry Remote,,,89742-35050,Unconfirmed,false,RKE-TOY-4B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2009,keydirect.ca
+Toyota,Sequoia,2001,2007,4-Button Keyless Entry Remote,,,89742-35050,Unconfirmed,false,RKE-TOY-4B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2009,keydirect.ca
+Toyota,Corolla,2019,2023,4-Button Smart Key,,HYQ14FBN,,Unconfirmed,false,RSK-TOY-2030-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Scion,IM,2016,2016,Transponder Key,,TOY48H-PT,,Unconfirmed,false,TOY48H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Scion,tC,2014,2015,Transponder Key,,TOY48H-PT,,Unconfirmed,false,TOY48H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Scion,xB,2013,2015,Transponder Key,,TOY48H-PT,,Unconfirmed,false,TOY48H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,C-HR,2018,2019,Transponder Key,,TOY48H-PT,,Unconfirmed,false,TOY48H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Camry,2018,2020,Transponder Key,,TOY48H-PT,,Unconfirmed,false,TOY48H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Corolla,2017,2020,Transponder Key,,TOY48H-PT,,Unconfirmed,false,TOY48H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Highlander,2008,2013,3-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,RKE-TOY-3B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2017,keydirect.ca
+Toyota,Sequoia,2008,2017,3-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,RKE-TOY-3B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2017,keydirect.ca
+Toyota,Sienna,2004,2017,3-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,RKE-TOY-3B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2017,keydirect.ca
+Toyota,Tacoma,2005,2016,3-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,RKE-TOY-3B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2017,keydirect.ca
+Toyota,Tundra,2007,2017,3-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,RKE-TOY-3B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2017,keydirect.ca
+Toyota,4Runner,1999,2009,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Toyota,Celica,2001,2005,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Toyota,Echo,2004,2005,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Toyota,FJ Cruiser,2007,2008,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Toyota,Highlander,2001,2007,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Toyota,Prius,2001,2003,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Toyota,RAV4,2001,2005,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Toyota,Tundra,2004,2006,3-Button Keyless Entry Remote,,HYQ12BAN,,Unconfirmed,false,RKE-TOY-3B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2001-2009,keydirect.ca
+Pontiac,Vibe,2003,2008,3-Button Keyless Entry Remote,,,89742-06010,Unconfirmed,false,RKE-TOY-3B3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2008,keydirect.ca
+Toyota,Camry,2000,2006,3-Button Keyless Entry Remote,,,89742-06010,Unconfirmed,false,RKE-TOY-3B3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2008,keydirect.ca
+Toyota,Corolla,2003,2008,3-Button Keyless Entry Remote,,,89742-06010,Unconfirmed,false,RKE-TOY-3B3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2008,keydirect.ca
+Toyota,Matrix,2003,2008,3-Button Keyless Entry Remote,,,89742-06010,Unconfirmed,false,RKE-TOY-3B3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2008,keydirect.ca
+Toyota,Sienna,1999,2003,3-Button Keyless Entry Remote,,,89742-06010,Unconfirmed,false,RKE-TOY-3B3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2008,keydirect.ca
+Scion,xA,2004,2006,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Scion,xB,2004,2006,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,4Runner,2000,2002,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Avalon,1995,2001,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Camry,2000,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Celica,2000,2005,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Corolla,1998,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Echo,2000,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Highlander,2001,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Land Cruiser,1998,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,MR2,2000,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Matrix,2003,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Prius,2001,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,RAV4,1996,2005,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Sequoia,2001,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Sienna,1998,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Tacoma,1995,2004,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Tundra,2003,2006,3-Button Keyless Entry Remote,,,08191-00922,Unconfirmed,false,RKE-TOY-3B4,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1995-2006,keydirect.ca
+Toyota,Avalon,2005,2008,4-Button Keyless Entry Remote,,,89742-07020,Unconfirmed,false,RKE-TOY-4B1,,Fits per KeyDirect compatibility tab; title years 2004-2008,keydirect.ca
+Toyota,Solara,2004,2008,4-Button Keyless Entry Remote,,,89742-07020,Unconfirmed,false,RKE-TOY-4B1,,Fits per KeyDirect compatibility tab; title years 2004-2008,keydirect.ca
+Toyota,Sequoia,2008,2017,4-Button Keyless Entry Remote,,,89742-0C040,Unconfirmed,false,RKE-TOY-4B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2008-2017,keydirect.ca
+Toyota,Sienna,2004,2016,4-Button Keyless Entry Remote,,,89742-AE020,Unconfirmed,false,RKE-TOY-4B3,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2016,keydirect.ca
+Pontiac,Vibe,2003,2008,4-Button Keyless Entry Remote,,GQ43VT14T,,Unconfirmed,false,RKE-TOY-4B6,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2002-2008,keydirect.ca
+Toyota,Camry,2002,2006,4-Button Keyless Entry Remote,,GQ43VT14T,,Unconfirmed,false,RKE-TOY-4B6,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2002-2008,keydirect.ca
+Toyota,Sienna,1999,2003,4-Button Keyless Entry Remote,,GQ43VT14T,,Unconfirmed,false,RKE-TOY-4B6,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2002-2008,keydirect.ca
+Toyota,Sienna,2004,2020,5-Button Keyless Entry Remote,,GQ43VT20T,,Unconfirmed,false,RKE-TOY-5B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Sienna,2004,2018,6-Button Keyless Entry Remote,,,89742-AE050,Unconfirmed,false,RKE-TOY-6B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,Prius,2012,2016,3-Button Remote Head Key,,HYQ12BDM,89070-52F60,Unconfirmed,false,RHK-TOY-3PCG,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2012-2016,keydirect.ca
+Toyota,MR2,2000,2005,Transponder Key,4C,,,Unconfirmed,false,TOY57-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2000-2005,keydirect.ca
+Toyota,Camry,2014,2017,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Corolla,2014,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Highlander,2014,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,MR2,2000,2005,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Prius,2018,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,RAV4,2013,2017,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Sequoia,2016,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Sienna,2015,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tacoma,2016,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Tundra,2017,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Toyota,Yaris,2016,2019,Transponder Key,H-Chip,TOY44H-PT,,Unconfirmed,false,TOY44H-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2013-2019,keydirect.ca
+Scion,tC,2014,2015,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,4Runner,2010,2019,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Camry,2011,2015,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Corolla,2010,2013,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,FJ Cruiser,2010,2014,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Highlander,2011,2015,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Matrix,2014,2014,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Prius,2012,2016,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,RAV4,2010,2013,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Sequoia,2010,2015,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Sienna,2011,2015,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Tacoma,2010,2015,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Tundra,2010,2017,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Venza,2009,2016,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,Yaris,2014,2015,Transponder Key,G Chip,TOY44G-PT,,Unconfirmed,false,IL-TOY44G-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2009-2019,keydirect.ca
+Toyota,4Runner,1998,2002,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Avalon,1998,2004,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Camry,1998,2006,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Highlander,2001,2003,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Land Cruiser,1998,2002,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Prius,2001,2003,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Sequoia,2001,2002,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Sienna,1998,2003,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Solara,1998,2003,Transponder Key,,TOY43AT4,,Unconfirmed,false,TOY43AT4,ILCO,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Camry,2015,2017,4-Button Remote Head Key,,HYQ12BDP,89070-02A52,Unconfirmed,false,RHK-TOY-02A52,OEM,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Corolla,2014,2019,4-Button Remote Head Key,,HYQ12BDP,89070-02A52,Unconfirmed,false,RHK-TOY-02A52,OEM,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,4Runner,2011,2011,3-Button Smart Key,,HYQ14AAB,89904-47430,Unconfirmed,false,RSK-TOY-47430,OEM,Fits per KeyDirect compatibility tab; title years 2011-2012,keydirect.ca
+Toyota,Prius,2011,2012,3-Button Smart Key,,HYQ14AAB,89904-47430,Unconfirmed,false,RSK-TOY-47430,OEM,Fits per KeyDirect compatibility tab; title years 2011-2012,keydirect.ca
+Toyota,Highlander,2007,2014,3-Button Smart Key,,HYQ14AAB-0140,89904-48100,Unconfirmed,false,RSK-TOY-48100,OEM,Fits per KeyDirect compatibility tab; title years 2007-2014,keydirect.ca
+Toyota,Land Cruiser,2008,2008,3-Button Smart Key,,HYQ14AAB-0140,89904-48100,Unconfirmed,false,RSK-TOY-48100,OEM,Fits per KeyDirect compatibility tab; title years 2007-2014,keydirect.ca
+Toyota,RAV4,2008,2010,3-Button Smart Key,,HYQ14AAB-0140,89904-48100,Unconfirmed,false,RSK-TOY-48100,OEM,Fits per KeyDirect compatibility tab; title years 2007-2014,keydirect.ca
+Toyota,RAV4,2010,2012,3-Button Smart Key,,HYQ14AEM,89904-0R060,Unconfirmed,false,RSK-TOY-0R060,OEM,Fits per KeyDirect compatibility tab; title years 2010-2012,keydirect.ca
+Toyota,RAV4,2019,2021,3-Button Smart Key,,HYQ14FBC-0351,8990H-42010,Unconfirmed,false,RSK-TOY-42010,OEM,Fits per KeyDirect compatibility tab; title years 2019-2021,keydirect.ca
+Toyota,RAV4,2019,2021,4-Button Smart Key,,HYQ14FBC,8990H-42030,Unconfirmed,false,RSK-TOY-42030,OEM,Fits per KeyDirect compatibility tab; title years 2019-2021,keydirect.ca
+Toyota,Camry,2015,2017,4-Button Remote Head Key,H Chip,HYQ12BDC,89070-06441,Unconfirmed,false,RHK-TOY-06441-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2015-2017,keydirect.ca
+Toyota,Highlander,2008,2013,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE010,Unconfirmed,false,R-TOY-20T-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,Sequoia,2008,2018,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE010,Unconfirmed,false,R-TOY-20T-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,Sienna,2004,2017,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE010,Unconfirmed,false,R-TOY-20T-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,Tacoma,2005,2016,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE010,Unconfirmed,false,R-TOY-20T-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,Tundra,2007,2018,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE010,Unconfirmed,false,R-TOY-20T-3,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,GR86,2022,2024,4-Button Smart Key,,HYQ14AHK,SU003-10030,Unconfirmed,false,RSK-TOY-10030,OEM,Fits per KeyDirect compatibility tab; title years 2022-2024,keydirect.ca
+Toyota,Prius,2017,2021,4-Button Smart Key,,HYQ14FBE-0410,89904-47460,Unconfirmed,false,RSK-TOY-47460-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2017-2021,keydirect.ca
+Toyota,C-HR,2018,2021,3-Button Smart Key,,MOZBR1ET,89904-F4020,Unconfirmed,false,RSK-TOY-F4020-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2018-2021,keydirect.ca
+Toyota,RAV4,2019,2022,3-Button Flip Key,H Chip,GQ4-73T,89070-0R300,Unconfirmed,false,RFK-TOY-0R300-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,Highlander,2021,2023,4-Button Smart Key,,HYQ14FLA,8990H-0E370,Unconfirmed,false,PRX-TOY-4B20,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2021-2023,keydirect.ca
+Toyota,Corolla Cross,2022,2025,3-Button Smart Key,,HYQ14FBW,8990H-0A010,Unconfirmed,false,PRX-TOY-3B12,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2022-2025,keydirect.ca
+Toyota,Camry,2025,2025,4-Button Smart Key,,HYQ14FBW,8990H-AQ010,Unconfirmed,false,RSK-TOY-AQ010-REF,Refurbished,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Camry,2018,2024,4-Button Flip Key,,,89070-06790,Unconfirmed,false,RFK-TOY-06791-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2018-2024,keydirect.ca
+Toyota,Corolla,2020,2021,4-Button Flip Key,,,89070-06790,Unconfirmed,false,RFK-TOY-06791-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2018-2024,keydirect.ca
+Toyota,Corolla,2019,2023,4-Button Flip Key,,HYQ12BFH,89070-02E00,Unconfirmed,false,RFK-TOY-02E00-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Toyota,Camry,2025,2025,4-Button Smart Key,,HYQ14FBW,8990H-AQ010,Unconfirmed,false,RSK-TOY-AQ010-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,bZ4X,2023,2025,5-Button Smart Key,,HYQ14FBX,8990H-42520,Unconfirmed,false,RSK-TOY-42520-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,bZ4X,2023,2025,4-Button Smart Key,,HYQ14FBX,8990H-42510,Unconfirmed,false,RSK-TOY-42510-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Highlander,2024,2025,4-Button Smart Key,,HYQ14FBX,8990H-0E600,Unconfirmed,false,RSK-TOY-0E600-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2024-2025,keydirect.ca
+Toyota,Sienna,2021,2025,6-Button Smart Key,,HYQ14FBX,8990H-08010,Unconfirmed,false,RSK-TOY-08010-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2021-2025,keydirect.ca
+Toyota,Sienna,2021,2023,5-Button Smart Key,,HYQ14FBX-3041,8990H-08020,Unconfirmed,false,RSK-TOY-08020-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2021-2023,keydirect.ca
+Toyota,RAV4,2021,2024,5-Button Smart Key,,HYQ14FBX,8990H-42380,Unconfirmed,false,RSK-TOY-42380-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2021-2024,keydirect.ca
+Toyota,Tundra,2022,2023,4-Button Smart Key,,HYQ14FBX,8990H-0C010,Unconfirmed,false,RSK-TOY-0C010-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2022-2023,keydirect.ca
+Toyota,Sequoia,2023,2025,3-Button Smart Key,,HYQ14FBX,8990H-0C030,Unconfirmed,false,RSK-TOY-0C030-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2022-2025,keydirect.ca
+Toyota,Tundra,2022,2024,3-Button Smart Key,,HYQ14FBX,8990H-0C030,Unconfirmed,false,RSK-TOY-0C030-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2022-2025,keydirect.ca
+Toyota,Crown,2023,2025,4-Button Smart Key,,HYQ14FBX,8990H-30190,Unconfirmed,false,RSK-TOY-30190-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Corolla Cross,2022,2025,3-Button Smart Key,,HYQ14FBW,8990H-0A010,Unconfirmed,false,RSK-TOY-0A010-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2022-2025,keydirect.ca
+Toyota,Corolla Cross,2022,2025,4-Button Smart Key,,1551A-14FBW,8990H-0A020,Unconfirmed,false,RSK-TOY-0A020-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2022-2025,keydirect.ca
+Toyota,Tacoma,2024,2025,3-Button Smart Key,,HYQ14FBX,8990H-AK010,Unconfirmed,false,RSK-TOY-AK010-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2024-2025,keydirect.ca
+Scion,IM,2016,2016,Transponder Key,H Chip,,,Unconfirmed,false,K-TOY48H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Scion,tC,2014,2015,Transponder Key,H Chip,,,Unconfirmed,false,K-TOY48H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Scion,xB,2013,2015,Transponder Key,H Chip,,,Unconfirmed,false,K-TOY48H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,C-HR,2018,2019,Transponder Key,H Chip,,,Unconfirmed,false,K-TOY48H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Camry,2018,2020,Transponder Key,H Chip,,,Unconfirmed,false,K-TOY48H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Corolla,2017,2020,Transponder Key,H Chip,,,Unconfirmed,false,K-TOY48H,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Matrix,2010,2014,3-Button Remote Head Key,G Chip,GQ429T,89070-02640,Unconfirmed,false,RHK-TOY-2640-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2016,keydirect.ca
+Toyota,Venza,2009,2016,3-Button Remote Head Key,G Chip,GQ429T,89070-02640,Unconfirmed,false,RHK-TOY-2640-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2009-2016,keydirect.ca
+Toyota,Sequoia,2023,2025,4-Button Smart Key,,HYQ14FBX,8990H-0C020,Unconfirmed,false,RSK-TOY-C020-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,RAV4,2019,2024,3-Button Flip Key,,GQ4-73T,89070-0R380,Unconfirmed,false,RFK-TOY-0R380,,Fits per KeyDirect compatibility tab; title years 2019-2024,keydirect.ca
+Toyota,Prius,2017,2020,4-Button Smart Key,,HYQ14FBE,89904-47460,Unconfirmed,false,PRX-TOY-4B15,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2017-2020,keydirect.ca
+Toyota,RAV4,2019,2022,3-Button Flip Key,H Chip,HYQ12BFS,89070-0R450,Unconfirmed,false,RFK-TOY-0R450-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,Highlander,2021,2023,4-Button Smart Key,,HYQ14FLA,8990H-0E370,Unconfirmed,false,RSK-TOY-0E370-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2021-2023,keydirect.ca
+Toyota,Sienna,2004,2018,6-Button Keyless Entry Remote,,GQ43VT20T,89742-AE051,Unconfirmed,false,R-T-20T-6-BOGO2,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2018,keydirect.ca
+Toyota,Sienna,2004,2020,5-Button Keyless Entry Remote,,GQ43VT20T,89742-AE031,Unconfirmed,false,R-T-20T-5-BOGO2,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Prius,2012,2019,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-00203,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,RAV4,2015,2018,3-Button Smart Key,,HYQ14FBA,,Unconfirmed,false,RSK-TOY-00203,Aftermarket,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,Highlander,2014,2019,4-Button Remote Head Key,H Chip,GQ4-52T,,Unconfirmed,false,RHK-TOY-52TH-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,RAV4,2013,2018,4-Button Remote Head Key,H Chip,GQ4-52T,,Unconfirmed,false,RHK-TOY-52TH-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Sequoia,2019,2020,4-Button Remote Head Key,H Chip,GQ4-52T,,Unconfirmed,false,RHK-TOY-52TH-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Tundra,2018,2021,4-Button Remote Head Key,H Chip,GQ4-52T,,Unconfirmed,false,RHK-TOY-52TH-4,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Land Cruiser,1998,2002,3-Button Remote Head Key,,,89070-60090,Unconfirmed,false,RHK-TOY-3BLC,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1998-2002,keydirect.ca
+Toyota,Avalon,1999,2004,4-Button Keyless Entry Remote,,,89742-AC050,Unconfirmed,false,RKE-TOY-4B5,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 1999-2004,keydirect.ca
+Toyota,RAV4,2015,2018,4-Button Remote Head Key,H Chip,HYQ12BDP,89070-0R221,Unconfirmed,false,RHK-TOY-0R221,OEM,Fits per KeyDirect compatibility tab; title years 2015-2018,keydirect.ca
+Scion,tC,2005,2010,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,4Runner,2003,2011,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Avalon,2005,2012,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Camry,2003,2011,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Corolla,2005,2013,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,FJ Cruiser,2008,2010,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Highlander,2004,2010,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Land Cruiser,2003,2011,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Matrix,2005,2013,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,RAV4,2007,2011,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Sequoia,2003,2010,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Sienna,2004,2011,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Solara,2004,2010,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Tacoma,2005,2010,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Tundra,2007,2009,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Venza,2009,2013,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Yaris,2008,2011,Transponder Key,,TOY44D-PT,,Unconfirmed,false,TOY44D-PT,ILCO,Fits per KeyDirect compatibility tab; title years 2003-2013,keydirect.ca
+Toyota,Avalon,2020,2022,4-Button Smart Key,,HYQ14FBC-0351,8990H-07070,Unconfirmed,false,RSK-TOY-07070,OEM,Fits per KeyDirect compatibility tab; title years 2020-2022,keydirect.ca
+Toyota,Venza,2021,2024,4-Button Smart Key,,HYQ14FBX,8990H-48050,Unconfirmed,false,RSK-TOY-48050,OEM,Fits per KeyDirect compatibility tab; title years 2021-2024,keydirect.ca
+Toyota,Corolla,2019,2022,3-Button Smart Key,,HYQ14FBN,8990H-12180,Unconfirmed,false,RSK-TOY-12180,OEM,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,Highlander,2008,2013,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE011,Unconfirmed,false,KER-TOY-AE011-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Sequoia,2008,2018,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE011,Unconfirmed,false,KER-TOY-AE011-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Sienna,2004,2020,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE011,Unconfirmed,false,KER-TOY-AE011-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Tacoma,2005,2016,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE011,Unconfirmed,false,KER-TOY-AE011-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Tundra,2007,2018,3-Button Keyless Entry Remote,,GQ43VT20T,89742-AE011,Unconfirmed,false,KER-TOY-AE011-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,4Runner,2020,2021,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050,OEM,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Sequoia,2022,2022,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050,OEM,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Tacoma,2015,2022,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050,OEM,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Tundra,2019,2021,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050,OEM,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Tundra,2022,2023,4-Button Smart Key,,HYQ14FBX,8990H-0C010,Unconfirmed,false,RSK-TOY-0C010,OEM,Fits per KeyDirect compatibility tab; title years 2022-2023,keydirect.ca
+Toyota,4Runner,2020,2021,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Sequoia,2022,2022,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Tacoma,2015,2022,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Tundra,2019,2021,3-Button Smart Key,,HYQ14FBB-0010,89904-35060,Unconfirmed,false,RSK-TOY-0C050-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2015-2022,keydirect.ca
+Toyota,Sienna,2004,2020,5-Button Keyless Entry Remote,,GQ43VT20T,89742-AE031,Unconfirmed,false,R-T-20T-5-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,Highlander,2020,2022,4-Button Smart Key,,HYQ14FBC-0351,8990H-0E030,Unconfirmed,false,RSK-TOY-0E030,OEM,Fits per KeyDirect compatibility tab; title years 2020-2022,keydirect.ca
+Toyota,Corolla,2023,2025,4-Button Smart Key,,HYQ14FBW,8990H-12350,Unconfirmed,false,RSK-TOY-12350,OEM,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Corolla,2019,2023,4-Button Flip Key,,HYQ12BFH,89070-02E00,Unconfirmed,false,RFK-TOY-02E00,,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Toyota,Avalon,2019,2020,4-Button Smart Key,,HYQ14FBE-0410,8990H-07020,Unconfirmed,false,RSK-TOY-07020,OEM,Fits per KeyDirect compatibility tab; title years 2019-2020,keydirect.ca
+Toyota,RAV4,2021,2024,3-Button Smart Key,,HYQ14FLA,8990H-0R200,Unconfirmed,false,RSK-TOY-0R200,OEM,Fits per KeyDirect compatibility tab; title years 2021-2024,keydirect.ca
+Toyota,RAV4,2021,2023,4-Button Smart Key,,HYQ14FLA,8990H-0R230,Unconfirmed,false,RSK-TOY-0R230,OEM,Fits per KeyDirect compatibility tab; title years 2021-2023,keydirect.ca
+Toyota,Mirai,2021,2022,4-Button Smart Key,,HYQ14FLA,8990H-62030,Unconfirmed,false,RSK-TOY-62140,OEM,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Grand Highlander,2024,2024,4-Button Smart Key,,HYQ14FBX,8990H-0E330,Unconfirmed,false,RSK-TOY-0E330,OEM,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Crown,2023,2025,4-Button Smart Key,,HYQ14FBX,8990H-30190,Unconfirmed,false,RSK-TOY-30190,OEM,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Venza,2023,2024,4-Button Smart Key,,HYQ14FBX,8990H-48121,Unconfirmed,false,RSK-TOY-48121,OEM,Fits per KeyDirect compatibility tab; title years 2023-2024,keydirect.ca
+Toyota,Corolla,2024,2025,4-Button Smart Key,,HYQ14FLE,8990H-12640,Unconfirmed,false,RSK-TOY-12640,OEM,Fits per KeyDirect compatibility tab; title years 2024-2025,keydirect.ca
+Toyota,Corolla,2019,2023,4-Button Flip Key,,HYQ12BFH,89070-02E00,Unconfirmed,false,RFK-TOY-02E00-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Toyota,Land Cruiser,2018,2019,4-Button Smart Key,,HYQ14FBA,89904-0E120,Unconfirmed,false,PRX-TOY-4B21,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2018-2019,keydirect.ca
+Toyota,Mirai,2016,2019,4-Button Smart Key,,HYQ14FBA,89904-62020,Unconfirmed,false,PRX-TOY-4B16,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2016-2019,keydirect.ca
+Toyota,Crown,2023,2025,4-Button Smart Key,,HYQ14FBX,8990H-30190,Unconfirmed,false,PRX-TOY-4B19,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Prius,2021,2022,4-Button Smart Key,,HYQ14FLA-3450,89904-47790,Unconfirmed,false,PRX-TOY-4B17,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Venza,2009,2016,4-Button Smart Key,,HYQ14ACX-5290,89904-0T020,Unconfirmed,false,PRX-TOY-4B18,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2009-2016,keydirect.ca
+Toyota,bZ4X,2023,2025,4-Button Smart Key,,HYQ14FBX,8990H-42510,Unconfirmed,false,PRX-TOY-4B14,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Scion,IM,2016,2016,Transponder Key,,,,Unconfirmed,false,JMA-TOY48H-PT,JMA,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Scion,tC,2014,2015,Transponder Key,,,,Unconfirmed,false,JMA-TOY48H-PT,JMA,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Scion,xB,2013,2015,Transponder Key,,,,Unconfirmed,false,JMA-TOY48H-PT,JMA,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,C-HR,2018,2019,Transponder Key,,,,Unconfirmed,false,JMA-TOY48H-PT,JMA,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Camry,2018,2020,Transponder Key,,,,Unconfirmed,false,JMA-TOY48H-PT,JMA,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,Corolla,2017,2020,Transponder Key,,,,Unconfirmed,false,JMA-TOY48H-PT,JMA,Fits per KeyDirect compatibility tab; title years 2013-2020,keydirect.ca
+Toyota,4Runner,1998,2002,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Avalon,1998,2004,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Camry,1998,2006,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Highlander,2001,2003,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Land Cruiser,1998,2002,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Prius,2001,2003,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Sequoia,2001,2002,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Sienna,1998,2003,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,Solara,1998,2003,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-15-P,JMA,Fits per KeyDirect compatibility tab; title years 1998-2006,keydirect.ca
+Toyota,MR2,2000,2005,Transponder Key,,,,Unconfirmed,false,JMA-TOYO-20-P,JMA,Fits per KeyDirect compatibility tab; title years 2000-2005,keydirect.ca
+Toyota,Corolla,2023,2025,4-Button Smart Key,,HYQ14FBW,8990H-12350,Unconfirmed,false,RSK-TOY-12350-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Camry,2025,2025,4-Button Smart Key,,HYQ14FBW,8990H-AQ010,Unconfirmed,false,RSK-TOY-AQ010,OEM,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Mirai,2020,2022,4-Button Smart Key,,HYQ14FLA,8990H-62030,Unconfirmed,false,PRX-TOY-4B23,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2020-2023,keydirect.ca
+Toyota,Prius,2023,2024,3-Button Smart Key,,HYQ14FBX,8990H-47120,Unconfirmed,false,PRX-TOY-3B13,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2023-2024,keydirect.ca
+Toyota,Venza,2021,2024,4-Button Smart Key,,HYQ14FBX,8990H-62140,Unconfirmed,false,PRX-TOY-4B24,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2021-2024,keydirect.ca
+Toyota,Sequoia,2023,2025,4-Button Smart Key,,HYQ14FBX,8990H-0C020,Unconfirmed,false,PRX-TOY-4B25,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Sequoia,2023,2025,3-Button Smart Key,,HYQ14FBX,8990H-0C031,Unconfirmed,false,PRX-TOY-3B15,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Sienna,2021,2025,6-Button Smart Key,,HYQ14FBX,8990H-08010,Unconfirmed,false,PRX-TOY-6B1,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2021-2025,keydirect.ca
+Toyota,Prius,2010,2015,4-Button Smart Key,,HYQ14ACX,89904-47150,Unconfirmed,false,PRX-TOY-4B13,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2015,keydirect.ca
+Toyota,Prius,2016,2021,3-Button Smart Key,,HYQ14ACX,89904-47710,Unconfirmed,false,PRX-TOY-3B11,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2016-2021,keydirect.ca
+Toyota,Camry,2010,2011,4-Button Flip Key,,HYQ12BBY,89070-06650,Unconfirmed,false,FLIP-TOY-4B2,ILCO Look-Alike,Fits per KeyDirect compatibility tab; title years 2010-2011,keydirect.ca
+Toyota,Grand Highlander,2024,2025,4-Button Smart Key,,HYQ14FBX,8990H-0E330,Unconfirmed,false,RSK-TOY-0E330-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2024-2025,keydirect.ca
+Toyota,Highlander,2014,2019,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,RAV4,2013,2018,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Sequoia,2019,2020,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Tundra,2018,2021,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Prius,2023,2023,3-Button Smart Key,,HYQ14FBX,8990H-47120,Unconfirmed,false,RSK-TOY-47120-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Yaris,2017,2020,4-Button Smart Key,,WAZSKE13D01,89904-WB001,Unconfirmed,false,RSK-TOY110,Refurbished,Fits per KeyDirect compatibility tab; title years 2017-2020,keydirect.ca
+Toyota,Sienna,2004,2013,4-Button Keyless Entry Remote,,GQ43VT20T,89742-08100,Unconfirmed,false,OR-TOY003-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2004-2013,keydirect.ca
+Toyota,RAV4,2019,2022,3-Button Flip Key,H Chip,GQ4-73T,89070-0R300,Unconfirmed,false,RFK-TOY-0R300-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,Camry,2015,2017,4-Button Remote Head Key,,HYQ12BDP,89070-02A52,Unconfirmed,false,RHK-TOY-02A50-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Corolla,2014,2019,4-Button Remote Head Key,,HYQ12BDP,89070-02A52,Unconfirmed,false,RHK-TOY-02A50-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Prius,2017,2021,4-Button Smart Key,,HYQ14FBE-0410,89904-47460,Unconfirmed,false,RSK-TOY-47460,OEM,Fits per KeyDirect compatibility tab; title years 2017-2021,keydirect.ca
+Toyota,Prius,2012,2019,3-Button Smart Key,,HYQ14FBA,89904-52290,Unconfirmed,false,RSK-TOY-52290,OEM,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,RAV4,2015,2018,3-Button Smart Key,,HYQ14FBA,89904-52290,Unconfirmed,false,RSK-TOY-52290,OEM,Fits per KeyDirect compatibility tab; title years 2012-2019,keydirect.ca
+Toyota,Prius,2004,2009,3-Button Smart Key,,MOZB21TG,89071-47080,Unconfirmed,false,RSK-TOY-47080,OEM,Fits per KeyDirect compatibility tab; title years 2004-2009,keydirect.ca
+Toyota,RAV4,2019,2022,3-Button Flip Key,H Chip,GQ4-73T,89070-0R300,Unconfirmed,false,RFK-TOY-0R300-NEW,OEM,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,4Runner,2021,2022,3-Button Smart Key,,HYQ14FLA,8990H-35010,Unconfirmed,false,RSK-TOY-35010,OEM,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Sienna,2021,2022,5-Button Smart Key,,HYQ14FBX-3041,8990H-08020,Unconfirmed,false,RSK-TOY-08020,OEM,Fits per KeyDirect compatibility tab; title years 2021-2023,keydirect.ca
+Toyota,Highlander,2020,2022,3-Button Smart Key,,HYQ14FBC-0351,8990H-0E010,Unconfirmed,false,RSK-TOY-0E010,OEM,Fits per KeyDirect compatibility tab; title years 2020-2022,keydirect.ca
+Toyota,RAV4,2021,2024,5-Button Smart Key,,HYQ14FBX,8990H-42380,Unconfirmed,false,RSK-TOY-42380,OEM,Fits per KeyDirect compatibility tab; title years 2021-2024,keydirect.ca
+Toyota,Sienna,2021,2025,6-Button Smart Key,,HYQ14FBX,8990H-08010,Unconfirmed,false,RSK-TOY-08010,OEM,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Corolla,2019,2023,4-Button Smart Key,,HYQ14FBN,8990H-12040,Unconfirmed,false,RSK-TOY-02030,OEM,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Toyota,Yaris,2012,2014,3-Button Remote Head Key,,,89070-52D90,Unconfirmed,false,RHK-TOY-52D90,OEM,Fits per KeyDirect compatibility tab; title years 2012-2014,keydirect.ca
+Toyota,Sienna,2004,2020,6-Button Keyless Entry Remote,,GQ43VT20T,89742-AE051,Unconfirmed,false,KER-TOY-AE051-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2020,keydirect.ca
+Toyota,RAV4,2019,2021,4-Button Smart Key,,HYQ14FBC-0351,8990H-0R030,Unconfirmed,false,RSK-TOY-0R030,OEM,Fits per KeyDirect compatibility tab; title years 2019-2021,keydirect.ca
+Toyota,RAV4,2019,2023,3-Button Flip Key,,HYQ12BFW,89070-42G00,Unconfirmed,false,RSK-TOY-42G00,OEM,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Toyota,Prius,2023,2023,3-Button Smart Key,,HYQ14FBX,8990H-47120,Unconfirmed,false,RSK-TOY-47120,OEM,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Corolla Cross,2022,2025,3-Button Smart Key,,HYQ14FBW,8990H-0A010,Unconfirmed,false,RSK-TOY-0A010,OEM,Fits per KeyDirect compatibility tab; title years 2022-2025,keydirect.ca
+Toyota,RAV4,2021,2022,4-Button Smart Key,,HYQ14FLA,8990H-0R220,Unconfirmed,false,RSK-TOY-0R220,OEM,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Camry,2018,2022,4-Button Flip Key,H Chip,HYQ12BFB,89070-06790,Unconfirmed,false,RFK-TOY-06790,OEM,Fits per KeyDirect compatibility tab; title years 2018-2022,keydirect.ca
+Toyota,Corolla,2020,2021,4-Button Flip Key,H Chip,HYQ12BFB,89070-06790,Unconfirmed,false,RFK-TOY-06790,OEM,Fits per KeyDirect compatibility tab; title years 2018-2022,keydirect.ca
+Toyota,Corolla Cross,2022,2025,4-Button Smart Key,,1551A-14FBW,8990H-0A020,Unconfirmed,false,RSK-TOY-0A020,OEM,Fits per KeyDirect compatibility tab; title years 2022-2025,keydirect.ca
+Toyota,Prius,2021,2022,4-Button Smart Key,,HYQ14FLA-3450,89904-47790,Unconfirmed,false,RSK-TOY-47790,OEM,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Prius,2021,2022,3-Button Smart Key,,HYQ14FLA,89904-47710,Unconfirmed,false,RSK-TOY-47710,OEM,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Prius,2004,2009,3-Button Smart Key,,MOZB31EG,89994-47061,Unconfirmed,false,RSK-TOY-47061-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2004-2009,keydirect.ca
+Toyota,4Runner,2020,2021,3-Button Smart Key,,HYQ14FBA-2110,89904-0E091,Unconfirmed,false,RSK-TOY-0E091-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Highlander,2017,2019,3-Button Smart Key,,HYQ14FBA-2110,89904-0E091,Unconfirmed,false,RSK-TOY-0E091-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Land Cruiser,2016,2018,3-Button Smart Key,,HYQ14FBA-2110,89904-0E091,Unconfirmed,false,RSK-TOY-0E091-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Prius,2012,2015,3-Button Smart Key,,HYQ14FBA-2110,89904-0E091,Unconfirmed,false,RSK-TOY-0E091-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Sequoia,2019,2021,3-Button Smart Key,,HYQ14FBA-2110,89904-0E091,Unconfirmed,false,RSK-TOY-0E091-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Tacoma,2015,2021,3-Button Smart Key,,HYQ14FBA-2110,89904-0E091,Unconfirmed,false,RSK-TOY-0E091-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,Tundra,2019,2021,3-Button Smart Key,,HYQ14FBA-2110,89904-0E091,Unconfirmed,false,RSK-TOY-0E091-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2012-2021,keydirect.ca
+Toyota,RAV4,2013,2018,4-Button Smart Key,,HYQ14FBA-0020,89904-0R080,Unconfirmed,false,RSK-TOY-0R080-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2018,keydirect.ca
+Toyota,Sienna,2011,2020,6-Button Smart Key,,HYQ14ADR,89904-08010,Unconfirmed,false,RSK-TOY-SIENNA-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2011-2020,keydirect.ca
+Toyota,RAV4,2019,2022,3-Button Smart Key,,IF,8990H-42020,Unconfirmed,false,RSK-TOY-42020,OEM,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,Avalon,2019,2022,4-Button Smart Key,,HYQ14FEB-0351,8990H-07090,Unconfirmed,false,RSK-TOY-07090,OEM,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,Camry,2018,2022,4-Button Smart Key,,HYQ14FBC,89904-06240,Unconfirmed,false,RSK-TOY-6240,OEM,Fits per KeyDirect compatibility tab; title years 2018-2022,keydirect.ca
+Toyota,Highlander,2021,2022,3-Button Smart Key,,HYQ14FLA,8990H-0E360,Unconfirmed,false,RSK-TOY-0E360,OEM,Fits per KeyDirect compatibility tab; title years 2021-2022,keydirect.ca
+Toyota,Camry,2018,2024,4-Button Flip Key,,,89070-06790,Unconfirmed,false,RFK-TOY-06791,OEM,Fits per KeyDirect compatibility tab; title years 2018-2024,keydirect.ca
+Toyota,Corolla,2020,2021,4-Button Flip Key,,,89070-06790,Unconfirmed,false,RFK-TOY-06791,OEM,Fits per KeyDirect compatibility tab; title years 2018-2024,keydirect.ca
+Toyota,Sequoia,2023,2025,3-Button Smart Key,,HYQ14FBX,8990H-0C030,Unconfirmed,false,RSK-TOY-0C030,OEM,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,RAV4,2024,2024,4-Button Smart Key,,HYQ14FBX,8990H-42A40,Unconfirmed,false,RSK-TOY-42A40,OEM,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,Corolla Cross,2022,2024,3-Button Remote Head Key,H Chip,HYQ12BDP,89070-0R130,Unconfirmed,false,RHK-TOY-0R231-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,Highlander,2014,2019,3-Button Remote Head Key,H Chip,HYQ12BDP,89070-0R130,Unconfirmed,false,RHK-TOY-0R231-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,RAV4,2013,2017,3-Button Remote Head Key,H Chip,HYQ12BDP,89070-0R130,Unconfirmed,false,RHK-TOY-0R231-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,Tacoma,2016,2023,3-Button Remote Head Key,H Chip,HYQ12BDP,89070-0R130,Unconfirmed,false,RHK-TOY-0R231-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2024,keydirect.ca
+Toyota,Highlander,2014,2019,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Prius,2013,2019,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,RAV4,2013,2018,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Sequoia,2019,2019,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Tacoma,2016,2019,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Tundra,2018,2019,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Yaris,2015,2017,3-Button Remote Head Key,H Chip,GQ4-52T,89071-0R04,Unconfirmed,false,RHK-TOY-0R040-REF,Refurbished,Fits per KeyDirect compatibility tab; title years 2013-2021,keydirect.ca
+Toyota,Land Cruiser,2020,2021,3-Button Smart Key,,HYQ14FBB-0010,89904-60X20,Unconfirmed,false,RSK-TOY-60X20,OEM,Fits per KeyDirect compatibility tab; title years 2020-2021,keydirect.ca
+Toyota,bZ4X,2023,2025,5-Button Smart Key,,HYQ14FBX,8990H-42520,Unconfirmed,false,RSK-TOY-42520,OEM,Fits per KeyDirect compatibility tab; title years 2023-2025,keydirect.ca
+Toyota,Highlander,2024,2024,4-Button Smart Key,,HYQ14FBX,8990H-0E340,Unconfirmed,false,RSK-TOY-0E340,OEM,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,RAV4,2019,2022,3-Button Flip Key,Super Chip,GQ4-73T,89070-0R300,Unconfirmed,false,RFK-TOY-0R300-REF-NS-SC,Refurbished,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
+Toyota,Corolla,2019,2023,4-Button Flip Key,,HYQ12BFH,89070-02E00,Unconfirmed,false,RFK-TOY-02E00-REF-NS,Refurbished,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Toyota,Corolla,2019,2023,4-Button Flip Key,Super Chip,HYQ12BFH,89070-02E00,Unconfirmed,false,RFK-TOY-02E00-REF-NS-SC,Refurbished,Fits per KeyDirect compatibility tab; title years 2019-2023,keydirect.ca
+Toyota,Camry,2015,2017,4-Button Remote Head Key,,HYQ12BDP,89070-02A52,Unconfirmed,false,RHK-TOY-02A52-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Corolla,2014,2019,4-Button Remote Head Key,,HYQ12BDP,89070-02A52,Unconfirmed,false,RHK-TOY-02A52-AFM,Aftermarket,Fits per KeyDirect compatibility tab; title years 2014-2019,keydirect.ca
+Toyota,Yaris,2018,2018,4-Button Remote Head Key,,,89070-52G70,Unconfirmed,false,RHK-TOY-52G70,OEM,Fits per KeyDirect compatibility tab; title years not listed,keydirect.ca
+Toyota,RAV4,2019,2022,3-Button Flip Key,H Chip,HYQ12BFS,89070-0R450,Unconfirmed,false,RFK-TOY-0R450,,Fits per KeyDirect compatibility tab; title years 2019-2022,keydirect.ca
