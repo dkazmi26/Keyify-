@@ -109,6 +109,17 @@ function partsForVehicle(g, make, model, year) {
     .map(r => r.partNumber));
 }
 
+// Button names for this exact vehicle and year, worked out the same way as
+// partsForVehicle: only listings that fit the searched vehicle. If the listings
+// disagree, the most common non-blank value wins (the first one seen breaks a tie).
+// Returns "" when no fitting listing has buttons.
+// Buttons are display-only: they are never used for grouping or search.
+function buttonsForVehicle(g, make, model, year) {
+  return mostCommon(g.rows
+    .filter(r => r.make === make && r.model === model && year >= r.yearFrom && year <= r.yearTo)
+    .map(r => r.buttons));
+}
+
 // Smart key, flip / remote head, keyless remote, transponder, emergency / metal.
 function typeRank(keyType) {
   const t = String(keyType || "").toLowerCase();

@@ -127,16 +127,18 @@ function cardHtml(g, ctx, hidden) {
   const searched = g.vehicles.find(v => v.make === ctx.make && v.model === ctx.model);
   const others = g.vehicles.filter(v => !(v.make === ctx.make && v.model === ctx.model));
 
-  let parts, fits = "", also = "";
+  let parts, buttonsText, fits = "", also = "";
   if (ctx.mode === "vehicle") {
-    // Only part numbers from listings that fit the searched vehicle and year.
+    // Only part numbers and buttons from listings that fit the searched vehicle and year.
     parts = partsForVehicle(g, ctx.make, ctx.model, ctx.year);
+    buttonsText = buttonsForVehicle(g, ctx.make, ctx.model, ctx.year);
     fits = `<p class="fits"><strong>Fits:</strong> ${h(formatRanges(searched.ranges))} ${h(searched.model)}</p>`;
     if (others.length) {
       also = `<details class="also"><summary>Also fits (${others.length})</summary>${vehicleListHtml(others, ctx.make)}</details>`;
     }
   } else {
     parts = g.parts;
+    buttonsText = mostCommon(g.rows.map(r => r.buttons));
     also = `<details class="also" open><summary>Fits (${g.vehicles.length})</summary>${vehicleListHtml(g.vehicles, null)}</details>`;
   }
 
@@ -149,10 +151,15 @@ function cardHtml(g, ctx, hidden) {
   const boardValue = String(g.board || "").trim();
   const board = boardValue ? ` <span><strong>Board code:</strong> ${h(boardValue)}</span>` : "";
 
+  // Buttons line is hidden when no fitting listing has buttons.
+  const buttons = String(buttonsText || "").trim()
+    ? `<p class="buttons"><strong>Buttons:</strong> ${h(buttonsText)}</p>` : "";
+
   return `
     <div class="card"${hidden ? " hidden data-extra" : ""}>
       <h2>${esc(g.keyType)}</h2>
       <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span>${board}${chip}</p>
+      ${buttons}
       ${partsHtml(parts)}
       ${fits}
       ${also}

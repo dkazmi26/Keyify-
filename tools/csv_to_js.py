@@ -7,8 +7,9 @@ Usage:
 Then add <script src="keys-toyota.js"></script> to index.html (after keys.js).
 
 Only the compatibility fields go into the generated file:
-make, model, yearFrom, yearTo, keyType, chip, fcc, board, partNumber, programming, verified.
+make, model, yearFrom, yearTo, keyType, chip, fcc, board, partNumber, programming, verified, buttons.
 "board" is read as text so codes like 0020 keep their leading zeros.
+"buttons" is a plain list such as "Lock, Unlock, Trunk, Panic" (blank if unknown).
 Supplier names, SKUs, supply types, notes and sources are left out on purpose.
 Rows that are identical once those are left out are folded into one.
 
@@ -59,6 +60,7 @@ def main(csv_path, out_path):
             "board": r.get("board", ""),
             "partNumber": r.get("partNumber", ""),
             "programming": r["programming"],
+            "buttons": r.get("buttons", ""),
             "verified": False,  # always false until you test it on a real vehicle
         }
         fingerprint = json.dumps(entry, sort_keys=True)
