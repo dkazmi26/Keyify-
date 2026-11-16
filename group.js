@@ -12,36 +12,30 @@ function normChip(v) {
   return norm(v).replace(/CHIP$/, "");
 }
 
-// The data has no product titles, so the key code comes from the SKU:
-// "K-TOY44D" -> "TOY44D". Returns "" if the SKU has no code in it.
-function keyCodeFromSku(sku) {
-  const m = String(sku || "").toUpperCase().match(/[A-Z]{2,4}\d{2}[A-Z]{0,2}/);
-  return m ? m[0] : "";
-}
-
-// Spec section 1.
-//   1. keyType + fcc                      (when fcc is present)
-//   2. keyType + chip + key code          (when there is no fcc but there is a code)
-//   3. fallback: the supplier SKU itself  (same SKU = same product; never merges anything
-//      the spec would keep apart)
-//   4. last resort: the row on its own
-// partNumber is NOT part of the key.
+// One group per physical key.
+//   1. keyType + FCC ID                 (when the FCC ID is present)
+//   2. no FCC ID: keyType + chip + part number, so rows that would show
+//      exactly the same card fold together
+//   3. nothing to go on: the row stays on its own
+// A blank value is never matched on its own.
 function groupKeyOf(row, index) {
   const type = norm(row.keyType);
   const fcc = norm(row.fcc);
   if (fcc) return "F|" + type + "|" + fcc;
-  const code = keyCodeFromSku(row.sku);
-  if (code) return "C|" + type + "|" + normChip(row.chip) + "|" + code;
-  if (norm(row.sku)) return "S|" + norm(row.sku);
+  const chip = normChip(row.chip);
+  const pn = norm(row.partNumber);
+  if (chip || pn) return "N|" + type + "|" + chip + "|" + pn;
   return "R|" + index;
 }
 
-function addUnique(list, seen, value) {
-  const v = String(value === undefined || value === null ? "" : value).trim();
-  const n = norm(v);
-  if (!n || seen.has(n)) return;
-  seen.add(n);
-  list.push(v);
+function uniqueValues(values) {
+  const seen = new Set(), out = [];
+  values.forEach(v => {
+    const s = String(v === undefined || v === null ? "" : v).trim();
+    const n = norm(s);
+    if (n && !seen.has(n)) { seen.add(n); out.push(s); }
+  });
+  return out;
 }
 
 function mostCommon(values) {
@@ -78,21 +72,8 @@ function buildGroups(rows) {
 
   return [...map.values()].map(g => {
     const rs = g.rows;
-    // "parts" is what the card shows under Part #: OEM part numbers only.
-    const parts = [], seen = new Set();
-    rs.forEach(r => addUnique(parts, seen, r.partNumber));
-
-    // "searchTerms" is what the search box can match: part numbers, then
-    // supplier SKUs, then FCC IDs. These are searchable but not shown under Part #.
-    const searchTerms = parts.slice(), seenSearch = new Set(parts.map(norm));
-    rs.forEach(r => addUnique(searchTerms, seenSearch, r.sku));
-    rs.forEach(r => addUnique(searchTerms, seenSearch, r.fcc));
-
-    const supplies = [], seenSupply = new Set();
-    rs.forEach(r => addUnique(supplies, seenSupply, r.supply));
-
-    const notes = [], seenNotes = new Set();
-    rs.forEach(r => addUnique(notes, seenNotes, r.notes));
+    const parts = uniqueValues(rs.map(r => r.partNumber));
+    const fcc = mostCommon(rs.map(r => r.fcc));
 
     // make + model -> list of [from, to]
     const vehicles = new Map();
@@ -102,26 +83,28 @@ function buildGroups(rows) {
       vehicles.get(vk).ranges.push([r.yearFrom, r.yearTo]);
     });
 
-    const programmings = new Set(rs.map(r => r.programming || "Unconfirmed"));
-
     return {
       key: g.key,
       rows: rs,
       keyType: rs[0].keyType,
-      fcc: mostCommon(rs.map(r => r.fcc)),
+      fcc,
       chip: mostCommon(rs.map(r => r.chip)),
       parts,
-      partsNorm: searchTerms.map(norm),
-      supplies,
-      notes,
-      vehicles: [...vehicles.values()],
-      programming: programmings.size === 1 ? [...programmings][0] : "Unconfirmed",
-      verified: rs.every(r => r.verified === true)
+      // The only things the search box can match: FCC ID and part numbers.
+      searchTerms: uniqueValues([fcc].concat(parts)).map(norm),
+      vehicles: [...vehicles.values()]
     };
   });
 }
 
-// Spec section 5: smart key, flip / remote head, keyless remote, transponder, emergency / metal.
+// Part numbers from the listings that fit this exact vehicle and year.
+function partsForVehicle(g, make, model, year) {
+  return uniqueValues(g.rows
+    .filter(r => r.make === make && r.model === model && year >= r.yearFrom && year <= r.yearTo)
+    .map(r => r.partNumber));
+}
+
+// Smart key, flip / remote head, keyless remote, transponder, emergency / metal.
 function typeRank(keyType) {
   const t = String(keyType || "").toLowerCase();
   if (t.includes("smart")) return 0;
@@ -152,13 +135,13 @@ function searchVehicle(groups, make, model, year) {
   return hits;
 }
 
-// Groups where any part number, SKU or FCC ID contains what was typed.
+// Groups where the FCC ID or any part number contains what was typed.
 // Needs at least 4 letters or digits so "ABC" does not match half the catalogue.
 function searchParts(groups, query) {
   const q = norm(query);
   if (q.length < 4) return [];
   return groups
-    .filter(g => g.partsNorm.some(p => p.includes(q)))
+    .filter(g => g.searchTerms.some(t => t.includes(q)))
     .sort((a, b) => typeRank(a.keyType) - typeRank(b.keyType) ||
       String(a.keyType).localeCompare(String(b.keyType)));
 }

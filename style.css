@@ -34,10 +34,6 @@ select { padding: 10px; font-size: 1rem; }
 .card dl { margin: 0; display: grid; grid-template-columns: 140px 1fr; gap: 6px 12px; }
 .card dt { font-weight: 600; }
 .card dd { margin: 0; }
-.tag { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.85rem; }
-.tag.ok { background: #d9f2e0; }
-.tag.no { background: #fde2c8; }
-.tag.unknown { background: #e3e7ec; color: #3d4752; }
 select:focus-visible { outline: 3px solid #2f80ed; outline-offset: 1px; }
 @media (max-width: 480px) {
   .card dl { grid-template-columns: 1fr; gap: 2px; }
@@ -51,17 +47,10 @@ input[type="search"] { padding: 10px; font-size: 1rem; font-weight: 400; }
 input[type="search"]:focus-visible { outline: 3px solid #2f80ed; outline-offset: 1px; }
 .card p { margin: 6px 0; overflow-wrap: anywhere; }
 .card .ident { display: flex; flex-wrap: wrap; gap: 4px 20px; }
-.badge { display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: 0.8rem; background: #e3e7ec; color: #3d4752; }
 button.link { border: 0; background: none; padding: 0; color: #1f5fbf; font: inherit; text-decoration: underline; cursor: pointer; }
 button.more { display: block; width: 100%; margin-top: 16px; padding: 12px; font-size: 1rem; border: 1px solid #b9c2cc; border-radius: 8px; background: #fff; cursor: pointer; }
 button.link:focus-visible, button.more:focus-visible, summary:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
 details.also { margin: 8px 0; }
 details.also summary { cursor: pointer; font-weight: 600; }
 details.also p { margin: 4px 0 4px 12px; font-size: 0.92rem; }
-.kd { margin-top: 14px; padding-top: 12px; border-top: 1px solid #e3e7ec; }
-.kd h3 { margin: 0 0 8px; font-size: 1rem; }
-.kd-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
-.kd-btn { padding: 10px 14px; font-size: 0.95rem; border: 1px solid #2f80ed; border-radius: 8px; background: #fff; color: #1f5fbf; cursor: pointer; text-align: left; overflow-wrap: anywhere; }
-.kd-btn:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
-.card .kd-hint { font-size: 0.82rem; color: #5b6673; }
 .card .vin { font-size: 0.85rem; color: #5b6673; }

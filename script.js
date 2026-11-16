@@ -91,14 +91,6 @@ yearSel.addEventListener("change", () => {
 
 partInput.addEventListener("input", showPartResults);
 
-// Colour of the programming tag: green = you can do it yourself,
-// orange = needs a locksmith or dealer, grey = nobody has confirmed it yet.
-function programmingClass(p) {
-  if (p === "DIY") return "ok";
-  if (p === "Locksmith" || p === "Dealer only") return "no";
-  return "unknown";
-}
-
 // "Avalon 2013-2018 · Corolla 2014-2020", grouped by make.
 // The searched make is left unlabelled, other makes get a label.
 function vehicleListHtml(vehicles, searchedMake) {
@@ -118,6 +110,7 @@ function vehicleListHtml(vehicles, searchedMake) {
     }).join("");
 }
 
+// Part # line: first 2 numbers, the rest behind a "+N more" button.
 function partsHtml(parts) {
   if (!parts.length) return "";
   const shown = parts.slice(0, 2).map(h).join(" · ");
@@ -129,49 +122,21 @@ function partsHtml(parts) {
   return `<p class="parts"><strong>Part #:</strong> ${shown}${more}</p>`;
 }
 
-const SUPPLY_ORDER = ["OEM", "Aftermarket", "Refurbished"];
-
-// One entry per supply option for this key: { supply, sku }.
-// In a vehicle search only listings that fit that vehicle and year are used.
-// If one option has several SKUs, the listing with the tightest year range wins.
-function supplyOptions(g, ctx) {
-  const rows = g.rows.filter(r => r.sku && r.supply && (
-    ctx.mode !== "vehicle" ||
-    (r.make === ctx.make && r.model === ctx.model && ctx.year >= r.yearFrom && ctx.year <= r.yearTo)));
-  const best = new Map();
-  rows.forEach(r => {
-    const span = r.yearTo - r.yearFrom;
-    if (!best.has(r.supply) || span < best.get(r.supply).span) best.set(r.supply, { supply: r.supply, sku: r.sku, span });
-  });
-  const rank = s => { const i = SUPPLY_ORDER.indexOf(s); return i === -1 ? SUPPLY_ORDER.length : i; };
-  return [...best.values()].sort((a, b) => rank(a.supply) - rank(b.supply) || a.supply.localeCompare(b.supply));
-}
-
-function keyDirectHtml(g, ctx) {
-  const options = supplyOptions(g, ctx);
-  if (!options.length) return "";
-  return `<div class="kd">
-      <h3>Available at KeyDirect</h3>
-      <div class="kd-buttons">${options.map(o =>
-        `<button type="button" class="kd-btn" data-action="copy-sku" data-sku="${h(o.sku)}">${h(o.supply)} · ${h(o.sku)}</button>`
-      ).join("")}</div>
-      <p class="kd-hint">Tap a button to copy the SKU, then search for it on KeyDirect.</p>
-    </div>`;
-}
-
 // ctx: { mode: "vehicle" | "part", make, model, year }
 function cardHtml(g, ctx, hidden) {
   const searched = g.vehicles.find(v => v.make === ctx.make && v.model === ctx.model);
   const others = g.vehicles.filter(v => !(v.make === ctx.make && v.model === ctx.model));
 
-  let fits = "";
-  let also = "";
+  let parts, fits = "", also = "";
   if (ctx.mode === "vehicle") {
+    // Only part numbers from listings that fit the searched vehicle and year.
+    parts = partsForVehicle(g, ctx.make, ctx.model, ctx.year);
     fits = `<p class="fits"><strong>Fits:</strong> ${h(formatRanges(searched.ranges))} ${h(searched.model)}</p>`;
     if (others.length) {
       also = `<details class="also"><summary>Also fits (${others.length})</summary>${vehicleListHtml(others, ctx.make)}</details>`;
     }
   } else {
+    parts = g.parts;
     also = `<details class="also" open><summary>Fits (${g.vehicles.length})</summary>${vehicleListHtml(g.vehicles, null)}</details>`;
   }
 
@@ -180,25 +145,14 @@ function cardHtml(g, ctx, hidden) {
   const chip = chipValue && chipValue.toLowerCase() !== "unknown"
     ? ` <span><strong>Chip:</strong> ${h(chipValue)}</span>` : "";
 
-  const options = g.supplies.length
-    ? `<p class="options"><strong>Options:</strong> ${g.supplies.map(s => `<span class="badge">${h(s)}</span>`).join(" ")}</p>`
-    : "";
-
-  const notes = g.notes.length
-    ? `<details class="also"><summary>Source notes</summary>${g.notes.map(n => `<p>${h(n)}</p>`).join("")}</details>`
-    : "";
-
   return `
     <div class="card"${hidden ? " hidden data-extra" : ""}>
       <h2>${esc(g.keyType)}</h2>
       <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span>${chip}</p>
+      ${partsHtml(parts)}
       ${fits}
-      ${options}
-      ${partsHtml(g.parts)}
       ${also}
-      ${keyDirectHtml(g, ctx)}
       <p class="vin">Confirm with your VIN before buying.</p>
-      ${notes}
     </div>`;
 }
 
@@ -215,10 +169,9 @@ function showVehicleResults() {
     results.innerHTML = '<p class="empty">No match found.</p>';
     return;
   }
-  const listings = hits.reduce((n, x) => n + x.matchingRows, 0);
   const ctx = { mode: "vehicle", make: makeSel.value, model: modelSel.value, year };
   results.innerHTML =
-    `<p class="count">${hits.length} ${hits.length === 1 ? "key" : "keys"} for this vehicle, grouped from ${listings} supplier ${listings === 1 ? "listing" : "listings"}.</p>` +
+    `<p class="count">${hits.length} ${hits.length === 1 ? "key" : "keys"} for this vehicle.</p>` +
     hits.map((x, i) => cardHtml(x.g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
     showMoreButton(hits.length - CARDS_SHOWN_FIRST);
 }
@@ -253,18 +206,6 @@ results.addEventListener("click", e => {
   if (btn.dataset.action === "show-more") {
     results.querySelectorAll("[data-extra]").forEach(c => { c.hidden = false; });
     btn.remove();
-  } else if (btn.dataset.action === "copy-sku") {
-    const sku = btn.dataset.sku;
-    const original = btn.textContent;
-    const done = ok => {
-      btn.textContent = ok ? "Copied " + sku : "Select and copy: " + sku;
-      setTimeout(() => { btn.textContent = original; }, 2000);
-    };
-    try {
-      navigator.clipboard.writeText(sku).then(() => done(true), () => done(false));
-    } catch (err) {
-      done(false);
-    }
   } else if (btn.dataset.action === "more-parts") {
     const span = btn.previousElementSibling;
     const open = span.hidden;
