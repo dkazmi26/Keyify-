@@ -475,9 +475,9 @@ Ford,Focus,2012,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, U
 Ford,Maverick,2020,2020,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Ford,Escape,2012,2019,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic"
 Ford,Transit Connect,2014,2019,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2012,2017,3-Button Remote Head Key,,CWTWB1U793,,164-R8046,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Fiesta,2015,2016,3-Button Remote Head Key,,CWTWB1U793,,164-R8046,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit Connect,2014,2018,3-Button Remote Head Key,,CWTWB1U793,,164-R8046,Unconfirmed,false,"Lock, Unlock, Panic"
+Ford,Escape,2012,2017,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Ford,Fiesta,2015,2016,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Ford,Transit Connect,2014,2018,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Ford,Transit,2019,2023,4-Button Flip Key,,N5F-A08TAA,,164-R8236,Unconfirmed,false,
 Ford,Transit Connect,2019,2023,4-Button Flip Key,,N5F-A08TAA,,164-R8236,Unconfirmed,false,
 Ford,Edge,2017,2022,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"

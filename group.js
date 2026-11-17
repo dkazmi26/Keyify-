@@ -12,12 +12,21 @@ function normChip(v) {
   return norm(v).replace(/CHIP$/, "");
 }
 
+// Rows with no FCC ID only group with rows of the same make. The one exception is
+// the makes that already shared such groups before Ford was added (Toyota with
+// Scion, Subaru and Pontiac; Honda with Acura). Those stay together so existing
+// cards do not change. Every other make is on its own.
+const KEY_FAMILIES = { Scion: "Toyota", Subaru: "Toyota", Pontiac: "Toyota", Acura: "Honda" };
+function keyFamily(make) {
+  return KEY_FAMILIES[make] || make;
+}
+
 // One group per physical key.
 //   1. keyType + FCC ID + board code    (when the FCC ID is present; the board
 //      is part of the key only when it is filled in, so a blank board groups
-//      by keyType + FCC ID alone)
-//   2. no FCC ID: keyType + chip + part number + board, so rows that would
-//      show exactly the same card fold together
+//      by keyType + FCC ID alone). This is the same across makes.
+//   2. no FCC ID: make + keyType + chip + part number + board, so rows that
+//      would show exactly the same card fold together, never across makes
 //   3. nothing to go on: the row stays on its own
 // A blank value is never matched on its own.
 function groupKeyOf(row, index) {
@@ -27,7 +36,7 @@ function groupKeyOf(row, index) {
   if (fcc) return "F|" + type + "|" + fcc + "|" + board;
   const chip = normChip(row.chip);
   const pn = norm(row.partNumber);
-  if (chip || pn || board) return "N|" + type + "|" + chip + "|" + pn + "|" + board;
+  if (chip || pn || board) return "N|" + norm(keyFamily(row.make)) + "|" + type + "|" + chip + "|" + pn + "|" + board;
   return "R|" + index;
 }
 
@@ -118,6 +127,17 @@ function buttonsForVehicle(g, make, model, year) {
   return mostCommon(g.rows
     .filter(r => r.make === make && r.model === model && year >= r.yearFrom && year <= r.yearTo)
     .map(r => r.buttons));
+}
+
+// Chip shown on a card: the most common chip among the group's rows from the searched
+// vehicle's own make family (Toyota with Scion, Subaru and Pontiac; Honda with Acura;
+// every other make on its own). A key that several brands share can list a different
+// chip for each brand, and one brand's rows must not outvote another's. If that make
+// has no chip at all, the whole group's chip is used, as before.
+function chipForMake(g, make) {
+  const fam = keyFamily(make);
+  const own = mostCommon(g.rows.filter(r => keyFamily(r.make) === fam).map(r => r.chip));
+  return own || g.chip;
 }
 
 // Smart key, flip / remote head, keyless remote, transponder, emergency / metal.

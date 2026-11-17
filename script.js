@@ -170,11 +170,13 @@ function cardHtml(g, ctx, hidden) {
   const searched = g.vehicles.find(v => v.make === ctx.make && v.model === ctx.model);
   const others = g.vehicles.filter(v => !(v.make === ctx.make && v.model === ctx.model));
 
-  let parts, buttonsText, fits = "", also = "";
+  let parts, buttonsText, chipText, fits = "", also = "";
   if (ctx.mode === "vehicle") {
     // Only part numbers and buttons from listings that fit the searched vehicle and year.
     parts = partsForVehicle(g, ctx.make, ctx.model, ctx.year);
     buttonsText = buttonsForVehicle(g, ctx.make, ctx.model, ctx.year);
+    // Chip comes from the searched make's own rows, so another brand cannot outvote it.
+    chipText = chipForMake(g, ctx.make);
     fits = `<p class="fits"><strong>Fits:</strong> ${h(formatRanges(searched.ranges))} ${h(searched.model)}</p>`;
     if (others.length) {
       also = `<details class="also"><summary>Also fits (${others.length})</summary>${vehicleListHtml(others, ctx.make)}</details>`;
@@ -182,13 +184,14 @@ function cardHtml(g, ctx, hidden) {
   } else {
     parts = g.parts;
     buttonsText = mostCommon(g.rows.map(r => r.buttons));
+    chipText = g.chip;
     also = `<details class="also" open><summary>Fits (${g.vehicles.length})</summary>${vehicleListHtml(g.vehicles, null)}</details>`;
   }
 
   // FCC, board and chip each hide themselves when blank (FCC also when "Unknown").
   const fccValue = String(g.fcc || "").trim();
   const boardValue = String(g.board || "").trim();
-  const chipValue = String(g.chip || "").trim();
+  const chipValue = String(chipText || "").trim();
   const identParts = [];
   if (fccValue && fccValue.toLowerCase() !== "unknown") identParts.push(`<span><strong>FCC:</strong> ${h(fccValue)}</span>`);
   if (boardValue) identParts.push(`<span><strong>Board code:</strong> ${h(boardValue)}</span>`);
@@ -207,6 +210,17 @@ function cardHtml(g, ctx, hidden) {
     </div>`;
 }
 
+// Cards that would look exactly the same (same title, same fields, same lists) are
+// shown once. A card that differs in any field is never folded.
+function uniqueCards(groups, ctx) {
+  const seen = new Set(), keep = [];
+  groups.forEach(g => {
+    const html = cardHtml(g, ctx, false);
+    if (!seen.has(html)) { seen.add(html); keep.push(g); }
+  });
+  return keep;
+}
+
 function showMoreButton(extra) {
   if (extra <= 0) return "";
   return `<button type="button" class="more" data-action="show-more">Show ${extra} more ${extra === 1 ? "key" : "keys"}</button>`;
@@ -221,10 +235,11 @@ function showVehicleResults() {
     return;
   }
   const ctx = { mode: "vehicle", make: makeSel.value, model: modelSel.value, year };
+  const cards = uniqueCards(hits.map(x => x.g), ctx);
   results.innerHTML =
-    `<p class="count">${hits.length} ${hits.length === 1 ? "key" : "keys"} for this vehicle.</p>` +
-    hits.map((x, i) => cardHtml(x.g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
-    showMoreButton(hits.length - CARDS_SHOWN_FIRST);
+    `<p class="count">${cards.length} ${cards.length === 1 ? "key" : "keys"} for this vehicle.</p>` +
+    cards.map((g, i) => cardHtml(g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
+    showMoreButton(cards.length - CARDS_SHOWN_FIRST);
 }
 
 function showPartResults() {
@@ -244,10 +259,11 @@ function showPartResults() {
     return;
   }
   const ctx = { mode: "part" };
+  const cards = uniqueCards(hits, ctx);
   results.innerHTML =
-    `<p class="count">${hits.length} ${hits.length === 1 ? "key matches" : "keys match"} "${h(q)}".</p>` +
-    hits.map((g, i) => cardHtml(g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
-    showMoreButton(hits.length - CARDS_SHOWN_FIRST);
+    `<p class="count">${cards.length} ${cards.length === 1 ? "key matches" : "keys match"} "${h(q)}".</p>` +
+    cards.map((g, i) => cardHtml(g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
+    showMoreButton(cards.length - CARDS_SHOWN_FIRST);
 }
 
 // One click handler for the "+N more" and "Show more" buttons.
