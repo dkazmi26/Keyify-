@@ -122,6 +122,49 @@ function partsHtml(parts) {
   return `<p class="parts"><strong>Part #:</strong> ${shown}${more}</p>`;
 }
 
+// Card title: the key style only, no button count. The data keeps the raw keyType;
+// this is display only. Any keyType not listed here is shown unchanged.
+const KEY_TITLES = [
+  [/^\d+-button smart key$/i, "Smart Key (push-to-start)"],
+  [/^\d+-button remote head key$/i, "Remote Head Key"],
+  [/^\d+-button flip key$/i, "Flip Key (folding blade)"],
+  [/^\d+-button keyless entry remote$/i, "Keyless Entry Remote"],
+  [/^transponder key$/i, "Transponder Key (no remote)"],
+  [/^emergency key$/i, "Emergency Key (blade only)"]
+];
+
+function keyTitle(keyType) {
+  const t = String(keyType || "").trim();
+  const hit = KEY_TITLES.find(([pattern]) => pattern.test(t));
+  return hit ? hit[1] : keyType;
+}
+
+// The N in "4-Button Smart Key", or 0 when the key type has no count.
+function keyButtonCount(keyType) {
+  const m = String(keyType || "").match(/(\d+)\s*-?\s*button/i);
+  return m ? Number(m[1]) : 0;
+}
+
+// "4 buttons: Lock · Unlock · Trunk · Panic", or just "4 buttons" when there are
+// no names. Transponder and emergency keys have no remote, so no buttons line.
+function buttonsLineHtml(keyType, buttonsText) {
+  if (/^(transponder|emergency) key$/i.test(String(keyType || "").trim())) return "";
+  const n = keyButtonCount(keyType);
+  const names = String(buttonsText || "").split(",").map(s => s.trim()).filter(Boolean);
+  if (names.length) {
+    const label = n ? `${n} ${n === 1 ? "button" : "buttons"}:` : "Buttons:";
+    return `<p class="buttons"><strong>${label}</strong> ${names.map(h).join(" · ")}</p>`;
+  }
+  if (n) return `<p class="buttons"><strong>${n} ${n === 1 ? "button" : "buttons"}</strong></p>`;
+  return "";
+}
+
+// One chip style on screen: uppercase, hyphen shown as a space ("H-Chip" -> "H CHIP").
+// Display only; the data keeps what the CSV says.
+function chipStyle(value) {
+  return String(value).replace(/-/g, " ").replace(/\s+/g, " ").trim().toUpperCase();
+}
+
 // ctx: { mode: "vehicle" | "part", make, model, year }
 function cardHtml(g, ctx, hidden) {
   const searched = g.vehicles.find(v => v.make === ctx.make && v.model === ctx.model);
@@ -142,24 +185,21 @@ function cardHtml(g, ctx, hidden) {
     also = `<details class="also" open><summary>Fits (${g.vehicles.length})</summary>${vehicleListHtml(g.vehicles, null)}</details>`;
   }
 
-  // Chip is hidden when it is blank or "Unknown".
-  const chipValue = String(g.chip || "").trim();
-  const chip = chipValue && chipValue.toLowerCase() !== "unknown"
-    ? ` <span><strong>Chip:</strong> ${h(chipValue)}</span>` : "";
-
-  // Board code is hidden when it is blank.
+  // FCC, board and chip each hide themselves when blank (FCC also when "Unknown").
+  const fccValue = String(g.fcc || "").trim();
   const boardValue = String(g.board || "").trim();
-  const board = boardValue ? ` <span><strong>Board code:</strong> ${h(boardValue)}</span>` : "";
-
-  // Buttons line is hidden when no fitting listing has buttons.
-  const buttons = String(buttonsText || "").trim()
-    ? `<p class="buttons"><strong>Buttons:</strong> ${h(buttonsText)}</p>` : "";
+  const chipValue = String(g.chip || "").trim();
+  const identParts = [];
+  if (fccValue && fccValue.toLowerCase() !== "unknown") identParts.push(`<span><strong>FCC:</strong> ${h(fccValue)}</span>`);
+  if (boardValue) identParts.push(`<span><strong>Board code:</strong> ${h(boardValue)}</span>`);
+  if (chipValue && chipValue.toLowerCase() !== "unknown") identParts.push(`<span><strong>Chip:</strong> ${h(chipStyle(chipValue))}</span>`);
+  const ident = identParts.length ? `<p class="ident">${identParts.join(" ")}</p>` : "";
 
   return `
     <div class="card"${hidden ? " hidden data-extra" : ""}>
-      <h2>${esc(g.keyType)}</h2>
-      <p class="ident"><span><strong>FCC:</strong> ${esc(g.fcc)}</span>${board}${chip}</p>
-      ${buttons}
+      <h2>${esc(keyTitle(g.keyType))}</h2>
+      ${buttonsLineHtml(g.keyType, buttonsText)}
+      ${ident}
       ${partsHtml(parts)}
       ${fits}
       ${also}
