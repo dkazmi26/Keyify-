@@ -294,8 +294,8 @@ Honda,Accord,2018,2020,5-Button Smart Key,,CWTWB1G0090,,72147-TWA-A21,Unconfirme
 Honda,Insight,2019,2022,5-Button Smart Key,,CWTWB1G0090,,72147-TWA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Honda,Passport,2019,2021,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
 Honda,Pilot,2019,2021,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Passport,2019,2021,5-Button Smart Key,,KR5V41,,72147-TG7-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Pilot,2019,2021,5-Button Smart Key,,KR5V41,,72147-TG7-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
+Honda,Passport,2019,2021,5-Button Smart Key,,KR5V41,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
+Honda,Pilot,2019,2021,5-Button Smart Key,,KR5V41,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
 Honda,Accord,2013,2017,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
 Honda,CR-V,2014,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
 Honda,Civic,2014,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
