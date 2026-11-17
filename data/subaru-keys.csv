@@ -1,0 +1,191 @@
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
+Subaru,Forester,2009,2011,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Impreza,2008,2011,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Legacy,2009,2010,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Forester,2011,2013,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
+Subaru,Impreza,2011,2014,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
+Subaru,Legacy,2010,2014,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
+Subaru,Outback,2010,2014,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
+Subaru,B9 Tribeca,2006,2013,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Baja,2005,2007,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Forester,2005,2008,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Impreza,2005,2007,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Legacy,2005,2009,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Outback,2005,2009,Transponder Key,4D62 Chip,,,,Unconfirmed,false,
+Subaru,Ascent,2019,2019,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Forester,2014,2019,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Impreza,2012,2019,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Legacy,2015,2019,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Outback,2015,2019,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,STI,2015,2018,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,WRX,2015,2019,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,XV Crosstrek,2013,2019,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Legacy,2006,2008,4-Button Remote Head Key,,CWTWBU745,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Tribeca,2006,2008,4-Button Remote Head Key,,CWTWBU745,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Ascent,2019,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,Forester,2014,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,Impreza,2012,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,Legacy,2015,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,Outback,2015,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,STI,2015,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,WRX,2015,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,XV Crosstrek,2013,2019,Transponder Key,G Chip,,,,Unconfirmed,false,
+Subaru,Outback,2013,2014,Emergency Key,,,,57497-AJ11A,Unconfirmed,false,
+Subaru,Forester,2014,2015,Emergency Key,,HYQ14ACX,,,Unconfirmed,false,
+Subaru,STI,2015,2015,Emergency Key,,HYQ14ACX,,,Unconfirmed,false,
+Subaru,WRX,2015,2015,Emergency Key,,HYQ14ACX,,,Unconfirmed,false,
+Subaru,XV Crosstrek,2014,2014,Emergency Key,,HYQ14ACX,,,Unconfirmed,false,
+Subaru,BRZ,2014,2020,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2016,2018,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2015,2016,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2015,2017,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2015,2017,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,STI,2016,2018,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,WRX,2016,2018,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,XV Crosstrek,2015,2017,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Ascent,2019,2022,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,BRZ,2022,2022,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Crosstrek,2018,2022,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2019,2022,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2017,2022,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2018,2022,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2018,2022,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,STI,2019,2021,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,WRX,2019,2021,4-Button Smart Key,,HYQ14AHK,,88835-FL03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2014,2018,4-Button Remote Head Key,G Chip,CWTWBU766,,57497-FJ031,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2012,2016,4-Button Remote Head Key,G Chip,CWTWBU766,,57497-FJ031,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,STI,2015,2019,4-Button Remote Head Key,G Chip,CWTWBU766,,57497-FJ031,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,XV Crosstrek,2013,2014,4-Button Remote Head Key,G Chip,CWTWBU766,,57497-FJ031,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Ascent,2019,2021,Transponder Key,H Chip,,,,Unconfirmed,false,
+Subaru,Crosstrek,2018,2019,Transponder Key,H Chip,,,,Unconfirmed,false,
+Subaru,Forester,2019,2021,Transponder Key,H Chip,,,,Unconfirmed,false,
+Subaru,Impreza,2017,2021,Transponder Key,H Chip,,,,Unconfirmed,false,
+Subaru,Legacy,2015,2021,Transponder Key,H Chip,,,,Unconfirmed,false,
+Subaru,Outback,2020,2021,Transponder Key,H Chip,,,,Unconfirmed,false,
+Subaru,Legacy,2008,2009,4-Button Remote Head Key,,,,57497-AG48A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2008,2009,4-Button Remote Head Key,,,,57497-AG48A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Tribeca,2008,2010,4-Button Remote Head Key,,,,57497-AG48A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2011,2014,4-Button Remote Head Key,4D60 Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2011,2014,4-Button Remote Head Key,4D60 Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,WRX,2015,2019,4-Button Remote Head Key,4D60 Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Crosstrek,2013,2017,4-Button Remote Head Key,G Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2014,2018,4-Button Remote Head Key,G Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2012,2017,4-Button Remote Head Key,G Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2015,2017,4-Button Remote Head Key,G Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2015,2017,4-Button Remote Head Key,G Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Crosstrek,2013,2014,4-Button Remote Head Key,G Chip,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2014,2018,4-Button Remote Head Key,G Chip,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2012,2016,4-Button Remote Head Key,G Chip,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,STI,2015,2019,4-Button Remote Head Key,G Chip,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2010,2014,4-Button Remote Head Key,,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2010,2014,4-Button Remote Head Key,,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Baja,2006,2006,2-Button Keyless Entry Remote,,NHVWB1U711,,,Unconfirmed,false,"Lock, Unlock"
+Subaru,Forester,2005,2008,2-Button Keyless Entry Remote,,NHVWB1U711,,,Unconfirmed,false,"Lock, Unlock"
+Subaru,Impreza,2005,2007,2-Button Keyless Entry Remote,,NHVWB1U711,,,Unconfirmed,false,"Lock, Unlock"
+Subaru,Forester,2009,2011,4-Button Keyless Entry Remote,,NHVWB1U711,,88036-XA010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2010,2014,4-Button Keyless Entry Remote,,CWTWB1U819,,88036-FG030,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2010,2014,4-Button Keyless Entry Remote,,CWTWB1U819,,88036-FG030,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,BRZ,2014,2020,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2016,2018,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2015,2016,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2015,2017,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2015,2018,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,STI,2016,2018,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,WRX,2016,2018,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,XV,2015,2018,4-Button Smart Key,,HYQ14AHC,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Ascent,2019,2022,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,BRZ,2022,2022,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Crosstrek,2018,2022,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2019,2022,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2017,2022,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2018,2022,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2018,2022,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,STI,2019,2021,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,WRX,2019,2021,4-Button Smart Key,,HYQ14AHK,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Baja,2006,2006,2-Button Keyless Entry Remote,,NHVWB1U711,,88036-FE041,Unconfirmed,false,"Lock, Unlock"
+Subaru,Forester,2005,2008,2-Button Keyless Entry Remote,,NHVWB1U711,,88036-FE041,Unconfirmed,false,"Lock, Unlock"
+Subaru,Impreza,2005,2007,2-Button Keyless Entry Remote,,NHVWB1U711,,88036-FE041,Unconfirmed,false,"Lock, Unlock"
+Subaru,Ascent,2019,2021,Transponder Key,,TOY43RH-PT,,,Unconfirmed,false,
+Subaru,Crosstrek,2018,2019,Transponder Key,,TOY43RH-PT,,,Unconfirmed,false,
+Subaru,Forester,2019,2020,Transponder Key,,TOY43RH-PT,,,Unconfirmed,false,
+Subaru,Impreza,2017,2019,Transponder Key,,TOY43RH-PT,,,Unconfirmed,false,
+Subaru,Legacy,2020,2020,Transponder Key,,TOY43RH-PT,,,Unconfirmed,false,
+Subaru,Outback,2020,2020,Transponder Key,,TOY43RH-PT,,,Unconfirmed,false,
+Subaru,Forester,2014,2015,Emergency Key,,,,69515-52120,Unconfirmed,false,
+Subaru,XV Crosstrek,2014,2014,Emergency Key,,,,69515-52120,Unconfirmed,false,
+Subaru,BRZ,2014,2020,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,Forester,2016,2021,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,Impreza,2015,2021,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,Legacy,2015,2021,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,Outback,2015,2021,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,STI,2016,2020,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,WRX,2016,2020,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,XV Crosstrek,2015,2020,Emergency Key,,,,57497-AL02A,Unconfirmed,false,
+Subaru,BRZ,2013,2020,4-Button Remote Head Key,G Chip,HYQ12BBY,,57497-CA110,Unconfirmed,false,
+Subaru,BRZ,2013,2014,4-Button Smart Key,,HYQ14ACX,,88835-CA060,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
+Subaru,Forester,2014,2015,4-Button Smart Key,,HYQ14ACX,,88835-CA060,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
+Subaru,STI,2015,2015,4-Button Smart Key,,HYQ14ACX,,88835-CA060,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
+Subaru,WRX,2015,2015,4-Button Smart Key,,HYQ14ACX,,88835-CA060,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
+Subaru,XV Crosstrek,2014,2014,4-Button Smart Key,,HYQ14ACX,,88835-CA060,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
+Subaru,Ascent,2019,2026,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,BRZ,2024,2026,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Crosstrek,2024,2026,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2025,2025,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2024,2026,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2023,2024,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2024,2024,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,WRX,2023,2026,4-Button Smart Key,,HYQ14AKB,,88835-XC00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2019,2019,4-Button Remote Head Key,G Chip,CWTB1G077,,57497-AL37A,Unconfirmed,false,
+Subaru,Outback,2019,2019,4-Button Remote Head Key,G Chip,CWTB1G077,,57497-AL37A,Unconfirmed,false,
+Subaru,Forester,2014,2018,Transponder Key,G Chip,TOY43RT45,,,Unconfirmed,false,
+Subaru,Impreza,2012,2018,Transponder Key,G Chip,TOY43RT45,,,Unconfirmed,false,
+Subaru,Legacy,2015,2019,Transponder Key,G Chip,TOY43RT45,,,Unconfirmed,false,
+Subaru,Outback,2015,2019,Transponder Key,G Chip,TOY43RT45,,,Unconfirmed,false,
+Subaru,WRX,2015,2018,Transponder Key,G Chip,TOY43RT45,,,Unconfirmed,false,
+Subaru,XV,2013,2016,Transponder Key,G Chip,TOY43RT45,,,Unconfirmed,false,
+Subaru,Legacy,2018,2018,4-Button Remote Head Key,G Chip,CWTB1G077,,57497-AL27A,Unconfirmed,false,
+Subaru,Outback,2018,2018,4-Button Remote Head Key,G Chip,CWTB1G077,,57497-AL27A,Unconfirmed,false,
+Subaru,Baja,2002,2005,2-Button Keyless Entry Remote,,A269ZUA111,,88035-AC231,Unconfirmed,false,
+Subaru,Forester,1999,2004,2-Button Keyless Entry Remote,,A269ZUA111,,88035-AC231,Unconfirmed,false,
+Subaru,Impreza,1999,2004,2-Button Keyless Entry Remote,,A269ZUA111,,88035-AC231,Unconfirmed,false,
+Subaru,Outback,1999,2004,2-Button Keyless Entry Remote,,A269ZUA111,,88035-AC231,Unconfirmed,false,
+Subaru,Ascent,2018,2018,4-Button Remote Head Key,H Chip,CWTB1G077,,57497-FL00A,Unconfirmed,false,
+Subaru,Crosstrek,2018,2018,4-Button Remote Head Key,H Chip,CWTB1G077,,57497-FL00A,Unconfirmed,false,
+Subaru,Impreza,2017,2018,4-Button Remote Head Key,H Chip,CWTB1G077,,57497-FL00A,Unconfirmed,false,
+Subaru,Ascent,2019,2022,4-Button Remote Head Key,H Chip,CWTB1G077,,57497-SJ050,Unconfirmed,false,
+Subaru,Forester,2019,2022,4-Button Remote Head Key,H Chip,CWTB1G077,,57497-SJ050,Unconfirmed,false,
+Subaru,Impreza,2019,2022,4-Button Remote Head Key,H Chip,CWTB1G077,,57497-SJ050,Unconfirmed,false,
+Subaru,XV Crosstrek,2019,2022,4-Button Remote Head Key,H Chip,CWTB1G077,,57497-SJ050,Unconfirmed,false,
+Subaru,Legacy,2011,2014,4-Button Remote Head Key,,CWTWB1U811,,57497-AJ10A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2011,2014,4-Button Remote Head Key,,CWTWB1U811,,57497-AJ10A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2010,2014,4-Button Remote Head Key,4D60 Chip,CWTWBU766,,57497-AJ00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2010,2014,4-Button Remote Head Key,4D60 Chip,CWTWBU766,,57497-AJ00A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Baja,2003,2006,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Forester,1998,2004,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Impreza,2002,2007,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Legacy,2000,2009,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Outback,2000,2009,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,Tribeca,2005,2014,Metal Key (no chip),,,,,Unconfirmed,false,
+Subaru,WRX,2015,2019,4-Button Remote Head Key,G Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,XV Crosstrek,2013,2017,4-Button Remote Head Key,G Chip,CWTWB1U811,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2010,2014,4-Button Remote Head Key,4D60 Chip,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2010,2014,4-Button Remote Head Key,4D60 Chip,CWTWBU766,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Baja,2003,2006,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,Forester,2005,2013,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,Impreza,2005,2014,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,Legacy,2005,2014,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,Outback,2005,2014,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,STI,2011,2014,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,Tribeca,2006,2013,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,WRX,2011,2014,Transponder Key,40-Bit,,,,Unconfirmed,false,
+Subaru,Outback,2015,2018,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,XV,2015,2018,4-Button Smart Key,,HYQ14AHC,,88835-AL04A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Ascent,2024,2024,4-Button Remote Head Key,H Chip,CWTB1G496,,57497-AN03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2024,2024,4-Button Remote Head Key,H Chip,CWTB1G496,,57497-AN03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Legacy,2024,2024,4-Button Remote Head Key,H Chip,CWTB1G496,,57497-AN03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Outback,2024,2024,4-Button Remote Head Key,H Chip,CWTB1G496,,57497-AN03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,XV Crosstrek,2024,2024,4-Button Remote Head Key,H Chip,CWTB1G496,,57497-AN03A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Impreza,2020,2021,4-Button Remote Head Key,,CWTWB1U811,,57497-VA330,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,BRZ,2022,2023,4-Button Smart Key,,HYQ14AHK,,88835-FL032,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Forester,2023,2024,4-Button Smart Key,,HYQ14AHK,,88835-FL032,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Subaru,Solterra,2022,2025,5-Button Smart Key,,HYQ14FBX,,8990H-42620,Unconfirmed,false,

@@ -175,8 +175,8 @@ function cardHtml(g, ctx, hidden) {
     // Only part numbers and buttons from listings that fit the searched vehicle and year.
     parts = partsForVehicle(g, ctx.make, ctx.model, ctx.year);
     buttonsText = buttonsForVehicle(g, ctx.make, ctx.model, ctx.year);
-    // Chip comes from the searched make's own rows, so another brand cannot outvote it.
-    chipText = chipForMake(g, ctx.make);
+    // Chip comes from the listings that fit this make, model and year.
+    chipText = chipForVehicle(g, ctx.make, ctx.model, ctx.year);
     fits = `<p class="fits"><strong>Fits:</strong> ${h(formatRanges(searched.ranges))} ${h(searched.model)}</p>`;
     if (others.length) {
       also = `<details class="also"><summary>Also fits (${others.length})</summary>${vehicleListHtml(others, ctx.make)}</details>`;

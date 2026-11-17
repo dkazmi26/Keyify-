@@ -14,11 +14,20 @@ function normChip(v) {
 
 // Rows with no FCC ID only group with rows of the same make. The one exception is
 // the makes that already shared such groups before Ford was added (Toyota with
-// Scion, Subaru and Pontiac; Honda with Acura). Those stay together so existing
-// cards do not change. Every other make is on its own.
-const KEY_FAMILIES = { Scion: "Toyota", Subaru: "Toyota", Pontiac: "Toyota", Acura: "Honda" };
+// Scion and Pontiac; Honda with Acura). Those stay together so existing cards do
+// not change. Every other make, Subaru included, is on its own.
+const KEY_FAMILIES = { Scion: "Toyota", Pontiac: "Toyota", Acura: "Honda" };
 function keyFamily(make) {
   return KEY_FAMILIES[make] || make;
+}
+
+// Family of one row. Same as keyFamily(row.make) with one narrow exception: the single
+// Subaru BRZ transponder row that came in the Toyota data (no FCC ID) stays with the
+// Toyota family, so its card and the Toyota and Scion cards that list it do not change.
+// No row in the Subaru data matches this.
+function rowFamily(row) {
+  if (row.make === "Subaru" && row.model === "BRZ" && !norm(row.fcc) && norm(row.keyType) === "TRANSPONDERKEY") return "Toyota";
+  return keyFamily(row.make);
 }
 
 // One group per physical key.
@@ -36,7 +45,7 @@ function groupKeyOf(row, index) {
   if (fcc) return "F|" + type + "|" + fcc + "|" + board;
   const chip = normChip(row.chip);
   const pn = norm(row.partNumber);
-  if (chip || pn || board) return "N|" + norm(keyFamily(row.make)) + "|" + type + "|" + chip + "|" + pn + "|" + board;
+  if (chip || pn || board) return "N|" + norm(rowFamily(row)) + "|" + type + "|" + chip + "|" + pn + "|" + board;
   return "R|" + index;
 }
 
@@ -138,6 +147,23 @@ function chipForMake(g, make) {
   const fam = keyFamily(make);
   const own = mostCommon(g.rows.filter(r => keyFamily(r.make) === fam).map(r => r.chip));
   return own || g.chip;
+}
+
+// Chip for this exact vehicle and year, worked out like Part # (partsForVehicle): from
+// the listings that fit the searched make, model and year.
+//   - they all name the same chip       -> that chip
+//   - they name different chips         -> no chip (the data disagrees, so show nothing)
+//   - none of them names a chip         -> the make family's chip, as before
+// "H Chip", "H-Chip" and "H CHIP" count as the same chip.
+function chipForVehicle(g, make, model, year) {
+  const named = g.rows
+    .filter(r => r.make === make && r.model === model && year >= r.yearFrom && year <= r.yearTo)
+    .map(r => String(r.chip || "").trim())
+    .filter(Boolean);
+  const kinds = new Set(named.map(normChip));
+  if (kinds.size > 1) return "";
+  if (kinds.size === 1) return named[0];
+  return chipForMake(g, make);
 }
 
 // Smart key, flip / remote head, keyless remote, transponder, emergency / metal.
