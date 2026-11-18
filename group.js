@@ -111,6 +111,7 @@ function buildGroups(rows) {
       fcc,
       board: mostCommon(rs.map(r => r.board)),
       chip: mostCommon(rs.map(r => r.chip)),
+      frequency: mostCommon(rs.map(r => r.frequency)),
       parts,
       // The only things the search box can match: FCC ID, board code and part numbers.
       searchTerms: uniqueValues([fcc].concat(parts)).map(norm),

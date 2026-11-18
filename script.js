@@ -188,15 +188,19 @@ function cardHtml(g, ctx, hidden) {
     also = `<details class="also" open><summary>Fits (${g.vehicles.length})</summary>${vehicleListHtml(g.vehicles, null)}</details>`;
   }
 
-  // FCC, board and chip each hide themselves when blank (FCC also when "Unknown").
+  // FCC, chip, frequency and board each hide themselves when blank (FCC also when "Unknown").
   const fccValue = String(g.fcc || "").trim();
   const boardValue = String(g.board || "").trim();
   const chipValue = String(chipText || "").trim();
   const identParts = [];
-  if (fccValue && fccValue.toLowerCase() !== "unknown") identParts.push(`<span><strong>FCC:</strong> ${h(fccValue)}</span>`);
-  if (boardValue) identParts.push(`<span><strong>Board code:</strong> ${h(boardValue)}</span>`);
-  if (chipValue && chipValue.toLowerCase() !== "unknown") identParts.push(`<span><strong>Chip:</strong> ${h(chipStyle(chipValue))}</span>`);
-  const ident = identParts.length ? `<p class="ident">${identParts.join(" ")}</p>` : "";
+  // Frequency only shows when the data has it (filled only when two sources agree).
+  const freqValue = String(g.frequency || "").trim();
+  const spec = (label, value) => `<div class="spec"><span class="spec-label">${label}</span><span class="spec-value">${h(value)}</span></div>`;
+  if (fccValue && fccValue.toLowerCase() !== "unknown") identParts.push(spec("FCC ID", fccValue));
+  if (chipValue && chipValue.toLowerCase() !== "unknown") identParts.push(spec("Chip", chipStyle(chipValue)));
+  if (freqValue) identParts.push(spec("Frequency", freqValue));
+  if (boardValue) identParts.push(spec("Board", boardValue));
+  const ident = identParts.length ? `<div class="specs">${identParts.join("")}</div>` : "";
 
   return `
     <div class="card"${hidden ? " hidden data-extra" : ""}>
