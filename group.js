@@ -154,16 +154,27 @@ function chipForMake(g, make) {
 //   - they all name the same chip       -> that chip
 //   - they name different chips         -> no chip (the data disagrees, so show nothing)
 //   - none of them names a chip         -> the make family's chip, as before
-// "H Chip", "H-Chip" and "H CHIP" count as the same chip.
+// "H Chip", "H-Chip", "H CHIP" and "Chip H" count as the same chip. "Super Chip" is an
+// aftermarket cloner chip, not the car's chip, so it is ignored. A family name and a
+// specific chip in that family agree ("4D" and "4D67" -> "4D67"). When the answer is the
+// same chip as the make family's chip, the family's spelling is shown, so cards that
+// already showed the right chip do not change.
+function chipKey(v) {
+  const n = norm(v).replace(/^CHIP/, "").replace(/CHIP$/, "");
+  return n === "SUPER" ? "" : n;
+}
 function chipForVehicle(g, make, model, year) {
   const named = g.rows
     .filter(r => r.make === make && r.model === model && year >= r.yearFrom && year <= r.yearTo)
     .map(r => String(r.chip || "").trim())
-    .filter(Boolean);
-  const kinds = new Set(named.map(normChip));
-  if (kinds.size > 1) return "";
-  if (kinds.size === 1) return named[0];
-  return chipForMake(g, make);
+    .filter(c => chipKey(c));
+  const famChip = chipForMake(g, make);
+  if (!named.length) return famChip;
+  // Most specific chip named; every other named chip must be it or a family name of it.
+  const best = named.reduce((a, b) => (chipKey(b).length > chipKey(a).length ? b : a));
+  const bk = chipKey(best);
+  if (!named.every(c => bk.startsWith(chipKey(c)))) return "";
+  return chipKey(famChip) === bk ? famChip : best;
 }
 
 // Smart key, flip / remote head, keyless remote, transponder, emergency / metal.
