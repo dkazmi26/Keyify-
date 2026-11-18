@@ -46,7 +46,6 @@ select:focus-visible { outline: 3px solid #2f80ed; outline-offset: 1px; }
 input[type="search"] { padding: 10px; font-size: 1rem; font-weight: 400; }
 input[type="search"]:focus-visible { outline: 3px solid #2f80ed; outline-offset: 1px; }
 .card p { margin: 6px 0; overflow-wrap: anywhere; }
-.card .ident { display: flex; flex-wrap: wrap; gap: 4px 20px; }
 button.link { border: 0; background: none; padding: 0; color: #1f5fbf; font: inherit; text-decoration: underline; cursor: pointer; }
 button.more { display: block; width: 100%; margin-top: 16px; padding: 12px; font-size: 1rem; border: 1px solid #b9c2cc; border-radius: 8px; background: #fff; cursor: pointer; }
 button.link:focus-visible, button.more:focus-visible, summary:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
@@ -54,3 +53,8 @@ details.also { margin: 8px 0; }
 details.also summary { cursor: pointer; font-weight: 600; }
 details.also p { margin: 4px 0 4px 12px; font-size: 0.92rem; }
 .card .vin { font-size: 0.85rem; color: #5b6673; }
+.card .specs { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 8px; margin: 12px 0; }
+.card .spec { background: #f4f6f8; border: 1px solid #e3e8ee; border-radius: 6px; padding: 8px 10px; min-width: 0; }
+.card .spec-label { display: block; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #5b6673; }
+.card .spec-value { display: block; margin-top: 2px; font-weight: 600; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+@media (max-width: 480px) { .card .specs { grid-template-columns: 1fr 1fr; } }
