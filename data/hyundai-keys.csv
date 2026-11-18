@@ -1,6 +1,6 @@
 make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Genesis,G70,2021,2023,6-Button Smart Key,,TQ8-FOB-4F36,,95440-AR000,Unconfirmed,false,
-Genesis,G70,2021,2024,8-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-AR010,Unconfirmed,false,
+Genesis,G70,2021,2023,6-Button Smart Key,,TQ8-FOB-4F36,,95440-AR000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights"
+Genesis,G70,2021,2024,8-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-AR010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights"
 Genesis,G70,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F75M44,,95440-G9720,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Genesis,G80,2017,2020,4-Button Smart Key,,SY5DMFNA04,,95440-D2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Genesis,G80,2017,2021,Emergency Key,,,,81996-B1500,Unconfirmed,false,
@@ -62,7 +62,7 @@ Hyundai,Elantra,2013,2017,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirm
 Hyundai,Elantra,2013,2020,Emergency Key,,,,81996-B4520,Unconfirmed,false,
 Hyundai,Elantra,2014,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Elantra,2014,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2016,2018,4-Button Flip Key,,OKA-NO38,,95430-F2001,Unconfirmed,false,
+Hyundai,Elantra,2016,2018,4-Button Flip Key,,OKA-NO38,,95430-F2001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Elantra,2016,2020,4-Button Keyless Entry Remote,,OSLOKA-423T,,95430-F2300,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Elantra,2016,2019,4-Button Smart Key,,CQOFD00120,,95440-F2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Elantra,2016,2016,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
@@ -71,9 +71,9 @@ Hyundai,Elantra,2016,2019,4-Button Smart Key,4A,CQOFD00120,,95440-F2000,Unconfir
 Hyundai,Elantra,2018,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,
 Hyundai,Elantra,2018,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,
 Hyundai,Elantra,2019,2020,4-Button Smart Key,,CQOFD00120,,95440-F2002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2019,2020,4-Button Smart Key,4A,CQOFD00120,,95440-F3002,Unconfirmed,false,
+Hyundai,Elantra,2019,2020,4-Button Smart Key,4A,CQOFD00120,,95440-F3002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Elantra,2020,2023,4-Button Flip Key,8A,,,95430-AA100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2021,2024,4-Button Smart Key,6A,NYOMBEC5FOB2004,,95440-AA100,Unconfirmed,false,
+Hyundai,Elantra,2021,2024,4-Button Smart Key,6A,NYOMBEC5FOB2004,,95440-AA100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Elantra,2021,2024,5-Button Smart Key,6A,NYOMBEC5FOB2004,,95440-AA000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Elantra,2021,2023,5-Button Smart Key,,NYOMBEC5FOB2004,,95440-IB000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Elantra,2023,2024,4-Button Flip Key,8A,NYOMBEC4TX2004,,95430-AA600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
@@ -269,7 +269,7 @@ Hyundai,Sonata,2015,2019,Emergency Key,,,,81999-2S040,Unconfirmed,false,
 Hyundai,Sonata,2017,2020,4-Button Flip Key,,TQ8-RKE-4F25,,95430-C1210,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Sonata,2017,2020,4-Button Flip Key,,TQ8-RKE-4F25,,95430-C1200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Sonata,2018,2019,4-Button Smart Key,,CQOFD00120,,95440-C1500NNA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2019,2021,4-Button Flip Key,ID47,TQ8-RKE-4F40,,95430-L1000,Unconfirmed,false,
+Hyundai,Sonata,2019,2021,4-Button Flip Key,ID47,TQ8-RKE-4F40,,95430-L1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Sonata,2019,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-L1060,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2019,2021,5-Button Smart Key,ID47,T08-F08-4F27,,95440-L1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2019,2023,5-Button Smart Key,ID47,T08-F08-4F27,,95440-L1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
@@ -278,12 +278,12 @@ Hyundai,Sonata,2019,2021,Emergency Key,,,,81996-M5000,Unconfirmed,false,
 Hyundai,Sonata,2020,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2020,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2020,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-L1600,Unconfirmed,false,
-Hyundai,Sonata,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1160,Unconfirmed,false,
+Hyundai,Sonata,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1160,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2021,2022,5-Button Smart Key,,TQ8-FOB-4F26,,95440-L1160,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1710,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2023,2023,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1760,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2023,2023,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1720,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Sonata,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1770,Unconfirmed,false,
+Hyundai,Sonata,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1770,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
 Hyundai,Sonata,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L5750,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Hyundai,Sonata,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1560,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
 Hyundai,Sonata,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
