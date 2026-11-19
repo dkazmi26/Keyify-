@@ -196,7 +196,10 @@ function cardHtml(g, ctx, hidden) {
   // Frequency only shows when the data has it (filled only when two sources agree).
   const freqValue = String(g.frequency || "").trim();
   const spec = (label, value) => `<div class="spec"><span class="spec-label">${label}</span><span class="spec-value">${h(value)}</span></div>`;
-  if (fccValue && fccValue.toLowerCase() !== "unknown") identParts.push(spec("FCC ID", fccValue));
+  // Emergency and transponder keys have no remote, so no FCC ID: the data keeps their key
+  // code (HU100, TOY44D-PT) in the same column, and the card calls it a key code.
+  const noRemote = /^(emergency key|transponder key)$/i.test(String(g.keyType || "").trim());
+  if (fccValue && fccValue.toLowerCase() !== "unknown") identParts.push(spec(noRemote ? "Key code" : "FCC ID", fccValue));
   if (chipValue && chipValue.toLowerCase() !== "unknown") identParts.push(spec("Chip", chipStyle(chipValue)));
   if (freqValue) identParts.push(spec("Frequency", freqValue));
   if (boardValue) identParts.push(spec("Board", boardValue));
