@@ -1,0 +1,200 @@
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
+Ram,1500,1999,2002,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,1500,2002,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,
+Ram,1500,2006,2008,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
+Ram,1500,2006,2010,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,1500,2006,2008,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+Ram,1500,2006,2013,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,1500,2006,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
+Ram,1500,2007,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2009,2023,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
+Ram,1500,2009,2023,Emergency Key,,Y171,,,Unconfirmed,false,
+Ram,1500,2009,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,
+Ram,1500,2013,2023,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,1500,2013,2021,3-Button Remote Head Key,,GQ4-53T,,56046953AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,1500,2013,2018,3-Button Smart Key,,GQ4-54T,,56046954AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,1500,2013,2021,4-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2013,2023,4-Button Remote Head Key,,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2013,2023,4-Button Remote Head Key,,GQ4-53T,,68159654AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2013,2024,4-Button Remote Head Key,,GQ4-53T,,68159654AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2013,2018,4-Button Remote Head Key,ID46,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2013,2022,4-Button Smart Key,,GQ4-54T,,56046956AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2013,2018,4-Button Smart Key,,GQ4-54T,,68159656AD,Unconfirmed,false,"Lock, Unlock, Panic, Air Suspension"
+Ram,1500,2013,2023,5-Button Remote Head Key,ID46,GQ4-53T,,68159655AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,1500,2013,2024,5-Button Remote Head Key,ID46,GQ4-53T,,68159655AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,1500,2013,2018,5-Button Remote Head Key,ID46,GQ4-53T,,68159655AD,Unconfirmed,false,
+Ram,1500,2013,2018,5-Button Smart Key,,GQ4-54T,,68159657,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,1500,2013,2018,5-Button Smart Key,,GQ4-54T,,68159657AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,1500,2019,2019,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,1500,2019,2022,3-Button Smart Key,,OHT-4882056,,68442905AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,1500,2019,2025,4-Button Smart Key,,OHT-4882056,,68291689AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2019,2023,4-Button Smart Key,,OHT-4882056,,68442915AB,Unconfirmed,false,
+Ram,1500,2019,2021,4-Button Smart Key,,OHT-4882056,,68442906,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+Ram,1500,2019,2022,4-Button Smart Key,,OHT-4882056,,68442907AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2019,2025,5-Button Smart Key,,OHT-4882056,,68291691AD,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,1500,2019,2023,5-Button Smart Key,,OHT-4882056,,68291691AD,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,1500,2019,2022,5-Button Smart Key,,OHT-4882056,,68291691AD,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,1500,2019,2024,5-Button Smart Key,,OHT-4882056,,68575606AA,Unconfirmed,false,
+Ram,1500,2019,2023,5-Button Smart Key,,OHT-4882056,,68575611AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,1500,2019,2025,6-Button Smart Key,,OHT-4882056,,68291692AD,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start, Air Suspension"
+Ram,1500,2019,2023,6-Button Smart Key,,OHT-4882056,,68312808AD,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start, Air Suspension"
+Ram,1500,2019,2021,6-Button Smart Key,,OHT-4882056,,68312808AD,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start, Air Suspension"
+Ram,1500,2021,2021,3-Button Smart Key,,OHT-4882056,,68575613AA,Unconfirmed,false,"Lock, Unlock, Tailgate"
+Ram,1500,2021,2021,4-Button Smart Key,,OHT-4882056,,68462106AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2021,2023,5-Button Smart Key,,OHT-4882056,,68462107AA,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,1500,2025,2025,4-Button Smart Key,4A,OHT-4882056,,68523812AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,1500,2025,2025,5-Button Smart Key,,,,68523825AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,1500,2025,2025,5-Button Smart Key,4A,OHT-4882056,,68523814AA,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,1500,2025,2026,5-Button Smart Key,4A,OHT-4882056,,68523813AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,1500,2025,2026,6-Button Smart Key,4A,OHT-4882056,,68523822AA,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start, Air Suspension"
+Ram,1500,2025,2025,6-Button Smart Key,4A,OHT-4882056,,68523822AA,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start, Air Suspension"
+Ram,1500,2025,2025,Emergency Key,,,,68399889AA,Unconfirmed,false,
+Ram,2500,1999,2002,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,2500,2001,2001,Transponder Key,4D61,Y162,,,Unconfirmed,false,
+Ram,2500,2002,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,
+Ram,2500,2002,2007,Transponder Key,4D61,Y165,,,Unconfirmed,false,
+Ram,2500,2006,2008,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
+Ram,2500,2006,2010,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,2500,2006,2008,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+Ram,2500,2006,2013,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,2500,2006,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
+Ram,2500,2007,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,2500,2009,2020,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
+Ram,2500,2009,2020,Emergency Key,,Y171,,,Unconfirmed,false,
+Ram,2500,2009,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,
+Ram,2500,2013,2020,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,2500,2013,2020,3-Button Remote Head Key,,GQ4-53T,,56046953AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,2500,2013,2018,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,2500,2013,2018,3-Button Smart Key,,GQ4-54T,,56046954AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,2500,2013,2021,4-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,2500,2013,2020,4-Button Remote Head Key,,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,2500,2013,2018,4-Button Remote Head Key,ID46,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,2500,2013,2018,4-Button Smart Key,,GQ4-54T,,56046956AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,2500,2013,2018,4-Button Smart Key,,GQ4-54T,,68159656AD,Unconfirmed,false,"Lock, Unlock, Panic, Air Suspension"
+Ram,2500,2013,2020,5-Button Remote Head Key,ID46,GQ4-53T,,68159655AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,2500,2013,2018,5-Button Smart Key,,GQ4-54T,,68159657,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,2500,2013,2018,5-Button Smart Key,,GQ4-54T,,68159657AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,2500,2019,2022,1-Button Smart Key,,GQ4-76T,,68374993AB,Unconfirmed,false,Panic
+Ram,2500,2019,2024,3-Button Smart Key,,,,68375455AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,2500,2019,2021,3-Button Smart Key,,GQ4-76T,,68381171AB,Unconfirmed,false,
+Ram,2500,2019,2022,3-Button Smart Key,,GQ4-76T,,68538048AB,Unconfirmed,false,
+Ram,2500,2019,2021,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,2500,2019,2022,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,2500,2019,2022,5-Button Smart Key,,GQ4-76T,,68375456AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,2500,2019,2024,5-Button Smart Key,,GQ4-76T,,68538051AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,2500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538050AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,2500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538052AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,2500,2019,2023,Emergency Key,,,,68399889AA,Unconfirmed,false,
+Ram,2500,2025,2025,3-Button Smart Key,4A,OHT-4882056,,68731575AA,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,1999,2002,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,2001,2001,Transponder Key,4D61,Y162,,,Unconfirmed,false,
+Ram,3500,2002,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,
+Ram,3500,2002,2007,Transponder Key,4D61,Y165,,,Unconfirmed,false,
+Ram,3500,2006,2008,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
+Ram,3500,2006,2010,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,3500,2006,2008,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+Ram,3500,2006,2013,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,3500,2006,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
+Ram,3500,2007,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,3500,2009,2020,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
+Ram,3500,2009,2020,Emergency Key,,Y171,,,Unconfirmed,false,
+Ram,3500,2009,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,
+Ram,3500,2013,2020,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,2013,2020,3-Button Remote Head Key,,GQ4-53T,,56046953AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,2013,2018,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,2013,2018,3-Button Smart Key,,GQ4-54T,,56046954AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,2013,2021,4-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,3500,2013,2020,4-Button Remote Head Key,,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,3500,2013,2018,4-Button Remote Head Key,ID46,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,3500,2013,2018,4-Button Smart Key,,GQ4-54T,,56046956AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,3500,2013,2018,4-Button Smart Key,,GQ4-54T,,68159656AD,Unconfirmed,false,"Lock, Unlock, Panic, Air Suspension"
+Ram,3500,2013,2020,5-Button Remote Head Key,ID46,GQ4-53T,,68159655AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,3500,2013,2018,5-Button Smart Key,,GQ4-54T,,68159657,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,3500,2013,2018,5-Button Smart Key,,GQ4-54T,,68159657AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,3500,2019,2022,1-Button Smart Key,,GQ4-76T,,68374993AB,Unconfirmed,false,Panic
+Ram,3500,2019,2024,3-Button Smart Key,,,,68375455AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,2019,2022,3-Button Smart Key,,GQ4-76T,,68538048AB,Unconfirmed,false,
+Ram,3500,2019,2021,3-Button Smart Key,,GQ4-76T,,68375455AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,3500,2019,2021,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,3500,2019,2022,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,3500,2019,2022,5-Button Smart Key,,GQ4-76T,,68375456AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,3500,2019,2024,5-Button Smart Key,,GQ4-76T,,68538051AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,3500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538050AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,3500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538052AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,3500,2019,2023,Emergency Key,,,,68399889AA,Unconfirmed,false,
+Ram,4500,2006,2013,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,4500,2007,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,4500,2009,2020,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
+Ram,4500,2009,2020,Emergency Key,,Y171,,,Unconfirmed,false,
+Ram,4500,2013,2020,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,4500,2013,2020,3-Button Remote Head Key,,GQ4-53T,,56046953AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,4500,2013,2018,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,4500,2013,2021,4-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,4500,2013,2020,4-Button Remote Head Key,,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,4500,2013,2018,4-Button Remote Head Key,ID46,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,4500,2013,2020,5-Button Remote Head Key,ID46,GQ4-53T,,68159655AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,4500,2019,2022,1-Button Smart Key,,GQ4-76T,,68374993AB,Unconfirmed,false,Panic
+Ram,4500,2019,2023,3-Button Smart Key,,,,68375455AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,4500,2019,2021,3-Button Smart Key,,GQ4-76T,,68375455AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,4500,2019,2021,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,4500,2019,2022,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,4500,2019,2022,5-Button Smart Key,,GQ4-76T,,68375456AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,4500,2019,2024,5-Button Smart Key,,GQ4-76T,,68538051AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,4500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538050AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,4500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538052AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,4500,2019,2023,Emergency Key,,,,68399889AA,Unconfirmed,false,
+Ram,5500,2006,2013,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,
+Ram,5500,2007,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,5500,2013,2020,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,5500,2013,2020,3-Button Remote Head Key,,GQ4-53T,,56046953AG,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,5500,2013,2018,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,5500,2013,2021,4-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,5500,2013,2020,4-Button Remote Head Key,,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,5500,2013,2018,4-Button Remote Head Key,ID46,GQ4-53T,,56046955AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,5500,2013,2020,5-Button Remote Head Key,ID46,GQ4-53T,,68159655AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Air Suspension"
+Ram,5500,2019,2022,1-Button Smart Key,,GQ4-76T,,68374993AB,Unconfirmed,false,Panic
+Ram,5500,2019,2023,3-Button Smart Key,,,,68375455AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,5500,2019,2022,3-Button Smart Key,,GQ4-76T,,68538048AB,Unconfirmed,false,
+Ram,5500,2019,2021,3-Button Smart Key,,GQ4-76T,,68375455AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,5500,2019,2021,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,5500,2019,2022,4-Button Smart Key,,GQ4-76T,,68365327AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,5500,2019,2022,5-Button Smart Key,,GQ4-76T,,68375456AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,5500,2019,2024,5-Button Smart Key,,GQ4-76T,,68538051AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,5500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538050AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,5500,2019,2022,5-Button Smart Key,,GQ4-76T,,68538052AB,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,5500,2019,2023,Emergency Key,,,,68399889AA,Unconfirmed,false,
+Ram,Dakota,2010,2012,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
+Ram,Dakota,2010,2012,Emergency Key,,Y171,,,Unconfirmed,false,
+Ram,Pickup,1999,2002,3-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2002,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,
+Ram,Pickup,2003,2005,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2005,2017,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
+Ram,Pickup,2006,2008,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2006,2008,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2006,2008,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+Ram,Pickup,2006,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
+Ram,Pickup,2007,2009,4-Button Remote Head Key,,KOBDT04A,,05179512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,Pickup,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2008,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,Pickup,2009,2012,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2009,2012,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,Pickup,2009,2012,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,Pickup,2010,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,
+Ram,Pickup,2013,2021,3-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2013,2018,3-Button Smart Key,,GQ4-54T,,56046954AF,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,Pickup,2013,2021,4-Button Remote Head Key,ID46,GQ4-53T,,56046953AE,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,Pickup,2013,2018,4-Button Smart Key,,GQ4-54T,,56046956AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,Pickup,2013,2018,5-Button Remote Head Key,,GQ4-53T,,68159655AG,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Ram,Pickup,2019,2022,4-Button Smart Key,,GQ4-54T,,56046956AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,ProMaster,2015,2019,3-Button Flip Key,,,,68224015AA,Unconfirmed,false,
+Ram,ProMaster,2015,2019,3-Button Flip Key,,,,68224015AA,Unconfirmed,false,"Lock, Unlock, Rear Door"
+Ram,ProMaster,2015,2015,3-Button Flip Key,ID46,2ADPXTRF198,,,Unconfirmed,false,"Lock, Unlock, Rear Door"
+Ram,ProMaster,2018,2021,3-Button Flip Key,,2ADFTTRF198,,68435273AA,Unconfirmed,false,"Lock, Unlock, Panic"
+Ram,ProMaster,2022,2023,4-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,
+Ram,ProMaster,2022,2023,4-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Ram,ProMaster,2022,2025,4-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,
+Ram,ProMaster,2022,2024,5-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,
+Ram,ProMaster,2022,2023,5-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,
+Ram,ProMaster City,2015,2018,3-Button Flip Key,,,,,Unconfirmed,false,
+Ram,ProMaster City,2015,2016,3-Button Flip Key,ID46,LTQF12AM433TX,,,Unconfirmed,false,"Lock, Unlock, Rear Door"
+Ram,ProMaster EV,2024,2024,4-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,
