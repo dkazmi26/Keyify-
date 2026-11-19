@@ -1,0 +1,300 @@
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
+Kia,Amanti,2007,2009,4-Button Keyless Entry Remote,,SY55WY8412,,95430-3F350,Unconfirmed,false,
+Kia,Borrego,2008,2012,4-Button Keyless Entry Remote,,SV3HMTX,,95430-2J200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Borrego,2010,2012,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Borrego,2010,2012,4-Button Smart Key,,SY5HMFNA04,,95440-1U050,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Cadenza,2013,2014,4-Button Smart Key,,,,95440-3R600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Cadenza,2014,2016,4-Button Smart Key,,SY5KHFNA433,,95440-3R601,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Cadenza,2014,2014,4-Button Smart Key,,SY5KHFNA433,,95440-3R601,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Cadenza,2014,2017,Emergency Key,,,,81996-3T000,Unconfirmed,false,
+Kia,Cadenza,2017,2019,4-Button Smart Key,,TQ8-FOB-4F10,,95440-F6000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Cadenza,2020,2020,5-Button Smart Key,ID47,TQ8-FOB-4F34,,95440-F6510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,Carnival,2015,2017,4-Button Flip Key,4D60,TQ8-RKE-4F19,,95430-A9110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Carnival,2021,2024,6-Button Smart Key,,SY5KA4FGE06,,95440-R0410,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Carnival,2021,2024,7-Button Smart Key,4A,SY5MQ4FGE05,,95440-R0420,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
+Kia,Carnival,2022,2023,3-Button Flip Key,4A,SY5SKRGE03,,95430-R0000,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Carnival,2022,2022,5-Button Smart Key,4A,SY5MQ4AFGE04,,95440-R0000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Carnival,2022,2022,7-Button Smart Key,,SY5MQ4FGE07,,95440-R0100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
+Kia,Carnival,2022,2024,9-Button Smart Key,4A,SY5KA4FGE09,,95440-R0510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Carnival,2024,2024,4-Button Smart Key,,,,95440-R0860,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Carnival,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-GG000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,Carnival,2024,2026,6-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-R0870,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
+Kia,Carnival,2024,2025,7-Button Smart Key,4A,,,95440-R0810,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
+Kia,Carnival,2024,2025,7-Button Smart Key,4A,,,95440-R0840,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Carnival,2024,2025,9-Button Smart Key,4A,,,95440-R0850,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Carnival,2024,2025,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,Carnival,2024,2026,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,EV6,2021,2024,4-Button Smart Key,4A,CQOFN01050,,95440-CV021,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,EV6,2021,2024,7-Button Smart Key,4A,CQOFD01340,,95440-CV011,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,EV6,2022,2022,5-Button Smart Key,,CQOFD00790,,95440-CV000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,EV6,2022,2022,7-Button Smart Key,,CQOFD01340,,95440-CV010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,EV6,2022,2023,Emergency Key,,KK12,,81996-CV000,Unconfirmed,false,
+Kia,EV6,2024,2024,5-Button Smart Key,4A,CQOFD00790,,95440-CV001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,EV6,2024,2026,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,EV6,2025,2026,4-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-CV560,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,EV6,2025,2025,5-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-CV520,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,EV6,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4FA1U44,,95440-CV510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,EV9,2023,2024,6-Button Smart Key,ID47,TQ8-FOB-4F81M44,,95440-DO000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Hood"
+Kia,EV9,2023,2024,6-Button Smart Key,ID47,TQ8-FOB-4F81U44,,95440-DO010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Hood"
+Kia,EV9,2023,2024,8-Button Smart Key,ID47,TQ8-FOB-4F61M44,,95440-DO020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Hood"
+Kia,EV9,2023,2024,8-Button Smart Key,ID47,TQ8-FOB-4F61U44,,95440-DO030,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Hood"
+Kia,Forte,2010,2013,4-Button Keyless Entry Remote,,PINHA-T008,,95430-1M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2010,2013,4-Button Smart Key,,SY5HMFNA04,,95440-1U050,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2011,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2011,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2011,2013,4-Button Smart Key,,SY5HMFNA04,,95440-3W000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2011,2013,Emergency Key,,HY15,,81996-2M020,Unconfirmed,false,
+Kia,Forte,2011,2013,Emergency Key,,HY21,,81996-2M020,Unconfirmed,false,
+Kia,Forte,2013,2016,4-Button Flip Key,,OSLOKA-OKA870T,,95430-A7400,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2013,2016,4-Button Flip Key,4D,OSLOKA-OKA870T,,95430-A7500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2014,2016,4-Button Smart Key,,CQOFN00040,,95440-A7500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2014,2018,Emergency Key,,HY15,,81996-A7020,Unconfirmed,false,
+Kia,Forte,2017,2018,4-Button Flip Key,,OSLOKA-OKA875T,,95430-A7200,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+Kia,Forte,2017,2018,4-Button Flip Key,,OSLOKA-OKA875T,,95430-A7301,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+Kia,Forte,2017,2018,4-Button Smart Key,,CQOFN00100,,95440-A7600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2018,2023,4-Button Smart Key,8A,CQOFD00430,,95440-M6000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2019,2021,4-Button Flip Key,,CQOTD00660,,95430-M6000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2019,2021,4-Button Flip Key,8A,CQOTD00660,,95430-M6100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2019,2021,4-Button Smart Key,,CQOFD00430,,95440-M7000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2019,2020,4-Button Smart Key,,CQOFD00430,,95440-M6500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2019,2022,4-Button Smart Key,8A,CQOFD00430,,95440-M6010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2019,2021,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,Forte,2021,2024,4-Button Flip Key,8A,CQOTD00660,,95430-M6500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2022,2024,4-Button Flip Key,8A,CQOTD00660,,95430-M6500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2022,2024,4-Button Smart Key,4A,CQOFN01050,,95440-M7300,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte,2022,2024,5-Button Smart Key,,CQOFD00790,,95440-M7200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,Forte Koup,2010,2013,4-Button Smart Key,,SY5HMFNA04,,95440-1U050,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte Koup,2014,2016,4-Button Smart Key,,CQOFN00040,,95440-A7500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte5,2019,2021,4-Button Smart Key,,CQOFD00430,,95440-M7000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte5,2019,2022,4-Button Smart Key,8A,CQOFD00430,,95440-M6010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Forte5,2019,2021,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,K4,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4FA1U44,,95440-GG040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,K4,2024,2026,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,K5,2020,2023,4-Button Flip Key,,CQOTD00660,,95430-L2010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,K5,2020,2024,5-Button Smart Key,,CQOFD00790,,95440-L3430,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,K5,2021,2024,4-Button Flip Key,4A,CQOTD00660,,95430-L2110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,K5,2021,2022,5-Button Smart Key,,CQOFD00790,,95440-L3010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,K5,2023,2024,7-Button Smart Key,4A,TQ8-FOB-4F81U44,,95440-L2520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,K5,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M44,,95440-L2510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,K5,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M44,,95440-L2510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,K5,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F81U44,,95440-L2500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,K5,2024,2025,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,K5,2024,2026,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,K900,2014,2016,4-Button Smart Key,,SY5KHFNA433,,95440-3T300,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,K900,2015,2016,Emergency Key,,,,81996-3T000,Unconfirmed,false,
+Kia,K900,2018,2020,4-Button Smart Key,,TQ8-FOB-4F17,,95440-J6000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Niro,2017,2019,4-Button Flip Key,4D60,SY5JFRGE04,,95430-G5010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Niro,2017,2020,4-Button Smart Key,,TQ8-FOB-4F08,,95440-G5000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Niro,2017,2020,Emergency Key,,SY5JFFGE04,,81999-D4060,Unconfirmed,false,
+Kia,Niro,2019,2021,4-Button Flip Key,4D60,SY5SKRGE04,,95430-G5300,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Niro,2019,2022,4-Button Smart Key,,TQ8-FOB-4F24,,95440-G5010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Niro,2019,2023,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,Niro,2020,2022,4-Button Flip Key,4D60,SY5SKRGE04,,95430-G5310,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Niro,2020,2022,5-Button Smart Key,ID47,TQ8-FOB-4F34,,95440-G5020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Niro,2021,2024,4-Button Smart Key,4A,CQOFN01050,,95440-AT110,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Niro,2021,2022,5-Button Smart Key,,TQ8-FOB-4F34,,95440-G5025,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Niro,2022,2025,7-Button Smart Key,4A,CQOFD01340,,95440-AT011,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Niro,2023,2024,3-Button Flip Key,8A,CQOTG00520,,95430-AT010,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Niro,2023,2023,5-Button Smart Key,,,,95440-AT000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Niro,2023,2023,7-Button Smart Key,,CQOFD01340,,95440-AT010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Niro,2024,2025,5-Button Smart Key,4A,CQOFD00790,,95440-AT001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Niro EV,2024,2024,4-Button Smart Key,4A,CQOFN01050,,95440-AT111,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Optima,2006,2010,4-Button Keyless Entry Remote,,OSLOKA-310T,,95430-2G200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2009,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2010,2013,4-Button Keyless Entry Remote,,NYOSEKS-TF10ATX,,95430-2T000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2010,2013,4-Button Smart Key,,SY5HMFNA04,,95440-1U050,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2011,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,
+Kia,Optima,2011,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,
+Kia,Optima,2014,2015,4-Button Flip Key,4D60,NYODD4TX1306-TFL,,95430-2T560,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2014,2014,4-Button Flip Key,,NYODD4TX1306-TFL,,95430-2T560,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2014,2015,4-Button Flip Key,,NYODD4TX1306-TFL,,95430-2T560,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2014,2015,4-Button Smart Key,,SY5XMFNA04,,95440-2T510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2014,2015,4-Button Smart Key,,SY5XMFNA04,,95440-1W101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2014,2015,4-Button Smart Key,,SY5XMFNA433,,95440-2T500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2014,2015,4-Button Smart Key,ID46,SY5XMFNA433,,95440-2P500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Optima,2014,2015,4-Button Smart Key,,SY5XMFNA433,,95440-1W001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2014,2015,Emergency Key,,,,81996-A4040,Unconfirmed,false,
+Kia,Optima,2014,2015,Emergency Key,,KK10,,81996-A4040,Unconfirmed,false,
+Kia,Optima,2015,2020,3-Button Flip Key,4D60,8325A-JFRGE04,,95430-D4000,Unconfirmed,false,
+Kia,Optima,2015,2015,4-Button Flip Key,,NYODD4TX1306-TFL,,95430-2T560,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2016,2020,4-Button Smart Key,,SY5JFFGE04,,95440-D4000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Optima,2016,2020,Emergency Key,,SY5JFFGE04,,81999-D4060,Unconfirmed,false,
+Kia,Rio,2006,2011,3-Button Keyless Entry Remote,,PINHA-T038,,95430-1G012,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Rio,2011,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-1U050,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2012,2013,3-Button Flip Key,ID46,TQ8HM-T034,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Rio,2012,2017,Emergency Key,,,,81996-A4040,Unconfirmed,false,
+Kia,Rio,2012,2017,Emergency Key,,KK10,,81996-A4040,Unconfirmed,false,
+Kia,Rio,2014,2017,4-Button Flip Key,,,,95430-1W023,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2014,2014,4-Button Flip Key,4D60,TQ8-RKE-3F05,,95430-1W033,Unconfirmed,false,
+Kia,Rio,2015,2017,4-Button Smart Key,,SY5XMFNA04,,95440-2T510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2015,2017,4-Button Smart Key,,SY5XMFNA04,,95440-1W101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2018,2020,4-Button Flip Key,4D60,NYOSYEC4TX1611,,95430-H9800,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2018,2021,4-Button Smart Key,,NYOSYEC4FOB1611,,95440-H9100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2018,2021,Emergency Key,,SY5JFFGE04,,81999-D4060,Unconfirmed,false,
+Kia,Rio,2020,2023,4-Button Flip Key,4D60,NYOSYEC4TX1611,,95430-H9850,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio,2022,2023,4-Button Smart Key,,NYOSYEC4FOB1611,,95440-H9150,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rio5,2018,2020,4-Button Flip Key,4D60,NYOSYEC4TX1611,,95430-H9800,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rondo,2007,2010,4-Button Keyless Entry Remote,,,,95430-3E511,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Rondo,2007,2010,4-Button Keyless Entry Remote,,PLNHM-T011,,95430-3E511,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Rondo,2012,2012,3-Button Flip Key,ID46,TQ8-RKE-3F02,,95430-1D211,Unconfirmed,false,
+Kia,Rondo,2014,2016,4-Button Flip Key,4D60,,,95430-A4300,Unconfirmed,false,
+Kia,Sedona,2003,2005,3-Button Keyless Entry Remote,,PLNBONTEC-T009,,95430-3E101,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sedona,2006,2014,3-Button Keyless Entry Remote,,SV3-VQTXNA13,,95430-4D032,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sedona,2006,2008,5-Button Keyless Entry Remote,,SV3-100060234,,95430-4D041,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
+Kia,Sedona,2015,2017,4-Button Flip Key,4D60,TQ8-RKE-4F19,,95430-A9110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sedona,2015,2018,4-Button Smart Key,,SY5YPFGE04,,95440-A9100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sedona,2015,2019,4-Button Smart Key,ID47,SY5YPFGE04,,95440-A9100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sedona,2015,2021,6-Button Smart Key,ID47,SY5YPFGE06,,95440-A9300,Unconfirmed,false,
+Kia,Sedona,2015,2021,6-Button Smart Key,,SY5YPFGE06,,95440-A9300,Unconfirmed,false,
+Kia,Sedona,2015,2021,6-Button Smart Key,,SY5YPFGE06,,95440-A9300,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic"
+Kia,Sedona,2015,2021,Emergency Key,,,,81996-A4040,Unconfirmed,false,
+Kia,Sedona,2015,2021,Emergency Key,,KK10,,81996-A4040,Unconfirmed,false,
+Kia,Sedona,2019,2019,4-Button Flip Key,4D60,,,95430-A9160,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sedona,2019,2019,4-Button Flip Key,4D60,TQ8-RKE-4F19,,95430-A9160,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Seltos,2020,2022,4-Button Smart Key,,NYOSYEC5FOB1907,,95440-Q5410,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Seltos,2020,2021,5-Button Smart Key,,NYOSYEK4TX1907,,95440-Q5000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Seltos,2021,2022,3-Button Flip Key,8A,NYOSYEK4TX1907,,95430-Q5500,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Seltos,2021,2023,4-Button Smart Key,,KFOB-3G-5BT,,95440-Q5400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Seltos,2021,2021,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,Seltos,2022,2024,3-Button Flip Key,8A,NYOSYEC4TX1907,,95430-Q5510,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Seltos,2022,2024,4-Button Smart Key,,NYOSYEC5FOB1907,,95440-Q5410,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Seltos,2022,2024,4-Button Smart Key,6A,NYOSYECFOB1907,,95440-Q5710,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Seltos,2022,2022,5-Button Smart Key,6A,MBEC5FOB2207,,95440-Q5510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Seltos,2022,2024,5-Button Smart Key,4A,NYOSYEC5FOB1907,,95440-Q5700,Unconfirmed,false,
+Kia,Seltos,2023,2024,3-Button Flip Key,8A,NYOSYEC4TX1907,,95430-Q5850,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Seltos,2023,2024,4-Button Smart Key,6A,NYOSYECFOB1907,,95440-Q5710,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Seltos,2024,2025,4-Button Flip Key,8A,NYOSYEC4TX1907,,95430-Q5750,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sorento,2003,2005,3-Button Keyless Entry Remote,,PLNBONTEC-T009,,95430-3E101,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sorento,2003,2006,4-Button Keyless Entry Remote,,PLNBONTEC-T016,,95430-3E420,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sorento,2007,2009,4-Button Keyless Entry Remote,,,,95430-3E511,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sorento,2007,2010,4-Button Keyless Entry Remote,,PLNHM-T011,,95430-3E511,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sorento,2011,2013,3-Button Keyless Entry Remote,,PINHA-T036,,95430-1U000,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sorento,2011,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sorento,2011,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,
+Kia,Sorento,2011,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,
+Kia,Sorento,2013,2015,4-Button Flip Key,,TQ8-RKE-3F05,,95430-1U500,Unconfirmed,false,
+Kia,Sorento,2013,2015,4-Button Smart Key,,SY5XMFNA04,,95440-1U500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sorento,2013,2015,Emergency Key,,,,81996-A4040,Unconfirmed,false,
+Kia,Sorento,2013,2015,Emergency Key,,KK10,,81996-A4040,Unconfirmed,false,
+Kia,Sorento,2014,2015,4-Button Smart Key,,SY5XMFNA04,,95440-2T510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sorento,2014,2015,4-Button Smart Key,,SY5XMFNA04,,95440-1W101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sorento,2014,2014,4-Button Smart Key,ID46,SY5XMFNA433,,95440-2P500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sorento,2014,2020,Emergency Key,,TQ8-FOB-4F06,,81996-C5040,Unconfirmed,false,
+Kia,Sorento,2015,2018,4-Button Smart Key,,TQ8-FOB-4F06,,95440-C6000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sorento,2015,2018,4-Button Smart Key,,TQ8-FOB-4F06,,95440-C5000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sorento,2016,2020,4-Button Flip Key,,OSLOKA-910T,,95430-C5100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sorento,2016,2020,4-Button Flip Key,4D,OSLOKA-910T,,95430-C5110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sorento,2019,2020,4-Button Smart Key,,TQ8-FOB-4F06,,95440-C6100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sorento,2020,2023,3-Button Flip Key,4A,SY5SKRGE03,,95430-R0000,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sorento,2020,2022,4-Button Smart Key,4A,SY5MQ4AFGE04,,95440-R5010,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Sorento,2020,2024,5-Button Smart Key,4A,SY5MQ4FGE05,,95440-P2020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sorento,2020,2021,7-Button Smart Key,,SY5MQ4FGE07,,95440-P2200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Sorento,2021,2023,3-Button Flip Key,4A,SY5SKRGE03,,95430-R5100,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sorento,2021,2023,4-Button Smart Key,4A,SY5MQ4AFGE04,,95440-R5000,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Sorento,2021,2021,5-Button Smart Key,4A,SY5MQ4FGE05,,95440-P2000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sorento,2021,2023,5-Button Smart Key,,SY5MQ4FGE05,,95440-P2010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sorento,2023,2024,4-Button Smart Key,,TQ8-FOB-4F61M44,,95440-P2AK0,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Sorento,2023,2026,4-Button Smart Key,,TQ8-FOB-4F61M44,,95440-P2AK0,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Sorento,2023,2024,5-Button Smart Key,,TQ8-FOB-4F81U44,,95440-P2AB0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sorento,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F61U44,,95440-P2AD0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Sorento,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M44,,95440-P2AA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sorento,2024,2026,5-Button Smart Key,,TQ8-FOB-4F61M44,,95440-R5AA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sorento,2024,2025,7-Button Smart Key,,TQ8-FOB-4F81M44,,95440-P2AC0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Sorento,2024,2025,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,Sorento,2024,2027,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,Soul,2008,2013,3-Button Flip Key,ID46,,,95430-2K240,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Soul,2009,2012,3-Button Keyless Entry Remote,,NYOSEKS-AM08TX,,95430-2K100,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Soul,2010,2012,3-Button Flip Key,,,,95430-2K250,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Soul,2010,2013,3-Button Flip Key,,,,95430-2K250,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Soul,2010,2013,3-Button Flip Key,,NYOSEKSAM11ATX,,95430-2K340,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Soul,2011,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Soul,2011,2013,4-Button Smart Key,,SY5HMFNA04,,95440-3W000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2011,2013,Emergency Key,,HY15,,81996-2M020,Unconfirmed,false,
+Kia,Soul,2011,2013,Emergency Key,,HY21,,81996-2M020,Unconfirmed,false,
+Kia,Soul,2014,2017,4-Button Smart Key,,CQOFN00100,,95440-B2AA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2014,2016,4-Button Smart Key,8A,CQOFN00100,,95440-B2200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2014,2017,4-Button Smart Key,,CQOFN00100,,95440-B2000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2014,2016,4-Button Smart Key,,CQOFN00100,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Soul,2014,2018,Emergency Key,,HY20,,81996-A2010,Unconfirmed,false,
+Kia,Soul,2015,2019,4-Button Flip Key,,OSLOKA-875T,,95430-B2000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2015,2016,4-Button Smart Key,,CQOFN00100,,95440-E4000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2017,2018,4-Button Smart Key,,CQOFN00100,,95440-B2AC0,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Soul,2018,2018,4-Button Flip Key,4D60,OSLOKA-875T,,95430-B2001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2019,2022,4-Button Flip Key,4A,SY5SKRGE04,,95430-K0110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2019,2021,4-Button Flip Key,4A,SY5SKRGE04,,95430-K0100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Soul,2019,2020,4-Button Smart Key,,SY5SKFGE04,,95440-K0000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Soul,2019,2021,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,Soul,2020,2021,5-Button Smart Key,4A,SY5MQ4FGE05,,95440-K0300,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Soul,2021,2024,3-Button Flip Key,4A,SY5SKRGE03,,95430-K0120,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Soul,2023,2024,4-Button Smart Key,4A,SY5MQ4AFGE04,,95440-K0320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Soul,2023,2024,4-Button Smart Key,4A,SY5MQ4AMFGE04,,95440-K0510,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Soul,2023,2024,4-Button Smart Key,4A,SY5SKFGE04,,95440-K0010,Unconfirmed,false,
+Kia,Soul EV,2019,2021,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,Spectra,2004,2006,4-Button Keyless Entry Remote,,OSLOKA-630T,,95430-2F310,Unconfirmed,false,
+Kia,Spectra,2007,2009,4-Button Keyless Entry Remote,,OKA-674T,,95430-2F951,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sportage,2005,2010,3-Button Keyless Entry Remote,,,,95430-1F160,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sportage,2005,2006,3-Button Keyless Entry Remote,,NYOSEKS-07TX,,95430-1M100,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sportage,2010,2013,3-Button Flip Key,,NYOSEKSAM11ATX,,95430-3W701,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sportage,2010,2013,3-Button Flip Key,,NYOSEKSAM11ATX,,95430-3W710,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sportage,2010,2013,3-Button Keyless Entry Remote,,NYOSEKS-SL10ATX,,95430-3W100,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sportage,2011,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sportage,2011,2013,4-Button Smart Key,,SY5HMFNA04,,95440-3W000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2011,2013,Emergency Key,,HY15,,81996-2M020,Unconfirmed,false,
+Kia,Sportage,2011,2013,Emergency Key,,HY21,,81996-2M020,Unconfirmed,false,
+Kia,Sportage,2014,2016,4-Button Flip Key,,,,95430-3W350,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2014,2016,4-Button Smart Key,,SY5XMFNA433,,95440-3W500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Sportage,2014,2016,4-Button Smart Key,ID46,SY5XMFNA433,,95440-2P500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2014,2019,Emergency Key,,,,81996-A4040,Unconfirmed,false,
+Kia,Sportage,2014,2019,Emergency Key,,KK10,,81996-A4040,Unconfirmed,false,
+Kia,Sportage,2016,2020,4-Button Flip Key,4D60,TQ8-RKE-4F27,,95430-D9000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2016,2021,4-Button Flip Key,,TQ8-RKE-4F27,,95430-D9100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2016,2019,4-Button Smart Key,,TQ8-FOB-4F08,,95440-D9000,Unconfirmed,false,
+Kia,Sportage,2018,2020,4-Button Smart Key,,TQ8-FOB-4F08,,95440-D9500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2019,2022,Emergency Key,,,,81996-D9600,Unconfirmed,false,
+Kia,Sportage,2021,2022,4-Button Flip Key,4D60,TQ8-RKE-4F42,,95430-D9400,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2021,2021,4-Button Flip Key,4D60,TQ8-RKE-4F42,,95430-D9400,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2021,2024,4-Button Smart Key,4A,SY5MQ4AFGE04,,95440-P1400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Sportage,2021,2022,4-Button Smart Key,,TQ8-FOB-4F24,,95440-D9600,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2021,2024,5-Button Smart Key,,SY5MQ4FGE05,,95440-P1100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sportage,2021,2023,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,Sportage,2022,2022,3-Button Smart Key,4A,SV5MQ4FGE03,,95440-P1600,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
+Kia,Sportage,2022,2024,4-Button Flip Key,4A,,,95430-P1100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Sportage,2022,2024,5-Button Smart Key,4A,SY5MQ4FGE05,,95440-P1110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sportage,2022,2025,7-Button Smart Key,4A,SY5MQ4FGE07,,95440-P1210,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Sportage,2023,2023,3-Button Flip Key,4A,SY5SKRGE03,,95430-R0000,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sportage,2023,2025,3-Button Flip Key,4A,SY5SKRGE03,,95430-R0000,Unconfirmed,false,"Lock, Unlock, Panic"
+Kia,Sportage,2023,2024,4-Button Smart Key,4A,SY5MQ4AFGE04,,95440-P1410,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Sportage,2023,2024,7-Button Smart Key,,SY5MQ4FGE07,,95440-P1200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
+Kia,Sportage,2024,2026,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,Sportage,2025,2026,4-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-P1AL0,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Sportage,2025,2026,5-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-P1AE0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sportage,2025,2026,5-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-DWAE0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sportage,2025,2026,5-Button Smart Key,4A,TQ8-FOB-4FA1U44,,95440-P1AB0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Sportage,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4FA1U44,,95440-P1AC0,Unconfirmed,false,
+Kia,Sportage,2026,2027,4-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-DWAL0,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Stinger,2018,2021,4-Button Smart Key,,TQ8-FOB-4F15,,95440-J5200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Stinger,2018,2020,4-Button Smart Key,,TQ8-FOB-4F15,,95440-J5000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Stinger,2018,2021,4-Button Smart Key,,TQ8-FOB-4F17,,95440-J5010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Stinger,2018,2021,Emergency Key,,KK12,,81996-J5000,Unconfirmed,false,
+Kia,Stinger,2018,2021,Emergency Key,,TQ8-FOB-4F15,,81996-J5000,Unconfirmed,false,
+Kia,Stinger,2019,2020,4-Button Smart Key,,HMO-FOB-4F17,,95440-J5210,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Stinger,2019,2021,4-Button Smart Key,,TQ8-FOB-4F17,,95440-J5010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Kia,Stinger,2019,2021,Emergency Key,,KK12,,81996-J5000,Unconfirmed,false,
+Kia,Stinger,2019,2021,Emergency Key,,TQ8-FOB-4F15,,81996-J5000,Unconfirmed,false,
+Kia,Stinger,2021,2023,4-Button Smart Key,,TQ8-FOB-4F46,,95440-J5550,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Stinger,2021,2023,5-Button Smart Key,ID47,TQ8-FOB-4F46,,95440-J5501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,Stinger,2022,2023,5-Button Smart Key,ID47,TQ8-FOB-4F46,,95440-J5500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Kia,Telluride,2020,2022,4-Button Smart Key,,TQ8-FOB-4F24,,95440-S9000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Telluride,2020,2021,5-Button Smart Key,,TQ8-FOB-4F34,,95440-S9200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Telluride,2020,2020,Emergency Key,,SY5SKRGE04,,81999-J7020,Unconfirmed,false,
+Kia,Telluride,2022,2023,4-Button Smart Key,,TQ8-FOB-4F71,,95440-S9530,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Telluride,2022,2025,4-Button Smart Key,,TQ8-FOB-4F71,,95440-S9630,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Kia,Telluride,2022,2022,5-Button Smart Key,ID47,TQ8-FOB-4F34,,95440-S9330,Unconfirmed,false,
+Kia,Telluride,2022,2023,5-Button Smart Key,,TQ8-FOB-4F71,,95440-S9510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Telluride,2022,2023,5-Button Smart Key,ID47,TQ8-FOB-4F71,,95440-S9540,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Telluride,2022,2024,5-Button Smart Key,ID47,TQ8-FOB-4F71,,95440-S9610,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Kia,Telluride,2023,2023,4-Button Smart Key,ID47,TQ8-FOB-4F71,,95440-S9550,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Kia,Telluride,2024,2025,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,Telluride,2024,2027,Emergency Key,,,,81996-P2800,Unconfirmed,false,
+Kia,Telluride,2027,2027,4-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-P8020,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
