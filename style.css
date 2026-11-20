@@ -58,3 +58,8 @@ details.also p { margin: 4px 0 4px 12px; font-size: 0.92rem; }
 .card .spec-label { display: block; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #5b6673; }
 .card .spec-value { display: block; margin-top: 2px; font-weight: 600; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
 @media (max-width: 480px) { .card .specs { grid-template-columns: 1fr 1fr; } }
+.resetrow { margin-top: 12px; }
+button.reset { display: block; width: 100%; padding: 12px; font-size: 1rem; font-weight: 600; border: 1px solid #b9c2cc; border-radius: 8px; background: #fff; color: #1c2530; cursor: pointer; }
+button.reset[hidden] { display: none; }
+button.reset:hover { background: #eef2f6; }
+button.reset:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }

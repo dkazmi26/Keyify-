@@ -3,6 +3,7 @@ const modelSel = document.getElementById("model");
 const yearSel = document.getElementById("year");
 const partInput = document.getElementById("partq");
 const results = document.getElementById("results");
+const resetBtn = document.getElementById("reset");
 
 const PROGRAMMING_OPTIONS = ["DIY", "Locksmith", "Dealer only", "Unconfirmed"];
 const CARDS_SHOWN_FIRST = 5;
@@ -72,6 +73,7 @@ makeSel.addEventListener("change", () => {
   yearSel.disabled = true;
   partInput.value = "";
   results.innerHTML = "";
+  updateReset();
 });
 
 modelSel.addEventListener("change", () => {
@@ -82,14 +84,36 @@ modelSel.addEventListener("change", () => {
   yearSel.disabled = !modelSel.value;
   partInput.value = "";
   results.innerHTML = "";
+  updateReset();
 });
 
 yearSel.addEventListener("change", () => {
   partInput.value = "";
   showVehicleResults();
+  updateReset();
 });
 
-partInput.addEventListener("input", showPartResults);
+partInput.addEventListener("input", () => {
+  showPartResults();
+  updateReset();
+});
+
+// "Start over" shows only while something is chosen or typed. It puts the
+// page back to how it first loaded so a new vehicle can be entered.
+function updateReset() {
+  resetBtn.hidden = !(makeSel.value || partInput.value.trim());
+}
+
+resetBtn.addEventListener("click", () => {
+  makeSel.value = "";
+  fill(modelSel, [], "Select model"); modelSel.disabled = true;
+  fill(yearSel, [], "Select year"); yearSel.disabled = true;
+  partInput.value = "";
+  results.innerHTML = "";
+  updateReset();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+  makeSel.focus({ preventScroll: true });
+});
 
 // "Avalon 2013-2018 · Corolla 2014-2020", grouped by make.
 // The searched make is left unlabelled, other makes get a label.
@@ -235,6 +259,11 @@ function showMoreButton(extra) {
   return `<button type="button" class="more" data-action="show-more">Show ${extra} more ${extra === 1 ? "key" : "keys"}</button>`;
 }
 
+// Same "Start over" at the end of the results, so nobody has to scroll back up.
+function startOverButton() {
+  return '<button type="button" class="more" data-action="reset">Start over</button>';
+}
+
 function showVehicleResults() {
   const year = Number(yearSel.value);
   if (!year) { results.innerHTML = ""; return; }
@@ -248,7 +277,7 @@ function showVehicleResults() {
   results.innerHTML =
     `<p class="count">${cards.length} ${cards.length === 1 ? "key" : "keys"} for this vehicle.</p>` +
     cards.map((g, i) => cardHtml(g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
-    showMoreButton(cards.length - CARDS_SHOWN_FIRST);
+    showMoreButton(cards.length - CARDS_SHOWN_FIRST) + startOverButton();
 }
 
 function showPartResults() {
@@ -272,14 +301,16 @@ function showPartResults() {
   results.innerHTML =
     `<p class="count">${cards.length} ${cards.length === 1 ? "key matches" : "keys match"} "${h(q)}".</p>` +
     cards.map((g, i) => cardHtml(g, ctx, i >= CARDS_SHOWN_FIRST)).join("") +
-    showMoreButton(cards.length - CARDS_SHOWN_FIRST);
+    showMoreButton(cards.length - CARDS_SHOWN_FIRST) + startOverButton();
 }
 
 // One click handler for the "+N more" and "Show more" buttons.
 results.addEventListener("click", e => {
   const btn = e.target.closest("button[data-action]");
   if (!btn) return;
-  if (btn.dataset.action === "show-more") {
+  if (btn.dataset.action === "reset") {
+    resetBtn.click();
+  } else if (btn.dataset.action === "show-more") {
     results.querySelectorAll("[data-extra]").forEach(c => { c.hidden = false; });
     btn.remove();
   } else if (btn.dataset.action === "more-parts") {
