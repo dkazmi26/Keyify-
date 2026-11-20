@@ -397,64 +397,64 @@ GMC,Safari,2000,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirm
 GMC,Safari,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,
 GMC,Safari,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 GMC,Safari,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-GMC,Savana,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
-GMC,Savana,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15752330,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
-GMC,Savana,2007,2023,4-Button Keyless Entry Remote,,,,15883405,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
-GMC,Savana,2007,2017,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Savana,2008,2016,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Savana,2008,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Savana,2008,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Savana,2008,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Savana,2008,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
-GMC,Savana,2010,2024,5-Button Keyless Entry Remote,,,,20970808,Unconfirmed,false,
-GMC,Savana,2015,2019,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Savana,2015,2017,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Savana,2015,2020,Transponder Key,ID46,B120,,,Unconfirmed,false,
-GMC,Savana,2019,2023,Transponder Key,ID46,B120,,,Unconfirmed,false,
-GMC,Sierra,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2007,2013,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2007,2009,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-GMC,Sierra,2007,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2007,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
-GMC,Sierra,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2014,2020,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2014,2019,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2014,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2014,2020,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-GMC,Sierra,2014,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2014,2021,Emergency Key,,HU100,,,Unconfirmed,false,
-GMC,Sierra,2014,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
-GMC,Sierra,2014,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-GMC,Sierra,2014,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-GMC,Sierra,2015,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
-GMC,Sierra,2015,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-GMC,Sierra,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-GMC,Sierra,2019,2021,3-Button Keyless Entry Remote,,,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
-GMC,Sierra,2019,2021,4-Button Keyless Entry Remote,,,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-GMC,Sierra,2019,2021,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-GMC,Sierra,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2019,2020,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2019,2021,5-Button Smart Key,ID46,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2019,2020,5-Button Smart Key,,HYQ1EA,,13508398,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2019,2021,5-Button Smart Key,,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2019,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-GMC,Sierra,2020,2020,4-Button Smart Key,,HYQ1EA,,13584513,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-GMC,Sierra,2021,2022,4-Button Smart Key,,YG0G21TB2,,13548441,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-GMC,Sierra,2021,2022,4-Button Smart Key,,YG0G21TB2,,13548439,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-GMC,Sierra,2021,2021,5-Button Smart Key,,HYQ1ES,,13522904,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2022,2024,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2022,2026,5-Button Smart Key,4A,YG0G21TB2,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2022,2024,5-Button Smart Key,,YG0G21TB2,,13548440,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2022,2023,5-Button Smart Key,,YG0G21TB2,,13548440,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-GMC,Sierra,2022,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
-GMC,Sierra,2022,2023,Emergency Key,,,,13536164,Unconfirmed,false,
+GMC,Savana 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
+GMC,Savana 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15752330,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
+GMC,Savana 1500/2500/3500,2007,2023,4-Button Keyless Entry Remote,,,,15883405,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
+GMC,Savana 1500/2500/3500,2007,2017,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2008,2016,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Savana 1500/2500/3500,2008,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Savana 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2008,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Savana 1500/2500/3500,2010,2024,5-Button Keyless Entry Remote,,,,20970808,Unconfirmed,false,
+GMC,Savana 1500/2500/3500,2015,2019,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Savana 1500/2500/3500,2015,2017,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2015,2020,Transponder Key,ID46,B120,,,Unconfirmed,false,
+GMC,Savana 1500/2500/3500,2019,2023,Transponder Key,ID46,B120,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2007,2013,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2007,2009,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2007,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2007,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2014,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2014,2021,Emergency Key,,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2015,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2015,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,4-Button Keyless Entry Remote,,,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,ID46,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,5-Button Smart Key,,HYQ1EA,,13508398,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2020,2020,4-Button Smart Key,,HYQ1EA,,13584513,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2021,2022,4-Button Smart Key,,YG0G21TB2,,13548441,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2021,2022,4-Button Smart Key,,YG0G21TB2,,13548439,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2021,2021,5-Button Smart Key,,HYQ1ES,,13522904,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2024,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2026,5-Button Smart Key,4A,YG0G21TB2,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2024,5-Button Smart Key,,YG0G21TB2,,13548440,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2023,5-Button Smart Key,,YG0G21TB2,,13548440,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2023,Emergency Key,,,,13536164,Unconfirmed,false,
 GMC,Sonoma,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
 GMC,Sonoma,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
 GMC,Terrain,2010,2019,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
