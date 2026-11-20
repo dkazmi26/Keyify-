@@ -28,7 +28,6 @@ Lincoln,MKZ,2011,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
 Lincoln,Mark LT,2005,2014,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
 Lincoln,Navigator,2003,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Lincoln,Town Car,2003,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,B-Series,2001,2010,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
 Mercury,Grand Marquis,2003,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Mercury,Marauder,2003,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
 Mercury,Mariner,2005,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
@@ -92,7 +91,6 @@ Ford,Escape,2001,2004,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
 Ford,Focus,2000,2005,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
 Ford,Thunderbird,2002,2002,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
 Lincoln,LS,2000,2002,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
-Mazda,Tribute,2001,2004,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
 Ford,Crown Victoria,2003,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Ford,E-Series,2004,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Ford,Edge,2007,2013,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
@@ -119,8 +117,6 @@ Lincoln,MKZ,2007,2013,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Lincoln,Mark LT,2006,2014,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Lincoln,Navigator,2002,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Lincoln,Town Car,2003,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mazda,B-Series,2001,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mazda,Tribute,2005,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Mercury,Grand Marquis,2002,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Mercury,Marauder,2003,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
 Mercury,Mariner,2005,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
@@ -172,8 +168,6 @@ Ford,Taurus,2008,2009,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,fa
 Ford,Windstar,1998,2004,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Lincoln,Mark LT,2006,2008,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Lincoln,Navigator,1998,2002,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,B-Series,1999,2009,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Tribute,2001,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Cougar,2000,2002,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Mariner,2005,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Mountaineer,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
@@ -230,8 +224,6 @@ Ford,Windstar,2001,2003,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,fals
 Lincoln,MKX,2006,2013,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk"
 Lincoln,MKZ,2007,2016,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk"
 Lincoln,Mark LT,2006,2008,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,B-Series,2001,2009,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Tribute,2007,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Mariner,2005,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Monterey,2004,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
 Mercury,Mountaineer,2000,2010,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
@@ -266,8 +258,6 @@ Lincoln,MKZ,2007,2013,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,Mark LT,2006,2014,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,Navigator,2002,2015,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,Town Car,2003,2012,Transponder Key,,,,,Unconfirmed,false,
-Mazda,B-Series,2001,2012,Transponder Key,,,,,Unconfirmed,false,
-Mazda,Tribute,2005,2011,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Grand Marquis,2002,2011,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Marauder,2003,2007,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Mariner,2005,2011,Transponder Key,,,,,Unconfirmed,false,
@@ -437,7 +427,6 @@ Lincoln,MKX,2007,2013,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,MKZ,2007,2017,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,Navigator,2003,2015,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,Zephyr,2006,2009,Transponder Key,,,,,Unconfirmed,false,
-Mazda,B-Series,2001,2009,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Grand Marquis,2003,2011,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Marauder,2003,2005,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Montego,2005,2008,Transponder Key,,,,,Unconfirmed,false,
@@ -600,8 +589,6 @@ Lincoln,Mark LT,2006,2014,Transponder Key,80-Bit,,,,Unconfirmed,false,
 Lincoln,Navigator,2003,2015,Transponder Key,80-Bit,,,,Unconfirmed,false,
 Lincoln,Town Car,2003,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,
 Lincoln,Zephyr,2006,2009,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mazda,B-Series,2001,2009,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mazda,Tribute,2005,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
 Mercury,Grand Marquis,2003,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
 Mercury,Marauder,2003,2005,Transponder Key,80-Bit,,,,Unconfirmed,false,
 Mercury,Mariner,2005,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
@@ -723,7 +710,6 @@ Ford,Taurus,1996,1999,Transponder Key,,,,,Unconfirmed,false,
 Ford,Windstar,1999,2000,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,Continental,1998,2002,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,Town Car,1998,2002,Transponder Key,,,,,Unconfirmed,false,
-Mazda,B-Series,1999,2000,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Grand Marquis,1998,2002,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Mountaineer,1998,2000,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Sable,1996,1999,Transponder Key,,,,,Unconfirmed,false,
@@ -757,7 +743,6 @@ Ford,Escape,2001,2004,Transponder Key,,,,,Unconfirmed,false,
 Ford,Focus,2000,2005,Transponder Key,,,,,Unconfirmed,false,
 Ford,Thunderbird,2002,2002,Transponder Key,,,,,Unconfirmed,false,
 Lincoln,LS,2000,2002,Transponder Key,,,,,Unconfirmed,false,
-Mazda,Tribute,2001,2004,Transponder Key,,,,,Unconfirmed,false,
 Ford,E-Series,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Ford,Econoline,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Ford,Edge,2007,2015,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
@@ -777,8 +762,6 @@ Ford,Taurus X,2008,2009,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,
 Ford,Windstar,1998,2003,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Lincoln,Mark LT,2006,2008,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Lincoln,Navigator,1998,2002,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,B-Series,1999,2009,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Tribute,2001,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Cougar,2000,2002,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Mariner,2005,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
 Mercury,Mountaineer,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
@@ -811,7 +794,6 @@ Lincoln,MKX,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unc
 Lincoln,MKZ,2006,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Lincoln,Navigator,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Lincoln,Zephyr,2006,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Tribute,2007,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Mercury,Mariner,2005,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Mercury,Milan,2006,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
 Mercury,Montego,2007,2007,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
@@ -830,7 +812,6 @@ Ford,Orion,1993,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,
 Ford,Puma,1998,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
 Ford,Scorpio,1995,1998,Transponder Key,,T30S30FD,,,Unconfirmed,false,
 Ford,Transit,1995,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Mazda,121,1997,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,
 Mercury,Cougar,1997,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
 Ford,Mustang,2022,2023,5-Button Smart Key,,,,MR3T-15K601-BB,Unconfirmed,false,
 Ford,Transit Connect,2019,2023,4-Button Smart Key,,M3N-A2C931423,,164-R8234,Unconfirmed,false,
@@ -885,7 +866,6 @@ Ford,Orion,1993,2001,Transponder Key,,,,,Unconfirmed,false,
 Ford,Puma,1998,2002,Transponder Key,,,,,Unconfirmed,false,
 Ford,Scorpio,1995,1998,Transponder Key,,,,,Unconfirmed,false,
 Ford,Transit,1995,2002,Transponder Key,,,,,Unconfirmed,false,
-Mazda,121,1997,2001,Transponder Key,,,,,Unconfirmed,false,
 Mercury,Cougar,1997,2002,Transponder Key,,,,,Unconfirmed,false,
 Ford,Bronco,2025,2025,4-Button Smart Key,,M3N-A3C108397,,164-R8412,Unconfirmed,false,
 Ford,C-Max,2013,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
@@ -922,7 +902,6 @@ Lincoln,MKZ,2007,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
 Lincoln,Mark LT,2006,2008,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
 Lincoln,Navigator,2004,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
 Lincoln,Town Car,2004,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Mazda,Tribute,2007,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
 Mercury,Grand Marquis,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
 Mercury,Mariner,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
 Mercury,Milan,2006,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
