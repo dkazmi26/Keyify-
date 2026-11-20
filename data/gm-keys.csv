@@ -1,0 +1,551 @@
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
+Buick,Allure,2005,2005,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Buick,Allure,2010,2012,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Allure,2010,2012,4-Button Flip Key,,,,13504283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Allure,2010,2012,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Allure,2010,2012,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Allure,2010,2012,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Allure,2010,2012,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Allure,2010,2012,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Allure,2010,2012,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Allure,2010,2012,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Allure,2010,2012,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Allure,2010,2012,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Allure,2010,2012,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Allure,2010,2012,5-Button Flip Key,ID46,P4OMK74946931,,13504202,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Allure,2010,2012,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Allure,2010,2012,Transponder Key,ID46,B119,,,Unconfirmed,false,
+Buick,Allure,2010,2012,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+Buick,Cascada,2016,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
+Buick,Cascada,2016,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+Buick,Cascada,2017,2019,Emergency Key,,HU100,,13510389,Unconfirmed,false,
+Buick,Century,1997,2000,4-Button Keyless Entry Remote,,ABO0204T,,10246215,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Enclave,2007,2017,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Enclave,2007,2017,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Enclave,2007,2017,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Buick,Enclave,2007,2017,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Buick,Enclave,2008,2016,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Enclave,2008,2017,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Buick,Enclave,2008,2012,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Enclave,2008,2017,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Enclave,2008,2016,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Enclave,2008,2017,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Enclave,2008,2015,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Buick,Enclave,2008,2017,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Buick,Enclave,2018,2020,5-Button Smart Key,,HYQ4EA,,13521090,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Buick,Enclave,2018,2020,5-Button Smart Key,ID46,HYQ4EA,,13521090,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Buick,Enclave,2018,2019,Emergency Key,,HU100,,13510389,Unconfirmed,false,
+Buick,Encore,2013,2018,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Encore,2013,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
+Buick,Encore,2013,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+Buick,Encore,2013,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+Buick,Encore,2014,2018,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Encore,2014,2018,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Encore,2014,2018,4-Button Flip Key,,,,13585811,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Encore,2014,2021,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Encore,2014,2023,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Encore,2014,2023,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Encore,2014,2019,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Encore,2014,2019,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2014,2020,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2014,2021,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2014,2019,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2014,2023,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2014,2019,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2014,2019,5-Button Flip Key,ID46,P4OMK74946931,,13504202,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2014,2019,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Encore,2017,2020,3-Button Smart Key,,HYQ4AA,,13508417,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Encore,2017,2020,4-Button Smart Key,,HYQ4AA,,13506665,Unconfirmed,false,
+Buick,Encore,2017,2020,4-Button Smart Key,,HYQ4AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Encore,2017,2020,4-Button Smart Key,ID46,HYQ4AA,,13506665,Unconfirmed,false,
+Buick,Encore,2017,2018,4-Button Smart Key,,HYQ4AA,,13532383,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Encore,2017,2018,Emergency Key,,HU100,,13510389,Unconfirmed,false,
+Buick,Encore,2020,2021,5-Button Smart Key,,HYQ4EA,,13530511,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Buick,Encore,2021,2022,3-Button Smart Key,,HYQ4AS,,13534466,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Encore,2021,2022,4-Button Smart Key,ID46,HYQ4AS,,13534465,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Encore GX,2021,2023,4-Button Smart Key,,HYQ4ES,,13530513,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Encore GX,2021,2022,5-Button Smart Key,,HYQ4ES,,13530511,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Buick,Envision,2017,2020,3-Button Smart Key,,HYQ4AA,,13508417,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Envision,2017,2019,4-Button Smart Key,,HYQ4AA,,13506665,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Buick,Envision,2017,2020,5-Button Smart Key,,HYQ4AA,,13584500,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+Buick,Envision,2017,2020,5-Button Smart Key,ID46,HYQ4AA,,13532385,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Buick,Envision,2017,2019,Emergency Key,,HU100,,13510389,Unconfirmed,false,
+Buick,Envision,2021,2021,5-Button Smart Key,,YG0G21TB2,,13537970,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Buick,Envision,2021,2021,Emergency Key,,,,13536164,Unconfirmed,false,
+Buick,LaCrosse,2005,2010,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,
+Buick,LaCrosse,2005,2009,4-Button Keyless Entry Remote,,KOBGT04A,,22733523,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2005,2009,5-Button Flip Key,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2005,2009,5-Button Keyless Entry Remote,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2005,2009,Transponder Key,ID13,B107,,,Unconfirmed,false,
+Buick,LaCrosse,2010,2016,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2010,2016,4-Button Flip Key,,,,13504283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2010,2016,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2010,2016,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2010,2016,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2010,2016,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2010,2016,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LaCrosse,2010,2016,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2010,2016,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2010,2016,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2010,2016,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2010,2016,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2010,2016,5-Button Flip Key,ID46,P4OMK74946931,,13504202,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2010,2016,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2010,2016,Transponder Key,ID46,B119,,,Unconfirmed,false,
+Buick,LaCrosse,2010,2016,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+Buick,LaCrosse,2017,2020,5-Button Smart Key,,HYQ4EA,,13508414,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2017,2019,5-Button Smart Key,,HYQ4EA,,13508414,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,LaCrosse,2017,2019,Emergency Key,,HU100,,13510389,Unconfirmed,false,
+Buick,LeSabre,1996,1999,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LeSabre,1996,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LeSabre,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LeSabre,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25665574,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,LeSabre,2000,2005,Transponder Key,ID13,B100,,,Unconfirmed,false,
+Buick,LeSabre,2000,2005,Transponder Key,ID13,B99,,,Unconfirmed,false,
+Buick,LeSabre,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Lucerne,2006,2011,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Lucerne,2006,2012,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Lucerne,2006,2011,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Lucerne,2006,2012,5-Button Keyless Entry Remote,,OUC60270,,10337867,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Lucerne,2006,2011,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Buick,Park Avenue,1996,1999,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Park Avenue,1996,2005,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Park Avenue,1997,2005,Transponder Key,ID13,B97,,,Unconfirmed,false,
+Buick,Park Avenue,1997,2005,Transponder Key,,B97,,,Unconfirmed,false,
+Buick,Park Avenue,1997,2005,Transponder Key,ID13,B98,,,Unconfirmed,false,
+Buick,Park Avenue,2000,2005,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Park Avenue,2000,2005,4-Button Keyless Entry Remote,,KOBUT1BT,,25665574,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Rainier,2003,2007,Transponder Key,ID13,B100,,,Unconfirmed,false,
+Buick,Rainier,2003,2007,Transponder Key,ID13,B99,,,Unconfirmed,false,
+Buick,Rainier,2004,2007,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Rainier,2004,2007,3-Button Keyless Entry Remote,,MYT3X6898B,,15051014,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Regal,1997,2000,4-Button Keyless Entry Remote,,ABO0204T,,10246215,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2022,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2022,4-Button Flip Key,,,,13504283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2017,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2022,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2022,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2017,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2017,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Regal,2011,2022,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Regal,2011,2017,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Regal,2011,2017,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Regal,2011,2022,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Regal,2011,2022,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Regal,2011,2022,5-Button Flip Key,ID46,P4OMK74946931,,13504202,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Regal,2011,2017,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Regal,2011,2017,Transponder Key,ID46,B119,,,Unconfirmed,false,
+Buick,Regal,2011,2017,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+Buick,Regal,2018,2020,3-Button Smart Key,,HYQ4EA,,13506667,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Regal,2018,2022,3-Button Smart Key,ID46,HYQ4EA,,13506667,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Regal,2018,2020,4-Button Smart Key,,HYQ4EA,,13511629,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Regal,2018,2022,4-Button Smart Key,ID46,HYQ4EA,,13511629,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Regal,2018,2018,Emergency Key,,HU100,,13510389,Unconfirmed,false,
+Buick,Regal,2020,2020,5-Button Smart Key,,HYQ4EA,,13530511,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Rendezvous,2001,2007,Transponder Key,ID13,B99,,,Unconfirmed,false,
+Buick,Rendezvous,2002,2007,Transponder Key,ID13,B100,,,Unconfirmed,false,
+Buick,Rendezvous,2002,2007,Transponder Key,ID13,B97,,,Unconfirmed,false,
+Buick,Rendezvous,2002,2007,Transponder Key,,B97,,,Unconfirmed,false,
+Buick,Riviera,1996,1999,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Riviera,1996,1999,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Terraza,2005,2007,3-Button Keyless Entry Remote,,KOBGT04A,,15777636,Unconfirmed,false,"Lock, Unlock, Panic"
+Buick,Terraza,2005,2007,4-Button Keyless Entry Remote,,KOBGT04A,,15114374,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Terraza,2005,2007,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Terraza,2005,2007,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Buick,Terraza,2005,2007,4-Button Keyless Entry Remote,,KOBGT04A,,15100812,Unconfirmed,false,
+Buick,Terraza,2005,2007,6-Button Keyless Entry Remote,,2AOKM-GV1,,15114376,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
+Buick,Terraza,2005,2007,6-Button Keyless Entry Remote,,KOBGT04A,,15114376,Unconfirmed,false,
+Buick,Terraza,2005,2006,Transponder Key,ID13,B107,,,Unconfirmed,false,
+Buick,Terraza,2005,2007,Transponder Key,ID13,B97,,,Unconfirmed,false,
+Buick,Terraza,2005,2007,Transponder Key,,B97,,,Unconfirmed,false,
+Buick,Terraza,2006,2007,5-Button Keyless Entry Remote,,KOBGT04A,,15788020,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
+Buick,Terraza,2007,2007,Transponder Key,ID13,B100,,,Unconfirmed,false,
+Buick,Verano,2012,2017,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Verano,2012,2017,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Verano,2012,2017,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Verano,2012,2017,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Verano,2012,2013,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Verano,2012,2017,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Buick,Verano,2012,2017,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Verano,2012,2017,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Verano,2012,2017,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Verano,2012,2017,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Verano,2012,2017,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Verano,2012,2017,5-Button Flip Key,ID46,P4OMK74946931,,13504202,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Verano,2012,2017,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Buick,Verano,2012,2017,Transponder Key,ID46,B119,,,Unconfirmed,false,
+Buick,Verano,2012,2017,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+Cadillac,ATS,2013,2014,4-Button Smart Key,,NBG009768T,,22856929,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,ATS,2013,2014,5-Button Smart Key,,NBG009768T,,22865375,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,ATS,2013,2014,5-Button Smart Key,,NBG009768T,,22856930,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,ATS,2013,2015,Emergency Key,,,,22856930,Unconfirmed,false,
+Cadillac,ATS,2013,2014,Emergency Key,,HU100,,20765513,Unconfirmed,false,
+Cadillac,ATS,2015,2019,4-Button Smart Key,,HYQ2AB,,13598506,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,ATS,2015,2019,4-Button Smart Key,,HYQ2AB,,13510253,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,ATS,2015,2019,5-Button Smart Key,,HYQ2AB,,13580811,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,ATS,2015,2019,5-Button Smart Key,,HYQ2AB,,13594024,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,ATS,2015,2019,5-Button Smart Key,,HYQ2EB,,13510255,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,ATS,2015,2019,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,ATS,2016,2019,5-Button Smart Key,,HYQ2AB,,13580811,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,ATS,2016,2019,5-Button Smart Key,,HYQ2AB,,13594024,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CT4,2020,2022,5-Button Smart Key,,YG0G20TB1,,13538860,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CT4,2020,2022,5-Button Smart Key,,YG0G20TB1,,13548127,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CT4,2020,2020,Emergency Key,,HU100,,13536119,Unconfirmed,false,
+Cadillac,CT5,2020,2022,5-Button Smart Key,,YG0G20TB1,,13538860,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CT5,2020,2022,5-Button Smart Key,,YG0G20TB1,,13548127,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CT5,2020,2020,Emergency Key,,HU100,,13536119,Unconfirmed,false,
+Cadillac,CT6,2016,2020,5-Button Smart Key,,HYQ2EB,,13598538,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CT6,2016,2019,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,CT6,2017,2019,5-Button Smart Key,,HYQ2EB,,13510255,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CTS,2003,2007,4-Button Keyless Entry Remote,,L2C0005T,,16263074,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2003,2007,Transponder Key,ID48,B112,,,Unconfirmed,false,
+Cadillac,CTS,2008,2013,4-Button Keyless Entry Remote,,OUC6000066,,22889449,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2008,2012,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,CTS,2008,2011,4-Button Keyless Entry Remote,,OUC6000066,,22889450,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2008,2015,4-Button Smart Key,ID46,M3N-5WY7777A,,25946298,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2008,2013,5-Button Keyless Entry Remote,,,,20998256,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CTS,2008,2013,5-Button Keyless Entry Remote,,OUC6000066,,20998256,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CTS,2008,2013,5-Button Keyless Entry Remote,,OUC6000066,,20998282,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CTS,2008,2013,5-Button Keyless Entry Remote,,OUC6000066,,20998281,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CTS,2008,2014,5-Button Smart Key,,,,25943676,Unconfirmed,false,
+Cadillac,CTS,2008,2014,5-Button Smart Key,ID46,M3N-5WY7777A,,25943676,Unconfirmed,false,
+Cadillac,CTS,2008,2014,Emergency Key,,B106,,25995382,Unconfirmed,false,
+Cadillac,CTS,2008,2014,Emergency Key,,B116,,25995382,Unconfirmed,false,
+Cadillac,CTS,2008,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,CTS,2008,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,CTS,2011,2012,4-Button Keyless Entry Remote,,OUC6000066,,22889450,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2012,2013,4-Button Keyless Entry Remote,,OUC6000066,,22889449,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2013,2014,4-Button Smart Key,,NBG009768T,,22856929,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2014,2018,4-Button Smart Key,,HYQ2AB,,13598506,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2014,2019,4-Button Smart Key,,HYQ2AB,,13510253,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,CTS,2014,2019,5-Button Smart Key,,HYQ2AB,,13580811,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CTS,2014,2019,5-Button Smart Key,,HYQ2AB,,13594024,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,CTS,2014,2014,Emergency Key,,B106,,25995382,Unconfirmed,false,
+Cadillac,CTS,2014,2014,Emergency Key,,B116,,25995382,Unconfirmed,false,
+Cadillac,CTS,2014,2019,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,CTS,2014,2014,Emergency Key,,HU100,,20765513,Unconfirmed,false,
+Cadillac,CTS,2018,2019,5-Button Smart Key,,HYQ2EB,,13510255,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,DTS,2006,2011,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,DTS,2006,2011,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,DTS,2006,2011,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,DTS,2006,2011,5-Button Keyless Entry Remote,,OUC60270,,10337867,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,DTS,2006,2011,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,DTS,2008,2009,4-Button Keyless Entry Remote,,OUC6000066,,22889449,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,DTS,2008,2011,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,DTS,2008,2011,4-Button Smart Key,ID46,M3N-5WY7777A,,25946298,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,DTS,2008,2011,5-Button Keyless Entry Remote,,,,20998256,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,DTS,2008,2011,5-Button Keyless Entry Remote,,OUC6000066,,20998256,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,DeVille,1998,1999,4-Button Keyless Entry Remote,,KOBUT1BT,,25656444,Unconfirmed,false,
+Cadillac,DeVille,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25665574,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,DeVille,2000,2005,Transponder Key,ID13,B100,,,Unconfirmed,false,
+Cadillac,DeVille,2000,2005,Transponder Key,ID13,B99,,,Unconfirmed,false,
+Cadillac,DeVille,2001,2003,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695966,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,DeVille,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,ELR,2014,2015,5-Button Smart Key,,NBG009768T,,22856930,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,ELR,2014,2016,Emergency Key,,,,22856930,Unconfirmed,false,
+Cadillac,ELR,2014,2014,Emergency Key,,HU100,,20765513,Unconfirmed,false,
+Cadillac,ELR,2015,2016,5-Button Smart Key,,NBGG093UCC,,23434879,Unconfirmed,false,
+Cadillac,ELR,2015,2017,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,Eldorado,1998,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25656444,Unconfirmed,false,
+Cadillac,Eldorado,1998,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Eldorado,1998,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Eldorado,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25665574,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Eldorado,2001,2002,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695966,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Eldorado,2001,2002,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Escalade,1999,2000,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,
+Cadillac,Escalade,1999,2000,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Escalade,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+Cadillac,Escalade,2002,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+Cadillac,Escalade,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+Cadillac,Escalade,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+Cadillac,Escalade,2006,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,Escalade,2007,2010,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+Cadillac,Escalade,2007,2014,4-Button Keyless Entry Remote,,,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,Escalade,2007,2010,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Cadillac,Escalade,2007,2012,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Escalade,2007,2010,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,Escalade,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,Escalade,2007,2010,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,Escalade,2007,2014,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,Escalade,2007,2010,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,Escalade,2007,2014,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,Escalade,2007,2014,6-Button Keyless Entry Remote,,,,22756466,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Hatch, Panic, ?Power Door Release"
+Cadillac,Escalade,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2007,2014,6-Button Keyless Entry Remote,,OUC6000066,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,Escalade,2008,2014,6-Button Keyless Entry Remote,,OUC6000223,,22756465,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2015,2019,5-Button Smart Key,,HYQ2AB,,13580811,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,Escalade,2015,2019,5-Button Smart Key,,HYQ2EB,,13594020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,Escalade,2015,2019,6-Button Smart Key,,HYQ2AB,,13580812,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2015,2020,6-Button Smart Key,,HYQ2AB,,13580812,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2015,2019,6-Button Smart Key,,HYQ2EB,,13598512,Unconfirmed,false,
+Cadillac,Escalade,2015,2020,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,Escalade,2017,2020,6-Button Smart Key,,HYQ2EB,,13598512,Unconfirmed,false,
+Cadillac,Escalade,2021,2021,6-Button Smart Key,,YG0G20TB1,,84570459,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2021,2022,6-Button Smart Key,,YG0G20TB1,,13538864,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2021,2022,6-Button Smart Key,,YG0G20TB1,,13538866,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade,2021,2021,Emergency Key,,HU100,,13536119,Unconfirmed,false,
+Cadillac,Escalade,2022,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+Cadillac,Escalade EXT,2007,2013,6-Button Keyless Entry Remote,,,,22756466,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Hatch, Panic, ?Power Door Release"
+Cadillac,Lyriq,2023,2024,5-Button Smart Key,4A,YG0G20TB1,,13353714,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,SRX,2004,2006,4-Button Keyless Entry Remote,,L2C0005T,,16263074,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,SRX,2004,2006,Transponder Key,ID48,B115,,,Unconfirmed,false,
+Cadillac,SRX,2004,2006,Transponder Key,,B115,,,Unconfirmed,false,
+Cadillac,SRX,2007,2008,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Cadillac,SRX,2007,2009,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,SRX,2007,2008,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,SRX,2007,2009,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,SRX,2008,2009,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,SRX,2010,2016,3-Button Smart Key,,NBG009768T,,20984232,Unconfirmed,false,"Lock, Unlock, Panic"
+Cadillac,SRX,2010,2015,5-Button Smart Key,,NBG009768T,,22865375,Unconfirmed,false,
+Cadillac,SRX,2010,2016,Emergency Key,,,,22856930,Unconfirmed,false,
+Cadillac,SRX,2010,2015,Emergency Key,,HU100,,20765513,Unconfirmed,false,
+Cadillac,SRX,2013,2013,Emergency Key,,B106,,25995382,Unconfirmed,false,
+Cadillac,SRX,2013,2013,Emergency Key,,B116,,25995382,Unconfirmed,false,
+Cadillac,SRX,2015,2016,3-Button Smart Key,,HYQ2AB,,13580797,Unconfirmed,false,"Lock, Unlock, Panic"
+Cadillac,SRX,2015,2016,5-Button Smart Key,,HYQ2AB,,13598528,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,SRX,2015,2015,5-Button Smart Key,,HYQ2EB,,13594020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,SRX,2015,2015,5-Button Smart Key,,HYQ2EB,,13510245,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,SRX,2016,2016,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,SRX,2016,2016,Emergency Key,,HU100,,20765513,Unconfirmed,false,
+Cadillac,SRX,2017,2017,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,STS,2004,2011,Transponder Key,ID46,B111,,,Unconfirmed,false,
+Cadillac,STS,2005,2007,5-Button Keyless Entry Remote,,M3N65981403,,15212382,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,STS,2008,2011,4-Button Smart Key,ID46,M3N-5WY7777A,,25946298,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,STS,2008,2011,5-Button Smart Key,,,,25943676,Unconfirmed,false,
+Cadillac,STS,2008,2011,5-Button Smart Key,ID46,M3N-5WY7777A,,25943676,Unconfirmed,false,
+Cadillac,STS,2008,2011,Emergency Key,,B106,,25995382,Unconfirmed,false,
+Cadillac,STS,2008,2011,Emergency Key,,B116,,25995382,Unconfirmed,false,
+Cadillac,Seville,1997,2004,Transponder Key,ID13,B99,,,Unconfirmed,false,
+Cadillac,Seville,1998,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Seville,1998,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Seville,1998,2004,Transponder Key,ID13,B100,,,Unconfirmed,false,
+Cadillac,Seville,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25665574,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,Seville,2001,2004,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,XLR,2008,2009,Emergency Key,,B106,,25995382,Unconfirmed,false,
+Cadillac,XLR,2008,2009,Emergency Key,,B116,,25995382,Unconfirmed,false,
+Cadillac,XT4,2019,2020,4-Button Smart Key,,HYQ2EB,,13591382,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,XT4,2019,2021,4-Button Smart Key,,HYQ2ES,,13522872,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+Cadillac,XT4,2019,2019,5-Button Smart Key,,HYQ2EB,,13594020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT4,2019,2019,5-Button Smart Key,,HYQ2EB,,13510245,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT4,2020,2021,5-Button Smart Key,,HYQ2ES,,13522879,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT4,2020,2021,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,XT5,2017,2019,5-Button Smart Key,,HYQ2EB,,13594020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT5,2017,2019,5-Button Smart Key,,HYQ2EB,,13510245,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT5,2017,2021,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,XT5,2020,2026,5-Button Smart Key,,HYQ2ES,,13522879,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT5,2020,2023,5-Button Smart Key,,HYQ2ES,,13522879,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT6,2020,2025,5-Button Smart Key,,HYQ2ES,,13522879,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT6,2020,2023,5-Button Smart Key,,HYQ2ES,,13522879,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+Cadillac,XT6,2020,2021,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,XTS,2013,2014,4-Button Smart Key,,NBG009768T,,22856929,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,XTS,2013,2014,5-Button Smart Key,,NBG009768T,,22865375,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,XTS,2013,2015,5-Button Smart Key,,NBG009768T,,22856930,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,XTS,2013,2018,Emergency Key,,,,22856930,Unconfirmed,false,
+Cadillac,XTS,2013,2018,Emergency Key,,HU100,,20765513,Unconfirmed,false,
+Cadillac,XTS,2015,2019,4-Button Smart Key,,HYQ2AB,,13598506,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,XTS,2015,2019,4-Button Smart Key,,HYQ2AB,,13510253,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Cadillac,XTS,2015,2019,5-Button Smart Key,,HYQ2AB,,13580811,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,XTS,2015,2019,5-Button Smart Key,,HYQ2AB,,13594024,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,XTS,2015,2020,Emergency Key,,HU100,,22984994,Unconfirmed,false,
+Cadillac,XTS,2018,2019,5-Button Smart Key,,HYQ2EB,,13510255,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+Cadillac,XTS,2018,2019,5-Button Smart Key,,HYQ2EB,,13510245,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Acadia,2006,2016,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Acadia,2007,2016,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Acadia,2007,2015,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+GMC,Acadia,2007,2014,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Acadia,2007,2017,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Acadia,2007,2016,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Acadia,2007,2017,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Acadia,2007,2015,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Acadia,2007,2016,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Acadia,2007,2017,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Acadia,2007,2015,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Acadia,2017,2021,3-Button Smart Key,,HYQ1EA,,13508276,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Acadia,2017,2021,3-Button Smart Key,ID46,HYQ1EA,,13508276,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Acadia,2017,2022,4-Button Smart Key,,HYQ1EA,,13584513,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Acadia,2017,2020,5-Button Smart Key,,HYQ1EA,,13508275,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Acadia,2017,2021,5-Button Smart Key,ID46,HYQ1EA,,13508275,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Acadia,2017,2021,Emergency Key,,HU100,,,Unconfirmed,false,
+GMC,Acadia,2021,2022,3-Button Smart Key,,HYQ1ES,,13522902,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Acadia,2021,2023,5-Button Smart Key,,HYQ1ES,,13522895,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Acadia,2021,2022,5-Button Smart Key,,HYQ1ES,,13522895,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Canyon,2004,2012,3-Button Keyless Entry Remote,,L2C0007T,,10335583,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Canyon,2008,2012,Transponder Key,,B110,,,Unconfirmed,false,
+GMC,Canyon,2015,2019,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Canyon,2015,2021,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Canyon,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Canyon,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Canyon,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Canyon,2015,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Canyon,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Envoy,1998,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,
+GMC,Envoy,2002,2009,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Envoy,2002,2009,3-Button Keyless Entry Remote,,MYT3X6898B,,15051014,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Hummer EV,2024,2026,6-Button Smart Key,4A,YG0G21TB2,,13548062,Unconfirmed,false,
+GMC,Jimmy,1997,1997,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,
+GMC,Jimmy,1998,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,
+GMC,Jimmy,1998,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Jimmy,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Jimmy,2001,2001,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Jimmy,2001,2004,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Jimmy,2002,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,
+GMC,Safari,1998,1999,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,
+GMC,Safari,2000,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,
+GMC,Safari,2000,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Safari,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,
+GMC,Safari,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Safari,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Savana 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
+GMC,Savana 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15752330,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
+GMC,Savana 1500/2500/3500,2007,2023,4-Button Keyless Entry Remote,,,,15883405,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
+GMC,Savana 1500/2500/3500,2007,2017,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2008,2016,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Savana 1500/2500/3500,2008,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Savana 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2008,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Savana 1500/2500/3500,2010,2024,5-Button Keyless Entry Remote,,,,20970808,Unconfirmed,false,
+GMC,Savana 1500/2500/3500,2015,2019,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Savana 1500/2500/3500,2015,2017,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Savana 1500/2500/3500,2015,2020,Transponder Key,ID46,B120,,,Unconfirmed,false,
+GMC,Savana 1500/2500/3500,2019,2023,Transponder Key,ID46,B120,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2007,2013,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2007,2009,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2007,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2007,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2014,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2014,2021,Emergency Key,,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2014,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2015,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2015,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,4-Button Keyless Entry Remote,,,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,ID46,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,5-Button Smart Key,,HYQ1EA,,13508398,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2019,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Sierra 1500/2500HD/3500HD,2020,2020,4-Button Smart Key,,HYQ1EA,,13584513,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2021,2022,4-Button Smart Key,,YG0G21TB2,,13548441,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2021,2022,4-Button Smart Key,,YG0G21TB2,,13548439,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
+GMC,Sierra 1500/2500HD/3500HD,2021,2021,5-Button Smart Key,,HYQ1ES,,13522904,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2024,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2026,5-Button Smart Key,4A,YG0G21TB2,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2024,5-Button Smart Key,,YG0G21TB2,,13548440,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2023,5-Button Smart Key,,YG0G21TB2,,13548440,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
+GMC,Sierra 1500/2500HD/3500HD,2022,2023,Emergency Key,,,,13536164,Unconfirmed,false,
+GMC,Sonoma,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Sonoma,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2010,2019,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2010,2019,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2010,2018,4-Button Flip Key,,,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Terrain,2010,2021,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Terrain,2010,2023,4-Button Flip Key,ID46,OHT01060512,,13504258,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Terrain,2010,2023,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Terrain,2010,2017,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Terrain,2010,2023,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Terrain,2010,2019,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Terrain,2010,2019,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Terrain,2010,2019,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Terrain,2010,2021,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Terrain,2010,2023,5-Button Flip Key,ID46,OHT01060512,,13501514,Unconfirmed,false,
+GMC,Terrain,2010,2019,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Terrain,2010,2023,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Terrain,2010,2019,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Terrain,2010,2019,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Terrain,2010,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Terrain,2010,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Terrain,2018,2020,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2018,2020,3-Button Smart Key,,HYQ1EA,,13508276,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2018,2020,3-Button Smart Key,ID46,HYQ1EA,,13508276,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2018,2022,4-Button Smart Key,,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Terrain,2018,2022,4-Button Smart Key,ID46,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Terrain,2018,2023,4-Button Smart Key,ID46,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Terrain,2018,2020,4-Button Smart Key,,HYQ1EA,,13584513,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Terrain,2018,2020,5-Button Smart Key,,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Terrain,2018,2020,5-Button Smart Key,ID46,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Terrain,2018,2021,Emergency Key,,HU100,,,Unconfirmed,false,
+GMC,Terrain,2020,2023,5-Button Smart Key,ID46,HYQ1EA,,13508275,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Terrain,2021,2024,3-Button Smart Key,ID46,HYQ1AS,,13522897,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2022,2022,3-Button Smart Key,,HYQ1ES,,13522902,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Terrain,2022,2024,4-Button Smart Key,,HYQ1AS,,13522898,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Terrain,2022,2023,5-Button Smart Key,,HYQ1AS,,13522899,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Terrain,2022,2024,5-Button Smart Key,,HYQ1ES,,13522895,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Terrain,2022,2022,5-Button Smart Key,,HYQ1ES,,13522895,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,1996,2000,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,
+GMC,Yukon,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2001,2003,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2006,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Yukon,2007,2013,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2007,2014,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+GMC,Yukon,2007,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Yukon,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Yukon,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Yukon,2007,2014,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,2007,2013,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
+GMC,Yukon,2007,2014,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2007,2013,6-Button Keyless Entry Remote,,OUC6000066,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
+GMC,Yukon,2008,2011,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+GMC,Yukon,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2015,2019,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2015,2019,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Yukon,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+GMC,Yukon,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Yukon,2015,2020,4-Button Smart Key,,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Yukon,2015,2020,4-Button Smart Key,ID46,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+GMC,Yukon,2015,2020,5-Button Keyless Entry Remote,,,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2015,2020,5-Button Keyless Entry Remote,,M3N32337100,,13577768,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,2015,2020,5-Button Keyless Entry Remote,,M3N32337100,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,2015,2019,5-Button Smart Key,,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,2015,2020,6-Button Keyless Entry Remote,,,,13577766,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2015,2020,6-Button Keyless Entry Remote,,M3N32337100,,13577766,Unconfirmed,false,
+GMC,Yukon,2015,2020,6-Button Smart Key,,HYQ1AA,,13580802,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2015,2020,6-Button Smart Key,,HYQ1AA,,13580802,Unconfirmed,false,
+GMC,Yukon,2015,2020,6-Button Smart Key,,HYQ1AA,,13508280,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,2015,2020,6-Button Smart Key,ID46,HYQ1AA,,13508280,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Hatch, Panic, Remote Start"
+GMC,Yukon,2015,2021,Emergency Key,,HU100,,,Unconfirmed,false,
+GMC,Yukon,2015,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Yukon,2015,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Yukon,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Yukon,2019,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Yukon,2021,2023,5-Button Smart Key,,HUFGM2718,,13537956,Unconfirmed,false,"Lock, Unlock, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2021,2021,6-Button Smart Key,,HUFGM2718,,13541567,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2021,2022,6-Button Smart Key,,HUFGM2718,,13548434,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,
+GMC,Yukon,2022,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon XL,2015,2019,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic"
+GMC,Yukon XL,2015,2019,5-Button Smart Key,,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
+GMC,Yukon XL,2015,2020,6-Button Smart Key,,HYQ1AA,,13580802,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
+GMC,Yukon XL,2015,2020,6-Button Smart Key,,HYQ1AA,,13508280,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Hatch, Panic, Remote Start"
+GMC,Yukon XL,2015,2020,6-Button Smart Key,ID46,HYQ1AA,,13508280,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Hatch, Panic, Remote Start"
+GMC,Yukon XL,2015,2020,Transponder Key,ID46,B119,,,Unconfirmed,false,
+GMC,Yukon XL,2015,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
+GMC,Yukon XL,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
