@@ -190,6 +190,15 @@ function chipStyle(value) {
 }
 
 // ctx: { mode: "vehicle" | "part", make, model, year }
+// Key photos (test): matched by key type + FCC ID. Cards without a photo look as before.
+const KEY_PHOTOS = {
+  "4-button remote head key|KR55WK49308": "images/honda-4-button-remote-head-key.jpg"
+};
+function photoFor(g) {
+  const src = KEY_PHOTOS[String(g.keyType || "").trim().toLowerCase() + "|" + String(g.fcc || "").trim().toUpperCase()];
+  return src ? `<img class="keyphoto" src="${src}" alt="" width="600" height="600" loading="lazy">` : "";
+}
+
 function cardHtml(g, ctx, hidden) {
   const searched = g.vehicles.find(v => v.make === ctx.make && v.model === ctx.model);
   const others = g.vehicles.filter(v => !(v.make === ctx.make && v.model === ctx.model));
@@ -233,8 +242,13 @@ function cardHtml(g, ctx, hidden) {
 
   return `
     <div class="card"${hidden ? " hidden data-extra" : ""}>
-      <h2>${esc(keyTitle(g.keyType))}</h2>
-      ${buttonsLineHtml(g.keyType, buttonsText)}
+      <div class="cardhead">
+        <div class="cardtitle">
+          <h2>${esc(keyTitle(g.keyType))}</h2>
+          ${buttonsLineHtml(g.keyType, buttonsText)}
+        </div>
+        ${photoFor(g)}
+      </div>
       ${ident}
       ${partsHtml(parts)}
       ${fits}
