@@ -223,7 +223,7 @@ function cardHtml(g, ctx, hidden) {
   // Emergency and transponder keys have no radio, so no FCC ID: the data keeps their key code
   // (HU100, TOY44D-PT, HO03) in the same column, and the card calls it a key code. A few
   // emergency keys sit under a smart key's real FCC ID (HYQ14FBA, TQ8-FOB-4F35): those stay "FCC ID".
-  const KEY_CODE = /^(TOY|HO|HD|HU|HY\d|H\d|B\d|DW|GM\d|FO\d|T\d+S|KK|SZ|Y\d{3}|SIP\d|CY\d|NI\d|NSN\d|DA\d|MZ\d|MAZ\d)/i;
+  const KEY_CODE = /^(TOY|HO|HD|HU|HY\d|H\d|B\d|DW|GM\d|FO\d|T\d+S|KK|SZ|Y\d{3}|SIP\d|CY\d|NI\d|NSN\d|DA\d|MZ\d|MAZ\d|MIT\d)/i;
   const noRemote = /^(emergency key|transponder key)$/i.test(String(g.keyType || "").trim()) && KEY_CODE.test(fccValue);
   if (fccValue && fccValue.toLowerCase() !== "unknown") identParts.push(spec(noRemote ? "Key code" : "FCC ID", fccValue));
   if (chipValue && chipValue.toLowerCase() !== "unknown") identParts.push(spec("Chip", chipStyle(chipValue)));
