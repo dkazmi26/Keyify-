@@ -1,0 +1,95 @@
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
+Mitsubishi,Eclipse,2000,2001,2-Button Keyless Entry Remote,,HYQ12ABA,,,Unconfirmed,false,"Lock, Unlock"
+Mitsubishi,Eclipse,2000,2005,Transponder Key,,MIT13,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2000,2001,Transponder Key,4D60,MIT9,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2002,2005,2-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock"
+Mitsubishi,Eclipse,2002,2005,3-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Eclipse,2006,2006,Transponder Key,,MIT16A,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2006,2006,Transponder Key,ID46,MIT6,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2007,2012,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Eclipse,2007,2012,4-Button Remote Head Key,ID46,OUCG8D-620M-A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Eclipse,2007,2007,Transponder Key,,MIT16A,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2007,2007,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2007,2007,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2007,2007,Transponder Key,ID46,MIT6,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2008,2012,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Eclipse,2008,2012,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Eclipse Cross,2018,2022,3-Button Remote Head Key,ID47,OUCJ166N,,6370C135,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Eclipse Cross,2018,2022,3-Button Smart Key,,OUCGHR-M013,,8637B639,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Eclipse Cross,2018,2022,Emergency Key,,MIT3,,6370A770,Unconfirmed,false,
+Mitsubishi,Eclipse Cross,2018,2020,Transponder Key,ID47,MIT3,,,Unconfirmed,false,
+Mitsubishi,Endeavor,2004,2005,3-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Endeavor,2004,2006,Transponder Key,,MIT13,,,Unconfirmed,false,
+Mitsubishi,Endeavor,2005,2007,Transponder Key,,MIT16A,,,Unconfirmed,false,
+Mitsubishi,Endeavor,2005,2007,Transponder Key,ID46,MIT6,,,Unconfirmed,false,
+Mitsubishi,Endeavor,2006,2007,3-Button Remote Head Key,ID46,OUCG8D-620M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Endeavor,2007,2013,3-Button Remote Head Key,ID46,OUCG8D-620M-A,,6370A364,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Endeavor,2007,2011,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Endeavor,2007,2011,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Galant,1999,2001,2-Button Keyless Entry Remote,,HYQ12ABA,,,Unconfirmed,false,"Lock, Unlock"
+Mitsubishi,Galant,2000,2003,Transponder Key,,MIT13,,,Unconfirmed,false,
+Mitsubishi,Galant,2000,2001,Transponder Key,4D60,MIT9,,,Unconfirmed,false,
+Mitsubishi,Galant,2002,2005,3-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Galant,2004,2006,Transponder Key,,MIT16A,,,Unconfirmed,false,
+Mitsubishi,Galant,2004,2006,Transponder Key,ID46,MIT6,,,Unconfirmed,false,
+Mitsubishi,Galant,2007,2012,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Galant,2007,2012,4-Button Remote Head Key,ID46,OUCG8D-620M-A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Galant,2007,2007,Transponder Key,,MIT16A,,,Unconfirmed,false,
+Mitsubishi,Galant,2007,2007,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Galant,2007,2007,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Galant,2007,2007,Transponder Key,ID46,MIT6,,,Unconfirmed,false,
+Mitsubishi,Galant,2008,2012,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Galant,2008,2012,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Lancer,2002,2007,2-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock"
+Mitsubishi,Lancer,2002,2005,3-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Lancer,2006,2017,Emergency Key,,MIT3,,6370A770,Unconfirmed,false,
+Mitsubishi,Lancer,2008,2020,3-Button Smart Key,,OUC644M-KEY-N,,8637B885,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Lancer,2008,2015,4-Button Remote Head Key,ID46,OUCG8D-625M-A,,6370A477,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Lancer,2008,2020,4-Button Smart Key,,OUC644M-KEY-N,,8637B885,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Lancer,2008,2019,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Lancer,2008,2019,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Lancer,2016,2017,3-Button Remote Head Key,ID46,OUCJ166N,,6370B944,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Lancer,2016,2017,4-Button Remote Head Key,ID46,OUCJ166N,,6370B945,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Lancer Evolution,2003,2007,Transponder Key,4D61,MIT14,,,Unconfirmed,false,
+Mitsubishi,Lancer Evolution,2003,2006,Transponder Key,4D61,MIT14,,,Unconfirmed,false,
+Mitsubishi,Mirage,2013,2020,3-Button Smart Key,,OUC003M,,8637C286,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Mirage,2014,2015,3-Button Remote Head Key,ID46,OUCG8D-625M-A-HF,,6370B711,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Mirage,2014,2014,3-Button Smart Key,,OUC644M-KEY-N,,8637A316,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Mirage,2014,2019,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Mirage,2014,2019,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Mirage,2015,2020,Emergency Key,,MIT3,,6370A770,Unconfirmed,false,
+Mitsubishi,Mirage,2016,2021,3-Button Remote Head Key,ID46,OUCJ166N,,6370B904,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Mirage,2019,2020,3-Button Smart Key,,OUCGHR-M013,,8637B639,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Mirage G4,2016,2020,4-Button Smart Key,,OUC003M,,8637B424,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Montero,1998,2006,3-Button Keyless Entry Remote,,E4EG8D-522M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Montero,2000,2006,Transponder Key,,MIT8,,,Unconfirmed,false,
+Mitsubishi,Montero,2001,2006,Transponder Key,,MIT12,,,Unconfirmed,false,
+Mitsubishi,Montero Sport,2000,2003,2-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock"
+Mitsubishi,Montero Sport,2000,2003,3-Button Keyless Entry Remote,,E4EG8D-522M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Montero Sport,2000,2006,Transponder Key,,MIT12,,,Unconfirmed,false,
+Mitsubishi,Montero Sport,2000,2004,Transponder Key,,MIT8,,,Unconfirmed,false,
+Mitsubishi,Montero Sport,2004,2004,2-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock"
+Mitsubishi,Outlander,2003,2006,2-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock"
+Mitsubishi,Outlander,2003,2006,3-Button Keyless Entry Remote,,OUCG8D-525M-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Outlander,2004,2020,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,Outlander,2004,2020,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,Outlander,2007,2017,3-Button Remote Head Key,ID46,OUCG8D-625M-A,,6370A148,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Outlander,2008,2019,3-Button Smart Key,,OUC644M-KEY-N,,8637A316,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Outlander,2008,2021,3-Button Smart Key,,OUC644M-KEY-N,,8637A316,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Outlander,2010,2020,Emergency Key,,MIT3,,6370A770,Unconfirmed,false,
+Mitsubishi,Outlander,2013,2019,3-Button Remote Head Key,ID46,OUCJ166N,,6370B944,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Outlander,2014,2020,4-Button Smart Key,,OUC644M-KEY-N,,8637A817,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+Mitsubishi,Outlander,2021,2022,3-Button Smart Key,,KR5MTXN1,,8637C253,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Outlander,2021,2024,4-Button Smart Key,4A,KR5MTXN1,,8637C254,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+Mitsubishi,Outlander,2021,2022,Emergency Key,,MIT3,,6370C465,Unconfirmed,false,
+Mitsubishi,Outlander,2022,2024,3-Button Smart Key,ID47,OUCGHR-M015,,8637D007,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,Outlander PHEV,2017,2020,5-Button Smart Key,,OUC644M-KEY-N,,8637B666,Unconfirmed,false,
+Mitsubishi,Outlander PHEV,2018,2020,4-Button Smart Key,,OUC644M-KEY-N,,8637B665,Unconfirmed,false,
+Mitsubishi,RVR,2010,2019,3-Button Remote Head Key,ID46,OUCJ166N,,6370B944,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,RVR,2010,2019,3-Button Smart Key,,OUC644M-KEY-N,,8637A316,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,RVR,2010,2021,3-Button Smart Key,,OUC644M-KEY-N,,8637A316,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,RVR,2011,2018,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,RVR,2011,2018,Transponder Key,,MIT17A,,,Unconfirmed,false,
+Mitsubishi,RVR,2014,2016,3-Button Remote Head Key,ID46,OUCG8D-625M-A,,6370A148,Unconfirmed,false,"Lock, Unlock, Panic"
+Mitsubishi,i-MiEV,2011,2016,Transponder Key,,MIT17,,,Unconfirmed,false,
+Mitsubishi,i-MiEV,2011,2016,Transponder Key,,MIT17A,,,Unconfirmed,false,
