@@ -617,7 +617,44 @@ const KEY_PHOTOS = {
   "6-button smart key|HYQ14FBX": "images/6-button-smart-key-hyq14fbx.jpg",
   "4-button smart key|1551A-14FBW": "images/4-button-smart-key-1551a-14fbw.jpg",
   "3-button flip key|HYQ12BFS": "images/3-button-flip-key-hyq12bfs.jpg",
-  "4-button flip key|HYQ12BBY": "images/4-button-flip-key-hyq12bby.jpg"
+  "4-button flip key|HYQ12BBY": "images/4-button-flip-key-hyq12bby.jpg",
+  "5-button smart key|KOBJTF10A": "images/5-button-smart-key-kobjtf10a.jpg",
+  "emergency key|HU101": "images/emergency-key-hu101.jpg",
+  "4-button flip key|MYT8Z0837231": "images/4-button-flip-key-myt8z0837231.jpg",
+  "transponder key|HU66": "images/transponder-key-hu66.jpg",
+  "4-button smart key|IYZFBSB802": "images/4-button-smart-key-iyzfbsb802.jpg",
+  "3-button remote head key|LX8FZV": "images/3-button-remote-head-key-lx8fzv.jpg",
+  "remote head key|LX8FZV": "images/remote-head-key-lx8fzv.jpg",
+  "4-button smart key|YGOHUF5662": "images/4-button-smart-key-ygohuf5662.jpg",
+  "4-button flip key|NBG92596263": "images/4-button-flip-key-nbg92596263.jpg",
+  "emergency key|HU64": "images/emergency-key-hu64.jpg",
+  "4-button flip key|NBG010180T": "images/4-button-flip-key-nbg010180t.jpg",
+  "4-button smart key|NBGIDGNG1": "images/4-button-smart-key-nbgidgng1.jpg",
+  "transponder key|HU64": "images/transponder-key-hu64.jpg",
+  "4-button smart key|YGOHUF8423": "images/4-button-smart-key-ygohuf8423.jpg",
+  "emergency key|HU92": "images/emergency-key-hu92.jpg",
+  "4-button flip key|NBGFS93N": "images/4-button-flip-key-nbgfs93n.jpg",
+  "5-button smart key|KR55WK49264": "images/5-button-smart-key-kr55wk49264.jpg",
+  "4-button smart key|KR55WK50138": "images/4-button-smart-key-kr55wk50138.jpg",
+  "4-button flip key|NBG009272T": "images/4-button-flip-key-nbg009272t.jpg",
+  "4-button flip key|NBG8137T": "images/4-button-flip-key-nbg8137t.jpg",
+  "4-button smart key|LX8766S": "images/4-button-smart-key-lx8766s.jpg",
+  "3-button flip key|IJ0959753F": "images/3-button-flip-key-ij0959753f.jpg",
+  "4-button flip key|KR55WK45032": "images/4-button-flip-key-kr55wk45032.jpg",
+  "3-button smart key|KR55WK50138": "images/3-button-smart-key-kr55wk50138.jpg",
+  "4-button flip key|NBGFS12A01": "images/4-button-flip-key-nbgfs12a01.jpg",
+  "5-button smart key|KR5ALFA434": "images/5-button-smart-key-kr5alfa434.jpg",
+  "3-button smart key|KR55WK49127": "images/3-button-smart-key-kr55wk49127.jpg",
+  "3-button smart key|KR55WK49147": "images/3-button-smart-key-kr55wk49147.jpg",
+  "3-button remote head key|LX8F2V": "images/3-button-remote-head-key-lx8f2v.jpg",
+  "emergency key|HU162T": "images/emergency-key-hu162t.jpg",
+  "transponder key|HU56": "images/transponder-key-hu56.jpg",
+  "emergency key|HU92RP": "images/emergency-key-hu92rp.jpg",
+  "3-button smart key|NBGIDGNG1": "images/3-button-smart-key-nbgidgng1.jpg",
+  "transponder key|HU39": "images/transponder-key-hu39.jpg",
+  "3-button flip key|KR55WK45032": "images/3-button-flip-key-kr55wk45032.jpg",
+  "4-button smart key|NBG009066T": "images/4-button-smart-key-nbg009066t.jpg",
+  "5-button flip key|NBGFS93N": "images/5-button-flip-key-nbgfs93n.jpg"
 };
 function photoFor(g) {
   const src = KEY_PHOTOS[String(g.keyType || "").trim().toLowerCase() + "|" + String(g.fcc || "").trim().toUpperCase()];
@@ -665,14 +702,15 @@ function cardHtml(g, ctx, hidden) {
   if (boardValue) identParts.push(spec("Board", boardValue));
   const ident = identParts.length ? `<div class="specs">${identParts.join("")}</div>` : "";
 
+  const photo = photoFor(g);
   return `
-    <div class="card"${hidden ? " hidden data-extra" : ""}>
+    <div class="card${photo ? " hasphoto" : ""}"${hidden ? " hidden data-extra" : ""}>
+      ${photo}
       <div class="cardhead">
         <div class="cardtitle">
           <h2>${esc(keyTitle(g.keyType))}</h2>
           ${buttonsLineHtml(g.keyType, buttonsText)}
         </div>
-        ${photoFor(g)}
       </div>
       ${ident}
       ${partsHtml(parts)}

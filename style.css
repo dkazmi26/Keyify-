@@ -64,7 +64,26 @@ button.reset[hidden] { display: none; }
 button.reset:hover { background: #eef2f6; }
 button.reset:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
 
-.card .cardhead { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
-.card .cardtitle { flex: 1; min-width: 0; }
-.card .keyphoto { flex: none; width: 128px; height: 128px; object-fit: contain; background: #fff; border: 1px solid #e3e8ee; border-radius: 10px; padding: 6px; }
-@media (max-width: 480px) { .card .keyphoto { width: 96px; height: 96px; } }
+/* Key photo card layouts. A is the default; B and C are for comparing in the preview. */
+.card .cardhead { display: contents; }
+.card .cardtitle { display: contents; }
+.card .keyphoto { background: #fff; border: 1px solid #e3e8ee; border-radius: 10px; padding: 6px; object-fit: contain; }
+/* A: photo in a left column, all details to its right. Cards with no photo stay one column. */
+.card.hasphoto { display: grid; grid-template-columns: 132px minmax(0, 1fr); column-gap: 16px; align-items: start; }
+.card.hasphoto > * { grid-column: 2; min-width: 0; }
+.card.hasphoto > .keyphoto { grid-column: 1; grid-row: 1 / span 7; width: 132px; height: 132px; position: sticky; top: 12px; }
+@media (max-width: 480px) {
+  .card.hasphoto { grid-template-columns: 88px minmax(0, 1fr); column-gap: 12px; }
+  .card.hasphoto > .keyphoto { width: 88px; height: 88px; padding: 4px; grid-row: 1 / span 2; }
+  /* On phones only the title and buttons sit beside the photo; the rest uses the full width. */
+  .card.hasphoto > :not(.keyphoto):not(h2):not(p.buttons) { grid-column: 1 / -1; }
+  .card.hasphoto > h2 { align-self: end; }
+}
+/* B: photo on top as a centred banner, details underneath. */
+body[data-card="b"] .card.hasphoto { display: block; }
+body[data-card="b"] .card.hasphoto > .keyphoto { display: block; width: 100%; max-width: 200px; height: 170px; margin: 0 auto 12px; position: static; background: #f4f6f8; border: 0; }
+/* C: small photo floated right of the title and buttons, specs wrap under it. */
+body[data-card="c"] .card.hasphoto { display: flow-root; }
+body[data-card="c"] .card.hasphoto > .keyphoto { float: right; width: 104px; height: 104px; margin: 0 0 8px 12px; position: static; }
+body[data-card="c"] .card.hasphoto .specs { clear: none; }
+body[data-card="c"] .card.hasphoto .vin, body[data-card="c"] .card.hasphoto details.also { clear: both; }
