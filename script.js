@@ -733,7 +733,7 @@ function uniqueCards(groups, ctx) {
 
 function showMoreButton(extra) {
   if (extra <= 0) return "";
-  return `<button type="button" class="more" data-action="show-more">Show ${extra} more ${extra === 1 ? "key" : "keys"}</button>`;
+  return `<button type="button" class="more" data-action="show-more">Show ${extra} more ${extra === 1 ? "key" : "keys"} &#9662;</button>`;
 }
 
 // Same "Start over" at the end of the results, so nobody has to scroll back up.
