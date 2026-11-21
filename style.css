@@ -63,3 +63,19 @@ button.reset { display: block; width: 100%; padding: 12px; font-size: 1rem; font
 button.reset[hidden] { display: none; }
 button.reset:hover { background: #eef2f6; }
 button.reset:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
+
+/* Key photo card layout: photo in a left column, details to its right. */
+.card .cardhead { display: contents; }
+.card .cardtitle { display: contents; }
+.card .keyphoto { background: #fff; border: 1px solid #e3e8ee; border-radius: 10px; padding: 6px; object-fit: contain; }
+/* Cards with no photo stay one column. */
+.card.hasphoto { display: grid; grid-template-columns: 132px minmax(0, 1fr); column-gap: 16px; align-items: start; }
+.card.hasphoto > * { grid-column: 2; min-width: 0; }
+.card.hasphoto > .keyphoto { grid-column: 1; grid-row: 1 / span 7; width: 132px; height: 132px; position: sticky; top: 12px; }
+@media (max-width: 480px) {
+  .card.hasphoto { grid-template-columns: 88px minmax(0, 1fr); column-gap: 12px; }
+  .card.hasphoto > .keyphoto { width: 88px; height: 88px; padding: 4px; grid-row: 1 / span 2; }
+  /* On phones only the title and buttons sit beside the photo; the rest uses the full width. */
+  .card.hasphoto > :not(.keyphoto):not(h2):not(p.buttons) { grid-column: 1 / -1; }
+  .card.hasphoto > h2 { align-self: end; }
+}
