@@ -738,7 +738,7 @@ function showMoreButton(extra) {
 
 // Same "Start over" at the end of the results, so nobody has to scroll back up.
 function startOverButton() {
-  return '<button type="button" class="more" data-action="reset">Start over</button>';
+  return '<button type="button" class="startover" data-action="reset">Start over</button>';
 }
 
 function showVehicleResults() {
@@ -786,7 +786,16 @@ results.addEventListener("click", e => {
   const btn = e.target.closest("button[data-action]");
   if (!btn) return;
   if (btn.dataset.action === "reset") {
-    resetBtn.click();
+    // Needs a second tap, so a tap that lands here by accident (for example right after
+    // "Show more keys" disappears) does not wipe the search.
+    if (btn.dataset.armed === "1") {
+      clearTimeout(btn._timer);
+      resetBtn.click();
+    } else {
+      btn.dataset.armed = "1";
+      btn.textContent = "Tap again to clear this search";
+      btn._timer = setTimeout(() => { btn.dataset.armed = ""; btn.textContent = "Start over"; }, 4000);
+    }
   } else if (btn.dataset.action === "show-more") {
     results.querySelectorAll("[data-extra]").forEach(c => { c.hidden = false; });
     btn.remove();

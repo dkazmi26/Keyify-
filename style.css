@@ -79,3 +79,8 @@ button.reset:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
   .card.hasphoto > :not(.keyphoto):not(h2):not(p.buttons) { grid-column: 1 / -1; }
   .card.hasphoto > h2 { align-self: end; }
 }
+
+/* Bottom Start over: kept apart from "Show more keys" and quieter, and it asks for a second tap. */
+button.startover { display: block; width: 100%; margin-top: 40px; padding: 10px; font-size: 0.95rem; border: 1px dashed #b9c2cc; border-radius: 8px; background: transparent; color: #5b6673; cursor: pointer; }
+button.startover[data-armed="1"] { border-style: solid; border-color: #c0392b; color: #c0392b; background: #fff; font-weight: 600; }
+button.startover:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
