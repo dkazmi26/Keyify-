@@ -47,8 +47,10 @@ input[type="search"] { padding: 10px; font-size: 1rem; font-weight: 400; }
 input[type="search"]:focus-visible { outline: 3px solid #2f80ed; outline-offset: 1px; }
 .card p { margin: 6px 0; overflow-wrap: anywhere; }
 button.link { border: 0; background: none; padding: 0; color: #1f5fbf; font: inherit; text-decoration: underline; cursor: pointer; }
-button.more { display: block; width: 100%; margin-top: 16px; padding: 12px; font-size: 1rem; border: 1px solid #b9c2cc; border-radius: 8px; background: #fff; cursor: pointer; }
+button.more { display: block; width: 100%; margin-top: 16px; padding: 14px 12px; font-size: 1rem; font-weight: 600; border: 0; border-radius: 8px; background: #2f80ed; color: #fff; cursor: pointer; box-shadow: 0 1px 3px rgba(31,95,191,.35); }
+button.more:hover { background: #1f6fdb; }
 button.link:focus-visible, button.more:focus-visible, summary:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
+button.more:focus-visible { outline-color: #1c2530; }
 details.also { margin: 8px 0; }
 details.also summary { cursor: pointer; font-weight: 600; }
 details.also p { margin: 4px 0 4px 12px; font-size: 0.92rem; }
@@ -71,7 +73,7 @@ button.reset:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
 /* Cards with no photo stay one column. */
 .card.hasphoto { display: grid; grid-template-columns: 132px minmax(0, 1fr); column-gap: 16px; align-items: start; }
 .card.hasphoto > * { grid-column: 2; min-width: 0; }
-.card.hasphoto > .keyphoto { grid-column: 1; grid-row: 1 / span 7; width: 132px; height: 132px; position: sticky; top: 12px; }
+.card.hasphoto > .keyphoto { grid-column: 1; grid-row: 1 / span 7; width: 132px; height: 132px; }
 @media (max-width: 480px) {
   .card.hasphoto { grid-template-columns: 88px minmax(0, 1fr); column-gap: 12px; }
   .card.hasphoto > .keyphoto { width: 88px; height: 88px; padding: 4px; grid-row: 1 / span 2; }
@@ -79,3 +81,8 @@ button.reset:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
   .card.hasphoto > :not(.keyphoto):not(h2):not(p.buttons) { grid-column: 1 / -1; }
   .card.hasphoto > h2 { align-self: end; }
 }
+
+/* Bottom Start over: kept apart from "Show more keys" and quieter, and it asks for a second tap. */
+button.startover { display: block; width: 100%; margin-top: 40px; padding: 10px; font-size: 0.95rem; border: 1px dashed #b9c2cc; border-radius: 8px; background: transparent; color: #5b6673; cursor: pointer; }
+button.startover[data-armed="1"] { border-style: solid; border-color: #c0392b; color: #c0392b; background: #fff; font-weight: 600; }
+button.startover:focus-visible { outline: 3px solid #2f80ed; outline-offset: 2px; }
