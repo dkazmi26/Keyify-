@@ -1,542 +1,542 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Chevrolet,Astro,1998,1999,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,
-Chevrolet,Astro,2000,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,
-Chevrolet,Astro,2000,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Astro,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,
-Chevrolet,Astro,2001,2006,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Astro,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Avalanche,2002,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Avalanche,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Avalanche,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Avalanche,2007,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Avalanche,2007,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Aveo,2004,2011,Transponder Key,ID48,DW04RT6,,,Unconfirmed,false,
-Chevrolet,Blazer,1997,1997,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,
-Chevrolet,Blazer,1998,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Blazer,1998,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Blazer,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Blazer,2002,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,
-Chevrolet,Blazer,2002,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Blazer,2019,2020,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Blazer,2019,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Blazer,2019,2022,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Blazer,2019,2022,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Blazer,2019,2020,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Blazer,2019,2022,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Blazer,2019,2020,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Blazer,2021,2024,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Blazer,2021,2024,5-Button Smart Key,,HYQ4ES,,13530713,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Blazer,2024,2026,5-Button Smart Key,ID49,YG0G21TB2,,13554096,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Bolt,2017,2020,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Bolt,2017,2023,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Bolt,2022,2023,5-Button Smart Key,,HYQ4ES,,13535663,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port"
-Chevrolet,Camaro,2010,2019,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Camaro,2010,2019,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Camaro,2010,2019,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Camaro,2010,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2010,2016,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2010,2019,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2010,2019,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2010,2016,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2010,2016,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Camaro,2010,2016,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Camaro,2016,2021,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,
-Chevrolet,Camaro,2016,2020,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,
-Chevrolet,Camaro,2016,2021,4-Button Smart Key,,HYQ4EA,,13529660,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Camaro,2016,2021,5-Button Smart Key,,HYQ4EA,,13590048,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2016,2020,5-Button Smart Key,,HYQ4EA,,13529662,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2016,2021,5-Button Smart Key,,HYQ4EA,,13529654,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Convertible Top"
-Chevrolet,Camaro,2016,2020,6-Button Smart Key,,HYQ4EA,,13508780,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top"
-Chevrolet,Camaro,2016,2023,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Camaro,2021,2024,4-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Camaro,2021,2024,5-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2021,2024,5-Button Smart Key,ID46,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Camaro,2021,2024,5-Button Smart Key,,HYQ4ES,,13522885,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Convertible Top"
-Chevrolet,Camaro,2021,2021,6-Button Smart Key,,HYQ4AS,,13522843,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Sunroof"
-Chevrolet,Caprice,2011,2013,Transponder Key,ID46,GM45,,,Unconfirmed,false,
-Chevrolet,Caprice,2014,2017,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Caprice,2014,2017,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Captiva Sport,2008,2015,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Captiva Sport,2011,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Captiva Sport,2011,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Captiva Sport,2011,2015,Transponder Key,ID46,B114R,,,Unconfirmed,false,
-Chevrolet,Captiva Sport,2012,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Captiva Sport,2012,2015,Transponder Key,ID46,B114R,,,Unconfirmed,false,
-Chevrolet,Cavalier,2000,2005,4-Button Keyless Entry Remote,,L2C0005T,,16263074,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cobalt,2005,2010,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,
-Chevrolet,Cobalt,2005,2007,4-Button Keyless Entry Remote,,KOBGT04A,,22733523,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cobalt,2005,2010,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Cobalt,2006,2010,5-Button Keyless Entry Remote,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cobalt,2006,2010,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Cobalt,2008,2010,5-Button Flip Key,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Colorado,2004,2012,3-Button Keyless Entry Remote,,L2C0007T,,10335583,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Colorado,2008,2012,Transponder Key,,B110,,,Unconfirmed,false,
-Chevrolet,Colorado,2015,2020,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Colorado,2015,2021,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Colorado,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Colorado,2015,2020,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Colorado,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Colorado,2015,2021,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Colorado,2015,2021,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Colorado,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Corvette,2001,2004,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Corvette,2005,2007,4-Button Keyless Entry Remote,,M3N65981403,,10372541,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Corvette,2005,2013,4-Button Smart Key,,M3N-5WY7777A,,25926480,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Corvette,2005,2007,5-Button Keyless Entry Remote,,M3N65981403,,15212382,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Corvette,2008,2013,Emergency Key,,B106,,25995382,Unconfirmed,false,
-Chevrolet,Corvette,2008,2013,Emergency Key,,B116,,25995382,Unconfirmed,false,
-Chevrolet,Corvette,2014,2015,4-Button Smart Key,,G09C04EEC4P,,22779879,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Corvette,2014,2015,5-Button Smart Key,,G09C04EEC5C,,22816265,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Convertible Top"
-Chevrolet,Corvette,2014,2015,6-Button Smart Key,,G09C04EEC6C,,22816266,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top"
-Chevrolet,Corvette,2014,2019,Emergency Key,,,,22856930,Unconfirmed,false,
-Chevrolet,Corvette,2014,2020,Emergency Key,,HU100,,20765513,Unconfirmed,false,
-Chevrolet,Corvette,2015,2019,4-Button Smart Key,,NBGGD9C04,,23465950,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Corvette,2015,2019,5-Button Smart Key,,NBGGD9C04,,23465951,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Corvette,2015,2019,6-Button Smart Key,ID46,NBGGD9C04,,23465955,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top"
-Chevrolet,Corvette,2020,2022,6-Button Smart Key,,YG0G20TB1,,13538851,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Hood"
-Chevrolet,Corvette,2020,2021,6-Button Smart Key,,YG0G20TB1,,13536982,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Hood"
-Chevrolet,Corvette,2020,2022,7-Button Smart Key,,YG0G20TB1,,13538852,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top, Hood"
-Chevrolet,Corvette,2020,2024,7-Button Smart Key,,YG0G20TB1,,13538852,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top, Hood"
-Chevrolet,Corvette,2020,2021,Emergency Key,,HU100,,13536119,Unconfirmed,false,
-Chevrolet,Cruze,2011,2016,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2011,2016,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2011,2016,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2011,2016,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2011,2016,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2011,2015,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2011,2016,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2011,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2011,2016,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2011,2016,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2011,2016,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2011,2016,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2011,2016,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Cruze,2011,2016,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Cruze,2016,2019,3-Button Flip Key,,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Cruze,2016,2018,4-Button Flip Key,ID46,LXP-T003,,13514135,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2016,2019,4-Button Flip Key,,LXP-T003,,13588756,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Cruze,2016,2019,4-Button Flip Key,,LXP-T004,,13514135,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2016,2016,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2016,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,
-Chevrolet,Cruze,2016,2016,5-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2016,2016,5-Button Smart Key,,HYQ4AA,,13508768,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2016,2019,5-Button Smart Key,,HYQ4EA,,13590048,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2016,2019,5-Button Smart Key,,HYQ4EA,,13529662,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Cruze,2016,2019,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Cruze,2016,2017,Emergency Key,,HU100,,,Unconfirmed,false,
-Chevrolet,Cruze,2017,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,
-Chevrolet,Cruze,2017,2019,4-Button Smart Key,,HYQ4EA,,13529638,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Cruze,2017,2019,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Cruze,2018,2019,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Cruze,2019,2019,4-Button Flip Key,ID46,LXP-T004,,13514135,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Cruze,2019,2019,4-Button Flip Key,ID46,LXP-T004,,13530746,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2005,2006,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2007,2009,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2007,2009,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2007,2009,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Equinox,2010,2019,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2010,2019,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2010,2017,3-Button Flip Key,,OHT01060512,,13504266,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2010,2017,4-Button Flip Key,,,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Equinox,2010,2019,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Equinox,2010,2019,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Equinox,2010,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2010,2010,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Equinox,2010,2019,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Equinox,2010,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2010,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Equinox,2010,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Equinox,2010,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Equinox,2018,2021,3-Button Smart Key,,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2018,2021,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2018,2020,3-Button Smart Key,,HYQ4AA,,13529665,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2018,2021,3-Button Smart Key,,HYQ4AA,,13585723,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2018,2020,4-Button Smart Key,,,,13529645,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Equinox,2018,2024,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Equinox,2018,2021,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,
-Chevrolet,Equinox,2018,2020,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,
-Chevrolet,Equinox,2018,2020,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Equinox,2018,2020,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Equinox,2018,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Equinox,2020,2020,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Equinox,2022,2024,5-Button Smart Key,,HYQ4AS,,13522875,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Equinox,2024,2026,5-Button Smart Key,ID49,YG0G21TB2,,13554096,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Express 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15752330,Unconfirmed,false,
-Chevrolet,Express 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Express 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15752330,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Express 1500/2500/3500,2007,2023,4-Button Keyless Entry Remote,,,,15883405,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Express 1500/2500/3500,2008,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Express 1500/2500/3500,2008,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Express 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Express 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Express 1500/2500/3500,2008,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Express 1500/2500/3500,2010,2015,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Express 1500/2500/3500,2010,2024,5-Button Keyless Entry Remote,,,,20970808,Unconfirmed,false,
-Chevrolet,Express 1500/2500/3500,2015,2019,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Express 1500/2500/3500,2015,2017,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Express 1500/2500/3500,2015,2020,Transponder Key,ID46,B120,,,Unconfirmed,false,
-Chevrolet,Express 1500/2500/3500,2019,2023,Transponder Key,ID46,B120,,,Unconfirmed,false,
-Chevrolet,HHR,2006,2011,3-Button Keyless Entry Remote,,KOBGT04A,,15777636,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,HHR,2006,2010,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,HHR,2006,2010,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,HHR,2006,2011,6-Button Keyless Entry Remote,,2AOKM-GV1,,15114376,Unconfirmed,false,
-Chevrolet,HHR,2006,2011,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,HHR,2008,2011,5-Button Keyless Entry Remote,,KOBGT04A,,15788020,Unconfirmed,false,
-Chevrolet,HHR,2008,2011,6-Button Keyless Entry Remote,,KOBGT04A,,15114376,Unconfirmed,false,
-Chevrolet,Impala,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2006,2013,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2006,2016,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2006,2013,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2006,2013,5-Button Keyless Entry Remote,,OUC60270,,10337867,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2006,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Impala,2014,2017,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2015,4-Button Flip Key,ID46,,,13501259,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2019,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2021,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2021,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2021,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2016,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2019,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala,2014,2019,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2014,2019,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2014,2019,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2014,2019,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2014,2021,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2014,2019,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2014,2019,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala,2014,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Impala,2014,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Impala,2015,2021,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Impala,2015,2016,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Impala,2016,2019,4-Button Flip Key,,,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Impala,2018,2018,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Impala Limited,2014,2016,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Impala Limited,2014,2016,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Malibu,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2001,2004,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2001,2001,4-Button Keyless Entry Remote,,L2C0005T,,16263074,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2004,2012,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,
-Chevrolet,Malibu,2004,2005,4-Button Keyless Entry Remote,,KOBGT04A,,22733523,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2004,2012,5-Button Flip Key,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2004,2012,5-Button Keyless Entry Remote,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2004,2012,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Malibu,2004,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Malibu,2008,2012,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2013,2016,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2013,2015,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2013,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2013,2016,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2014,2016,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2014,2015,4-Button Flip Key,ID46,,,13501259,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2014,2016,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2014,2016,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2014,2016,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2014,2016,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2014,2016,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2014,2016,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2014,2016,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2014,2016,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2014,2016,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Malibu,2014,2016,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Malibu,2016,2021,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,
-Chevrolet,Malibu,2016,2021,4-Button Smart Key,,HYQ4EA,,13529660,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2016,2022,5-Button Smart Key,,HYQ4EA,,13590048,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2016,2020,5-Button Smart Key,,HYQ4EA,,13529662,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2016,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Malibu,2021,2023,4-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Malibu,2021,2023,5-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu,2021,2023,5-Button Smart Key,ID46,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Malibu Classic,2005,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Monte Carlo,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Monte Carlo,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Monte Carlo,2000,2005,Transponder Key,ID13,B100,,,Unconfirmed,false,
-Chevrolet,Monte Carlo,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Monte Carlo,2005,2007,5-Button Keyless Entry Remote,,OUC60270,,10337867,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Monte Carlo,2006,2007,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Monte Carlo,2006,2012,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Monte Carlo,2006,2007,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Monte Carlo,2006,2007,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Monte Carlo,2006,2008,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,S10,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,S10,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,SS,2014,2017,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,SS,2014,2017,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,SS,2014,2017,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,SSR,2003,2006,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2011,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2009,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2020,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2020,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2021,Emergency Key,,HU100,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2023,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2023,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2014,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2017,2023,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2017,2023,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2017,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2023,4-Button Keyless Entry Remote,,,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2023,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,,HYQ1EA,,13508398,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2021,2024,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,
-Chevrolet,Silverado 1500/2500HD/3500HD,2022,2024,3-Button Smart Key,,YG0G21TB2,,13548436,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2022,2024,4-Button Smart Key,,YG0G21TB2,,13548441,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chevrolet,Silverado 1500/2500HD/3500HD,2022,2026,5-Button Smart Key,ID49,YGOG21TB2,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2022,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Silverado 1500/2500HD/3500HD,2023,2023,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Silverado Classic,2007,2007,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Sonic,2012,2017,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Sonic,2012,2017,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Sonic,2012,2018,3-Button Flip Key,,OHT01060512,,13504266,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Sonic,2012,2018,4-Button Flip Key,,,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Sonic,2012,2017,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Sonic,2012,2019,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Sonic,2012,2017,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Sonic,2012,2017,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2012,2017,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2012,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Sonic,2012,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Sonic,2017,2019,3-Button Smart Key,,HYQ4AA,,13529665,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Sonic,2017,2020,3-Button Smart Key,,HYQ4AA,,13585723,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Sonic,2017,2020,4-Button Smart Key,,HYQ4AA,,13508770,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Sonic,2017,2020,5-Button Smart Key,,HYQ4AA,,13508768,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Sonic,2017,2020,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Sonic,2018,2020,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Sonic,2019,2019,3-Button Flip Key,ID46,LXP-T003,,13530754,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Sonic,2019,2020,4-Button Flip Key,,LXP-T003,,13588756,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Sonic,2019,2019,4-Button Flip Key,ID46,LXP-T003,,13530752,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Sonic,2019,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Sonic,2019,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Spark,2013,2015,3-Button Flip Key,ID46,A2GM3AFUS03,,95233524,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Spark,2013,2015,Transponder Key,ID46,B114R,,,Unconfirmed,false,
-Chevrolet,Spark,2013,2015,Transponder Key,ID48,DW04CT6,,,Unconfirmed,false,
-Chevrolet,Spark,2016,2017,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Spark,2016,2017,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Spark,2016,2020,3-Button Smart Key,,HYQ4AA,,13529665,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Spark,2016,2020,3-Button Smart Key,,HYQ4AA,,13585723,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Spark,2017,2021,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Spark,2017,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Spark,2017,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Spark,2017,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Spark,2019,2022,3-Button Flip Key,ID46,LXP-T003,,13530754,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Spark,2019,2021,4-Button Flip Key,ID46,LXP-T003,,13530752,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Spark,2020,2023,4-Button Flip Key,,LXP-T003,,13588756,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Suburban,1996,2000,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,
-Chevrolet,Suburban,2000,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2006,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Suburban,2007,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2007,2011,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Suburban,2007,2014,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Suburban,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Suburban,2007,2014,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2007,2014,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Suburban,2007,2014,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2007,2013,6-Button Keyless Entry Remote,,OUC6000066,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Suburban,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2015,2019,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2015,2019,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Suburban,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Suburban,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Suburban,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Suburban,2015,2019,4-Button Smart Key,,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Suburban,2015,2019,4-Button Smart Key,ID46,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Suburban,2015,2020,5-Button Keyless Entry Remote,,,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2015,2020,5-Button Keyless Entry Remote,,M3N32337100,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2015,2019,5-Button Smart Key,,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2015,2020,6-Button Keyless Entry Remote,,,,13577766,Unconfirmed,false,
-Chevrolet,Suburban,2015,2020,6-Button Keyless Entry Remote,,M3N32337100,,13577766,Unconfirmed,false,
-Chevrolet,Suburban,2015,2020,6-Button Smart Key,,HYQ1AA,,13580802,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2015,2020,6-Button Smart Key,,HYQ1EA,,13529633,Unconfirmed,false,
-Chevrolet,Suburban,2015,2021,6-Button Smart Key,,HYQ1EA,,13529633,Unconfirmed,false,
-Chevrolet,Suburban,2015,2021,Emergency Key,,HU100,,,Unconfirmed,false,
-Chevrolet,Suburban,2015,2022,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Suburban,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Suburban,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Suburban,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2021,2022,4-Button Smart Key,,YG0G21TB2,,13541561,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Suburban,2021,2022,5-Button Smart Key,,,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2021,2024,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2021,2022,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Suburban,2021,2026,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2021,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2021,2021,6-Button Smart Key,,YG0G21TB2,,13541565,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2021,2022,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Suburban,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,
-Chevrolet,Suburban,2021,2021,Emergency Key,,HU100,,13536119,Unconfirmed,false,
-Chevrolet,Tahoe,1996,2000,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,
-Chevrolet,Tahoe,2000,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2006,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Tahoe,2007,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2007,2011,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Tahoe,2007,2014,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Tahoe,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Tahoe,2007,2014,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2007,2014,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Tahoe,2007,2014,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2007,2013,6-Button Keyless Entry Remote,,OUC6000066,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Tahoe,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2015,2019,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2015,2019,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Tahoe,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Tahoe,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2019,4-Button Smart Key,,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2019,4-Button Smart Key,ID46,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2020,5-Button Keyless Entry Remote,,,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2020,5-Button Keyless Entry Remote,,M3N32337100,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2019,5-Button Smart Key,,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2020,6-Button Keyless Entry Remote,,,,13577766,Unconfirmed,false,
-Chevrolet,Tahoe,2015,2020,6-Button Keyless Entry Remote,,M3N32337100,,13577766,Unconfirmed,false,
-Chevrolet,Tahoe,2015,2020,6-Button Smart Key,,HYQ1AA,,13580802,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2015,2020,6-Button Smart Key,,HYQ1EA,,13529633,Unconfirmed,false,
-Chevrolet,Tahoe,2015,2021,Emergency Key,,HU100,,,Unconfirmed,false,
-Chevrolet,Tahoe,2015,2022,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Tahoe,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Tahoe,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Tahoe,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2022,4-Button Smart Key,,YG0G21TB2,,13541561,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Tahoe,2021,2022,5-Button Smart Key,,,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2024,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2022,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2026,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2021,6-Button Smart Key,,YG0G21TB2,,13541565,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2022,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start"
-Chevrolet,Tahoe,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,
-Chevrolet,Tahoe,2021,2021,Emergency Key,,HU100,,13536119,Unconfirmed,false,
-Chevrolet,Terrain,2010,2018,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Trailblazer,2002,2009,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trailblazer,2002,2009,3-Button Keyless Entry Remote,,MYT3X6898B,,15051014,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trailblazer,2020,2021,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2023,3-Button Flip Key,ID46,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trailblazer,2021,2023,3-Button Flip Key,,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trailblazer,2021,2021,4-Button Flip Key,ID46,LXP-T004,,13530746,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2021,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2024,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2022,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2022,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2022,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2025,5-Button Smart Key,,HYQ4ES,,13530713,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Trailblazer,2021,2023,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Traverse,2007,2017,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Traverse,2007,2016,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chevrolet,Traverse,2007,2016,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Traverse,2007,2017,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Traverse,2009,2017,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Traverse,2009,2016,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Traverse,2009,2016,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Traverse,2009,2016,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Traverse,2009,2017,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Traverse,2009,2015,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Traverse,2009,2017,Transponder Key,ID46,B111,,,Unconfirmed,false,
-Chevrolet,Traverse,2018,2020,3-Button Smart Key,,HYQ4EA,,13519177,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Traverse,2018,2020,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Traverse,2018,2020,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Traverse,2018,2020,4-Button Smart Key,,HYQ4EA,,13529638,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Traverse,2018,2020,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Traverse,2018,2022,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Traverse,2018,2022,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Chevrolet,Traverse,2018,2020,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Traverse,2018,2022,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Traverse,2018,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Traverse,2021,2023,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Traverse,2024,2026,5-Button Smart Key,ID49,YG0G21TB2,,13554096,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Chevrolet,Trax,2014,2018,4-Button Flip Key,,,,13585811,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trax,2015,2018,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trax,2015,2018,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trax,2015,2018,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trax,2015,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,
-Chevrolet,Trax,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,
-Chevrolet,Trax,2017,2021,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trax,2017,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Trax,2018,2021,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trax,2018,2020,5-Button Smart Key,,HYQ4AA,,13508768,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chevrolet,Trax,2019,2022,3-Button Flip Key,ID46,LXP-T003,,13530754,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trax,2019,2022,4-Button Flip Key,ID46,LXP-T003,,13530752,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Trax,2024,2025,3-Button Flip Key,ID46,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Trax,2024,2025,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Uplander,2005,2008,3-Button Keyless Entry Remote,,KOBGT04A,,15777636,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Uplander,2005,2006,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Uplander,2005,2008,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Uplander,2005,2008,4-Button Keyless Entry Remote,,KOBGT04A,,15100812,Unconfirmed,false,
-Chevrolet,Uplander,2005,2006,5-Button Keyless Entry Remote,,KOBGT04A,,15788020,Unconfirmed,false,
-Chevrolet,Uplander,2005,2008,6-Button Keyless Entry Remote,,2AOKM-GV1,,15114376,Unconfirmed,false,
-Chevrolet,Uplander,2005,2008,6-Button Keyless Entry Remote,,KOBGT04A,,15114376,Unconfirmed,false,
-Chevrolet,Uplander,2005,2008,Transponder Key,ID13,B97,,,Unconfirmed,false,
-Chevrolet,Uplander,2005,2008,Transponder Key,,B97,,,Unconfirmed,false,
-Chevrolet,Uplander,2005,2005,Transponder Key,ID13,B98,,,Unconfirmed,false,
-Chevrolet,Uplander,2007,2008,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Uplander,2007,2008,5-Button Keyless Entry Remote,,KOBGT04A,,15788020,Unconfirmed,false,
-Chevrolet,Uplander,2007,2008,Transponder Key,ID13,B100,,,Unconfirmed,false,
-Chevrolet,Venture,1997,2000,4-Button Keyless Entry Remote,,ABO0204T,,10245953,Unconfirmed,false,
-Chevrolet,Venture,1999,2005,Transponder Key,ID13,B97,,,Unconfirmed,false,
-Chevrolet,Venture,1999,2005,Transponder Key,,B97,,,Unconfirmed,false,
-Chevrolet,Venture,1999,2005,Transponder Key,ID13,B98,,,Unconfirmed,false,
-Chevrolet,Venture,2001,2005,3-Button Keyless Entry Remote,,L2C0007T,,10335583,Unconfirmed,false,"Lock, Unlock, Panic"
-Chevrolet,Venture,2001,2005,4-Button Keyless Entry Remote,,L2C0007T,,10335586,Unconfirmed,false,
-Chevrolet,Venture,2001,2005,5-Button Keyless Entry Remote,,L2C0007T,,10335587,Unconfirmed,false,
-Chevrolet,Volt,2011,2011,5-Button Flip Key,,,,20951691,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port"
-Chevrolet,Volt,2011,2015,5-Button Smart Key,,OHT059181792014,,22755321,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port"
-Chevrolet,Volt,2016,2019,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Volt,2016,2019,Emergency Key,,HU100,,13590048,Unconfirmed,false,
-Chevrolet,Volt,2017,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chevrolet,Volt,2017,2018,4-Button Smart Key,,HYQ4EA,,13529638,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chevrolet,Volt,2017,2019,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Chevrolet,Astro,1998,1999,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,,
+Chevrolet,Astro,2000,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,,315 MHz
+Chevrolet,Astro,2000,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Astro,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,,315 MHz
+Chevrolet,Astro,2001,2006,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Astro,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Avalanche,2002,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Avalanche,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Avalanche,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Avalanche,2007,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Avalanche,2007,2013,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Avalanche,2007,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Aveo,2004,2011,Transponder Key,ID48,DW04RT6,,,Unconfirmed,false,,
+Chevrolet,Blazer,1997,1997,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,,
+Chevrolet,Blazer,1998,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Blazer,1998,2001,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Blazer,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Blazer,2002,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,,315 MHz
+Chevrolet,Blazer,2002,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15043458,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Blazer,2019,2020,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Blazer,2019,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Blazer,2019,2022,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Blazer,2019,2022,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",
+Chevrolet,Blazer,2019,2020,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Blazer,2019,2022,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Blazer,2019,2020,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Blazer,2021,2024,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Blazer,2021,2024,5-Button Smart Key,,HYQ4ES,,13530713,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Blazer,2024,2026,5-Button Smart Key,ID49,YG0G21TB2,,13554096,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Bolt,2017,2020,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Bolt,2017,2023,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Bolt,2022,2023,5-Button Smart Key,,HYQ4ES,,13535663,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port",433 MHz
+Chevrolet,Camaro,2010,2019,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Camaro,2010,2019,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Camaro,2010,2019,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Camaro,2010,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Camaro,2010,2016,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Camaro,2010,2019,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Camaro,2010,2019,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Camaro,2010,2016,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Camaro,2010,2016,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Camaro,2010,2016,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Camaro,2016,2021,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,,
+Chevrolet,Camaro,2016,2020,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,,
+Chevrolet,Camaro,2016,2021,4-Button Smart Key,,HYQ4EA,,13529660,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Camaro,2016,2021,5-Button Smart Key,,HYQ4EA,,13590048,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Camaro,2016,2020,5-Button Smart Key,,HYQ4EA,,13529662,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Camaro,2016,2021,5-Button Smart Key,,HYQ4EA,,13529654,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Convertible Top",
+Chevrolet,Camaro,2016,2020,6-Button Smart Key,,HYQ4EA,,13508780,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top",
+Chevrolet,Camaro,2016,2023,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Camaro,2021,2024,4-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chevrolet,Camaro,2021,2024,5-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chevrolet,Camaro,2021,2024,5-Button Smart Key,ID46,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chevrolet,Camaro,2021,2024,5-Button Smart Key,,HYQ4ES,,13522885,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Convertible Top",433 MHz
+Chevrolet,Camaro,2021,2021,6-Button Smart Key,,HYQ4AS,,13522843,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Sunroof",315 MHz
+Chevrolet,Caprice,2011,2013,Transponder Key,ID46,GM45,,,Unconfirmed,false,,
+Chevrolet,Caprice,2014,2017,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Caprice,2014,2017,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Captiva Sport,2008,2015,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Captiva Sport,2011,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Captiva Sport,2011,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Captiva Sport,2011,2015,Transponder Key,ID46,B114R,,,Unconfirmed,false,,
+Chevrolet,Captiva Sport,2012,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Captiva Sport,2012,2015,Transponder Key,ID46,B114R,,,Unconfirmed,false,,
+Chevrolet,Cavalier,2000,2005,4-Button Keyless Entry Remote,,L2C0005T,,16263074,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Cobalt,2005,2010,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,,315 MHz
+Chevrolet,Cobalt,2005,2007,4-Button Keyless Entry Remote,,KOBGT04A,,22733523,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cobalt,2005,2010,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Cobalt,2006,2010,5-Button Keyless Entry Remote,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Cobalt,2006,2010,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Cobalt,2008,2010,5-Button Flip Key,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Colorado,2004,2012,3-Button Keyless Entry Remote,,L2C0007T,,10335583,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Colorado,2008,2012,Transponder Key,,B110,,,Unconfirmed,false,,
+Chevrolet,Colorado,2015,2020,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Colorado,2015,2021,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Colorado,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Colorado,2015,2020,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Chevrolet,Colorado,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Colorado,2015,2021,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Colorado,2015,2021,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Colorado,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Corvette,2001,2004,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Corvette,2005,2007,4-Button Keyless Entry Remote,,M3N65981403,,10372541,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Corvette,2005,2013,4-Button Smart Key,,M3N-5WY7777A,,25926480,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Corvette,2005,2007,5-Button Keyless Entry Remote,,M3N65981403,,15212382,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Corvette,2008,2013,Emergency Key,,B106,,25995382,Unconfirmed,false,,
+Chevrolet,Corvette,2008,2013,Emergency Key,,B116,,25995382,Unconfirmed,false,,
+Chevrolet,Corvette,2014,2015,4-Button Smart Key,,G09C04EEC4P,,22779879,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chevrolet,Corvette,2014,2015,5-Button Smart Key,,G09C04EEC5C,,22816265,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Convertible Top",
+Chevrolet,Corvette,2014,2015,6-Button Smart Key,,G09C04EEC6C,,22816266,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top",
+Chevrolet,Corvette,2014,2019,Emergency Key,,,,22856930,Unconfirmed,false,,
+Chevrolet,Corvette,2014,2020,Emergency Key,,HU100,,20765513,Unconfirmed,false,,
+Chevrolet,Corvette,2015,2019,4-Button Smart Key,,NBGGD9C04,,23465950,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chevrolet,Corvette,2015,2019,5-Button Smart Key,,NBGGD9C04,,23465951,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chevrolet,Corvette,2015,2019,6-Button Smart Key,ID46,NBGGD9C04,,23465955,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top",433 MHz
+Chevrolet,Corvette,2020,2022,6-Button Smart Key,,YG0G20TB1,,13538851,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Hood",
+Chevrolet,Corvette,2020,2021,6-Button Smart Key,,YG0G20TB1,,13536982,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Hood",
+Chevrolet,Corvette,2020,2022,7-Button Smart Key,,YG0G20TB1,,13538852,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top, Hood",
+Chevrolet,Corvette,2020,2024,7-Button Smart Key,,YG0G20TB1,,13538852,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Convertible Top, Hood",
+Chevrolet,Corvette,2020,2021,Emergency Key,,HU100,,13536119,Unconfirmed,false,,
+Chevrolet,Cruze,2011,2016,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Cruze,2011,2016,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Cruze,2011,2016,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cruze,2011,2016,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cruze,2011,2016,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cruze,2011,2015,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cruze,2011,2016,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cruze,2011,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Cruze,2011,2016,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Cruze,2011,2016,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Cruze,2011,2016,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Cruze,2011,2016,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Cruze,2011,2016,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Cruze,2011,2016,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Cruze,2016,2019,3-Button Flip Key,,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chevrolet,Cruze,2016,2018,4-Button Flip Key,ID46,LXP-T003,,13514135,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cruze,2016,2019,4-Button Flip Key,,LXP-T003,,13588756,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Chevrolet,Cruze,2016,2019,4-Button Flip Key,,LXP-T004,,13514135,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chevrolet,Cruze,2016,2016,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Cruze,2016,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,,
+Chevrolet,Cruze,2016,2016,5-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Cruze,2016,2016,5-Button Smart Key,,HYQ4AA,,13508768,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Cruze,2016,2019,5-Button Smart Key,,HYQ4EA,,13590048,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Cruze,2016,2019,5-Button Smart Key,,HYQ4EA,,13529662,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Cruze,2016,2019,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Cruze,2016,2017,Emergency Key,,HU100,,,Unconfirmed,false,,
+Chevrolet,Cruze,2017,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,,
+Chevrolet,Cruze,2017,2019,4-Button Smart Key,,HYQ4EA,,13529638,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Cruze,2017,2019,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Cruze,2018,2019,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Cruze,2019,2019,4-Button Flip Key,ID46,LXP-T004,,13514135,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chevrolet,Cruze,2019,2019,4-Button Flip Key,ID46,LXP-T004,,13530746,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Equinox,2005,2006,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Equinox,2007,2009,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Equinox,2007,2009,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Equinox,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2007,2009,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Equinox,2010,2019,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Equinox,2010,2019,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Equinox,2010,2017,3-Button Flip Key,,OHT01060512,,13504266,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Equinox,2010,2017,4-Button Flip Key,,,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Equinox,2010,2019,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Equinox,2010,2019,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Equinox,2010,2019,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2010,2019,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Equinox,2010,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Equinox,2010,2010,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Equinox,2010,2019,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Equinox,2010,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Equinox,2010,2019,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Equinox,2010,2019,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Equinox,2010,2019,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2010,2019,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2010,2019,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2010,2010,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Equinox,2010,2019,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2010,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Equinox,2010,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Equinox,2018,2021,3-Button Smart Key,,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Equinox,2018,2021,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Equinox,2018,2020,3-Button Smart Key,,HYQ4AA,,13529665,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Equinox,2018,2021,3-Button Smart Key,,HYQ4AA,,13585723,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Equinox,2018,2020,4-Button Smart Key,,,,13529645,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chevrolet,Equinox,2018,2024,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Equinox,2018,2021,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,,
+Chevrolet,Equinox,2018,2020,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,,
+Chevrolet,Equinox,2018,2020,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",
+Chevrolet,Equinox,2018,2020,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Equinox,2018,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Equinox,2020,2020,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Equinox,2022,2024,5-Button Smart Key,,HYQ4AS,,13522875,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",315 MHz
+Chevrolet,Equinox,2024,2026,5-Button Smart Key,ID49,YG0G21TB2,,13554096,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Express 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15752330,Unconfirmed,false,,315 MHz
+Chevrolet,Express 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Express 1500/2500/3500,2003,2007,4-Button Keyless Entry Remote,,KOBLEAR1XT,,15752330,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Express 1500/2500/3500,2007,2023,4-Button Keyless Entry Remote,,,,15883405,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chevrolet,Express 1500/2500/3500,2008,2015,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Express 1500/2500/3500,2008,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Express 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Express 1500/2500/3500,2008,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Express 1500/2500/3500,2008,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Express 1500/2500/3500,2010,2015,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Express 1500/2500/3500,2010,2024,5-Button Keyless Entry Remote,,,,20970808,Unconfirmed,false,,
+Chevrolet,Express 1500/2500/3500,2015,2019,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Express 1500/2500/3500,2015,2017,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Express 1500/2500/3500,2015,2020,Transponder Key,ID46,B120,,,Unconfirmed,false,,
+Chevrolet,Express 1500/2500/3500,2019,2023,Transponder Key,ID46,B120,,,Unconfirmed,false,,
+Chevrolet,HHR,2006,2011,3-Button Keyless Entry Remote,,KOBGT04A,,15777636,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,HHR,2006,2010,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,HHR,2006,2010,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,HHR,2006,2011,6-Button Keyless Entry Remote,,2AOKM-GV1,,15114376,Unconfirmed,false,,
+Chevrolet,HHR,2006,2011,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,HHR,2008,2011,5-Button Keyless Entry Remote,,KOBGT04A,,15788020,Unconfirmed,false,,315 MHz
+Chevrolet,HHR,2008,2011,6-Button Keyless Entry Remote,,KOBGT04A,,15114376,Unconfirmed,false,,315 MHz
+Chevrolet,Impala,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2006,2013,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Impala,2006,2016,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2006,2013,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Impala,2006,2013,5-Button Keyless Entry Remote,,OUC60270,,10337867,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Impala,2006,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Impala,2014,2017,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Impala,2014,2015,4-Button Flip Key,ID46,,,13501259,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Impala,2014,2019,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Impala,2014,2021,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2014,2021,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2014,2021,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2014,2016,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Impala,2014,2019,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala,2014,2019,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Impala,2014,2019,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Impala,2014,2019,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Impala,2014,2019,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Impala,2014,2021,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Impala,2014,2019,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Impala,2014,2019,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Impala,2014,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Impala,2014,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Impala,2015,2021,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Impala,2015,2016,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Impala,2016,2019,4-Button Flip Key,,,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Impala,2018,2018,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Impala Limited,2014,2016,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Impala Limited,2014,2016,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Malibu,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2001,2004,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2001,2001,4-Button Keyless Entry Remote,,L2C0005T,,16263074,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Malibu,2004,2012,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,,315 MHz
+Chevrolet,Malibu,2004,2005,4-Button Keyless Entry Remote,,KOBGT04A,,22733523,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2004,2012,5-Button Flip Key,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Malibu,2004,2012,5-Button Keyless Entry Remote,,KOBGT04A,,22733524,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Malibu,2004,2012,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Malibu,2004,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Malibu,2008,2012,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2013,2016,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2013,2015,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2013,2016,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Malibu,2013,2016,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Malibu,2014,2016,4-Button Flip Key,,,,13586120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Malibu,2014,2015,4-Button Flip Key,ID46,,,13501259,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Malibu,2014,2016,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Malibu,2014,2016,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2014,2016,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Malibu,2014,2016,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Malibu,2014,2016,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Malibu,2014,2016,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Malibu,2014,2016,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Malibu,2014,2016,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Malibu,2014,2016,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Malibu,2014,2016,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Malibu,2016,2021,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,,
+Chevrolet,Malibu,2016,2021,4-Button Smart Key,,HYQ4EA,,13529660,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Malibu,2016,2022,5-Button Smart Key,,HYQ4EA,,13590048,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Malibu,2016,2020,5-Button Smart Key,,HYQ4EA,,13529662,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Malibu,2016,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Malibu,2021,2023,4-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chevrolet,Malibu,2021,2023,5-Button Smart Key,,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chevrolet,Malibu,2021,2023,5-Button Smart Key,ID46,HYQ4ES,,13522891,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chevrolet,Malibu Classic,2005,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Monte Carlo,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,15732805,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Monte Carlo,2000,2000,4-Button Keyless Entry Remote,,KOBUT1BT,,25628814,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Monte Carlo,2000,2005,Transponder Key,ID13,B100,,,Unconfirmed,false,,
+Chevrolet,Monte Carlo,2001,2005,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Monte Carlo,2005,2007,5-Button Keyless Entry Remote,,OUC60270,,10337867,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Monte Carlo,2006,2007,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Monte Carlo,2006,2012,4-Button Keyless Entry Remote,,OUC60270,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Monte Carlo,2006,2007,5-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Monte Carlo,2006,2007,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Monte Carlo,2006,2008,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,S10,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,S10,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,SS,2014,2017,4-Button Flip Key,,OHT05918179,,13585209,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,SS,2014,2017,4-Button Flip Key,,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,SS,2014,2017,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,SSR,2003,2006,4-Button Keyless Entry Remote,,KOBLEAR1XT,,25695954,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,1999,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Silverado 1500/2500HD/3500HD,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2011,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2009,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2014,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2013,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2020,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,,,13577770,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2020,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2021,Emergency Key,,HU100,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2023,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2023,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2014,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2017,2023,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2017,2023,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2017,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2023,4-Button Keyless Entry Remote,,,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2023,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,,HYQ1EA,,13508398,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2021,2024,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,,
+Chevrolet,Silverado 1500/2500HD/3500HD,2022,2024,3-Button Smart Key,,YG0G21TB2,,13548436,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2022,2024,4-Button Smart Key,,YG0G21TB2,,13548441,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2022,2026,5-Button Smart Key,ID49,YGOG21TB2,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2022,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2023,2023,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Chevrolet,Silverado Classic,2007,2007,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Sonic,2012,2017,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Sonic,2012,2017,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Sonic,2012,2018,3-Button Flip Key,,OHT01060512,,13504266,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Sonic,2012,2018,4-Button Flip Key,,,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Sonic,2012,2017,4-Button Flip Key,,,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Sonic,2012,2017,4-Button Flip Key,ID46,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Sonic,2012,2019,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Sonic,2012,2017,4-Button Flip Key,,OHT01060512,,13504200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Sonic,2012,2017,4-Button Smart Key,,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Sonic,2012,2017,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Sonic,2012,2017,5-Button Flip Key,ID46,,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Sonic,2012,2017,5-Button Flip Key,,,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Sonic,2012,2017,5-Button Flip Key,,OHT01060512,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Sonic,2012,2017,5-Button Flip Key,,OHT01060512,,13504199,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Sonic,2012,2017,5-Button Flip Key,ID46,OHT05918179,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Sonic,2012,2017,5-Button Smart Key,ID46,OHT01060512,,13500319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Chevrolet,Sonic,2012,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Sonic,2012,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Sonic,2017,2019,3-Button Smart Key,,HYQ4AA,,13529665,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Sonic,2017,2020,3-Button Smart Key,,HYQ4AA,,13585723,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Sonic,2017,2020,4-Button Smart Key,,HYQ4AA,,13508770,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Sonic,2017,2020,5-Button Smart Key,,HYQ4AA,,13508768,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Sonic,2017,2020,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Sonic,2018,2020,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Sonic,2019,2019,3-Button Flip Key,ID46,LXP-T003,,13530754,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Sonic,2019,2020,4-Button Flip Key,,LXP-T003,,13588756,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Chevrolet,Sonic,2019,2019,4-Button Flip Key,ID46,LXP-T003,,13530752,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Sonic,2019,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Sonic,2019,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Spark,2013,2015,3-Button Flip Key,ID46,A2GM3AFUS03,,95233524,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Spark,2013,2015,Transponder Key,ID46,B114R,,,Unconfirmed,false,,
+Chevrolet,Spark,2013,2015,Transponder Key,ID48,DW04CT6,,,Unconfirmed,false,,
+Chevrolet,Spark,2016,2017,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Spark,2016,2017,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Spark,2016,2020,3-Button Smart Key,,HYQ4AA,,13529665,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Spark,2016,2020,3-Button Smart Key,,HYQ4AA,,13585723,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Spark,2017,2021,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Spark,2017,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Spark,2017,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Spark,2017,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Spark,2019,2022,3-Button Flip Key,ID46,LXP-T003,,13530754,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Spark,2019,2021,4-Button Flip Key,ID46,LXP-T003,,13530752,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Spark,2020,2023,4-Button Flip Key,,LXP-T003,,13588756,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Chevrolet,Suburban,1996,2000,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,,
+Chevrolet,Suburban,2000,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Suburban,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Suburban,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Suburban,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Suburban,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Suburban,2006,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Suburban,2007,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Suburban,2007,2011,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chevrolet,Suburban,2007,2014,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Suburban,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2007,2014,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Suburban,2007,2014,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Suburban,2007,2014,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Suburban,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",
+Chevrolet,Suburban,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start",
+Chevrolet,Suburban,2007,2013,6-Button Keyless Entry Remote,,OUC6000066,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Suburban,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Suburban,2015,2019,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Suburban,2015,2019,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Suburban,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Chevrolet,Suburban,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2015,2019,4-Button Smart Key,,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2015,2019,4-Button Smart Key,ID46,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2015,2020,5-Button Keyless Entry Remote,,,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Suburban,2015,2020,5-Button Keyless Entry Remote,,M3N32337100,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2015,2019,5-Button Smart Key,,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2015,2020,6-Button Keyless Entry Remote,,,,13577766,Unconfirmed,false,,
+Chevrolet,Suburban,2015,2020,6-Button Keyless Entry Remote,,M3N32337100,,13577766,Unconfirmed,false,,315 MHz
+Chevrolet,Suburban,2015,2020,6-Button Smart Key,,HYQ1AA,,13580802,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",315 MHz
+Chevrolet,Suburban,2015,2020,6-Button Smart Key,,HYQ1EA,,13529633,Unconfirmed,false,,433 MHz
+Chevrolet,Suburban,2015,2021,6-Button Smart Key,,HYQ1EA,,13529633,Unconfirmed,false,,433 MHz
+Chevrolet,Suburban,2015,2021,Emergency Key,,HU100,,,Unconfirmed,false,,
+Chevrolet,Suburban,2015,2022,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Suburban,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Suburban,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Suburban,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2021,2022,4-Button Smart Key,,YG0G21TB2,,13541561,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Chevrolet,Suburban,2021,2022,5-Button Smart Key,,,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Suburban,2021,2024,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2021,2022,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2021,2026,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2021,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2021,2021,6-Button Smart Key,,YG0G21TB2,,13541565,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2021,2022,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,,
+Chevrolet,Suburban,2021,2021,Emergency Key,,HU100,,13536119,Unconfirmed,false,,
+Chevrolet,Tahoe,1996,2000,3-Button Keyless Entry Remote,,,,16245100,Unconfirmed,false,,
+Chevrolet,Tahoe,2000,2001,3-Button Keyless Entry Remote,,KOBUT1BT,,15732803,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Tahoe,2001,2004,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Tahoe,2001,2002,3-Button Keyless Entry Remote,,KOBLEAR1XT,,15042968,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Tahoe,2003,2006,3-Button Keyless Entry Remote,,2AOKM-GV2,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Tahoe,2003,2007,3-Button Keyless Entry Remote,,LHJ011,,21997127,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Tahoe,2006,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Tahoe,2007,2014,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Tahoe,2007,2011,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chevrolet,Tahoe,2007,2014,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Tahoe,2007,2014,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2007,2014,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Tahoe,2007,2014,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Tahoe,2007,2014,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Tahoe,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",
+Chevrolet,Tahoe,2007,2014,6-Button Keyless Entry Remote,,,,15913427,Unconfirmed,false,"Lock, Unlock, Tailgate, Rear Glass, Panic, Remote Start",
+Chevrolet,Tahoe,2007,2013,6-Button Keyless Entry Remote,,OUC6000066,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2007,2014,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Tahoe,2014,2018,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Tahoe,2015,2019,3-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Tahoe,2015,2019,3-Button Smart Key,ID46,HYQ1AA,,13591388,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Tahoe,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,22881480,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2015,2019,4-Button Keyless Entry Remote,,M3N32337100,,13577771,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Chevrolet,Tahoe,2015,2018,4-Button Keyless Entry Remote,,M3N32337100,,13577761,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2015,2019,4-Button Smart Key,,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2015,2019,4-Button Smart Key,ID46,HYQ1AA,,13584512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2015,2020,5-Button Keyless Entry Remote,,,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Tahoe,2015,2020,5-Button Keyless Entry Remote,,M3N32337100,,13580081,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2015,2019,5-Button Smart Key,,HYQ1AA,,13584502,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2015,2020,6-Button Keyless Entry Remote,,,,13577766,Unconfirmed,false,,
+Chevrolet,Tahoe,2015,2020,6-Button Keyless Entry Remote,,M3N32337100,,13577766,Unconfirmed,false,,315 MHz
+Chevrolet,Tahoe,2015,2020,6-Button Smart Key,,HYQ1AA,,13580802,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",315 MHz
+Chevrolet,Tahoe,2015,2020,6-Button Smart Key,,HYQ1EA,,13529633,Unconfirmed,false,,433 MHz
+Chevrolet,Tahoe,2015,2021,Emergency Key,,HU100,,,Unconfirmed,false,,
+Chevrolet,Tahoe,2015,2022,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Tahoe,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Tahoe,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Tahoe,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2021,2022,4-Button Smart Key,,YG0G21TB2,,13541561,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Chevrolet,Tahoe,2021,2022,5-Button Smart Key,,,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Tahoe,2021,2024,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2021,2022,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2021,2026,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2021,2024,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2021,2021,6-Button Smart Key,,YG0G21TB2,,13541565,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2021,2022,6-Button Smart Key,,YG0G21TB2,,13537962,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Rear Glass, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,,
+Chevrolet,Tahoe,2021,2021,Emergency Key,,HU100,,13536119,Unconfirmed,false,,
+Chevrolet,Terrain,2010,2018,5-Button Flip Key,ID46,,,13584829,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Trailblazer,2002,2009,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Trailblazer,2002,2009,3-Button Keyless Entry Remote,,MYT3X6898B,,15051014,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Trailblazer,2020,2021,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Trailblazer,2021,2023,3-Button Flip Key,ID46,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chevrolet,Trailblazer,2021,2023,3-Button Flip Key,,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chevrolet,Trailblazer,2021,2021,4-Button Flip Key,ID46,LXP-T004,,13530746,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Trailblazer,2021,2021,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Trailblazer,2021,2024,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Trailblazer,2021,2022,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Trailblazer,2021,2022,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",
+Chevrolet,Trailblazer,2021,2022,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Trailblazer,2021,2025,5-Button Smart Key,,HYQ4ES,,13530713,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Trailblazer,2021,2023,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Traverse,2007,2017,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Traverse,2007,2016,4-Button Keyless Entry Remote,,,,20952476,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chevrolet,Traverse,2007,2016,5-Button Keyless Entry Remote,,,,22936101,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Traverse,2007,2017,5-Button Keyless Entry Remote,,,,20869057,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Traverse,2009,2017,3-Button Keyless Entry Remote,,,,20869056,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Traverse,2009,2016,4-Button Keyless Entry Remote,,,,15912859,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Traverse,2009,2016,4-Button Keyless Entry Remote,,,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Traverse,2009,2016,4-Button Keyless Entry Remote,,OUC6000066,,22756463,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Traverse,2009,2017,4-Button Keyless Entry Remote,,OUC60270,,15913421,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Traverse,2009,2015,5-Button Flip Key,,,,15913415,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Traverse,2009,2017,Transponder Key,ID46,B111,,,Unconfirmed,false,,
+Chevrolet,Traverse,2018,2020,3-Button Smart Key,,HYQ4EA,,13519177,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Traverse,2018,2020,3-Button Smart Key,,HYQ4EA,,13529639,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Traverse,2018,2020,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Traverse,2018,2020,4-Button Smart Key,,HYQ4EA,,13529638,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Traverse,2018,2020,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Traverse,2018,2022,5-Button Smart Key,,HYQ4AA,,13584498,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Traverse,2018,2022,5-Button Smart Key,,HYQ4EA,,13519188,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",
+Chevrolet,Traverse,2018,2020,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Traverse,2018,2022,5-Button Smart Key,,HYQ4EA,,13529636,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Chevrolet,Traverse,2018,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Traverse,2021,2023,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Traverse,2024,2026,5-Button Smart Key,ID49,YG0G21TB2,,13554096,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Trax,2014,2018,4-Button Flip Key,,,,13585811,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Trax,2015,2018,3-Button Flip Key,ID46,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Trax,2015,2018,3-Button Flip Key,,,,20873621,Unconfirmed,false,"Lock, Unlock, Panic",
+Chevrolet,Trax,2015,2018,4-Button Flip Key,ID46,OHT01060512,,20873622,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Trax,2015,2019,Transponder Key,ID46,B119,,,Unconfirmed,false,,
+Chevrolet,Trax,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
+Chevrolet,Trax,2017,2021,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Trax,2017,2022,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Trax,2018,2021,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Trax,2018,2020,5-Button Smart Key,,HYQ4AA,,13508768,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chevrolet,Trax,2019,2022,3-Button Flip Key,ID46,LXP-T003,,13530754,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Trax,2019,2022,4-Button Flip Key,ID46,LXP-T003,,13530752,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Trax,2024,2025,3-Button Flip Key,ID46,LXP-T004,,13514134,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chevrolet,Trax,2024,2025,4-Button Smart Key,,HYQ4ES,,13530712,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chevrolet,Uplander,2005,2008,3-Button Keyless Entry Remote,,KOBGT04A,,15777636,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Uplander,2005,2006,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Uplander,2005,2008,4-Button Keyless Entry Remote,,KOBGT04A,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chevrolet,Uplander,2005,2008,4-Button Keyless Entry Remote,,KOBGT04A,,15100812,Unconfirmed,false,,315 MHz
+Chevrolet,Uplander,2005,2006,5-Button Keyless Entry Remote,,KOBGT04A,,15788020,Unconfirmed,false,,315 MHz
+Chevrolet,Uplander,2005,2008,6-Button Keyless Entry Remote,,2AOKM-GV1,,15114376,Unconfirmed,false,,
+Chevrolet,Uplander,2005,2008,6-Button Keyless Entry Remote,,KOBGT04A,,15114376,Unconfirmed,false,,315 MHz
+Chevrolet,Uplander,2005,2008,Transponder Key,ID13,B97,,,Unconfirmed,false,,
+Chevrolet,Uplander,2005,2008,Transponder Key,,B97,,,Unconfirmed,false,,
+Chevrolet,Uplander,2005,2005,Transponder Key,ID13,B98,,,Unconfirmed,false,,
+Chevrolet,Uplander,2007,2008,4-Button Keyless Entry Remote,,KOBGT04A,,15252034,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chevrolet,Uplander,2007,2008,5-Button Keyless Entry Remote,,KOBGT04A,,15788020,Unconfirmed,false,,315 MHz
+Chevrolet,Uplander,2007,2008,Transponder Key,ID13,B100,,,Unconfirmed,false,,
+Chevrolet,Venture,1997,2000,4-Button Keyless Entry Remote,,ABO0204T,,10245953,Unconfirmed,false,,315 MHz
+Chevrolet,Venture,1999,2005,Transponder Key,ID13,B97,,,Unconfirmed,false,,
+Chevrolet,Venture,1999,2005,Transponder Key,,B97,,,Unconfirmed,false,,
+Chevrolet,Venture,1999,2005,Transponder Key,ID13,B98,,,Unconfirmed,false,,
+Chevrolet,Venture,2001,2005,3-Button Keyless Entry Remote,,L2C0007T,,10335583,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chevrolet,Venture,2001,2005,4-Button Keyless Entry Remote,,L2C0007T,,10335586,Unconfirmed,false,,315 MHz
+Chevrolet,Venture,2001,2005,5-Button Keyless Entry Remote,,L2C0007T,,10335587,Unconfirmed,false,,315 MHz
+Chevrolet,Volt,2011,2011,5-Button Flip Key,,,,20951691,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port",
+Chevrolet,Volt,2011,2015,5-Button Smart Key,,OHT059181792014,,22755321,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port",
+Chevrolet,Volt,2016,2019,4-Button Smart Key,,HYQ4AA,,13585722,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Volt,2016,2019,Emergency Key,,HU100,,13590048,Unconfirmed,false,,
+Chevrolet,Volt,2017,2019,4-Button Smart Key,,HYQ4EA,,13508771,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chevrolet,Volt,2017,2018,4-Button Smart Key,,HYQ4EA,,13529638,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Volt,2017,2019,4-Button Smart Key,,HYQ4EA,,13585728,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",

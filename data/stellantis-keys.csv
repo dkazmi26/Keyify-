@@ -1,588 +1,588 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Chrysler,200,2011,2014,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,200,2011,2014,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Chrysler,200,2011,2014,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,200,2011,2014,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chrysler,200,2011,2014,5-Button Remote Head Key,,,,68029834,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,200,2011,2014,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Chrysler,200,2011,2014,6-Button Remote Head Key,ID46,OHT692427AA,,,Unconfirmed,false,
-Chrysler,200,2011,2014,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,200,2011,2014,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,200,2015,2017,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,200,2015,2017,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,200,2015,2017,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,200,2015,2017,5-Button Smart Key,4A,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,200,2015,2017,5-Button Smart Key,,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,200,2015,2017,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Chrysler,200,2015,2017,Emergency Key,,Y171,,,Unconfirmed,false,
-Chrysler,300,2001,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2005,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,300,2005,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Chrysler,300,2005,2008,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2005,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chrysler,300,2005,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2005,2008,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2005,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,300,2005,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,300,2006,2007,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2008,2010,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,300,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,300,2008,2010,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,300,2008,2011,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2008,2010,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,300,2008,2011,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300,2008,2015,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Trunk, Panic"
-Chrysler,300,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Chrysler,300,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,
-Chrysler,300,2008,2012,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Chrysler,300,2008,2011,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Chrysler,300,2009,2011,5-Button Remote Head Key,,IYZ-C01C,,56046694,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,300,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,
-Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,300,2011,2018,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300,2011,2018,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300,2019,2021,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2019,2023,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,300,2019,2023,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300,2019,2019,5-Button Smart Key,4A,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300,2019,2019,5-Button Smart Key,,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,300M,1999,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,Aspen,2007,2009,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Aspen,2007,2009,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Chrysler,Aspen,2007,2009,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chrysler,Aspen,2007,2009,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chrysler,Aspen,2007,2009,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Aspen,2007,2009,4-Button Remote Head Key,,KOBDT04A,,05179512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Aspen,2007,2009,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Aspen,2007,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Aspen,2007,2009,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,Aspen,2007,2009,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Chrysler,Aspen,2007,2011,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,Aspen,2007,2009,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,Concorde,1994,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk"
-Chrysler,Concorde,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,
-Chrysler,Concorde,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Concorde,1998,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,Concorde,2001,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Grand Caravan,2020,2021,5-Button Smart Key,,M3N-97395900,,68241531AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Chrysler,Grand Caravan,2020,2020,6-Button Smart Key,,M3N-97395900,,68241532AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Tailgate, Panic"
-Chrysler,Grand Caravan,2020,2020,6-Button Smart Key,,M3N-97395900,,68217829,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
-Chrysler,Grand Caravan,2020,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start"
-Chrysler,Grand Caravan,2020,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,
-Chrysler,LHS,1994,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk"
-Chrysler,LHS,1999,2001,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,LHS,2001,2002,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,LHS,2001,2001,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Neon,2000,2001,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,
-Chrysler,Neon,2000,2001,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,New Yorker,1993,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk"
-Chrysler,PT Cruiser,2001,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,PT Cruiser,2005,2010,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chrysler,PT Cruiser,2006,2010,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,PT Cruiser,2006,2010,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Chrysler,PT Cruiser,2006,2010,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chrysler,PT Cruiser,2006,2010,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chrysler,PT Cruiser,2006,2011,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,PT Cruiser,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,Pacifica,2004,2008,4-Button Remote Head Key,,,,04589053,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Chrysler,Pacifica,2004,2008,4-Button Remote Head Key,ID46,M3N5WY72XX,,05189230AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Pacifica,2004,2008,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,Pacifica,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,Pacifica,2017,2021,3-Button Smart Key,,M3N-97395900,,68217827AC,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Pacifica,2017,2021,5-Button Smart Key,,M3N-97395900,,68241531AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Chrysler,Pacifica,2017,2020,6-Button Smart Key,,M3N-97395900,,68241532AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Tailgate, Panic"
-Chrysler,Pacifica,2017,2020,6-Button Smart Key,,M3N-97395900,,68217829,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
-Chrysler,Pacifica,2017,2021,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start"
-Chrysler,Pacifica,2017,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start"
-Chrysler,Pacifica,2017,2019,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,
-Chrysler,Pacifica,2017,2023,7-Button Smart Key,,M3N-97395900,,68238689AD,Unconfirmed,false,
-Chrysler,Pacifica,2017,2021,Emergency Key,,,,68289894AB,Unconfirmed,false,
-Chrysler,Pacifica,2019,2021,4-Button Smart Key,,,,68419652,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Pacifica,2019,2021,4-Button Smart Key,,M3N-97395900,,68419652,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Pacifica,2020,2022,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,
-Chrysler,Sebring,1998,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,Sebring,2001,2005,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Sebring,2001,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,Sebring,2001,2005,Transponder Key,4D61,Y165,,05086276AA,Unconfirmed,false,
-Chrysler,Sebring,2001,2006,Transponder Key,4D61,Y165,,,Unconfirmed,false,
-Chrysler,Sebring,2001,2005,Transponder Key,4D61,Y165,,,Unconfirmed,false,
-Chrysler,Sebring,2006,2006,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Sebring,2007,2009,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Sebring,2007,2009,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Chrysler,Sebring,2007,2010,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Chrysler,Sebring,2007,2009,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Chrysler,Sebring,2007,2010,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,Sebring,2007,2010,5-Button Remote Head Key,,,,68029834,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Chrysler,Sebring,2007,2010,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Chrysler,Sebring,2007,2014,6-Button Remote Head Key,ID46,OHT692427AA,,,Unconfirmed,false,
-Chrysler,Sebring,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,Sebring,2007,2011,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,Sebring,2008,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,Town & Country,1999,2003,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Town & Country,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,Town & Country,2004,2007,3-Button Remote Head Key,ID46,M3N5WY72XX,,,Unconfirmed,false,
-Chrysler,Town & Country,2004,2007,6-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Chrysler,Town & Country,2004,2007,6-Button Remote Head Key,ID46,M3N5WY72XX,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Chrysler,Town & Country,2004,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Chrysler,Town & Country,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,Town & Country,2008,2017,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Town & Country,2008,2016,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Town & Country,2008,2017,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Town & Country,2008,2013,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Town & Country,2008,2016,5-Button Remote Head Key,,M3N5WY783X,,56046713AG,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Chrysler,Town & Country,2008,2017,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Chrysler,Town & Country,2008,2016,6-Button Remote Head Key,,,,56046705AG,Unconfirmed,false,
-Chrysler,Town & Country,2008,2016,6-Button Remote Head Key,,IYZ-C01C,,68070394,Unconfirmed,false,
-Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,ID46,,,56046708AG,Unconfirmed,false,
-Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,ID46,IYZ-C01C,,05026590AJ,Unconfirmed,false,
-Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,,IYZ-C01C,,05026591,Unconfirmed,false,
-Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,,M3N5WY783X,,56046708AG,Unconfirmed,false,"Lock, Unlock, Trunk, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
-Chrysler,Town & Country,2008,2015,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Chrysler,Town & Country,2008,2015,Emergency Key,,Y171,,,Unconfirmed,false,
-Chrysler,Town & Country,2008,2016,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Chrysler,Town & Country,2009,2016,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Chrysler,Town & Country,2011,2016,3-Button Remote Head Key,ID46,IYZ-C01C,,56046733AE,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Town & Country,2011,2015,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Town & Country,2011,2016,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Chrysler,Voyager,2001,2004,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Voyager,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Chrysler,Voyager,2004,2007,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Chrysler,Voyager,2020,2021,3-Button Smart Key,,M3N-97395900,,68217827AC,Unconfirmed,false,"Lock, Unlock, Panic"
-Chrysler,Voyager,2020,2021,4-Button Smart Key,,M3N-97395900,,68419652,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Chrysler,Voyager,2020,2021,5-Button Smart Key,,M3N-97395900,,68241531AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Chrysler,Voyager,2020,2020,6-Button Smart Key,,M3N-97395900,,68241532AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Tailgate, Panic"
-Chrysler,Voyager,2020,2020,6-Button Smart Key,,M3N-97395900,,68217829,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
-Chrysler,Voyager,2020,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start"
-Chrysler,Voyager,2020,2021,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,
-Chrysler,Voyager,2020,2023,7-Button Smart Key,,M3N-97395900,,68238689AD,Unconfirmed,false,
-Chrysler,Voyager,2020,2021,Emergency Key,,,,68289894AB,Unconfirmed,false,
-Dodge,Avenger,2008,2014,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Avenger,2008,2014,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Dodge,Avenger,2008,2014,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Avenger,2008,2014,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Dodge,Avenger,2008,2014,5-Button Remote Head Key,,,,68029834,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Avenger,2008,2014,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Dodge,Avenger,2008,2014,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Dodge,Avenger,2008,2014,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Caliber,2007,2012,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Caliber,2007,2012,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Dodge,Caliber,2007,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,
-Dodge,Caliber,2007,2012,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Caliber,2007,2013,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Dodge,Caliber,2007,2013,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Dodge,Caliber,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Dodge,Caliber,2007,2012,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Caliber,2010,2012,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Caliber,2010,2012,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Caravan,1999,2003,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Caravan,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Dodge,Caravan,2004,2007,3-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Caravan,2004,2007,3-Button Remote Head Key,ID46,M3N5WY72XX,,,Unconfirmed,false,
-Dodge,Caravan,2004,2007,6-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Caravan,2004,2007,6-Button Remote Head Key,ID46,M3N5WY72XX,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Caravan,2004,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Dodge,Caravan,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Caravan,2008,2021,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Caravan,2008,2020,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Caravan,2008,2021,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Caravan,2008,2021,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Caravan,2008,2020,5-Button Remote Head Key,,M3N5WY783X,,56046713AG,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Dodge,Caravan,2008,2017,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Caravan,2008,2020,6-Button Remote Head Key,,,,56046705AG,Unconfirmed,false,
-Dodge,Caravan,2008,2021,7-Button Remote Head Key,ID46,,,56046708AG,Unconfirmed,false,
-Dodge,Caravan,2008,2020,7-Button Remote Head Key,,M3N5WY783X,,56046708AG,Unconfirmed,false,"Lock, Unlock, Trunk, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
-Dodge,Caravan,2008,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Caravan,2008,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Challenger,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Challenger,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Challenger,2008,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Challenger,2008,2012,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2008,2014,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2008,2014,4-Button Remote Head Key,,IYZ-C01C,,56046695,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Challenger,2008,2012,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2008,2014,5-Button Remote Head Key,,IYZ-C01C,,56046694,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2008,2014,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Trunk, Panic"
-Dodge,Challenger,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Dodge,Challenger,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,
-Dodge,Challenger,2009,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Challenger,2009,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Challenger,2015,2018,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Challenger,2015,2018,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Challenger,2015,2019,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,
-Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2015,2018,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234959AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,56046777AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234957AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2019,2021,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2019,2023,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Challenger,2019,2023,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2019,2021,5-Button Smart Key,,M3M-40821302,,68394195,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394205AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Challenger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394203AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2005,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2006,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Charger,2006,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Dodge,Charger,2006,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Dodge,Charger,2006,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2006,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2006,2007,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2006,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Dodge,Charger,2006,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Charger,2007,2014,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Trunk, Panic"
-Dodge,Charger,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Charger,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Charger,2008,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Charger,2008,2012,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2008,2013,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2008,2013,4-Button Remote Head Key,,IYZ-C01C,,56046695,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2008,2012,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Charger,2008,2012,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2008,2013,5-Button Remote Head Key,,IYZ-C01C,,56046694,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2008,2012,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Dodge,Charger,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,
-Dodge,Charger,2008,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Charger,2008,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Charger,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Charger,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Charger,2011,2019,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,
-Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2011,2018,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2011,2018,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2011,2018,5-Button Smart Key,,M3N-40821302,,56046777AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234959AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234957AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2019,2021,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2019,2023,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Charger,2019,2023,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2019,2019,5-Button Smart Key,,M3M-40821302,,68394195,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394205AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394203AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Charger,2024,2025,4-Button Smart Key,4A,2BAHD-KFW1,,68575202AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Charger,2024,2025,5-Button Smart Key,4A,2BAHD-KFW1,,68575201AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Cirrus,1999,2000,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Dodge,Dart,2012,2016,4-Button Remote Head Key,ID46,M3N32297100,,56046771AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Dart,2012,2016,5-Button Remote Head Key,ID46,M3N32297100,,56046773AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Dart,2013,2016,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Dart,2013,2016,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Dodge,Dart,2013,2016,Emergency Key,,Y171,,,Unconfirmed,false,
-Dodge,Dart,2013,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Dart,2014,2016,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Dart,2014,2016,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,
-Dodge,Dart,2014,2016,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Dart,2014,2016,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Dart,2014,2016,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Dart,2014,2016,5-Button Smart Key,,M3N-40821302,,56046777AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Durango,1999,2000,3-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,1999,2000,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2001,2003,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Dodge,Durango,2004,2009,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2004,2009,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Dodge,Durango,2004,2013,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,
-Dodge,Durango,2004,2010,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2004,2009,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Dodge,Durango,2004,2009,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Dodge,Durango,2005,2018,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Dodge,Durango,2005,2024,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Durango,2006,2009,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Durango,2006,2010,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Durango,2006,2009,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Dodge,Durango,2006,2009,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Durango,2006,2009,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Dodge,Durango,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2008,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Durango,2008,2013,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Durango,2009,2009,4-Button Remote Head Key,,KOBDT04A,,05179512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Durango,2009,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Durango,2011,2013,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2011,2013,3-Button Remote Head Key,,IYZ-C01C,,56046733,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2011,2013,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Durango,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,56046695,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Durango,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,56046736,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Durango,2011,2013,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Durango,2011,2013,5-Button Remote Head Key,,,,05026538AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Dodge,Durango,2011,2013,5-Button Remote Head Key,ID46,IYZ-C01C,,05026538AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Dodge,Durango,2011,2013,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Durango,2011,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Dodge,Durango,2011,2021,Emergency Key,,Y171,,,Unconfirmed,false,
-Dodge,Durango,2014,2019,3-Button Smart Key,,M3N-40821302,,68143502AC,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Durango,2014,2019,4-Button Smart Key,,M3N-40821302,,68143504AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Durango,2014,2019,4-Button Smart Key,,M3N-40821302,,68066350AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Durango,2014,2022,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,
-Dodge,Durango,2014,2024,5-Button Smart Key,,M3N-40821302,,68150061AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Durango,2014,2021,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,
-Dodge,Durango,2018,2021,5-Button Smart Key,,M3N-40821302,,68240167AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Dodge,Grand Caravan,2004,2007,3-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Grand Caravan,2004,2007,3-Button Remote Head Key,ID46,M3N5WY72XX,,,Unconfirmed,false,
-Dodge,Grand Caravan,2004,2007,6-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Grand Caravan,2004,2007,6-Button Remote Head Key,ID46,M3N5WY72XX,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Grand Caravan,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2021,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Grand Caravan,2008,2021,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Grand Caravan,2008,2021,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Grand Caravan,2008,2019,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Grand Caravan,2008,2020,5-Button Remote Head Key,,M3N5WY783X,,56046713AG,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Dodge,Grand Caravan,2008,2017,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Grand Caravan,2008,2020,6-Button Remote Head Key,,,,56046705AG,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2019,6-Button Remote Head Key,,IYZ-C01C,,68070394,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2021,7-Button Remote Head Key,ID46,,,56046708AG,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2021,7-Button Remote Head Key,ID46,IYZ-C01C,,05026590AJ,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2019,7-Button Remote Head Key,,IYZ-C01C,,05026591,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2020,7-Button Remote Head Key,,M3N5WY783X,,56046708AG,Unconfirmed,false,"Lock, Unlock, Trunk, Left Sliding Door, Right Sliding Door, Panic, Remote Start"
-Dodge,Grand Caravan,2008,2015,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2015,Emergency Key,,Y171,,,Unconfirmed,false,
-Dodge,Grand Caravan,2008,2013,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Grand Caravan,2011,2020,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Intrepid,1993,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk"
-Dodge,Intrepid,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,
-Dodge,Intrepid,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Intrepid,1998,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Dodge,Intrepid,2001,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Journey,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Journey,2008,2011,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Journey,2009,2011,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Journey,2009,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Journey,2009,2011,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Journey,2009,2016,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Journey,2009,2019,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Dodge,Journey,2009,2019,Emergency Key,,Y171,,,Unconfirmed,false,
-Dodge,Journey,2009,2011,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Journey,2011,2020,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Journey,2011,2020,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Journey,2011,2020,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Journey,2011,2020,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Journey,2011,2020,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Magnum,2005,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Magnum,2005,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Dodge,Magnum,2005,2007,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,
-Dodge,Magnum,2005,2007,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Magnum,2005,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Magnum,2005,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Magnum,2005,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Dodge,Magnum,2005,2007,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Magnum,2006,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Dodge,Magnum,2006,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Dodge,Magnum,2006,2007,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Dodge,Magnum,2008,2008,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Magnum,2008,2008,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Magnum,2008,2008,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Magnum,2008,2008,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Magnum,2008,2008,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Magnum,2008,2008,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Dodge,Magnum,2008,2008,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Dodge,Magnum,2008,2008,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Dodge,Magnum,2008,2008,Emergency Key,,Y171,,,Unconfirmed,false,
-Dodge,Magnum,2008,2010,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Magnum,2008,2008,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Dodge,Neon,2000,2006,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,
-Dodge,Neon,2000,2005,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Neon,2000,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Dodge,Nitro,2007,2011,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Nitro,2007,2011,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Dodge,Nitro,2007,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,
-Dodge,Nitro,2007,2011,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Dodge,Nitro,2007,2011,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Dodge,Nitro,2007,2011,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Nitro,2007,2011,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Dodge,Nitro,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Dodge,Nitro,2007,2012,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Dodge,Sebring,2001,2001,Transponder Key,4D61,Y162,,,Unconfirmed,false,
-Dodge,Stratus,1999,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Dodge,Stratus,2001,2006,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Dodge,Stratus,2001,2001,Transponder Key,4D61,Y162,,,Unconfirmed,false,
-Dodge,Stratus,2001,2005,Transponder Key,4D61,Y165,,05086276AA,Unconfirmed,false,
-Dodge,Stratus,2001,2005,Transponder Key,4D61,Y165,,,Unconfirmed,false,
-Dodge,Stratus,2002,2005,Transponder Key,4D61,Y165,,,Unconfirmed,false,
-Dodge,Viper,1993,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk"
-Dodge,Viper,2003,2006,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Fiat,500,2012,2017,3-Button Flip Key,,,,68334510,Unconfirmed,false,"Lock, Unlock, Trunk"
-Fiat,500,2012,2017,3-Button Flip Key,ID46,LTQF12AM433TX,,,Unconfirmed,false,
-Fiat,500L,2014,2017,3-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Fiat,500L,2014,2017,3-Button Flip Key,ID46,2ADPXTRF198,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Fiat,500L,2015,2016,Emergency Key,,SIP22,,,Unconfirmed,false,
-Fiat,500X,2015,2017,Emergency Key,,SIP22,,,Unconfirmed,false,
-Fiat,500X,2016,2019,3-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Fiat,500X,2016,2019,4-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Cherokee,1999,2001,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Cherokee,1999,2001,3-Button Keyless Entry Remote,,GQ43VT9T,,56036859,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Cherokee,1999,2001,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Jeep,Cherokee,2014,2021,3-Button Remote Head Key,4A,GQ4-53T,,68105081AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Cherokee,2014,2020,3-Button Remote Head Key,,GQ4-53T,,68105081AF,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Cherokee,2014,2019,3-Button Smart Key,,GQ4-54T,,68105087,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Cherokee,2014,2019,3-Button Smart Key,,GQ4-54T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Cherokee,2014,2023,3-Button Smart Key,,GQ4-54T,,68105087AJ,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Cherokee,2014,2020,4-Button Remote Head Key,4A,GQ4-53T,,68105083AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Cherokee,2014,2019,4-Button Remote Head Key,4A,GQ4-53T,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Cherokee,2014,2020,4-Button Remote Head Key,,GQ4-53T,,68105083AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Cherokee,2014,2019,4-Button Smart Key,,GQ4-54T,,,Unconfirmed,false,
-Jeep,Cherokee,2014,2019,4-Button Smart Key,,GQ4-54T,,68105078AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Cherokee,2014,2021,4-Button Smart Key,,GQ4-54T,,68105078AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Cherokee,2014,2019,5-Button Remote Head Key,4A,GQ4-53T,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Cherokee,2014,2022,5-Button Smart Key,,GQ4-54T,,68141580AG,Unconfirmed,false,
-Jeep,Cherokee,2014,2021,5-Button Smart Key,,GQ4-54T,,68141580AF,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Cherokee,2014,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Jeep,Cherokee,2014,2021,Emergency Key,,Y171,,,Unconfirmed,false,
-Jeep,Cherokee,2014,2020,Transponder Key,4A,Y173,,,Unconfirmed,false,
-Jeep,Cherokee,2014,2019,Transponder Key,4A,Y199,,,Unconfirmed,false,
-Jeep,Cherokee,2015,2022,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Jeep,Commander,2005,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Jeep,Commander,2005,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Jeep,Commander,2006,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Commander,2006,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Jeep,Commander,2006,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Commander,2006,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Jeep,Commander,2006,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Commander,2006,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Commander,2006,2007,4-Button Remote Head Key,ID46,OHT692715AA,,05183349AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Commander,2007,2007,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Jeep,Commander,2007,2007,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Jeep,Commander,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Commander,2008,2010,3-Button Remote Head Key,ID46,IYZ-C01C,,56046733AE,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Commander,2008,2010,4-Button Remote Head Key,,,,56046733AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Commander,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,68066841AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Jeep,Commander,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,68066849AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Jeep,Commander,2008,2010,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Jeep,Commander,2008,2010,6-Button Remote Head Key,,M3N5WY783X,,68051666AC,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Glass, Panic, Remote Start"
-Jeep,Commander,2008,2010,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Jeep,Commander,2008,2010,Emergency Key,,Y171,,,Unconfirmed,false,
-Jeep,Commander,2008,2010,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Jeep,Compass,2007,2016,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Compass,2007,2016,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Jeep,Compass,2007,2016,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Compass,2007,2016,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Jeep,Compass,2007,2018,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Compass,2007,2017,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Compass,2007,2018,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Jeep,Compass,2007,2017,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Jeep,Compass,2017,2021,3-Button Smart Key,,M3N-40821302,,68250335AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Compass,2017,2021,3-Button Smart Key,4A,M3N-40821302,,68250335AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Compass,2017,2021,4-Button Smart Key,4A,M3N-40821302,,68250337AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Compass,2017,2021,4-Button Smart Key,,M3N-40821302,,68417821AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Compass,2017,2022,4-Button Smart Key,,M3N-40821302,,68250341,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Compass,2017,2022,4-Button Smart Key,ID47,M3N-40821302,,68250341AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Compass,2017,2022,4-Button Smart Key,4A,M3N-40821302,,68250337AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Compass,2017,2021,5-Button Smart Key,4A,M3N-40821302,,68250343AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Compass,2017,2021,5-Button Smart Key,ID47,M3N-40821302,,68250343AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Compass,2017,2023,Emergency Key,,SIP22,,,Unconfirmed,false,
-Jeep,Gladiator,2020,2026,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Gladiator,2020,2023,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Gladiator,2020,2021,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Gladiator,2020,2026,4-Button Flip Key,4A,OHT1130261,,68416784AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Gladiator,2020,2022,Flip Key,4A,OHT1130261,,68416785AA,Unconfirmed,false,
-Jeep,Grand Cherokee,1999,2004,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,1999,2004,3-Button Keyless Entry Remote,,GQ43VT9T,,56036859,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,1999,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Jeep,Grand Cherokee,2005,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,2005,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,ID46,OHT692715AA,,05183349AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Grand Cherokee,2005,2008,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Jeep,Grand Cherokee,2005,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Jeep,Grand Cherokee,2006,2007,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Jeep,Grand Cherokee,2006,2007,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Jeep,Grand Cherokee,2008,2013,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,2008,2013,3-Button Remote Head Key,ID46,IYZ-C01C,,56046733AE,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,2008,2013,4-Button Remote Head Key,,,,56046733AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Grand Cherokee,2008,2013,5-Button Remote Head Key,,M3N5WY783X,,68066841AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Jeep,Grand Cherokee,2008,2013,5-Button Remote Head Key,,M3N5WY783X,,68066849AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Jeep,Grand Cherokee,2008,2015,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Jeep,Grand Cherokee,2008,2013,6-Button Remote Head Key,,M3N5WY783X,,68051666AC,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Glass, Panic, Remote Start"
-Jeep,Grand Cherokee,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,
-Jeep,Grand Cherokee,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,
-Jeep,Grand Cherokee,2008,2013,Transponder Key,ID46,Y170,,,Unconfirmed,false,
-Jeep,Grand Cherokee,2009,2013,4-Button Remote Head Key,,,,56046734AH,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic"
-Jeep,Grand Cherokee,2009,2013,5-Button Remote Head Key,ID46,IYZ-C01C,,05026538AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Grand Cherokee,2011,2013,3-Button Remote Head Key,,IYZ-C01C,,56046733,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,2011,2013,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Grand Cherokee,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,56046736,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Grand Cherokee,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,68051664,Unconfirmed,false,"Lock, Unlock, Rear Glass, Panic"
-Jeep,Grand Cherokee,2011,2013,5-Button Remote Head Key,,IYZ-C01C,,05026453,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Jeep,Grand Cherokee,2011,2013,6-Button Remote Head Key,,IYZ-C01C,,68051666,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Glass, Panic, Remote Start"
-Jeep,Grand Cherokee,2014,2019,3-Button Smart Key,,M3N-40821302,,68143502AC,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,2014,2019,4-Button Smart Key,,M3N-40821302,,68143504AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Grand Cherokee,2014,2019,4-Button Smart Key,,M3N-40821302,,68066350AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Grand Cherokee,2014,2020,4-Button Smart Key,,M3N-40821302,,68143500AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Grand Cherokee,2014,2021,5-Button Smart Key,,,,68143505AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Grand Cherokee,2014,2022,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,
-Jeep,Grand Cherokee,2014,2020,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,
-Jeep,Grand Cherokee,2014,2021,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,
-Jeep,Grand Cherokee,2015,2021,5-Button Smart Key,,M3N-40821302,,68240167AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Grand Cherokee,2021,2023,3-Button Smart Key,,M3NWXF0B1,,68377529AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee,2021,2023,5-Button Smart Key,,M3NWXF0B1,,68582687AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Grand Cherokee,2021,2023,6-Button Smart Key,,M3NWXF0B1,,68516738AA,Unconfirmed,false,
-Jeep,Grand Cherokee,2024,2024,3-Button Smart Key,4A,2BAHD-KFW1,,68577123AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Grand Cherokee L,2021,2023,5-Button Smart Key,,M3NWXF0B1,,68582687AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Grand Cherokee L,2021,2023,Emergency Key,,,,68519237AA,Unconfirmed,false,
-Jeep,Grand Wagoneer,2021,2023,6-Button Smart Key,,M3NWXF0B1,,68516738AA,Unconfirmed,false,
-Jeep,Grand Wagoneer,2021,2023,Emergency Key,,,,68519237AA,Unconfirmed,false,
-Jeep,Grand Wagoneer,2024,2024,6-Button Smart Key,4A,2BAHD-KFW1,,68577132AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Air Suspension"
-Jeep,Liberty,2002,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Liberty,2002,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Jeep,Liberty,2005,2007,4-Button Remote Head Key,,,,04589053,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Liberty,2005,2007,4-Button Remote Head Key,ID46,M3N5WY72XX,,05189230AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jeep,Liberty,2005,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Jeep,Liberty,2005,2014,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Jeep,Liberty,2008,2012,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Liberty,2008,2012,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Jeep,Liberty,2008,2012,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Liberty,2008,2012,4-Button Remote Head Key,ID46,OHT692715AA,,05183349AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Liberty,2008,2012,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Jeep,Liberty,2008,2012,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start"
-Jeep,Patriot,2007,2018,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Patriot,2007,2016,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Jeep,Patriot,2007,2016,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Patriot,2007,2018,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Jeep,Patriot,2007,2017,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Patriot,2007,2017,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Jeep,Patriot,2007,2018,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Jeep,Patriot,2010,2018,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Renegade,2015,2019,3-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Renegade,2015,2021,3-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Renegade,2015,2018,4-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Renegade,2015,2021,4-Button Smart Key,,M3N-40821302,,68264811AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Renegade,2015,2021,4-Button Smart Key,ID47,M3N-40821302,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Renegade,2015,2021,Emergency Key,,SIP22,,,Unconfirmed,false,
-Jeep,Wagoneer,2021,2023,5-Button Smart Key,,M3NWXF0B1,,68377534AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Wagoneer,2021,2023,Emergency Key,,,,68519237AA,Unconfirmed,false,
-Jeep,Wagoneer,2022,2023,5-Button Smart Key,,M3NWXFOB,,68582672AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Jeep,Wagoneer,2022,2023,6-Button Smart Key,,M3NWXF0B1,,68582671AB,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start, Air Suspension"
-Jeep,Wrangler,1998,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,
-Jeep,Wrangler,2006,2017,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Wrangler,2006,2017,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,
-Jeep,Wrangler,2006,2016,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Jeep,Wrangler,2006,2016,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Jeep,Wrangler,2007,2018,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Wrangler,2007,2017,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Wrangler,2007,2019,Transponder Key,ID46,Y164,,,Unconfirmed,false,
-Jeep,Wrangler,2007,2022,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,
-Jeep,Wrangler,2018,2026,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Wrangler,2018,2023,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Wrangler,2018,2021,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic"
-Jeep,Wrangler,2018,2026,4-Button Flip Key,4A,OHT1130261,,68416784AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Jeep,Wrangler,2018,2021,Flip Key,4A,OHT1130261,,68416785AA,Unconfirmed,false,
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Chrysler,200,2011,2014,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,200,2011,2014,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Chrysler,200,2011,2014,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chrysler,200,2011,2014,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Chrysler,200,2011,2014,5-Button Remote Head Key,,,,68029834,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chrysler,200,2011,2014,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Chrysler,200,2011,2014,6-Button Remote Head Key,ID46,OHT692427AA,,,Unconfirmed,false,,315 MHz
+Chrysler,200,2011,2014,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,200,2011,2014,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,200,2015,2017,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chrysler,200,2015,2017,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chrysler,200,2015,2017,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,200,2015,2017,5-Button Smart Key,4A,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,200,2015,2017,5-Button Smart Key,,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,200,2015,2017,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Chrysler,200,2015,2017,Emergency Key,,Y171,,,Unconfirmed,false,,
+Chrysler,300,2001,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,300,2005,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,300,2005,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Chrysler,300,2005,2008,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chrysler,300,2005,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Chrysler,300,2005,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,300,2005,2008,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,300,2005,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,300,2005,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,300,2006,2007,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chrysler,300,2008,2010,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,300,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,300,2008,2010,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chrysler,300,2008,2011,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chrysler,300,2008,2010,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chrysler,300,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chrysler,300,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chrysler,300,2008,2011,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chrysler,300,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,300,2008,2015,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Trunk, Panic",
+Chrysler,300,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Chrysler,300,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,,
+Chrysler,300,2008,2012,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Chrysler,300,2008,2011,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Chrysler,300,2009,2011,5-Button Remote Head Key,,IYZ-C01C,,56046694,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,300,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chrysler,300,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,,433 MHz
+Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chrysler,300,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chrysler,300,2011,2018,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chrysler,300,2011,2018,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,300,2019,2021,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chrysler,300,2019,2023,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Chrysler,300,2019,2023,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,300,2019,2019,5-Button Smart Key,4A,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,300,2019,2019,5-Button Smart Key,,M3M-40821302,,68155687AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Chrysler,300M,1999,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,Aspen,2007,2009,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,Aspen,2007,2009,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Chrysler,Aspen,2007,2009,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chrysler,Aspen,2007,2009,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Chrysler,Aspen,2007,2009,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Aspen,2007,2009,4-Button Remote Head Key,,KOBDT04A,,05179512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chrysler,Aspen,2007,2009,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Aspen,2007,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Chrysler,Aspen,2007,2009,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chrysler,Aspen,2007,2009,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Chrysler,Aspen,2007,2011,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,Aspen,2007,2009,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,Concorde,1994,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk",
+Chrysler,Concorde,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,,315 MHz
+Chrysler,Concorde,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Concorde,1998,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,Concorde,2001,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Grand Caravan,2020,2021,5-Button Smart Key,,M3N-97395900,,68241531AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",433 MHz
+Chrysler,Grand Caravan,2020,2020,6-Button Smart Key,,M3N-97395900,,68241532AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Tailgate, Panic",433 MHz
+Chrysler,Grand Caravan,2020,2020,6-Button Smart Key,,M3N-97395900,,68217829,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start",433 MHz
+Chrysler,Grand Caravan,2020,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start",433 MHz
+Chrysler,Grand Caravan,2020,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,,433 MHz
+Chrysler,LHS,1994,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk",
+Chrysler,LHS,1999,2001,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,LHS,2001,2002,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,LHS,2001,2001,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Neon,2000,2001,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,,315 MHz
+Chrysler,Neon,2000,2001,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,New Yorker,1993,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk",
+Chrysler,PT Cruiser,2001,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,PT Cruiser,2005,2010,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chrysler,PT Cruiser,2006,2010,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,PT Cruiser,2006,2010,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Chrysler,PT Cruiser,2006,2010,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chrysler,PT Cruiser,2006,2010,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Chrysler,PT Cruiser,2006,2011,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,PT Cruiser,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,Pacifica,2004,2008,4-Button Remote Head Key,,,,04589053,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Chrysler,Pacifica,2004,2008,4-Button Remote Head Key,ID46,M3N5WY72XX,,05189230AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Pacifica,2004,2008,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,Pacifica,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,Pacifica,2017,2021,3-Button Smart Key,,M3N-97395900,,68217827AC,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chrysler,Pacifica,2017,2021,5-Button Smart Key,,M3N-97395900,,68241531AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",433 MHz
+Chrysler,Pacifica,2017,2020,6-Button Smart Key,,M3N-97395900,,68241532AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Tailgate, Panic",433 MHz
+Chrysler,Pacifica,2017,2020,6-Button Smart Key,,M3N-97395900,,68217829,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start",433 MHz
+Chrysler,Pacifica,2017,2021,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start",433 MHz
+Chrysler,Pacifica,2017,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start",433 MHz
+Chrysler,Pacifica,2017,2019,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,,433 MHz
+Chrysler,Pacifica,2017,2023,7-Button Smart Key,,M3N-97395900,,68238689AD,Unconfirmed,false,,433 MHz
+Chrysler,Pacifica,2017,2021,Emergency Key,,,,68289894AB,Unconfirmed,false,,
+Chrysler,Pacifica,2019,2021,4-Button Smart Key,,,,68419652,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chrysler,Pacifica,2019,2021,4-Button Smart Key,,M3N-97395900,,68419652,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chrysler,Pacifica,2020,2022,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,,433 MHz
+Chrysler,Sebring,1998,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,Sebring,2001,2005,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Sebring,2001,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,Sebring,2001,2005,Transponder Key,4D61,Y165,,05086276AA,Unconfirmed,false,,
+Chrysler,Sebring,2001,2006,Transponder Key,4D61,Y165,,,Unconfirmed,false,,
+Chrysler,Sebring,2001,2005,Transponder Key,4D61,Y165,,,Unconfirmed,false,,
+Chrysler,Sebring,2006,2006,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Chrysler,Sebring,2007,2009,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,Sebring,2007,2009,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Chrysler,Sebring,2007,2010,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Chrysler,Sebring,2007,2009,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Chrysler,Sebring,2007,2010,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chrysler,Sebring,2007,2010,5-Button Remote Head Key,,,,68029834,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Chrysler,Sebring,2007,2010,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Chrysler,Sebring,2007,2014,6-Button Remote Head Key,ID46,OHT692427AA,,,Unconfirmed,false,,315 MHz
+Chrysler,Sebring,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,Sebring,2007,2011,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,Sebring,2008,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,Town & Country,1999,2003,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chrysler,Town & Country,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,Town & Country,2004,2007,3-Button Remote Head Key,ID46,M3N5WY72XX,,,Unconfirmed,false,,315 MHz
+Chrysler,Town & Country,2004,2007,6-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Chrysler,Town & Country,2004,2007,6-Button Remote Head Key,ID46,M3N5WY72XX,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",315 MHz
+Chrysler,Town & Country,2004,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Chrysler,Town & Country,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,Town & Country,2008,2017,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,Town & Country,2008,2016,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Chrysler,Town & Country,2008,2017,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chrysler,Town & Country,2008,2013,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chrysler,Town & Country,2008,2016,5-Button Remote Head Key,,M3N5WY783X,,56046713AG,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",433 MHz
+Chrysler,Town & Country,2008,2017,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Chrysler,Town & Country,2008,2016,6-Button Remote Head Key,,,,56046705AG,Unconfirmed,false,,
+Chrysler,Town & Country,2008,2016,6-Button Remote Head Key,,IYZ-C01C,,68070394,Unconfirmed,false,,433 MHz
+Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,ID46,,,56046708AG,Unconfirmed,false,,
+Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,ID46,IYZ-C01C,,05026590AJ,Unconfirmed,false,,433 MHz
+Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,,IYZ-C01C,,05026591,Unconfirmed,false,,433 MHz
+Chrysler,Town & Country,2008,2016,7-Button Remote Head Key,,M3N5WY783X,,56046708AG,Unconfirmed,false,"Lock, Unlock, Trunk, Left Sliding Door, Right Sliding Door, Panic, Remote Start",433 MHz
+Chrysler,Town & Country,2008,2015,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Chrysler,Town & Country,2008,2015,Emergency Key,,Y171,,,Unconfirmed,false,,
+Chrysler,Town & Country,2008,2016,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Chrysler,Town & Country,2009,2016,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Chrysler,Town & Country,2011,2016,3-Button Remote Head Key,ID46,IYZ-C01C,,56046733AE,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chrysler,Town & Country,2011,2015,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chrysler,Town & Country,2011,2016,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Chrysler,Voyager,2001,2004,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Chrysler,Voyager,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Chrysler,Voyager,2004,2007,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Chrysler,Voyager,2020,2021,3-Button Smart Key,,M3N-97395900,,68217827AC,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chrysler,Voyager,2020,2021,4-Button Smart Key,,M3N-97395900,,68419652,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Chrysler,Voyager,2020,2021,5-Button Smart Key,,M3N-97395900,,68241531AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",433 MHz
+Chrysler,Voyager,2020,2020,6-Button Smart Key,,M3N-97395900,,68241532AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Tailgate, Panic",433 MHz
+Chrysler,Voyager,2020,2020,6-Button Smart Key,,M3N-97395900,,68217829,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic, Remote Start",433 MHz
+Chrysler,Voyager,2020,2020,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic, Remote Start",433 MHz
+Chrysler,Voyager,2020,2021,7-Button Smart Key,,M3N-97395900,,68217832AC,Unconfirmed,false,,433 MHz
+Chrysler,Voyager,2020,2023,7-Button Smart Key,,M3N-97395900,,68238689AD,Unconfirmed,false,,433 MHz
+Chrysler,Voyager,2020,2021,Emergency Key,,,,68289894AB,Unconfirmed,false,,
+Dodge,Avenger,2008,2014,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Avenger,2008,2014,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Dodge,Avenger,2008,2014,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Avenger,2008,2014,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Dodge,Avenger,2008,2014,5-Button Remote Head Key,,,,68029834,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Avenger,2008,2014,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Dodge,Avenger,2008,2014,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Dodge,Avenger,2008,2014,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Caliber,2007,2012,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Caliber,2007,2012,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Dodge,Caliber,2007,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,,
+Dodge,Caliber,2007,2012,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Caliber,2007,2013,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Dodge,Caliber,2007,2013,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Dodge,Caliber,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Dodge,Caliber,2007,2012,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Caliber,2010,2012,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Dodge,Caliber,2010,2012,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Dodge,Caravan,1999,2003,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Caravan,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Dodge,Caravan,2004,2007,3-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Caravan,2004,2007,3-Button Remote Head Key,ID46,M3N5WY72XX,,,Unconfirmed,false,,315 MHz
+Dodge,Caravan,2004,2007,6-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Dodge,Caravan,2004,2007,6-Button Remote Head Key,ID46,M3N5WY72XX,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",315 MHz
+Dodge,Caravan,2004,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Dodge,Caravan,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Caravan,2008,2021,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Caravan,2008,2020,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Caravan,2008,2021,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Caravan,2008,2021,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Dodge,Caravan,2008,2020,5-Button Remote Head Key,,M3N5WY783X,,56046713AG,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",433 MHz
+Dodge,Caravan,2008,2017,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Dodge,Caravan,2008,2020,6-Button Remote Head Key,,,,56046705AG,Unconfirmed,false,,
+Dodge,Caravan,2008,2021,7-Button Remote Head Key,ID46,,,56046708AG,Unconfirmed,false,,
+Dodge,Caravan,2008,2020,7-Button Remote Head Key,,M3N5WY783X,,56046708AG,Unconfirmed,false,"Lock, Unlock, Trunk, Left Sliding Door, Right Sliding Door, Panic, Remote Start",433 MHz
+Dodge,Caravan,2008,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Caravan,2008,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Challenger,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Challenger,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Challenger,2008,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Dodge,Challenger,2008,2012,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Challenger,2008,2014,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Challenger,2008,2014,4-Button Remote Head Key,,IYZ-C01C,,56046695,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Challenger,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Challenger,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Challenger,2008,2012,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Challenger,2008,2014,5-Button Remote Head Key,,IYZ-C01C,,56046694,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2008,2014,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Trunk, Panic",
+Dodge,Challenger,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Dodge,Challenger,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,,
+Dodge,Challenger,2009,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Challenger,2009,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Challenger,2015,2018,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Challenger,2015,2018,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Challenger,2015,2019,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,,433 MHz
+Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Challenger,2015,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Challenger,2015,2018,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234959AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,56046777AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234957AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2019,2021,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Challenger,2019,2023,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Challenger,2019,2023,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2019,2021,5-Button Smart Key,,M3M-40821302,,68394195,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394205AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Challenger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394203AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2005,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Charger,2006,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Charger,2006,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Dodge,Charger,2006,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Dodge,Charger,2006,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Charger,2006,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Charger,2006,2007,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Charger,2006,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Dodge,Charger,2006,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Charger,2007,2014,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Trunk, Panic",
+Dodge,Charger,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Charger,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Charger,2008,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Dodge,Charger,2008,2012,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Charger,2008,2013,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Charger,2008,2013,4-Button Remote Head Key,,IYZ-C01C,,56046695,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Charger,2008,2012,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Charger,2008,2010,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Charger,2008,2012,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Charger,2008,2013,5-Button Remote Head Key,,IYZ-C01C,,56046694,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2008,2012,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Dodge,Charger,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,,
+Dodge,Charger,2008,2018,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Charger,2008,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Charger,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Charger,2011,2018,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Charger,2011,2019,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,,433 MHz
+Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Charger,2011,2018,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Charger,2011,2018,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Charger,2011,2018,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2011,2018,5-Button Smart Key,,M3N-40821302,,56046777AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234959AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2015,2018,5-Button Smart Key,,M3N-40821302,,68234957AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2019,2021,4-Button Smart Key,4A,,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Charger,2019,2023,4-Button Smart Key,4A,M3M-40821302,,68394196AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Charger,2019,2023,5-Button Smart Key,4A,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394195AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2019,2019,5-Button Smart Key,,M3M-40821302,,68394195,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394205AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2019,2023,5-Button Smart Key,,M3M-40821302,,68394203AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Charger,2024,2025,4-Button Smart Key,4A,2BAHD-KFW1,,68575202AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Charger,2024,2025,5-Button Smart Key,4A,2BAHD-KFW1,,68575201AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Cirrus,1999,2000,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Dodge,Dart,2012,2016,4-Button Remote Head Key,ID46,M3N32297100,,56046771AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Dart,2012,2016,5-Button Remote Head Key,ID46,M3N32297100,,56046773AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Dart,2013,2016,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Dart,2013,2016,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Dodge,Dart,2013,2016,Emergency Key,,Y171,,,Unconfirmed,false,,
+Dodge,Dart,2013,2017,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Dart,2014,2016,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Dart,2014,2016,4-Button Smart Key,,M3N-40821302,,68051387AD,Unconfirmed,false,,433 MHz
+Dodge,Dart,2014,2016,4-Button Smart Key,,M3N-40821302,,56046758AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Dart,2014,2016,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Dart,2014,2016,5-Button Smart Key,,M3N-40821302,,56046759AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Dart,2014,2016,5-Button Smart Key,,M3N-40821302,,56046777AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Durango,1999,2000,3-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Durango,1999,2000,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Durango,2001,2003,3-Button Keyless Entry Remote,,GQ43VT17T,,04686481AF,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Durango,2001,2003,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Dodge,Durango,2004,2009,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Durango,2004,2009,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Dodge,Durango,2004,2013,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,,
+Dodge,Durango,2004,2010,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Durango,2004,2009,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Dodge,Durango,2004,2009,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Dodge,Durango,2005,2018,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Dodge,Durango,2005,2024,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Durango,2006,2009,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Durango,2006,2010,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Durango,2006,2009,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Dodge,Durango,2006,2009,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Durango,2006,2009,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Dodge,Durango,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Durango,2008,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Dodge,Durango,2008,2013,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Durango,2009,2009,4-Button Remote Head Key,,KOBDT04A,,05179512,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Dodge,Durango,2009,2009,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Dodge,Durango,2011,2013,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Durango,2011,2013,3-Button Remote Head Key,,IYZ-C01C,,56046733,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Durango,2011,2013,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Durango,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,56046695,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Durango,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,56046736,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Durango,2011,2013,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Durango,2011,2013,5-Button Remote Head Key,,,,05026538AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Dodge,Durango,2011,2013,5-Button Remote Head Key,ID46,IYZ-C01C,,05026538AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Dodge,Durango,2011,2013,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Dodge,Durango,2011,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Dodge,Durango,2011,2021,Emergency Key,,Y171,,,Unconfirmed,false,,
+Dodge,Durango,2014,2019,3-Button Smart Key,,M3N-40821302,,68143502AC,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Durango,2014,2019,4-Button Smart Key,,M3N-40821302,,68143504AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Durango,2014,2019,4-Button Smart Key,,M3N-40821302,,68066350AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Durango,2014,2022,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,,433 MHz
+Dodge,Durango,2014,2024,5-Button Smart Key,,M3N-40821302,,68150061AC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Durango,2014,2021,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,,433 MHz
+Dodge,Durango,2018,2021,5-Button Smart Key,,M3N-40821302,,68240167AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Dodge,Grand Caravan,2004,2007,3-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Grand Caravan,2004,2007,3-Button Remote Head Key,ID46,M3N5WY72XX,,,Unconfirmed,false,,315 MHz
+Dodge,Grand Caravan,2004,2007,6-Button Remote Head Key,,,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Dodge,Grand Caravan,2004,2007,6-Button Remote Head Key,ID46,M3N5WY72XX,,05183683AA,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",315 MHz
+Dodge,Grand Caravan,2004,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Grand Caravan,2008,2021,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Grand Caravan,2008,2021,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Grand Caravan,2008,2021,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Dodge,Grand Caravan,2008,2019,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Grand Caravan,2008,2020,5-Button Remote Head Key,,M3N5WY783X,,56046713AG,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",433 MHz
+Dodge,Grand Caravan,2008,2017,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Dodge,Grand Caravan,2008,2020,6-Button Remote Head Key,,,,56046705AG,Unconfirmed,false,,
+Dodge,Grand Caravan,2008,2019,6-Button Remote Head Key,,IYZ-C01C,,68070394,Unconfirmed,false,,433 MHz
+Dodge,Grand Caravan,2008,2021,7-Button Remote Head Key,ID46,,,56046708AG,Unconfirmed,false,,
+Dodge,Grand Caravan,2008,2021,7-Button Remote Head Key,ID46,IYZ-C01C,,05026590AJ,Unconfirmed,false,,433 MHz
+Dodge,Grand Caravan,2008,2019,7-Button Remote Head Key,,IYZ-C01C,,05026591,Unconfirmed,false,,433 MHz
+Dodge,Grand Caravan,2008,2020,7-Button Remote Head Key,,M3N5WY783X,,56046708AG,Unconfirmed,false,"Lock, Unlock, Trunk, Left Sliding Door, Right Sliding Door, Panic, Remote Start",433 MHz
+Dodge,Grand Caravan,2008,2015,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Dodge,Grand Caravan,2008,2015,Emergency Key,,Y171,,,Unconfirmed,false,,
+Dodge,Grand Caravan,2008,2013,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Grand Caravan,2011,2020,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Intrepid,1993,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk",
+Dodge,Intrepid,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,,315 MHz
+Dodge,Intrepid,1998,1998,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Intrepid,1998,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Dodge,Intrepid,2001,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Journey,2008,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Journey,2008,2011,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Journey,2009,2011,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Journey,2009,2012,4-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Dodge,Journey,2009,2011,4-Button Remote Head Key,,M3N5WY783X,,68044908AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Journey,2009,2016,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Dodge,Journey,2009,2019,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Dodge,Journey,2009,2019,Emergency Key,,Y171,,,Unconfirmed,false,,
+Dodge,Journey,2009,2011,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Journey,2011,2020,3-Button Smart Key,,M3N-40821302,,68066349AD,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Journey,2011,2020,3-Button Smart Key,,M3N-40821302,,68066349AF,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Dodge,Journey,2011,2020,4-Button Smart Key,,M3N-40821302,,68066350,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Journey,2011,2020,4-Button Smart Key,,M3N-40821302,,68066350AD,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Dodge,Journey,2011,2020,5-Button Smart Key,ID46,,,56046759AF,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Magnum,2005,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Magnum,2005,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Dodge,Magnum,2005,2007,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,,
+Dodge,Magnum,2005,2007,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Magnum,2005,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Magnum,2005,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Magnum,2005,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Dodge,Magnum,2005,2007,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Magnum,2006,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Dodge,Magnum,2006,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Dodge,Magnum,2006,2007,4-Button Remote Head Key,,OHT692715AA,,05179512AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Dodge,Magnum,2008,2008,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Magnum,2008,2008,4-Button Remote Head Key,,,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Dodge,Magnum,2008,2008,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Magnum,2008,2008,4-Button Remote Head Key,,M3N5WY783X,,05026886AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Dodge,Magnum,2008,2008,5-Button Remote Head Key,ID46,,,68058348AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Dodge,Magnum,2008,2008,5-Button Remote Head Key,,M3N5WY783X,,05026887AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Dodge,Magnum,2008,2008,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Dodge,Magnum,2008,2008,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Dodge,Magnum,2008,2008,Emergency Key,,Y171,,,Unconfirmed,false,,
+Dodge,Magnum,2008,2010,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Magnum,2008,2008,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Dodge,Neon,2000,2006,4-Button Keyless Entry Remote,,GQ43VT9T,,,Unconfirmed,false,,315 MHz
+Dodge,Neon,2000,2005,4-Button Keyless Entry Remote,,GQ43VT9T,,04759008AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Neon,2000,2005,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Dodge,Nitro,2007,2011,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Dodge,Nitro,2007,2011,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Dodge,Nitro,2007,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,,
+Dodge,Nitro,2007,2011,3-Button Remote Head Key,,KOBDT04A,,05183348AA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Dodge,Nitro,2007,2011,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Dodge,Nitro,2007,2011,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Dodge,Nitro,2007,2011,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Dodge,Nitro,2007,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Dodge,Nitro,2007,2012,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Dodge,Sebring,2001,2001,Transponder Key,4D61,Y162,,,Unconfirmed,false,,
+Dodge,Stratus,1999,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Dodge,Stratus,2001,2006,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Dodge,Stratus,2001,2001,Transponder Key,4D61,Y162,,,Unconfirmed,false,,
+Dodge,Stratus,2001,2005,Transponder Key,4D61,Y165,,05086276AA,Unconfirmed,false,,
+Dodge,Stratus,2001,2005,Transponder Key,4D61,Y165,,,Unconfirmed,false,,
+Dodge,Stratus,2002,2005,Transponder Key,4D61,Y165,,,Unconfirmed,false,,
+Dodge,Viper,1993,1997,3-Button Keyless Entry Remote,,GQ43VT7T,,04759136AB,Unconfirmed,false,"Lock, Unlock, Trunk",
+Dodge,Viper,2003,2006,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Fiat,500,2012,2017,3-Button Flip Key,,,,68334510,Unconfirmed,false,"Lock, Unlock, Trunk",
+Fiat,500,2012,2017,3-Button Flip Key,ID46,LTQF12AM433TX,,,Unconfirmed,false,,433 MHz
+Fiat,500L,2014,2017,3-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk",
+Fiat,500L,2014,2017,3-Button Flip Key,ID46,2ADPXTRF198,,,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Fiat,500L,2015,2016,Emergency Key,,SIP22,,,Unconfirmed,false,,
+Fiat,500X,2015,2017,Emergency Key,,SIP22,,,Unconfirmed,false,,
+Fiat,500X,2016,2019,3-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Panic",
+Fiat,500X,2016,2019,4-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Cherokee,1999,2001,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Jeep,Cherokee,1999,2001,3-Button Keyless Entry Remote,,GQ43VT9T,,56036859,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Jeep,Cherokee,1999,2001,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Jeep,Cherokee,2014,2021,3-Button Remote Head Key,4A,GQ4-53T,,68105081AB,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Cherokee,2014,2020,3-Button Remote Head Key,,GQ4-53T,,68105081AF,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Cherokee,2014,2019,3-Button Smart Key,,GQ4-54T,,68105087,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Cherokee,2014,2019,3-Button Smart Key,,GQ4-54T,,,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Cherokee,2014,2023,3-Button Smart Key,,GQ4-54T,,68105087AJ,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Cherokee,2014,2020,4-Button Remote Head Key,4A,GQ4-53T,,68105083AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Cherokee,2014,2019,4-Button Remote Head Key,4A,GQ4-53T,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Jeep,Cherokee,2014,2020,4-Button Remote Head Key,,GQ4-53T,,68105083AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Cherokee,2014,2019,4-Button Smart Key,,GQ4-54T,,,Unconfirmed,false,,433 MHz
+Jeep,Cherokee,2014,2019,4-Button Smart Key,,GQ4-54T,,68105078AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Cherokee,2014,2021,4-Button Smart Key,,GQ4-54T,,68105078AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Cherokee,2014,2019,5-Button Remote Head Key,4A,GQ4-53T,,,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Cherokee,2014,2022,5-Button Smart Key,,GQ4-54T,,68141580AG,Unconfirmed,false,,433 MHz
+Jeep,Cherokee,2014,2021,5-Button Smart Key,,GQ4-54T,,68141580AF,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Cherokee,2014,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Jeep,Cherokee,2014,2021,Emergency Key,,Y171,,,Unconfirmed,false,,
+Jeep,Cherokee,2014,2020,Transponder Key,4A,Y173,,,Unconfirmed,false,,
+Jeep,Cherokee,2014,2019,Transponder Key,4A,Y199,,,Unconfirmed,false,,
+Jeep,Cherokee,2015,2022,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Jeep,Commander,2005,2007,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Jeep,Commander,2005,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Jeep,Commander,2006,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Commander,2006,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Jeep,Commander,2006,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Commander,2006,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Jeep,Commander,2006,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jeep,Commander,2006,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jeep,Commander,2006,2007,4-Button Remote Head Key,ID46,OHT692715AA,,05183349AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Commander,2007,2007,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Jeep,Commander,2007,2007,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Jeep,Commander,2008,2010,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Commander,2008,2010,3-Button Remote Head Key,ID46,IYZ-C01C,,56046733AE,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Commander,2008,2010,4-Button Remote Head Key,,,,56046733AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Jeep,Commander,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,68066841AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Jeep,Commander,2008,2010,5-Button Remote Head Key,,M3N5WY783X,,68066849AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Jeep,Commander,2008,2010,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Jeep,Commander,2008,2010,6-Button Remote Head Key,,M3N5WY783X,,68051666AC,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Glass, Panic, Remote Start",433 MHz
+Jeep,Commander,2008,2010,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Jeep,Commander,2008,2010,Emergency Key,,Y171,,,Unconfirmed,false,,
+Jeep,Commander,2008,2010,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Jeep,Compass,2007,2016,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Compass,2007,2016,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Jeep,Compass,2007,2016,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Compass,2007,2016,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Jeep,Compass,2007,2018,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Jeep,Compass,2007,2017,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Jeep,Compass,2007,2018,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Jeep,Compass,2007,2017,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Jeep,Compass,2017,2021,3-Button Smart Key,,M3N-40821302,,68250335AB,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Compass,2017,2021,3-Button Smart Key,4A,M3N-40821302,,68250335AB,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Compass,2017,2021,4-Button Smart Key,4A,M3N-40821302,,68250337AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Compass,2017,2021,4-Button Smart Key,,M3N-40821302,,68417821AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Compass,2017,2022,4-Button Smart Key,,M3N-40821302,,68250341,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Jeep,Compass,2017,2022,4-Button Smart Key,ID47,M3N-40821302,,68250341AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Compass,2017,2022,4-Button Smart Key,4A,M3N-40821302,,68250337AB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Compass,2017,2021,5-Button Smart Key,4A,M3N-40821302,,68250343AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Compass,2017,2021,5-Button Smart Key,ID47,M3N-40821302,,68250343AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Compass,2017,2023,Emergency Key,,SIP22,,,Unconfirmed,false,,
+Jeep,Gladiator,2020,2026,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Gladiator,2020,2023,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Gladiator,2020,2021,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Gladiator,2020,2026,4-Button Flip Key,4A,OHT1130261,,68416784AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Gladiator,2020,2022,Flip Key,4A,OHT1130261,,68416785AA,Unconfirmed,false,,433 MHz
+Jeep,Grand Cherokee,1999,2004,3-Button Keyless Entry Remote,,GQ43VT9T,,56045497,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Jeep,Grand Cherokee,1999,2004,3-Button Keyless Entry Remote,,GQ43VT9T,,56036859,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Jeep,Grand Cherokee,1999,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Jeep,Grand Cherokee,2005,2007,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Grand Cherokee,2005,2007,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,ID46,KOBDT04A,,05179512AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jeep,Grand Cherokee,2005,2007,4-Button Remote Head Key,ID46,OHT692715AA,,05183349AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Grand Cherokee,2005,2008,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Jeep,Grand Cherokee,2005,2008,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Jeep,Grand Cherokee,2006,2007,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Jeep,Grand Cherokee,2006,2007,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Jeep,Grand Cherokee,2008,2013,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Grand Cherokee,2008,2013,3-Button Remote Head Key,ID46,IYZ-C01C,,56046733AE,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Grand Cherokee,2008,2013,4-Button Remote Head Key,,,,56046733AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Jeep,Grand Cherokee,2008,2013,5-Button Remote Head Key,,M3N5WY783X,,68066841AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2008,2013,5-Button Remote Head Key,,M3N5WY783X,,68066849AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2008,2015,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Jeep,Grand Cherokee,2008,2013,6-Button Remote Head Key,,M3N5WY783X,,68051666AC,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Glass, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2008,2021,Emergency Key,,Y171,,68029829AA,Unconfirmed,false,,
+Jeep,Grand Cherokee,2008,2021,Emergency Key,,Y171,,,Unconfirmed,false,,
+Jeep,Grand Cherokee,2008,2013,Transponder Key,ID46,Y170,,,Unconfirmed,false,,
+Jeep,Grand Cherokee,2009,2013,4-Button Remote Head Key,,,,56046734AH,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic",
+Jeep,Grand Cherokee,2009,2013,5-Button Remote Head Key,ID46,IYZ-C01C,,05026538AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2011,2013,3-Button Remote Head Key,,IYZ-C01C,,56046733,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Grand Cherokee,2011,2013,4-Button Remote Head Key,ID46,IYZ-C01C,,05026886AI,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,56046736,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2011,2013,4-Button Remote Head Key,,IYZ-C01C,,68051664,Unconfirmed,false,"Lock, Unlock, Rear Glass, Panic",433 MHz
+Jeep,Grand Cherokee,2011,2013,5-Button Remote Head Key,,IYZ-C01C,,05026453,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2011,2013,6-Button Remote Head Key,,IYZ-C01C,,68051666,Unconfirmed,false,"Lock, Unlock, Trunk, Rear Glass, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2014,2019,3-Button Smart Key,,M3N-40821302,,68143502AC,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Grand Cherokee,2014,2019,4-Button Smart Key,,M3N-40821302,,68143504AB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Jeep,Grand Cherokee,2014,2019,4-Button Smart Key,,M3N-40821302,,68066350AG,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2014,2020,4-Button Smart Key,,M3N-40821302,,68143500AC,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2014,2021,5-Button Smart Key,,,,68143505AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Jeep,Grand Cherokee,2014,2022,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,,433 MHz
+Jeep,Grand Cherokee,2014,2020,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,,433 MHz
+Jeep,Grand Cherokee,2014,2021,5-Button Smart Key,,M3N-40821302,,68143505AC,Unconfirmed,false,,433 MHz
+Jeep,Grand Cherokee,2015,2021,5-Button Smart Key,,M3N-40821302,,68240167AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2021,2023,3-Button Smart Key,,M3NWXF0B1,,68377529AA,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Grand Cherokee,2021,2023,5-Button Smart Key,,M3NWXF0B1,,68582687AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee,2021,2023,6-Button Smart Key,,M3NWXF0B1,,68516738AA,Unconfirmed,false,,433 MHz
+Jeep,Grand Cherokee,2024,2024,3-Button Smart Key,4A,2BAHD-KFW1,,68577123AB,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Grand Cherokee L,2021,2023,5-Button Smart Key,,M3NWXF0B1,,68582687AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Grand Cherokee L,2021,2023,Emergency Key,,,,68519237AA,Unconfirmed,false,,
+Jeep,Grand Wagoneer,2021,2023,6-Button Smart Key,,M3NWXF0B1,,68516738AA,Unconfirmed,false,,433 MHz
+Jeep,Grand Wagoneer,2021,2023,Emergency Key,,,,68519237AA,Unconfirmed,false,,
+Jeep,Grand Wagoneer,2024,2024,6-Button Smart Key,4A,2BAHD-KFW1,,68577132AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Air Suspension",433 MHz
+Jeep,Liberty,2002,2004,4-Button Keyless Entry Remote,,GQ43VT17T,,04602260AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jeep,Liberty,2002,2004,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Jeep,Liberty,2005,2007,4-Button Remote Head Key,,,,04589053,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Liberty,2005,2007,4-Button Remote Head Key,ID46,M3N5WY72XX,,05189230AA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jeep,Liberty,2005,2012,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Jeep,Liberty,2005,2014,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Jeep,Liberty,2008,2012,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Liberty,2008,2012,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Jeep,Liberty,2008,2012,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Liberty,2008,2012,4-Button Remote Head Key,ID46,OHT692715AA,,05183349AC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Liberty,2008,2012,5-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Jeep,Liberty,2008,2012,5-Button Remote Head Key,ID46,OHT692713AA,,68029834,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start",315 MHz
+Jeep,Patriot,2007,2018,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Patriot,2007,2016,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Jeep,Patriot,2007,2016,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Patriot,2007,2018,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Jeep,Patriot,2007,2017,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Jeep,Patriot,2007,2017,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Jeep,Patriot,2007,2018,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Jeep,Patriot,2010,2018,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Jeep,Renegade,2015,2019,3-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Renegade,2015,2021,3-Button Smart Key,,M3N-40821302,,,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Renegade,2015,2018,4-Button Flip Key,4A,2ADFTFI5AM433TX,,68296748AA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Renegade,2015,2021,4-Button Smart Key,,M3N-40821302,,68264811AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Renegade,2015,2021,4-Button Smart Key,ID47,M3N-40821302,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Renegade,2015,2021,Emergency Key,,SIP22,,,Unconfirmed,false,,
+Jeep,Wagoneer,2021,2023,5-Button Smart Key,,M3NWXF0B1,,68377534AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Jeep,Wagoneer,2021,2023,Emergency Key,,,,68519237AA,Unconfirmed,false,,
+Jeep,Wagoneer,2022,2023,5-Button Smart Key,,M3NWXFOB,,68582672AB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Jeep,Wagoneer,2022,2023,6-Button Smart Key,,M3NWXF0B1,,68582671AB,Unconfirmed,false,"Lock, Unlock, Liftgate, Panic, Remote Start, Air Suspension",433 MHz
+Jeep,Wrangler,1998,2006,Transponder Key,4D64,Y160,,,Unconfirmed,false,,
+Jeep,Wrangler,2006,2017,3-Button Remote Head Key,,,,56040649,Unconfirmed,false,"Lock, Unlock, Panic",
+Jeep,Wrangler,2006,2017,3-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,,
+Jeep,Wrangler,2006,2016,4-Button Remote Head Key,ID46,,,56040649,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Jeep,Wrangler,2006,2016,4-Button Remote Head Key,,,,56040649AC,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Jeep,Wrangler,2007,2018,4-Button Remote Head Key,ID46,OHT692713AA,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Jeep,Wrangler,2007,2017,4-Button Remote Head Key,,OHT692713AA,,68039414,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Jeep,Wrangler,2007,2019,Transponder Key,ID46,Y164,,,Unconfirmed,false,,
+Jeep,Wrangler,2007,2022,Transponder Key,,Y164,,05134937AA,Unconfirmed,false,,
+Jeep,Wrangler,2018,2026,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Wrangler,2018,2023,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Wrangler,2018,2021,3-Button Flip Key,4A,OHT1130261,,68416782AA,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Jeep,Wrangler,2018,2026,4-Button Flip Key,4A,OHT1130261,,68416784AA,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Jeep,Wrangler,2018,2021,Flip Key,4A,OHT1130261,,68416785AA,Unconfirmed,false,,433 MHz

@@ -1,950 +1,950 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Ford,Crown Victoria,2003,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Econoline,2008,2019,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Edge,2007,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Escape,2005,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,2011,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2011,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,F-550,2017,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,F-650,2017,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,F-750,2017,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,F-Series,2004,2016,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Five Hundred,2005,2007,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Flex,2009,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Focus,2006,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Freestar,2004,2007,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Freestyle,2005,2009,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Fusion,2006,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2005,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Ranger,2001,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Taurus,2000,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Thunderbird,2003,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Windstar,2001,2003,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Lincoln,Aviator,2003,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,LS,2003,2006,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Lincoln,MKT,2010,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Lincoln,MKX,2011,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Lincoln,MKZ,2011,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Lincoln,Mark LT,2005,2014,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Lincoln,Navigator,2003,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Town Car,2003,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Grand Marquis,2003,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Marauder,2003,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Mercury,Mariner,2005,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Milan,2006,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Mercury,Montego,2005,2007,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Monterey,2004,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Mercury,Mountaineer,2000,2010,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Sable,2000,2009,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,2011,2017,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Explorer,2012,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,F-250,2013,2013,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,
-Ford,Flex,2012,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Taurus,2012,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKX,2007,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Edge,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Explorer,2016,2017,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Fusion,2013,2016,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKC,2014,2016,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,
-Lincoln,MKX,2016,2019,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,
-Lincoln,MKZ,2013,2016,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,Nautilus,2019,2020,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,
-Ford,Edge,2015,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8109,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2016,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8109,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Fusion,2015,2016,4-Button Smart Key,,M3N-A2C31243800,,164-R8109,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Edge,2011,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escape,2017,2019,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Expedition,2015,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Explorer,2011,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Flex,2013,2019,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Focus,2012,2022,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Taurus,2013,2019,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKS,2013,2016,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKT,2013,2020,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKX,2011,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,Navigator,2014,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Crown Victoria,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Excursion,2000,2006,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Expedition,1997,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Explorer,1998,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,F-150,1999,2004,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,F-Series,1999,2004,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,GT,2005,2006,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Mustang,1996,2004,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Ranger,1999,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Taurus,1996,1999,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Windstar,1998,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Lincoln,Blackwood,2002,2003,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Lincoln,Continental,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Lincoln,Navigator,1997,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Lincoln,Town Car,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Mercury,B-Series,1999,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Mercury,Grand Marquis,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Mercury,Mountaineer,1998,2001,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Mercury,Sable,1996,1999,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Contour,1997,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Mustang,1996,1996,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Taurus,1996,1997,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Mercury,Cougar,1999,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Mercury,Mystique,1997,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,
-Ford,Escape,2001,2004,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
-Ford,Focus,2000,2005,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
-Ford,Thunderbird,2002,2002,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
-Lincoln,LS,2000,2002,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
-Ford,Crown Victoria,2003,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,E-Series,2004,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Edge,2007,2013,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Escape,2005,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Expedition,2003,2014,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Explorer,2001,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,F-Series,2004,2016,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Five Hundred,2005,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Flex,2009,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Focus,2006,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Freestar,2004,2008,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Freestyle,2005,2008,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Fusion,2006,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Mustang,2005,2014,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Ranger,2001,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Taurus,2000,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Thunderbird,2003,2005,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Windstar,2001,2003,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,Aviator,2003,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,LS,2003,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,MKT,2011,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,MKX,2007,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,MKZ,2007,2013,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,Mark LT,2006,2014,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,Navigator,2002,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Lincoln,Town Car,2003,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Grand Marquis,2002,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Marauder,2003,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Mariner,2005,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Milan,2006,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Montego,2005,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Monterey,2004,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Mountaineer,2001,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Mercury,Sable,2000,2009,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,C-Max,2013,2017,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Escape,2012,2019,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Fiesta,2011,2018,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Focus,2012,2024,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Transit,2013,2019,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Transit Connect,2014,2019,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Fusion,2013,2016,4-Button Flip Key,,N5F-A08TAA,,164-R7986,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Bronco,2021,2021,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,EcoSport,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2021,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Expedition,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Explorer,2016,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,2015,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,2015,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-350,2015,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-450,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-550,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-600,2021,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Maverick,2020,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Ranger,2019,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,C-Max,2013,2019,3-Button Smart Key,,KR55WK48801,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Fiesta,2011,2019,3-Button Smart Key,,KR55WK48801,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Focus,2012,2018,3-Button Smart Key,,KR55WK48801,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Econoline,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Edge,2007,2015,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2000,2013,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escort,1999,2003,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Excursion,2000,2006,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Expedition,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Explorer,1998,2015,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-Series,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Flex,2009,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Freestar,2004,2007,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Freestyle,2005,2007,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Fusion,2006,2012,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Ranger,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Sport Trac,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Taurus,2008,2009,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,
-Ford,Windstar,1998,2004,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Lincoln,Mark LT,2006,2008,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Lincoln,Navigator,1998,2002,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Cougar,2000,2002,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Mariner,2005,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Mountaineer,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Crown Victoria,2007,2010,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2001,2014,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escort,1998,2003,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,1998,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,1998,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Five Hundred,2005,2007,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Focus,2000,2013,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Fusion,2006,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,1999,2014,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Taurus,1998,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Thunderbird,2002,2005,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Aviator,2003,2005,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,LS,2000,2001,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Navigator,2001,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Town Car,1998,2009,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Cougar,1999,2002,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Grand Marquis,1999,2011,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Mariner,2005,2011,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Montego,2005,2007,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Sable,1999,2005,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Tracer,1999,1999,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,C-Max,2013,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,
-Ford,Escape,2013,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,
-Ford,Fiesta,2015,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Focus,2012,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,
-Ford,Transit,2013,2018,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,
-Ford,Transit Connect,2014,2018,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,
-Ford,C-Max,2013,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escape,2013,2020,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Focus,2013,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Maverick,2020,2020,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Edge,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,
-Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,
-Ford,Explorer,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,
-Ford,Fusion,2017,2020,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Mustang,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Transit,2010,2013,3-Button Remote Head Key,,KR55WK47899,,,Unconfirmed,false,
-Ford,Edge,2007,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Escape,2005,2018,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Expedition,2003,2016,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Explorer,2000,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,F-150,2004,2016,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Flex,2009,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Focus,2006,2012,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Freestar,2004,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Freestyle,2005,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Fusion,2006,2012,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Ranger,2001,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Taurus,2008,2009,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Windstar,2001,2003,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Lincoln,MKX,2006,2013,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Lincoln,MKZ,2007,2016,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Lincoln,Mark LT,2006,2008,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Mariner,2005,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Monterey,2004,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Mercury,Mountaineer,2000,2010,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Crown Victoria,2003,2011,Transponder Key,,,,,Unconfirmed,false,
-Ford,Econoline,2004,2015,Transponder Key,,,,,Unconfirmed,false,
-Ford,Edge,2007,2013,Transponder Key,,,,,Unconfirmed,false,
-Ford,Escape,2005,2012,Transponder Key,,,,,Unconfirmed,false,
-Ford,Expedition,2003,2014,Transponder Key,,,,,Unconfirmed,false,
-Ford,Explorer,2001,2015,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-150,2005,2016,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-250,2006,2016,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-350,2007,2016,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-450,2008,2016,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-550,2009,2016,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-Series,2004,2016,Transponder Key,,,,,Unconfirmed,false,
-Ford,Five Hundred,2005,2007,Transponder Key,,,,,Unconfirmed,false,
-Ford,Flex,2009,2015,Transponder Key,,,,,Unconfirmed,false,
-Ford,Focus,2006,2011,Transponder Key,,,,,Unconfirmed,false,
-Ford,Freestar,2004,2008,Transponder Key,,,,,Unconfirmed,false,
-Ford,Freestyle,2005,2008,Transponder Key,,,,,Unconfirmed,false,
-Ford,Fusion,2006,2012,Transponder Key,,,,,Unconfirmed,false,
-Ford,Mustang,2005,2014,Transponder Key,,,,,Unconfirmed,false,
-Ford,Ranger,2001,2012,Transponder Key,,,,,Unconfirmed,false,
-Ford,Taurus,2000,2015,Transponder Key,,,,,Unconfirmed,false,
-Ford,Thunderbird,2003,2005,Transponder Key,,,,,Unconfirmed,false,
-Ford,Windstar,2001,2003,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Aviator,2003,2007,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,LS,2003,2007,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKT,2011,2012,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKX,2007,2012,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKZ,2007,2013,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Mark LT,2006,2014,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Navigator,2002,2015,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Town Car,2003,2012,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Grand Marquis,2002,2011,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Marauder,2003,2007,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Mariner,2005,2011,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Milan,2006,2011,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Montego,2005,2007,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Monterey,2004,2007,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Mountaineer,2001,2012,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Sable,2000,2009,Transponder Key,,,,,Unconfirmed,false,
-Ford,Escape,2012,2017,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Fiesta,2015,2016,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit,2014,2018,3-Button Remote Head Key,,,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,C-Max,2013,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2012,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,F-350,2011,2013,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Focus,2012,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Transit,2013,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Bronco,2021,2021,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,EcoSport,2018,2020,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Edge,2017,2022,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2020,2022,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Explorer,2018,2022,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,2018,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-350,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-450,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-550,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Fusion,2017,2021,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Maverick,2022,2023,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Ranger,2019,2023,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit,2014,2020,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R8126,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Bronco,2021,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-150,2015,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-250,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-350,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-450,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-550,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Ranger,2019,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Econoline,2004,2013,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Edge,2007,2015,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2005,2012,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Expedition,2003,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Explorer,2001,2015,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,2004,2014,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,2004,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-350,2004,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-450,2012,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-550,2012,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-650,2012,2017,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-750,2012,2017,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Flex,2009,2017,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Freestar,2005,2007,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Freestyle,2005,2007,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Fusion,2006,2012,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Ranger,2001,2011,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Taurus,2008,2009,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Windstar,2001,2003,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Mariner,2005,2006,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Monterey,2005,2007,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit,2019,2019,4-Button Smart Key,,M3N-A2C931423,,164-R8234,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door"
-Ford,Edge,2018,2021,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,
-Ford,Fusion,2017,2020,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Transit,2010,2013,Remote Head Key,,,,,Unconfirmed,false,
-Ford,Bronco,2021,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2020,2020,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,2015,2020,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-350,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-450,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-550,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Maverick,2020,2020,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Ranger,2019,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,C-Max,2013,2019,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2013,2019,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Fiesta,2015,2018,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
-Ford,Focus,2012,2023,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Transit,2013,2018,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Crown Victoria,2004,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Edge,2007,2015,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2006,2012,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,2003,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2002,2005,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Five Hundred,2005,2007,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Flex,2009,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Focus,2005,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Fusion,2006,2012,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2005,2014,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Taurus,2000,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Thunderbird,2004,2005,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Aviator,2004,2005,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,LS,2004,2006,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,MKZ,2007,2010,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Mark LT,2006,2008,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Navigator,2004,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Town Car,2004,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Grand Marquis,2005,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Mariner,2005,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Milan,2006,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Montego,2005,2007,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Sable,2000,2009,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,2009,2017,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Explorer,2013,2015,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-Series,2011,2018,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,
-Lincoln,MKX,2007,2015,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Lincoln,Navigator,2014,2017,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Crown Victoria,2004,2011,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Edge,2007,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2006,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,2003,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2001,2005,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,F-150,2012,2018,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Five Hundred,2005,2007,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Flex,2009,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Focus,2005,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Fusion,2006,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2005,2013,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Taurus,2000,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Thunderbird,2004,2005,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Aviator,2004,2005,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,LS,2004,2006,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Mark LT,2006,2008,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Navigator,2004,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Town Car,2004,2011,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Grand Marquis,2005,2011,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Mariner,2005,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Milan,2006,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Montego,2005,2007,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Sable,2000,2009,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,C-Max,2013,2019,3-Button Smart Key,,KR55WK48801,,164-R8048,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Fiesta,2011,2019,3-Button Smart Key,,KR55WK48801,,164-R8048,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Focus,2012,2014,3-Button Smart Key,,KR55WK48801,,164-R8048,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Focus,2015,2019,Smart Key,,,,164-R8147,Unconfirmed,false,
-Ford,Expedition,2011,2017,5-Button Remote Head Key,,,,,Unconfirmed,false,
-Ford,Explorer,2013,2015,5-Button Remote Head Key,,,,,Unconfirmed,false,
-Ford,Flex,2014,2019,5-Button Remote Head Key,,,,,Unconfirmed,false,
-Ford,Taurus,2012,2019,5-Button Remote Head Key,,,,,Unconfirmed,false,
-Lincoln,MKZ,2013,2015,5-Button Remote Head Key,,,,,Unconfirmed,false,
-Lincoln,Navigator,2013,2015,5-Button Remote Head Key,,,,,Unconfirmed,false,
-Ford,Edge,2007,2013,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Escape,2005,2012,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Expedition,2003,2008,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Explorer,2001,2010,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,F-Series,2004,2013,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Flex,2009,2013,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Freestar,2005,2007,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Freestyle,2005,2007,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Fusion,2006,2012,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Ranger,2001,2008,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Taurus,2008,2009,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Windstar,2001,2003,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,
-Ford,Edge,2011,2015,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Expedition,2015,2017,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Explorer,2011,2015,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Flex,2013,2019,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Taurus,2013,2019,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Crown Victoria,2003,2014,Transponder Key,,,,,Unconfirmed,false,
-Ford,Econoline,2008,2020,Transponder Key,,,,,Unconfirmed,false,
-Ford,Edge,2007,2015,Transponder Key,,,,,Unconfirmed,false,
-Ford,Expedition,2003,2017,Transponder Key,,,,,Unconfirmed,false,
-Ford,Flex,2009,2018,Transponder Key,,,,,Unconfirmed,false,
-Ford,Freestar,2004,2007,Transponder Key,,,,,Unconfirmed,false,
-Ford,Freestyle,2005,2007,Transponder Key,,,,,Unconfirmed,false,
-Ford,Taurus,2000,2019,Transponder Key,,,,,Unconfirmed,false,
-Ford,Windstar,2001,2007,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKX,2007,2013,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKZ,2007,2017,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Navigator,2003,2015,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Zephyr,2006,2009,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Grand Marquis,2003,2011,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Marauder,2003,2005,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Montego,2005,2008,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Mountaineer,2002,2012,Transponder Key,,,,,Unconfirmed,false,
-Ford,Fusion,2013,2017,4-Button Flip Key,,N5F-A08TAA,,164-R7986,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Fiesta,2011,2017,3-Button Remote Head Key,,KR55WK47899,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Escape,2012,2012,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Explorer,2012,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKX,2012,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,Navigator,2015,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Crown Victoria,2007,2010,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2000,2006,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escort,1999,2003,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2000,2010,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Focus,2000,2011,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,1999,2009,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Navigator,2003,2010,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Grand Marquis,2007,2011,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2001,2006,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,Excursion,2000,2005,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,Expedition,1998,2002,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,Explorer,1998,2001,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,F-150,1999,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,F-250,2000,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,F-350,2001,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,F-450,2002,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,F-550,2003,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,F-Series,1998,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,Ranger,1998,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,
-Ford,Expedition,2003,2017,5-Button Keyless Entry Remote,,CWTWB1U551,,,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch, Power Tailgate"
-Lincoln,Navigator,2008,2010,5-Button Keyless Entry Remote,,CWTWB1U551,,,Unconfirmed,false,
-Ford,C-Max,2014,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escape,2013,2020,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Focus,2012,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Maverick,2020,2020,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escape,2012,2019,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit Connect,2014,2019,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2012,2017,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Fiesta,2015,2016,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit Connect,2014,2018,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit,2019,2023,4-Button Flip Key,,N5F-A08TAA,,164-R8236,Unconfirmed,false,
-Ford,Transit Connect,2019,2023,4-Button Flip Key,,N5F-A08TAA,,164-R8236,Unconfirmed,false,
-Ford,Edge,2017,2022,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Escape,2020,2023,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Explorer,2018,2022,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Maverick,2022,2023,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Ranger,2019,2023,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Bronco,2021,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Unlock, Lock, Panic, Remote Start, Power Tailgate"
-Ford,F-150,2018,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-250,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-350,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-450,2017,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-550,2017,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-650,2023,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-750,2023,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,Explorer,2016,2017,4-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,
-Lincoln,MKC,2014,2016,4-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Lincoln,MKX,2016,2019,4-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Explorer,2018,2021,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,
-Lincoln,Continental,2020,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,
-Ford,Edge,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Explorer,2016,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Fusion,2013,2016,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKC,2014,2016,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKX,2016,2019,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Mustang,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,Nautilus,2020,2020,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Bronco,2021,2021,5-Button Smart Key,,M3N-A2C931426,,,Unconfirmed,false,
-Ford,F-Series,2017,2021,5-Button Smart Key,,M3N-A2C931426,,,Unconfirmed,false,
-Ford,Escape,2020,2020,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Expedition,2017,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,
-Ford,Explorer,2019,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,
-Lincoln,Aviator,2020,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Lincoln,Corsair,2020,2021,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Lincoln,Nautilus,2020,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Lincoln,Navigator,2020,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,F-Series,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,
-Ford,Crown Victoria,1995,2006,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,
-Lincoln,Continental,1995,2006,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,
-Lincoln,Mark VIII,1997,1998,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,
-Lincoln,Town Car,1997,1998,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,
-Ford,Freestar,2004,2007,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Ford,Windstar,1999,2003,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Lincoln,Blackwood,2002,2002,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,
-Mercury,Monterey,2004,2007,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,
-Ford,Transit Connect,2010,2013,Transponder Key,4D Chip,FO21T17,,,Unconfirmed,false,
-Lincoln,LS,2000,2001,Transponder Key,4D60 Chip,,,,Unconfirmed,false,
-Ford,Transit Connect,2010,2013,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Explorer,2016,2017,3-Button Smart Key,,M3N-A2C31243800,,164-R8111,Unconfirmed,false,
-Ford,F-150,2015,2017,3-Button Smart Key,,M3N-A2C31243800,,164-R8111,Unconfirmed,false,
-Ford,Explorer,2012,2015,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Focus,2012,2012,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Taurus,2014,2019,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Transit Connect,2010,2013,3-Button Remote Head Key,,KR55WK47899,,164-R8042,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Fiesta,2011,2017,3-Button Remote Head Key,,KR55WK47899,,164-R8042,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Bronco,2021,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Ford,Escape,2020,2025,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Ford,Expedition,2018,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Ford,Explorer,2018,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,
-Ford,Maverick,2022,2025,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Ford,F-150,2018,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8185,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,Transit,2013,2020,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Transit Connect,2014,2020,Transponder Key,4D63 Chip,,,,Unconfirmed,false,
-Ford,Transit,2020,2023,Transponder Key,,,,164-R8239,Unconfirmed,false,
-Ford,Transit Connect,2020,2023,Transponder Key,,,,164-R8239,Unconfirmed,false,
-Ford,Transit,2020,2023,Transponder Key,,,,164-R8241,Unconfirmed,false,
-Ford,Transit Connect,2020,2023,Transponder Key,,,,164-R8241,Unconfirmed,false,
-Ford,EcoSport,2018,2023,Transponder Key,128-Bit,,,164-R8253,Unconfirmed,false,
-Ford,Ranger,2019,2023,Transponder Key,128-Bit,,,164-R8253,Unconfirmed,false,
-Ford,C-Max,2014,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Focus,2012,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escape,2020,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Explorer,2016,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,F-150,2015,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,F-250,2017,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Fusion,2013,2017,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Bronco,2021,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,EcoSport,2018,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Edge,2015,2023,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Expedition,2018,2023,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Explorer,2016,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,F-250,2018,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,F-350,2018,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,F-450,2017,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,F-550,2017,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Fusion,2013,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Mustang,2015,2023,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Ranger,2019,2019,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Lincoln,Continental,2017,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Lincoln,Corsair,2021,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Lincoln,MKC,2014,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Lincoln,MKX,2016,2019,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Lincoln,MKZ,2013,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Lincoln,Nautilus,2020,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Lincoln,Navigator,2018,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,
-Ford,Crown Victoria,2003,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Econoline,2008,2019,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Edge,2007,2015,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Escape,2005,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Expedition,2003,2017,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Explorer,2001,2015,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,F-Series,2004,2016,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Five Hundred,2005,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Flex,2009,2018,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Focus,2006,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Freestar,2004,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Freestyle,2005,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Fusion,2006,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Mustang,2005,2014,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Ranger,2001,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Taurus,2000,2019,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Thunderbird,2003,2005,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Windstar,2001,2003,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,Aviator,2003,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,LS,2003,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,MKT,2011,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,MKX,2007,2013,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,MKZ,2007,2017,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,Mark LT,2006,2014,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,Navigator,2003,2015,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,Town Car,2003,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Lincoln,Zephyr,2006,2009,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Grand Marquis,2003,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Marauder,2003,2005,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Mariner,2005,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Milan,2006,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Montego,2005,2008,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Monterey,2004,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Mountaineer,2002,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Mercury,Sable,2000,2009,Transponder Key,80-Bit,,,,Unconfirmed,false,
-Ford,Mustang,2015,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8143,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R8119,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Transit Connect,2020,2020,5-Button Flip Key,,N5F-A08TAA,,164-R8255,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Ford,EcoSport,2018,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,
-Ford,F-250,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-350,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-450,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-550,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2020,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Remote Start, Rear Hatch, Panic"
-Ford,Explorer,2017,2022,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Remote Start, Rear Hatch, Panic"
-Ford,Maverick,2022,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Crown Victoria,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Excursion,2000,2006,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Expedition,1997,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Explorer,1998,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,F-150,1999,2004,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,F-Series,1999,2004,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,GT,2005,2006,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Mustang,1996,2004,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Ranger,1999,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Taurus,1996,1999,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Windstar,1998,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Lincoln,Blackwood,2002,2003,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Lincoln,Continental,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Lincoln,Navigator,1997,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Lincoln,Town Car,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Mercury,B-Series,1999,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Mercury,Grand Marquis,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Mercury,Mountaineer,1998,2001,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Mercury,Sable,1996,1999,Transponder Key,,H72-PT,,,Unconfirmed,false,
-Ford,Contour,1997,2000,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,
-Ford,Mustang,1996,1996,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,
-Ford,Taurus,1996,1997,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,
-Mercury,Cougar,1999,2002,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,
-Mercury,Mystique,1997,2000,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,
-Ford,F-650,2021,2022,Transponder Key,,,,164-R8249,Unconfirmed,false,
-Ford,F-750,2021,2022,Transponder Key,,,,164-R8249,Unconfirmed,false,
-Ford,Bronco,2021,2024,4-Button Smart Key,,M3N-A2C931426,,164-R8297,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-150,2024,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,
-Ford,F-250,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-350,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-450,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-550,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-600,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,
-Ford,F-750,2024,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,
-Ford,Maverick,2025,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,
-Ford,Transit,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,
-Ford,Bronco,2021,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,2024,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-350,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-450,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-550,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-600,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-750,2024,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Maverick,2025,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Transit,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-350,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-450,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-550,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-250,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-350,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-450,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-550,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,Mustang,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8324,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escape,2020,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-150,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-250,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-350,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-450,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,
-Ford,F-550,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-650,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,
-Ford,F-750,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,
-Ford,Lightning,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,
-Ford,Maverick,2022,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Bronco,2021,2021,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,EcoSport,2018,2023,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-650,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-750,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Edge,2018,2021,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
-Ford,Fusion,2017,2020,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Econoline,2021,2024,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-150,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R8117,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-150,2011,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-250,2011,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-350,2012,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-450,2012,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-550,2012,2018,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-650,2012,2018,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,F-Series,2011,2014,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,
-Ford,Edge,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8322,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Edge,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Expedition,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Explorer,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Expedition,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8355,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Bronco,2021,2024,4-Button Smart Key,,M3N-A2C931426,,164-R8340,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Ford,Crown Victoria,1998,2002,Transponder Key,,,,,Unconfirmed,false,
-Ford,Excursion,2000,2005,Transponder Key,,,,,Unconfirmed,false,
-Ford,Expedition,1997,2002,Transponder Key,,,,,Unconfirmed,false,
-Ford,Explorer,1998,2000,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-150,1999,2003,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-250,1999,2003,Transponder Key,,,,,Unconfirmed,false,
-Ford,Mustang,1996,2004,Transponder Key,,,,,Unconfirmed,false,
-Ford,Ranger,1999,2000,Transponder Key,,,,,Unconfirmed,false,
-Ford,Taurus,1996,1999,Transponder Key,,,,,Unconfirmed,false,
-Ford,Windstar,1999,2000,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Continental,1998,2002,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Town Car,1998,2002,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Grand Marquis,1998,2002,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Mountaineer,1998,2000,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Sable,1996,1999,Transponder Key,,,,,Unconfirmed,false,
-Ford,Expedition,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8396,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Explorer,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8396,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Expedition,2025,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8397,Unconfirmed,false,
-Ford,Explorer,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8397,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Mustang,2023,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8347,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Bronco,2021,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,EcoSport,2018,2020,Transponder Key,,,,,Unconfirmed,false,
-Ford,Edge,2015,2023,Transponder Key,,,,,Unconfirmed,false,
-Ford,Expedition,2018,2023,Transponder Key,,,,,Unconfirmed,false,
-Ford,Explorer,2016,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-150,2015,2020,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-250,2018,2022,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-350,2018,2022,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-450,2017,2022,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-550,2017,2022,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-Series,2018,2020,Transponder Key,,,,,Unconfirmed,false,
-Ford,Fusion,2013,2020,Transponder Key,,,,,Unconfirmed,false,
-Ford,Mustang,2015,2023,Transponder Key,,,,,Unconfirmed,false,
-Ford,Ranger,2019,2019,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Continental,2017,2020,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Corsair,2020,2020,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKC,2014,2021,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKX,2016,2019,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,MKZ,2013,2020,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Nautilus,2020,2021,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,Navigator,2018,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,Escape,2001,2004,Transponder Key,,,,,Unconfirmed,false,
-Ford,Focus,2000,2005,Transponder Key,,,,,Unconfirmed,false,
-Ford,Thunderbird,2002,2002,Transponder Key,,,,,Unconfirmed,false,
-Lincoln,LS,2000,2002,Transponder Key,,,,,Unconfirmed,false,
-Ford,E-Series,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Econoline,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Edge,2007,2015,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escape,2001,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Escort,1999,2003,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Excursion,2000,2005,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Expedition,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Explorer,1998,2015,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Explorer Sport Trac,2001,2010,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-Series,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,
-Ford,Flex,2009,2016,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Freestar,2004,2007,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Freestyle,2005,2007,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Fusion,2006,2012,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Ranger,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Taurus X,2008,2009,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Windstar,1998,2003,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Lincoln,Mark LT,2006,2008,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Lincoln,Navigator,1998,2002,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Cougar,2000,2002,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Mariner,2005,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Mountaineer,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Bronco,2025,2025,3-Button Smart Key,,M3N-A3C108397,,164-R8411,Unconfirmed,false,
-Ford,Transit,2015,2019,4-Button Remote Head Key,,OUCD6000022,,164-R8126,Unconfirmed,false,"Lock, Unlock, Panic, Trunk"
-Ford,E-Series,2004,2013,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Explorer,2001,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,F-150,2004,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,F-250,2004,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,F-350,2004,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,F-450,2012,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-550,2012,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,F-Series,2012,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Flex,2009,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Freestar,2005,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Mercury,Mariner,2005,2006,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercury,Monterey,2005,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Edge,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,2009,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Five Hundred,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Flex,2009,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Focus,2010,2010,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Freestyle,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Fusion,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2010,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Taurus,2008,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,MKX,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,MKZ,2006,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Navigator,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,Zephyr,2006,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Mariner,2005,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Milan,2006,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Montego,2007,2007,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercury,Sable,2008,2010,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2018,2019,4-Button Smart Key,,M3N-A2C931423,,164-R8159,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Edge,2017,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Explorer,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Fusion,2017,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Mustang,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escort,1995,2000,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Fiesta,1995,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Granada,1995,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,KA,1996,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Mondeo,1995,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Orion,1993,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Puma,1998,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Scorpio,1995,1998,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Transit,1995,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Mercury,Cougar,1997,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,
-Ford,Mustang,2022,2023,5-Button Smart Key,,,,MR3T-15K601-BB,Unconfirmed,false,
-Ford,Transit Connect,2019,2023,4-Button Smart Key,,M3N-A2C931423,,164-R8234,Unconfirmed,false,
-Ford,Mustang,2020,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8233,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Edge,2017,2022,5-Button Smart Key,,M3N-A2C931426,,KT4T-15K601-CE,Unconfirmed,false,
-Ford,Explorer,2018,2022,5-Button Smart Key,,M3N-A2C931426,,KT4T-15K601-CE,Unconfirmed,false,
-Ford,Edge,2017,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8246,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Explorer,2018,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8246,Unconfirmed,false,
-Ford,Edge,2011,2015,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Escape,2012,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Expedition,2009,2017,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Explorer,2012,2015,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Flex,2013,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Focus,2012,2022,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Taurus,2013,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKS,2013,2016,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKT,2013,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,MKX,2012,2015,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,Navigator,2015,2017,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Edge,2011,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,
-Ford,Escape,2013,2014,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,
-Ford,Explorer,2011,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,
-Ford,Flex,2013,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,
-Ford,Focus,2012,2012,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,
-Ford,Taurus,2013,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,
-Ford,Lightning,2022,2024,4-Button Smart Key,,M3N-A3C054338,,164-R8303,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Mustang,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8325,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Expedition,2023,2024,3-Button Flip Key,,N5F-A08TBLP,,164-R8359,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Expedition,2023,2023,4-Button Smart Key,,M3N-A3C108397,,164-R8354,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Ford,Bronco,2021,2024,3-Button Smart Key,,M3N-A2C931423,,164-R8295,Unconfirmed,false,
-Ford,F-150,2018,2023,3-Button Smart Key,,N5F-A08TDA,,164-R8189,Unconfirmed,false,
-Ford,Bronco,2021,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8283,Unconfirmed,false,"Lock, Unlock, Panic"
-Ford,Bronco,2021,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8288,Unconfirmed,false,
-Ford,Mustang,2015,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Edge,2022,2023,4-Button Smart Key,,M3N-A3C054339,,164-R8323,Unconfirmed,false,
-Ford,Edge,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Expedition,2018,2021,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Explorer,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Fusion,2017,2021,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,F-150,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8185,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,Mustang,2021,2023,4-Button Smart Key,,M3N-A2C931423,,164-R8319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,F-150,2021,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8315,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,F-150,2024,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8365,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,Ranger,2022,2024,4-Button Smart Key,,M3N-A3C054339,,164-R8343,Unconfirmed,false,
-Ford,Transit Connect,2020,2023,5-Button Smart Key,,M3N-A3C054338,,164-R8326,Unconfirmed,false,
-Ford,Escort,1995,2000,Transponder Key,,,,,Unconfirmed,false,
-Ford,Fiesta,1995,2002,Transponder Key,,,,,Unconfirmed,false,
-Ford,Granada,1995,2001,Transponder Key,,,,,Unconfirmed,false,
-Ford,KA,1996,2002,Transponder Key,,,,,Unconfirmed,false,
-Ford,Mondeo,1995,2001,Transponder Key,,,,,Unconfirmed,false,
-Ford,Orion,1993,2001,Transponder Key,,,,,Unconfirmed,false,
-Ford,Puma,1998,2002,Transponder Key,,,,,Unconfirmed,false,
-Ford,Scorpio,1995,1998,Transponder Key,,,,,Unconfirmed,false,
-Ford,Transit,1995,2002,Transponder Key,,,,,Unconfirmed,false,
-Mercury,Cougar,1997,2002,Transponder Key,,,,,Unconfirmed,false,
-Ford,Bronco,2025,2025,4-Button Smart Key,,M3N-A3C108397,,164-R8412,Unconfirmed,false,
-Ford,C-Max,2013,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Escape,2013,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,F-Series,2011,2013,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Fiesta,2015,2018,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,
-Ford,Focus,2012,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Transit,2013,2017,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Transit Connect,2014,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Edge,2015,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,Expedition,2018,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-250,2018,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-350,2018,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-450,2017,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,F-550,2017,2021,Transponder Key,,,,,Unconfirmed,false,
-Ford,Mustang,2015,2020,Transponder Key,,,,,Unconfirmed,false,
-Ford,Crown Victoria,2004,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Edge,2007,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Escape,2006,2012,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Expedition,2003,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Explorer,2001,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Five Hundred,2005,2007,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Flex,2009,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Focus,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Fusion,2006,2012,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Mustang,2005,2014,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Taurus,2000,2018,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Thunderbird,2004,2005,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Zephyr,2006,2009,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,Aviator,2004,2005,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,LS,2004,2006,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,MKX,2006,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,MKZ,2007,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,Mark LT,2006,2008,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,Navigator,2004,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,Town Car,2004,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Mercury,Grand Marquis,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Mercury,Mariner,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Mercury,Milan,2006,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Mercury,Montego,2005,2007,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Mercury,Sable,2000,2009,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Crown Victoria,1995,2006,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,
-Lincoln,Continental,1995,2002,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,
-Lincoln,Mark VIII,1997,1998,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,
-Lincoln,Town Car,1995,1997,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,
-Mercury,Grand Marquis,1995,2006,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,
-Ford,Expedition,2009,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Explorer,2013,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,F-150,2011,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,F-250,2011,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,F-350,2012,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,F-450,2012,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,F-550,2012,2018,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,F-650,2012,2018,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,F-Series,2011,2014,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,MKX,2007,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Lincoln,Navigator,2014,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic"
-Ford,Fusion,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Mustang,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,Bronco,2021,2023,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,
-Ford,Edge,2017,2021,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,
-Ford,Escape,2020,2026,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,
-Ford,Explorer,2017,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,
-Ford,Fiesta,2011,2017,3-Button Remote Head Key,80-Bit,KR55WK47899,,164-R8042,Unconfirmed,false,"Lock, Unlock, Trunk"
-Ford,Transit,2010,2013,3-Button Remote Head Key,80-Bit,KR55WK47899,,164-R8042,Unconfirmed,false,
-Ford,Escape,2020,2023,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Maverick,2022,2023,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Taurus,2009,2012,4-Button Smart Key,,M3N5WY8406,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,MKS,2009,2012,4-Button Smart Key,,M3N5WY8406,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Lincoln,MKT,2011,2012,4-Button Smart Key,,M3N5WY8406,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Ford,Expedition,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Explorer,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Mustang,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Lincoln,Nautilus,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Lincoln,Navigator,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Ford,Mustang,2018,2020,5-Button Smart Key,,M3N-A2C931426,,164-R8162,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,F-150,2024,2024,4-Button Smart Key,,M3N-A3C054338,,164-R8367,Unconfirmed,false,
-Ford,F-150,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8370,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate"
-Ford,Mustang,2023,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8420,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Ford,F-150,2022,2024,5-Button Smart Key,,M3N-A3C054338,,164-R8304,Unconfirmed,false,
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Ford,Crown Victoria,2003,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Econoline,2008,2019,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Edge,2007,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Escape,2005,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Expedition,2011,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2011,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,F-550,2017,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,F-650,2017,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,F-750,2017,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,F-Series,2004,2016,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Five Hundred,2005,2007,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Flex,2009,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Focus,2006,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Freestar,2004,2007,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Freestyle,2005,2009,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Fusion,2006,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,2005,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Ranger,2001,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Taurus,2000,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Thunderbird,2003,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Windstar,2001,2003,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Lincoln,Aviator,2003,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,LS,2003,2006,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Lincoln,MKT,2010,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Lincoln,MKX,2011,2015,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Lincoln,MKZ,2011,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Lincoln,Mark LT,2005,2014,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Lincoln,Navigator,2003,2017,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Town Car,2003,2012,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Grand Marquis,2003,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Marauder,2003,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Mercury,Mariner,2005,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Milan,2006,2011,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Mercury,Montego,2005,2007,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Monterey,2004,2005,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Mercury,Mountaineer,2000,2010,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Sable,2000,2009,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Expedition,2011,2017,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Ford,Explorer,2012,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Ford,F-250,2013,2013,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,,315 MHz
+Ford,Flex,2012,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Ford,Taurus,2012,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Lincoln,MKX,2007,2015,5-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Ford,Edge,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Explorer,2016,2017,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Fusion,2013,2016,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKC,2014,2016,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,,
+Lincoln,MKX,2016,2019,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,,
+Lincoln,MKZ,2013,2016,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,Nautilus,2019,2020,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,,
+Ford,Edge,2015,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8109,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2016,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8109,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Fusion,2015,2016,4-Button Smart Key,,M3N-A2C31243800,,164-R8109,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Edge,2011,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Escape,2017,2019,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Expedition,2015,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Explorer,2011,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Flex,2013,2019,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Focus,2012,2022,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Taurus,2013,2019,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKS,2013,2016,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKT,2013,2020,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKX,2011,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,Navigator,2014,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Crown Victoria,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Excursion,2000,2006,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Expedition,1997,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Explorer,1998,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,F-150,1999,2004,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,F-Series,1999,2004,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,GT,2005,2006,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Mustang,1996,2004,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Ranger,1999,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Taurus,1996,1999,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Windstar,1998,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Lincoln,Blackwood,2002,2003,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Lincoln,Continental,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Lincoln,Navigator,1997,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Lincoln,Town Car,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Mercury,B-Series,1999,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Mercury,Grand Marquis,1998,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Mercury,Mountaineer,1998,2001,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Mercury,Sable,1996,1999,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Contour,1997,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Mustang,1996,1996,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Taurus,1996,1997,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Mercury,Cougar,1999,2002,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Mercury,Mystique,1997,2000,Transponder Key,4C Chip,,,,Unconfirmed,false,,
+Ford,Escape,2001,2004,Transponder Key,4D60 Chip,,,,Unconfirmed,false,,
+Ford,Focus,2000,2005,Transponder Key,4D60 Chip,,,,Unconfirmed,false,,
+Ford,Thunderbird,2002,2002,Transponder Key,4D60 Chip,,,,Unconfirmed,false,,
+Lincoln,LS,2000,2002,Transponder Key,4D60 Chip,,,,Unconfirmed,false,,
+Ford,Crown Victoria,2003,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,E-Series,2004,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Edge,2007,2013,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Escape,2005,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Expedition,2003,2014,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Explorer,2001,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,F-Series,2004,2016,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Five Hundred,2005,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Flex,2009,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Focus,2006,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Freestar,2004,2008,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Freestyle,2005,2008,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Fusion,2006,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Mustang,2005,2014,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Ranger,2001,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Taurus,2000,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Thunderbird,2003,2005,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Windstar,2001,2003,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,Aviator,2003,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,LS,2003,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,MKT,2011,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,MKX,2007,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,MKZ,2007,2013,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,Mark LT,2006,2014,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,Navigator,2002,2015,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Lincoln,Town Car,2003,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Grand Marquis,2002,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Marauder,2003,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Mariner,2005,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Milan,2006,2011,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Montego,2005,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Monterey,2004,2007,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Mountaineer,2001,2012,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Mercury,Sable,2000,2009,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,C-Max,2013,2017,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Escape,2012,2019,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Fiesta,2011,2018,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Focus,2012,2024,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Transit,2013,2019,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Transit Connect,2014,2019,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Fusion,2013,2016,4-Button Flip Key,,N5F-A08TAA,,164-R7986,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Bronco,2021,2021,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,EcoSport,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escape,2021,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Expedition,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Explorer,2016,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-150,2015,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-250,2015,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-350,2015,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-450,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-550,2018,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-600,2021,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Maverick,2020,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Ranger,2019,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,C-Max,2013,2019,3-Button Smart Key,,KR55WK48801,,,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Ford,Fiesta,2011,2019,3-Button Smart Key,,KR55WK48801,,,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Ford,Focus,2012,2018,3-Button Smart Key,,KR55WK48801,,,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Ford,Econoline,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Edge,2007,2015,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escape,2000,2013,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escort,1999,2003,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Excursion,2000,2006,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Expedition,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Explorer,1998,2015,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-150,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-250,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-Series,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Flex,2009,2016,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Freestar,2004,2007,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Freestyle,2005,2007,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Fusion,2006,2012,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Ranger,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Sport Trac,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Taurus,2008,2009,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Ford,Windstar,1998,2004,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Lincoln,Mark LT,2006,2008,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Lincoln,Navigator,1998,2002,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Cougar,2000,2002,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Mariner,2005,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Mountaineer,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Crown Victoria,2007,2010,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escape,2001,2014,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escort,1998,2003,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Expedition,1998,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,1998,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Five Hundred,2005,2007,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Focus,2000,2013,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Fusion,2006,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,1999,2014,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Taurus,1998,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Thunderbird,2002,2005,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Aviator,2003,2005,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,LS,2000,2001,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Navigator,2001,2012,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Town Car,1998,2009,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Cougar,1999,2002,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Grand Marquis,1999,2011,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Mariner,2005,2011,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Montego,2005,2007,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Sable,1999,2005,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Tracer,1999,1999,4-Button Keyless Entry Remote,,CWTWB1U311,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,C-Max,2013,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,,315 MHz
+Ford,Escape,2013,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,,315 MHz
+Ford,Fiesta,2015,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Focus,2012,2019,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,,315 MHz
+Ford,Transit,2013,2018,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,,315 MHz
+Ford,Transit Connect,2014,2018,4-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,,315 MHz
+Ford,C-Max,2013,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Escape,2013,2020,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Focus,2013,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Maverick,2020,2020,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Edge,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,,902 MHz
+Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,,902 MHz
+Ford,Explorer,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,,902 MHz
+Ford,Fusion,2017,2020,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Mustang,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Transit,2010,2013,3-Button Remote Head Key,,KR55WK47899,,,Unconfirmed,false,,315 MHz
+Ford,Edge,2007,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Escape,2005,2018,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Expedition,2003,2016,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Explorer,2000,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,F-150,2004,2016,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Flex,2009,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Focus,2006,2012,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Freestar,2004,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Freestyle,2005,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Fusion,2006,2012,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Ranger,2001,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Taurus,2008,2009,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Windstar,2001,2003,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Lincoln,MKX,2006,2013,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+Lincoln,MKZ,2007,2016,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+Lincoln,Mark LT,2006,2008,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Mariner,2005,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Monterey,2004,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Mercury,Mountaineer,2000,2010,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Crown Victoria,2003,2011,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Econoline,2004,2015,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Edge,2007,2013,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Escape,2005,2012,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Expedition,2003,2014,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Explorer,2001,2015,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-150,2005,2016,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-250,2006,2016,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-350,2007,2016,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-450,2008,2016,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-550,2009,2016,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-Series,2004,2016,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Five Hundred,2005,2007,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Flex,2009,2015,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Focus,2006,2011,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Freestar,2004,2008,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Freestyle,2005,2008,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Fusion,2006,2012,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Mustang,2005,2014,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Ranger,2001,2012,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Taurus,2000,2015,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Thunderbird,2003,2005,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Windstar,2001,2003,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Aviator,2003,2007,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,LS,2003,2007,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKT,2011,2012,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKX,2007,2012,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKZ,2007,2013,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Mark LT,2006,2014,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Navigator,2002,2015,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Town Car,2003,2012,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Grand Marquis,2002,2011,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Marauder,2003,2007,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Mariner,2005,2011,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Milan,2006,2011,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Montego,2005,2007,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Monterey,2004,2007,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Mountaineer,2001,2012,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Sable,2000,2009,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Escape,2012,2017,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Fiesta,2015,2016,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Transit,2014,2018,3-Button Remote Head Key,,,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,C-Max,2013,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escape,2012,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,F-350,2011,2013,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",315 MHz
+Ford,Focus,2012,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Transit,2013,2018,4-Button Flip Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Bronco,2021,2021,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,EcoSport,2018,2020,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Edge,2017,2022,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escape,2020,2022,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Explorer,2018,2022,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-150,2018,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-250,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-350,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-450,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-550,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Fusion,2017,2021,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Maverick,2022,2023,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Ranger,2019,2023,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Transit,2014,2020,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R8126,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Bronco,2021,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,F-150,2015,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,F-250,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,F-350,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,F-450,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,F-550,2018,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Ranger,2019,2022,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Econoline,2004,2013,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Edge,2007,2015,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Escape,2005,2012,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Expedition,2003,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Explorer,2001,2015,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,F-150,2004,2014,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,F-250,2004,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,F-350,2004,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,F-450,2012,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,F-550,2012,2016,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,F-650,2012,2017,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,F-750,2012,2017,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Flex,2009,2017,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Freestar,2005,2007,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Freestyle,2005,2007,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Fusion,2006,2012,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Ranger,2001,2011,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Taurus,2008,2009,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Windstar,2001,2003,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Mercury,Mariner,2005,2006,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Mercury,Monterey,2005,2007,3-Button Remote Head Key,,,,164-R8070,Unconfirmed,false,"Lock, Unlock, Panic",
+Ford,Transit,2019,2019,4-Button Smart Key,,M3N-A2C931423,,164-R8234,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door",315 MHz
+Ford,Edge,2018,2021,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,,315 MHz
+Ford,Fusion,2017,2020,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Transit,2010,2013,Remote Head Key,,,,,Unconfirmed,false,,
+Ford,Bronco,2021,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escape,2020,2020,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-150,2015,2020,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-250,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-350,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-450,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-550,2017,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Maverick,2020,2020,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Ranger,2019,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,C-Max,2013,2019,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Escape,2013,2019,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Fiesta,2015,2018,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Panic, Trunk",
+Ford,Focus,2012,2023,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Transit,2013,2018,4-Button Remote Head Key,,OUC6000022,,164-R8046,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Crown Victoria,2004,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Edge,2007,2015,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Escape,2006,2012,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Expedition,2003,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Explorer,2002,2005,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Five Hundred,2005,2007,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Flex,2009,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Focus,2005,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Fusion,2006,2012,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Mustang,2005,2014,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Taurus,2000,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Thunderbird,2004,2005,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,Aviator,2004,2005,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,LS,2004,2006,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,MKZ,2007,2010,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,Mark LT,2006,2008,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,Navigator,2004,2017,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,Town Car,2004,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercury,Grand Marquis,2005,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercury,Mariner,2005,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercury,Milan,2006,2011,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercury,Montego,2005,2007,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercury,Sable,2000,2009,4-Button Remote Head Key,,,,164-R8073,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Expedition,2009,2017,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Explorer,2013,2015,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-Series,2011,2018,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,,
+Lincoln,MKX,2007,2015,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Lincoln,Navigator,2014,2017,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Crown Victoria,2004,2011,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Edge,2007,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escape,2006,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Expedition,2003,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2001,2005,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,F-150,2012,2018,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Five Hundred,2005,2007,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Flex,2009,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Focus,2005,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Fusion,2006,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,2005,2013,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Taurus,2000,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Thunderbird,2004,2005,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,Aviator,2004,2005,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,LS,2004,2006,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,Mark LT,2006,2008,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Lincoln,Navigator,2004,2012,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Town Car,2004,2011,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercury,Grand Marquis,2005,2011,4-Button Remote Head Key,,,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercury,Mariner,2005,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Milan,2006,2011,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Montego,2005,2007,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Sable,2000,2009,4-Button Remote Head Key,,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,C-Max,2013,2019,3-Button Smart Key,,KR55WK48801,,164-R8048,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Ford,Fiesta,2011,2019,3-Button Smart Key,,KR55WK48801,,164-R8048,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Ford,Focus,2012,2014,3-Button Smart Key,,KR55WK48801,,164-R8048,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Ford,Focus,2015,2019,Smart Key,,,,164-R8147,Unconfirmed,false,,
+Ford,Expedition,2011,2017,5-Button Remote Head Key,,,,,Unconfirmed,false,,
+Ford,Explorer,2013,2015,5-Button Remote Head Key,,,,,Unconfirmed,false,,
+Ford,Flex,2014,2019,5-Button Remote Head Key,,,,,Unconfirmed,false,,
+Ford,Taurus,2012,2019,5-Button Remote Head Key,,,,,Unconfirmed,false,,
+Lincoln,MKZ,2013,2015,5-Button Remote Head Key,,,,,Unconfirmed,false,,
+Lincoln,Navigator,2013,2015,5-Button Remote Head Key,,,,,Unconfirmed,false,,
+Ford,Edge,2007,2013,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Escape,2005,2012,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Expedition,2003,2008,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Explorer,2001,2010,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,F-Series,2004,2013,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Flex,2009,2013,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Freestar,2005,2007,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Freestyle,2005,2007,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Fusion,2006,2012,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Ranger,2001,2008,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Taurus,2008,2009,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Windstar,2001,2003,3-Button Remote Head Key,,,,164-R7043,Unconfirmed,false,,
+Ford,Edge,2011,2015,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Expedition,2015,2017,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Explorer,2011,2015,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Flex,2013,2019,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Taurus,2013,2019,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Crown Victoria,2003,2014,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Econoline,2008,2020,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Edge,2007,2015,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Expedition,2003,2017,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Flex,2009,2018,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Freestar,2004,2007,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Freestyle,2005,2007,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Taurus,2000,2019,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Windstar,2001,2007,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKX,2007,2013,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKZ,2007,2017,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Navigator,2003,2015,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Zephyr,2006,2009,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Grand Marquis,2003,2011,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Marauder,2003,2005,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Montego,2005,2008,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Mountaineer,2002,2012,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Fusion,2013,2017,4-Button Flip Key,,N5F-A08TAA,,164-R7986,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Fiesta,2011,2017,3-Button Remote Head Key,,KR55WK47899,,,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+Ford,Escape,2012,2012,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Explorer,2012,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKX,2012,2015,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,Navigator,2015,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Crown Victoria,2007,2010,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escape,2000,2006,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escort,1999,2003,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2000,2010,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Focus,2000,2011,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,1999,2009,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Navigator,2003,2010,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Grand Marquis,2007,2011,4-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escape,2001,2006,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,Excursion,2000,2005,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,Expedition,1998,2002,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,Explorer,1998,2001,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,F-150,1999,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,F-250,2000,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,F-350,2001,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,F-450,2002,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,F-550,2003,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,F-Series,1998,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,Ranger,1998,2010,3-Button Keyless Entry Remote,,,,,Unconfirmed,false,,
+Ford,Expedition,2003,2017,5-Button Keyless Entry Remote,,CWTWB1U551,,,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch, Power Tailgate",315 MHz
+Lincoln,Navigator,2008,2010,5-Button Keyless Entry Remote,,CWTWB1U551,,,Unconfirmed,false,,315 MHz
+Ford,C-Max,2014,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Escape,2013,2020,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Focus,2012,2017,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Maverick,2020,2020,5-Button Smart Key,,M3N5WY8609,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Escape,2012,2019,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Transit Connect,2014,2019,3-Button Remote Head Key,,OUCD6000022,,164-R8007,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escape,2012,2017,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Fiesta,2015,2016,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Transit Connect,2014,2018,3-Button Remote Head Key,,CWTWB1U793,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Transit,2019,2023,4-Button Flip Key,,N5F-A08TAA,,164-R8236,Unconfirmed,false,,315 MHz
+Ford,Transit Connect,2019,2023,4-Button Flip Key,,N5F-A08TAA,,164-R8236,Unconfirmed,false,,315 MHz
+Ford,Edge,2017,2022,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Escape,2020,2023,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Explorer,2018,2022,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Maverick,2022,2023,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Ranger,2019,2023,4-Button Smart Key,,M3N-A2C931426,,164-R8182,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Bronco,2021,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Unlock, Lock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-150,2018,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-250,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-350,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-450,2017,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-550,2017,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-650,2023,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-750,2023,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8166,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,Explorer,2016,2017,4-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,,
+Lincoln,MKC,2014,2016,4-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Lincoln,MKX,2016,2019,4-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Explorer,2018,2021,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,,902 MHz
+Lincoln,Continental,2020,2022,5-Button Smart Key,,M3N-A2C93142600,,,Unconfirmed,false,,902 MHz
+Ford,Edge,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Explorer,2016,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Fusion,2013,2016,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKC,2014,2016,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKX,2016,2019,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",
+Ford,Mustang,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,Nautilus,2020,2020,5-Button Smart Key,,M3N-A2C31243300,,164-R7989,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",
+Ford,Bronco,2021,2021,5-Button Smart Key,,M3N-A2C931426,,,Unconfirmed,false,,902 MHz
+Ford,F-Series,2017,2021,5-Button Smart Key,,M3N-A2C931426,,,Unconfirmed,false,,902 MHz
+Ford,Escape,2020,2020,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Expedition,2017,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,,902 MHz
+Ford,Explorer,2019,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,,902 MHz
+Lincoln,Aviator,2020,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Lincoln,Corsair,2020,2021,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Lincoln,Nautilus,2020,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Lincoln,Navigator,2020,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,F-Series,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,,Unconfirmed,false,,
+Ford,Crown Victoria,1995,2006,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,,
+Lincoln,Continental,1995,2006,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,,
+Lincoln,Mark VIII,1997,1998,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,,
+Lincoln,Town Car,1997,1998,4-Button Keyless Entry Remote,,,,3W73-15K601-AA,Unconfirmed,false,,
+Ford,Freestar,2004,2007,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",
+Ford,Windstar,1999,2003,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",
+Lincoln,Blackwood,2002,2002,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,,
+Mercury,Monterey,2004,2007,5-Button Keyless Entry Remote,,CWTWB1U511,,XF2T-15K601-AA,Unconfirmed,false,,
+Ford,Transit Connect,2010,2013,Transponder Key,4D Chip,FO21T17,,,Unconfirmed,false,,
+Lincoln,LS,2000,2001,Transponder Key,4D60 Chip,,,,Unconfirmed,false,,
+Ford,Transit Connect,2010,2013,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Explorer,2016,2017,3-Button Smart Key,,M3N-A2C31243800,,164-R8111,Unconfirmed,false,,315 MHz
+Ford,F-150,2015,2017,3-Button Smart Key,,M3N-A2C31243800,,164-R8111,Unconfirmed,false,,315 MHz
+Ford,Explorer,2012,2015,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Focus,2012,2012,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Taurus,2014,2019,4-Button Smart Key,,M3N5WY8609,,164-R8091,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,Transit Connect,2010,2013,3-Button Remote Head Key,,KR55WK47899,,164-R8042,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+Ford,Fiesta,2011,2017,3-Button Remote Head Key,,KR55WK47899,,164-R8042,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+Ford,Bronco,2021,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",315 MHz
+Ford,Escape,2020,2025,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",315 MHz
+Ford,Expedition,2018,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",315 MHz
+Ford,Explorer,2018,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,,315 MHz
+Ford,Maverick,2022,2025,4-Button Smart Key,,M3N-A2C931423,,164-R8197,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",315 MHz
+Ford,F-150,2018,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8185,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,Transit,2013,2020,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Transit Connect,2014,2020,Transponder Key,4D63 Chip,,,,Unconfirmed,false,,
+Ford,Transit,2020,2023,Transponder Key,,,,164-R8239,Unconfirmed,false,,
+Ford,Transit Connect,2020,2023,Transponder Key,,,,164-R8239,Unconfirmed,false,,
+Ford,Transit,2020,2023,Transponder Key,,,,164-R8241,Unconfirmed,false,,
+Ford,Transit Connect,2020,2023,Transponder Key,,,,164-R8241,Unconfirmed,false,,
+Ford,EcoSport,2018,2023,Transponder Key,128-Bit,,,164-R8253,Unconfirmed,false,,
+Ford,Ranger,2019,2023,Transponder Key,128-Bit,,,164-R8253,Unconfirmed,false,,
+Ford,C-Max,2014,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Focus,2012,2017,5-Button Smart Key,,M3N5WY8609,,164-R7995,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Escape,2020,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Explorer,2016,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,F-150,2015,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,F-250,2017,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Fusion,2013,2017,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Bronco,2021,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,EcoSport,2018,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Edge,2015,2023,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Expedition,2018,2023,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Explorer,2016,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,F-250,2018,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,F-350,2018,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,F-450,2017,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,F-550,2017,2022,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Fusion,2013,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Mustang,2015,2023,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Ranger,2019,2019,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Lincoln,Continental,2017,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Lincoln,Corsair,2021,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Lincoln,MKC,2014,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Lincoln,MKX,2016,2019,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Lincoln,MKZ,2013,2020,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Lincoln,Nautilus,2020,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Lincoln,Navigator,2018,2021,Transponder Key,128-Bit,,,,Unconfirmed,false,,
+Ford,Crown Victoria,2003,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Econoline,2008,2019,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Edge,2007,2015,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Escape,2005,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Expedition,2003,2017,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Explorer,2001,2015,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,F-Series,2004,2016,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Five Hundred,2005,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Flex,2009,2018,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Focus,2006,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Freestar,2004,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Freestyle,2005,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Fusion,2006,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Mustang,2005,2014,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Ranger,2001,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Taurus,2000,2019,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Thunderbird,2003,2005,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Windstar,2001,2003,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,Aviator,2003,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,LS,2003,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,MKT,2011,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,MKX,2007,2013,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,MKZ,2007,2017,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,Mark LT,2006,2014,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,Navigator,2003,2015,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,Town Car,2003,2012,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Lincoln,Zephyr,2006,2009,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Grand Marquis,2003,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Marauder,2003,2005,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Mariner,2005,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Milan,2006,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Montego,2005,2008,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Monterey,2004,2007,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Mountaineer,2002,2011,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Mercury,Sable,2000,2009,Transponder Key,80-Bit,,,,Unconfirmed,false,,
+Ford,Mustang,2015,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8143,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R8119,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Transit Connect,2020,2020,5-Button Flip Key,,N5F-A08TAA,,164-R8255,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",315 MHz
+Ford,EcoSport,2018,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8130,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-150,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,,433 MHz
+Ford,F-250,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-350,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-450,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-550,2023,2023,3-Button Flip Key,,N5F-A08TBLP,,,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,Escape,2020,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Remote Start, Rear Hatch, Panic",902 MHz
+Ford,Explorer,2017,2022,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Remote Start, Rear Hatch, Panic",902 MHz
+Ford,Maverick,2022,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8198,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Crown Victoria,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Excursion,2000,2006,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Expedition,1997,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Explorer,1998,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,F-150,1999,2004,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,F-Series,1999,2004,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,GT,2005,2006,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Mustang,1996,2004,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Ranger,1999,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Taurus,1996,1999,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Windstar,1998,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Lincoln,Blackwood,2002,2003,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Lincoln,Continental,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Lincoln,Navigator,1997,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Lincoln,Town Car,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Mercury,B-Series,1999,2000,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Mercury,Grand Marquis,1998,2002,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Mercury,Mountaineer,1998,2001,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Mercury,Sable,1996,1999,Transponder Key,,H72-PT,,,Unconfirmed,false,,
+Ford,Contour,1997,2000,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,,
+Ford,Mustang,1996,1996,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,,
+Ford,Taurus,1996,1997,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,,
+Mercury,Cougar,1999,2002,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,,
+Mercury,Mystique,1997,2000,Transponder Key,4C Chip,H73-PT,,,Unconfirmed,false,,
+Ford,F-650,2021,2022,Transponder Key,,,,164-R8249,Unconfirmed,false,,
+Ford,F-750,2021,2022,Transponder Key,,,,164-R8249,Unconfirmed,false,,
+Ford,Bronco,2021,2024,4-Button Smart Key,,M3N-A2C931426,,164-R8297,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,F-150,2024,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,,433 MHz
+Ford,F-250,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Ford,F-350,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Ford,F-450,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Ford,F-550,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Ford,F-600,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,,433 MHz
+Ford,F-750,2024,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,,433 MHz
+Ford,Maverick,2025,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,,433 MHz
+Ford,Transit,2023,2025,4-Button Flip Key,,N5F-A08TBLP,,164-R8337,Unconfirmed,false,,433 MHz
+Ford,Bronco,2021,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-150,2024,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-250,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-350,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-450,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-550,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-600,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-750,2024,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,Maverick,2025,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,Transit,2023,2025,3-Button Flip Key,,N5F-A08TBLP,,164-R8334,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Ford,F-250,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-350,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-450,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-550,2023,2024,4-Button Smart Key,,,,164-R8333,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-250,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",433 MHz
+Ford,F-350,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",433 MHz
+Ford,F-450,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",433 MHz
+Ford,F-550,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8330,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",433 MHz
+Ford,Mustang,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8324,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Escape,2020,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-150,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-250,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-350,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-450,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,,315 MHz
+Ford,F-550,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-650,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,,315 MHz
+Ford,F-750,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,,315 MHz
+Ford,Lightning,2023,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,,315 MHz
+Ford,Maverick,2022,2022,3-Button Flip Key,,N5F-A08TAA,,164-R8269,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Bronco,2021,2021,4-Button Flip Key,,N5F-A08TDA,,164-R8134,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,EcoSport,2018,2023,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-650,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-750,2017,2024,3-Button Smart Key,,M3N-A2C93142300,,164-R8163,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Edge,2018,2021,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Panic, Trunk",315 MHz
+Ford,Fusion,2017,2020,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,2018,2020,4-Button Smart Key,,M3N-A2C93142300,,164-R8150,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Econoline,2021,2024,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-150,2015,2017,5-Button Smart Key,,M3N-A2C31243300,,164-R8117,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",
+Ford,F-150,2011,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-250,2011,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-350,2012,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-450,2012,2016,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-550,2012,2018,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-650,2012,2018,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Ford,F-Series,2011,2014,4-Button Remote Head Key,,,,164-R8067,Unconfirmed,false,,
+Ford,Edge,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8322,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Edge,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Expedition,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Explorer,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Expedition,2023,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8355,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Ford,Bronco,2021,2024,4-Button Smart Key,,M3N-A2C931426,,164-R8340,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",902 MHz
+Ford,Crown Victoria,1998,2002,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Excursion,2000,2005,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Expedition,1997,2002,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Explorer,1998,2000,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-150,1999,2003,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-250,1999,2003,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Mustang,1996,2004,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Ranger,1999,2000,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Taurus,1996,1999,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Windstar,1999,2000,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Continental,1998,2002,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Town Car,1998,2002,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Grand Marquis,1998,2002,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Mountaineer,1998,2000,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Sable,1996,1999,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Expedition,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8396,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Ford,Explorer,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8396,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Ford,Expedition,2025,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8397,Unconfirmed,false,,433 MHz
+Ford,Explorer,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8397,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Ford,Mustang,2023,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8347,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Ford,Bronco,2021,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,EcoSport,2018,2020,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Edge,2015,2023,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Expedition,2018,2023,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Explorer,2016,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-150,2015,2020,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-250,2018,2022,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-350,2018,2022,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-450,2017,2022,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-550,2017,2022,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-Series,2018,2020,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Fusion,2013,2020,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Mustang,2015,2023,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Ranger,2019,2019,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Continental,2017,2020,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Corsair,2020,2020,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKC,2014,2021,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKX,2016,2019,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,MKZ,2013,2020,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Nautilus,2020,2021,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,Navigator,2018,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Escape,2001,2004,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Focus,2000,2005,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Thunderbird,2002,2002,Transponder Key,,,,,Unconfirmed,false,,
+Lincoln,LS,2000,2002,Transponder Key,,,,,Unconfirmed,false,,
+Ford,E-Series,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Econoline,2003,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Edge,2007,2015,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escape,2001,2013,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Escort,1999,2003,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Excursion,2000,2005,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Expedition,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Explorer,1998,2015,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Explorer Sport Trac,2001,2010,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-Series,1998,2016,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,,315 MHz
+Ford,Flex,2009,2016,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Freestar,2004,2007,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Freestyle,2005,2007,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Fusion,2006,2012,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Ranger,1998,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Taurus X,2008,2009,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Windstar,1998,2003,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Lincoln,Mark LT,2006,2008,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Lincoln,Navigator,1998,2002,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Cougar,2000,2002,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Mariner,2005,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Mountaineer,1998,2010,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Bronco,2025,2025,3-Button Smart Key,,M3N-A3C108397,,164-R8411,Unconfirmed,false,,433 MHz
+Ford,Transit,2015,2019,4-Button Remote Head Key,,OUCD6000022,,164-R8126,Unconfirmed,false,"Lock, Unlock, Panic, Trunk",315 MHz
+Ford,E-Series,2004,2013,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Explorer,2001,2015,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,F-150,2004,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,F-250,2004,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,F-350,2004,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,F-450,2012,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-550,2012,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,F-Series,2012,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Flex,2009,2017,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Freestar,2005,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Mercury,Mariner,2005,2006,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mercury,Monterey,2005,2007,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Edge,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escape,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Expedition,2009,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Five Hundred,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Flex,2009,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Focus,2010,2010,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Freestyle,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Fusion,2007,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,2010,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Taurus,2008,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,MKX,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,MKZ,2006,2012,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Navigator,2007,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,Zephyr,2006,2009,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Mariner,2005,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Milan,2006,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Montego,2007,2007,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mercury,Sable,2008,2010,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Mustang,2018,2019,4-Button Smart Key,,M3N-A2C931423,,164-R8159,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Edge,2017,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",902 MHz
+Ford,Explorer,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",902 MHz
+Ford,Fusion,2017,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Mustang,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Escort,1995,2000,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Fiesta,1995,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Granada,1995,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,KA,1996,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Mondeo,1995,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Orion,1993,2001,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Puma,1998,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Scorpio,1995,1998,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Transit,1995,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Mercury,Cougar,1997,2002,Transponder Key,,T30S30FD,,,Unconfirmed,false,,
+Ford,Mustang,2022,2023,5-Button Smart Key,,,,MR3T-15K601-BB,Unconfirmed,false,,
+Ford,Transit Connect,2019,2023,4-Button Smart Key,,M3N-A2C931423,,164-R8234,Unconfirmed,false,,315 MHz
+Ford,Mustang,2020,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8233,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Edge,2017,2022,5-Button Smart Key,,M3N-A2C931426,,KT4T-15K601-CE,Unconfirmed,false,,902 MHz
+Ford,Explorer,2018,2022,5-Button Smart Key,,M3N-A2C931426,,KT4T-15K601-CE,Unconfirmed,false,,902 MHz
+Ford,Edge,2017,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8246,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Explorer,2018,2022,4-Button Smart Key,,M3N-A2C931423,,164-R8246,Unconfirmed,false,,315 MHz
+Ford,Edge,2011,2015,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Escape,2012,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Expedition,2009,2017,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Explorer,2012,2015,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Flex,2013,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Focus,2012,2022,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Taurus,2013,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKS,2013,2016,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKT,2013,2019,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,MKX,2012,2015,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Lincoln,Navigator,2015,2017,5-Button Smart Key,,M3N5WY8609,,164-R8092,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Ford,Edge,2011,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,,
+Ford,Escape,2013,2014,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,,
+Ford,Explorer,2011,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,,
+Ford,Flex,2013,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,,
+Ford,Focus,2012,2012,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,,
+Ford,Taurus,2013,2015,5-Button Smart Key,ID2010DJ4008,CMIT,,,Unconfirmed,false,,
+Ford,Lightning,2022,2024,4-Button Smart Key,,M3N-A3C054338,,164-R8303,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Ford,Mustang,2022,2024,5-Button Smart Key,,M3N-A3C054339,,164-R8325,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Expedition,2023,2024,3-Button Flip Key,,N5F-A08TBLP,,164-R8359,Unconfirmed,false,"Lock, Unlock, Trunk",433 MHz
+Ford,Expedition,2023,2023,4-Button Smart Key,,M3N-A3C108397,,164-R8354,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",433 MHz
+Ford,Bronco,2021,2024,3-Button Smart Key,,M3N-A2C931423,,164-R8295,Unconfirmed,false,,315 MHz
+Ford,F-150,2018,2023,3-Button Smart Key,,N5F-A08TDA,,164-R8189,Unconfirmed,false,,902 MHz
+Ford,Bronco,2021,2023,3-Button Flip Key,,N5F-A08TAA,,164-R8283,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Ford,Bronco,2021,2023,5-Button Smart Key,,M3N-A2C931426,,164-R8288,Unconfirmed,false,,902 MHz
+Ford,Mustang,2015,2017,4-Button Smart Key,,M3N-A2C31243800,,164-R8120,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Edge,2022,2023,4-Button Smart Key,,M3N-A3C054339,,164-R8323,Unconfirmed,false,,902 MHz
+Ford,Edge,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",902 MHz
+Ford,Expedition,2018,2021,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",902 MHz
+Ford,Explorer,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",902 MHz
+Ford,Fusion,2017,2021,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,F-150,2018,2020,5-Button Smart Key,,M3N-A2C93142600,,164-R8185,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,Mustang,2021,2023,4-Button Smart Key,,M3N-A2C931423,,164-R8319,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,F-150,2021,2023,5-Button Smart Key,,M3N-A2C93142600,,164-R8315,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",902 MHz
+Ford,F-150,2024,2024,5-Button Smart Key,,M3N-A3C108397,,164-R8365,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",433 MHz
+Ford,Ranger,2022,2024,4-Button Smart Key,,M3N-A3C054339,,164-R8343,Unconfirmed,false,,902 MHz
+Ford,Transit Connect,2020,2023,5-Button Smart Key,,M3N-A3C054338,,164-R8326,Unconfirmed,false,,
+Ford,Escort,1995,2000,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Fiesta,1995,2002,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Granada,1995,2001,Transponder Key,,,,,Unconfirmed,false,,
+Ford,KA,1996,2002,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Mondeo,1995,2001,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Orion,1993,2001,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Puma,1998,2002,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Scorpio,1995,1998,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Transit,1995,2002,Transponder Key,,,,,Unconfirmed,false,,
+Mercury,Cougar,1997,2002,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Bronco,2025,2025,4-Button Smart Key,,M3N-A3C108397,,164-R8412,Unconfirmed,false,,433 MHz
+Ford,C-Max,2013,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Escape,2013,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,F-Series,2011,2013,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Fiesta,2015,2018,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,,315 MHz
+Ford,Focus,2012,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Transit,2013,2017,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Transit Connect,2014,2019,4-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Edge,2015,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Expedition,2018,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-250,2018,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-350,2018,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-450,2017,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,F-550,2017,2021,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Mustang,2015,2020,Transponder Key,,,,,Unconfirmed,false,,
+Ford,Crown Victoria,2004,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Edge,2007,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Escape,2006,2012,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Expedition,2003,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Explorer,2001,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Five Hundred,2005,2007,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Flex,2009,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Focus,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Fusion,2006,2012,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Mustang,2005,2014,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Taurus,2000,2018,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Thunderbird,2004,2005,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Zephyr,2006,2009,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,Aviator,2004,2005,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,LS,2004,2006,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,MKX,2006,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,MKZ,2007,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,Mark LT,2006,2008,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,Navigator,2004,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,Town Car,2004,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Mercury,Grand Marquis,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Mercury,Mariner,2005,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Mercury,Milan,2006,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Mercury,Montego,2005,2007,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Mercury,Sable,2000,2009,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Crown Victoria,1995,2006,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,,
+Lincoln,Continental,1995,2002,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,,
+Lincoln,Mark VIII,1997,1998,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,,
+Lincoln,Town Car,1995,1997,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,,
+Mercury,Grand Marquis,1995,2006,4-Button Keyless Entry Remote,,CWTWB1U343,,,Unconfirmed,false,,
+Ford,Expedition,2009,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Explorer,2013,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,F-150,2011,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,F-250,2011,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,F-350,2012,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,F-450,2012,2016,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,F-550,2012,2018,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,F-650,2012,2018,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,F-Series,2011,2014,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,MKX,2007,2015,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Lincoln,Navigator,2014,2017,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Remote Start, Trunk, Panic",902 MHz
+Ford,Fusion,2017,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Mustang,2018,2022,5-Button Smart Key,,M3N-A2C93142600,,164-R8149,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,Bronco,2021,2023,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,,902 MHz
+Ford,Edge,2017,2021,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,,902 MHz
+Ford,Escape,2020,2026,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Expedition,2018,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,,902 MHz
+Ford,Explorer,2017,2022,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,,902 MHz
+Ford,Fiesta,2011,2017,3-Button Remote Head Key,80-Bit,KR55WK47899,,164-R8042,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+Ford,Transit,2010,2013,3-Button Remote Head Key,80-Bit,KR55WK47899,,164-R8042,Unconfirmed,false,,315 MHz
+Ford,Escape,2020,2023,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Maverick,2022,2023,5-Button Smart Key,,M3N-A2C931426,,JL1T-15K601-BB,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Taurus,2009,2012,4-Button Smart Key,,M3N5WY8406,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,MKS,2009,2012,4-Button Smart Key,,M3N5WY8406,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Lincoln,MKT,2011,2012,4-Button Smart Key,,M3N5WY8406,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Ford,Expedition,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Explorer,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Mustang,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Lincoln,Nautilus,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Lincoln,Navigator,2022,2023,5-Button Smart Key,,M3N-A3C054339,,164-R8320,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",902 MHz
+Ford,Mustang,2018,2020,5-Button Smart Key,,M3N-A2C931426,,164-R8162,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",902 MHz
+Ford,F-150,2024,2024,4-Button Smart Key,,M3N-A3C054338,,164-R8367,Unconfirmed,false,,
+Ford,F-150,2024,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8370,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Power Tailgate",433 MHz
+Ford,Mustang,2023,2025,5-Button Smart Key,,M3N-A3C108397,,164-R8420,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Ford,F-150,2022,2024,5-Button Smart Key,,M3N-A3C054338,,164-R8304,Unconfirmed,false,,

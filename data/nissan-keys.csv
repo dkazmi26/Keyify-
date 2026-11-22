@@ -1,587 +1,587 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Nissan,350Z,2002,2009,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,350Z,2003,2009,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,350Z,2003,2008,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,350Z,2003,2009,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,350Z,2003,2008,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,350Z,2003,2009,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,350Z,2008,2008,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,350Z,2008,2009,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,370Z,2009,2019,3-Button Smart Key,,KR55WK49622,,285E3-1AA7A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,370Z,2009,2018,3-Button Smart Key,,KR55WK49622,,285E3-1ET5A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,370Z,2009,2015,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,370Z,2009,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,370Z,2009,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,370Z,2009,2016,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,370Z,2009,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,370Z,2019,2020,3-Button Smart Key,,KR55WK49622,,285E3-1ET5D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Altima,2002,2004,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2002,2006,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2005,2006,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Altima,2005,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2005,2006,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2005,2006,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2005,2006,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2007,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2007,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Altima,2007,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Altima,2007,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Altima,2007,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Altima,2013,2013,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-9HP4B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-9HP5B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2013,2013,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2014,2015,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2019,2020,4-Button Smart Key,,KR5TXN1,,285E3-6CA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2019,2020,4-Button Smart Key,,KR5TXN1,,285E3-6LA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Altima,2019,2024,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2019,2021,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2022,2023,5-Button Smart Key,,KR5TXN4,,285E3-6LS5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Altima,2022,2024,5-Button Smart Key,,KR5TXN4,,285E3-6LS5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Ariya,2022,2024,4-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR3B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Armada,2004,2015,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Armada,2004,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Armada,2004,2016,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Armada,2004,2015,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Armada,2004,2008,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Armada,2004,2015,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Armada,2004,2015,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Armada,2004,2016,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Armada,2008,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Armada,2008,2014,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Armada,2008,2015,4-Button Smart Key,,,,285E3-EW81D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Armada,2008,2015,4-Button Smart Key,,CWTWBU624,,285E3-ZQ31A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Armada,2008,2015,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Armada,2008,2015,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Armada,2017,2020,3-Button Smart Key,,,,285E3-1LK0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Armada,2017,2018,4-Button Smart Key,,CWTWB1U787,,285E3-1LP0C,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Armada,2017,2024,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Armada,2017,2020,5-Button Smart Key,,CWTWB1G744,,285E3-1LB5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Armada,2017,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Armada,2023,2023,4-Button Smart Key,,CWTWB1U787,,285E3-6JU4A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Armada,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Cube,2009,2014,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Cube,2009,2014,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Cube,2009,2010,3-Button Smart Key,,,,285E3-1LK0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Cube,2009,2014,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Cube,2009,2014,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Cube,2009,2014,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Cube,2009,2014,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Cube,2009,2014,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Cube,2011,2014,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,EX35,2008,2012,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,EX35,2008,2011,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,EX35,2008,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,EX35,2008,2012,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,EX35,2008,2012,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,EX35,2008,2012,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,EX35,2008,2012,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,EX37,2013,2013,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX35,2003,2008,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX35,2003,2008,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX35,2003,2009,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX35,2003,2004,3-Button Smart Key,,NHVWBU612,,285E3-CG025,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX35,2003,2009,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX35,2003,2009,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX35,2003,2009,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX35,2003,2009,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX35,2005,2008,3-Button Smart Key,,CWTWBU619,,285E3-CL02D,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX35,2005,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Infiniti,FX35,2008,2012,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,FX35,2009,2013,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX35,2009,2012,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,FX35,2009,2012,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,FX35,2009,2012,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,FX35,2010,2012,4-Button Smart Key,,KR55WK49622,,285E3-1CA7D,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,FX35,2010,2012,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,FX37,2013,2013,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX37,2013,2013,4-Button Smart Key,,KR55WK49622,,285E3-1CA7D,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,FX37,2013,2013,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,FX37,2013,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Infiniti,FX45,2003,2008,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX45,2003,2008,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX45,2003,2008,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX45,2003,2004,3-Button Smart Key,,NHVWBU612,,285E3-CG025,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX45,2003,2008,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX45,2003,2008,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX45,2003,2008,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX45,2003,2008,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,FX45,2005,2008,3-Button Smart Key,,CWTWBU619,,285E3-CL02D,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX45,2005,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Infiniti,FX50,2009,2013,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,FX50,2009,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,FX50,2009,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,FX50,2009,2013,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,FX50,2009,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,FX50,2010,2013,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,FX50,2010,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Frontier,2002,2016,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2002,2005,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2002,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Nissan,Frontier,2005,2018,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2005,2018,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2005,2017,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2005,2017,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Nissan,Frontier,2006,2016,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2020,2020,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2021,2023,3-Button Smart Key,,KR5TXN7,,285E3-9BU1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Frontier,2022,2024,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Frontier,2022,2025,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Infiniti,G25,2011,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G25,2011,2012,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G25,2011,2012,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,G35,2003,2006,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,G35,2003,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2003,2005,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2003,2006,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2003,2006,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2003,2006,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2005,2007,4-Button Smart Key,,KBRTN001,,285E3-AC70D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2005,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Infiniti,G35,2005,2006,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Infiniti,G35,2007,2007,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2007,2008,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G35,2007,2008,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,G35,2007,2008,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,G35,2007,2008,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,G35,2007,2008,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,G35,2008,2008,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G37,2008,2013,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G37,2008,2013,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G37,2008,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,G37,2008,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,G37,2008,2013,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,G37,2008,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,G37,2009,2013,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,G37,2009,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,G37,2009,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,G37,2009,2013,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,G37,2009,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,GT-R,2009,2020,4-Button Smart Key,,KR55WK49622,,285E3-JF87A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,GT-R,2009,2020,Emergency Key,,,,H0564-JF00A,Unconfirmed,false,
-Infiniti,I35,2002,2004,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,I35,2002,2004,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,JX35,2013,2013,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,JX35,2013,2013,4-Button Smart Key,,KR5S180144014,,285E3-9NB4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,JX35,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-9NB5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,JX35,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-9PA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,JX35,2013,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,JX35,2013,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,JX35,2013,2013,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,JX35,2013,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Juke,2011,2013,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Juke,2011,2018,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Juke,2011,2013,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Juke,2011,2017,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Juke,2011,2018,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Juke,2011,2013,4-Button Remote Head Key,ID46,CWTWB1U816,,H0561-3AA0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Juke,2011,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Juke,2011,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Juke,2011,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Juke,2011,2017,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Kicks,2018,2020,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Kicks,2018,2021,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Kicks,2018,2021,3-Button Smart Key,,KR5TXN1,,285E3-6TA1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Kicks,2018,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Kicks,2018,2024,4-Button Smart Key,4A,KR5TXN3,,285E3-6TA5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Kicks,2018,2024,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Kicks,2018,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Kicks,2019,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Kicks,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Kicks,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,
-Nissan,Leaf,2011,2015,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Leaf,2011,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Leaf,2011,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Leaf,2011,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Leaf,2011,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Leaf,2013,2017,4-Button Smart Key,,CWTWB1U840,,285E3-3NF4A,Unconfirmed,false,"Lock, Unlock, Panic, Charge Port"
-Nissan,Leaf,2016,2016,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Leaf,2018,2020,4-Button Smart Key,,CWTWB1G0168,,285E3-5SA1A,Unconfirmed,false,"Lock, Unlock, Panic, Charging Unlock"
-Infiniti,M35,2006,2010,4-Button Smart Key,,CWTWBU735,,285E3-EH12A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,M35,2006,2011,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M35,2006,2011,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M35,2006,2011,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,M35,2006,2011,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,M35,2013,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,M37,2011,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,M37,2011,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M37,2011,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M37,2011,2013,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,M37,2011,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,M45,2003,2004,4-Button Smart Key,4D60,KBRASTU13,,H0561-AR200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,M45,2003,2004,Emergency Key,,,,H0564-AG310,Unconfirmed,false,
-Infiniti,M45,2006,2010,4-Button Smart Key,,CWTWBU735,,285E3-EH12A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,M45,2006,2011,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M45,2006,2011,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M45,2006,2011,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,M45,2006,2011,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,M56,2011,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,M56,2011,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M56,2011,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,M56,2011,2013,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,M56,2011,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Maxima,2002,2003,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2002,2006,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2004,2006,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Maxima,2004,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2004,2006,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2004,2006,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2004,2006,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2007,2008,4-Button Smart Key,,,,285E3-EW81D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2007,2008,4-Button Smart Key,,CWTWBU735,,285E3-EW82D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2007,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Maxima,2009,2014,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2009,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Maxima,2009,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Maxima,2009,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Maxima,2009,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Maxima,2015,2015,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2015,2015,4-Button Smart Key,,KR5S180144014,,285E3-9HP4B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2015,2015,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Maxima,2015,2015,5-Button Smart Key,,KR5S180144014,,285E3-9HP5B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Maxima,2016,2017,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Maxima,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Maxima,2019,2023,5-Button Smart Key,,KR5TXN7,,285E3-9DJ3B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Maxima,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9DJ3B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Maxima,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9DJ3A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Maxima,2022,2023,5-Button Smart Key,4A,KR5TXN7,,285E3-9DL5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Micra,2017,2017,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Micra,2017,2017,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Murano,2003,2008,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2003,2008,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2003,2007,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Murano,2003,2007,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Murano,2003,2007,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Murano,2003,2008,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Murano,2004,2008,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2005,2007,3-Button Smart Key,,KBRTN001,,285E3-CB80D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2005,2014,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Murano,2007,2008,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2007,2008,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2009,2014,3-Button Smart Key,,KR55WK49622,,285E3-1AA7A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2009,2014,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Murano,2009,2014,4-Button Smart Key,,KR55WK49622,,285E3-1AA7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Murano,2009,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Murano,2009,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Murano,2009,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Murano,2009,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Murano,2014,2019,5-Button Smart Key,,KR5S180144014,,285E3-5AA5C,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Murano,2015,2018,3-Button Smart Key,,KR5S180144014,,285E3-5AA1C,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2015,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Murano,2015,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Murano,2015,2018,5-Button Smart Key,,KR5S180144014,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Murano,2015,2018,5-Button Smart Key,,KR5S180144014,,285E3-5AA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Murano,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1B,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Murano,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Murano,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,
-Nissan,Murano,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Murano,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Murano,2021,2024,5-Button Smart Key,4A,KR5TXN7,,285E3-9UH7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Murano,2022,2024,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Murano,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Murano CrossCabriolet,2011,2014,4-Button Smart Key,,KR55WK49622,,285E3-9N07A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,NV,2011,2018,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,NV,2011,2020,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,NV,2012,2018,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,NV,2012,2014,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,NV,2012,2017,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,NV,2012,2017,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
-Nissan,NV,2012,2017,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic"
-Nissan,Pathfinder,2002,2013,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2002,2004,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2005,2011,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2005,2011,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2005,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2007,2012,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Pathfinder,2009,2013,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2009,2011,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Pathfinder,2009,2011,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Pathfinder,2009,2011,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Pathfinder,2009,2013,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Pathfinder,2010,2012,3-Button Smart Key,,,,285E3-EM30D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2010,2012,3-Button Smart Key,,,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2010,2012,3-Button Smart Key,,CWTWBU729,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2013,2016,3-Button Smart Key,,KR5S180144014,,285E3-3KL4A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2013,2015,3-Button Smart Key,,KR5S180144014,,285E3-9PB3A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Pathfinder,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-9HP4B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Pathfinder,2013,2016,5-Button Smart Key,,KR5S180144014,,285E3-9PA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Pathfinder,2013,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Pathfinder,2013,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Pathfinder,2013,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Pathfinder,2013,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Pathfinder,2014,2016,4-Button Smart Key,,KR5S180144014,,285E3-9PB4A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Pathfinder,2014,2019,5-Button Smart Key,,KR5S180144014,,285E3-5AA5C,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Pathfinder,2016,2018,3-Button Smart Key,,KR5S180144014,,285E3-5AA1C,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Pathfinder,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Pathfinder,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-5AA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Pathfinder,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1B,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2019,2021,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Pathfinder,2019,2021,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,
-Nissan,Pathfinder,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Pathfinder,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Pathfinder,2021,2022,3-Button Smart Key,ID47,,,285E3-6XR1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2022,2022,4-Button Smart Key,,KR5TXN3,,285E3-6XR5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Pathfinder,2022,2023,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,
-Nissan,Pathfinder,2022,2025,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,
-Nissan,Pathfinder,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Pathfinder,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,
-Nissan,Pathfinder,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,Q40,2015,2015,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q40,2015,2015,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q40,2015,2015,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,Q40,2015,2015,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,Q40,2015,2015,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,Q40,2015,2015,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,Q45,2002,2006,4-Button Smart Key,4D60,KBRASTU13,,H0561-AR200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q45,2002,2006,Emergency Key,,,,H0564-AG310,Unconfirmed,false,
-Infiniti,Q50,2014,2016,4-Button Smart Key,,KR5S180144203,,285E3-4HD0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q50,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,Q50,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,Q50,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,Q50,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,Q50,2015,2016,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q50,2016,2020,4-Button Smart Key,,KR5S180144204,,285E3-4HB0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q50,2016,2016,4-Button Smart Key,,KR5S180144204,,285E3-4HB0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q50,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,Q50,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4HK0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,Q50,2020,2022,4-Button Smart Key,,KR5TXN7,,285E3-6HE1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q50,2020,2020,5-Button Smart Key,,KR5TXN7,,285E3-6HE6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,Q60,2014,2014,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q60,2014,2015,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q60,2014,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,Q60,2017,2018,4-Button Smart Key,,KR5S180144204,,285E3-4HB0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q60,2017,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,Q60,2017,2019,5-Button Smart Key,,KR5S180144014,,285E3-4HK0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,Q60,2020,2024,4-Button Smart Key,,KR5TXN1,,285E3-6SA3A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q60,2020,2022,4-Button Smart Key,,KR5TXN7,,285E3-6HE1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q60,2020,2021,5-Button Smart Key,,KR5TXN7,,285E3-6HE6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,Q70,2014,2019,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,Q70,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,QX30,2017,2019,3-Button Smart Key,,IYZDC12K,,285E3-5DD3A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,QX4,2002,2004,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,QX4,2002,2003,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,QX50,2014,2017,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,QX50,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,QX50,2019,2020,4-Button Smart Key,,KR5TXN1,,285E3-5NA3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,QX50,2019,2024,4-Button Smart Key,,KR5TXN1,,285E3-5NY3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,QX50,2019,2024,4-Button Smart Key,4A,KR5TXN1,,285E3-5NY3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,QX50,2019,2019,5-Button Smart Key,,KR5TXN1,,285E3-5NA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX50,2020,2021,5-Button Smart Key,,KR5TXN1,,285E3-5NY7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX50,2020,2021,Emergency Key,,,,H0564-9NR0A,Unconfirmed,false,
-Infiniti,QX55,2022,2022,5-Button Smart Key,,KR5TXN1,,285E3-5NY7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX55,2022,2022,Emergency Key,,,,H0564-9NR0A,Unconfirmed,false,
-Infiniti,QX56,2003,2007,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,QX56,2004,2007,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Infiniti,QX56,2004,2007,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,QX56,2004,2007,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,QX56,2008,2010,4-Button Smart Key,,CWTWBU624,,285E3-ZQ31B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,QX56,2008,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Infiniti,QX56,2010,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,QX56,2011,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1LL0D,Unconfirmed,false,
-Infiniti,QX56,2013,2013,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX56,2013,2024,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX60,2013,2016,5-Button Smart Key,,KR5S180144014,,285E3-9NB5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,QX60,2013,2016,5-Button Smart Key,,KR5S180144014,,285E3-9PA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX60,2014,2018,3-Button Smart Key,,KR5S180144014,,285E3-9NB3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-Infiniti,QX60,2014,2016,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,QX60,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,QX60,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,QX60,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,QX60,2014,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,QX60,2015,2016,4-Button Smart Key,,KR5S180144014,,285E3-9NB4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,QX60,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Infiniti,QX60,2016,2017,5-Button Smart Key,,KR5S180144014,,285E3-9NF5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX60,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-5AA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX60,2017,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,QX60,2019,2020,4-Button Smart Key,,KR5TXN7,,285E3-9NR4A,Unconfirmed,false,
-Infiniti,QX60,2019,2019,5-Button Smart Key,,KR5TXN7,,285E3-9NR5B,Unconfirmed,false,
-Infiniti,QX60,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9NR5B,Unconfirmed,false,
-Infiniti,QX60,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX60,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX60,2019,2020,Emergency Key,,,,H0564-9NR0A,Unconfirmed,false,
-Infiniti,QX60,2022,2025,5-Button Smart Key,,KR5TXN4,,285E3-6SA7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX70,2014,2015,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Infiniti,QX70,2014,2017,4-Button Smart Key,,KR55WK49622,,285E3-1CA7D,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,QX70,2014,2017,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Infiniti,QX70,2014,2016,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Infiniti,QX70,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,QX70,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,QX70,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,QX70,2014,2016,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,QX80,2014,2024,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Infiniti,QX80,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,QX80,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Infiniti,QX80,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,
-Infiniti,QX80,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Infiniti,QX80,2025,2025,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7JA8B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Qashqai,2014,2019,3-Button Flip Key,4A,CWTWB1G767,,28268-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Qashqai,2014,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1C,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Qashqai,2014,2016,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Qashqai,2017,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Qashqai,2017,2018,4-Button Smart Key,,KR5S180144106,,285E3-6FL2B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Qashqai,2017,2018,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Qashqai,2017,2022,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Qashqai,2017,2020,5-Button Smart Key,,KR5S180144106,,285E3-6FL7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Qashqai,2017,2022,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Qashqai,2018,2021,3-Button Smart Key,,KR5TXN1,,285E3-6TA1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Qashqai,2018,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Qashqai,2019,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Qashqai,2020,2021,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Qashqai,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Qashqai,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,
-Nissan,Quest,2003,2006,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Quest,2003,2009,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Quest,2004,2014,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Quest,2004,2009,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Quest,2004,2009,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Quest,2004,2014,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Quest,2004,2010,5-Button Keyless Entry Remote,,,,28268-5Z210,Unconfirmed,false,
-Nissan,Quest,2004,2010,6-Button Keyless Entry Remote,,,,28268-5Z200,Unconfirmed,false,
-Nissan,Quest,2005,2010,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Quest,2011,2017,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Quest,2011,2018,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Quest,2011,2017,5-Button Smart Key,,CWTWB1U789,,285E3-1JA1A,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Nissan,Quest,2011,2017,6-Button Smart Key,,CWTWB1U789,,285E3-1JA2A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic"
-Nissan,Quest,2011,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Quest,2011,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Quest,2011,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Quest,2011,2017,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Rogue,2008,2013,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2008,2015,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2008,2015,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2008,2013,3-Button Smart Key,,,,285E3-EM30D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2008,2013,3-Button Smart Key,,,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2008,2013,3-Button Smart Key,,CWTWBU729,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2008,2013,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Rogue,2008,2015,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Rogue,2008,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Rogue,2014,2020,3-Button Flip Key,,CWTWB1G767,,H0561-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2014,2020,3-Button Flip Key,4A,CWTWB1G767,,28268-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2014,2020,3-Button Flip Key,ID46,CWTWB1G767,,H0561-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2014,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2014,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1C,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2014,2016,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Rogue,2014,2018,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Nissan,Rogue,2014,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Rogue,2014,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Rogue,2014,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Rogue,2014,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Rogue,2017,2018,4-Button Smart Key,,KR5S180144106,,285E3-6FL2B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Rogue,2017,2020,5-Button Smart Key,,,,285E3-6FL7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Rogue,2017,2020,5-Button Smart Key,,KR5S180144106,,285E3-6FL7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Rogue,2017,2020,5-Button Smart Key,,KR5S180144106,,285E3-6FL7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Rogue,2019,2021,3-Button Smart Key,,KR5TXN1,,285E3-6TA1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2019,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Rogue,2019,2023,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Rogue,2019,2021,5-Button Smart Key,,KR5TXN4,,285E3-6RR7A,Unconfirmed,false,
-Nissan,Rogue,2021,2022,3-Button Smart Key,ID47,,,285E3-6XR1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2021,2022,4-Button Smart Key,4A,KR5TXN3,,285E3-6TA5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Rogue,2021,2021,5-Button Smart Key,,KR5TXN4,,285E3-6TA7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Rogue,2022,2023,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,
-Nissan,Rogue,2022,2025,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,
-Nissan,Rogue,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue,2023,2024,4-Button Smart Key,4A,KR5TXPZ3,,285E3-6RA5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Rogue,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,
-Nissan,Rogue,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Nissan,Rogue Sport,2019,2020,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Rogue Sport,2019,2021,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Sentra,2007,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Sentra,2007,2012,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Sentra,2007,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Sentra,2007,2019,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Sentra,2007,2008,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2007,2017,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2007,2012,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2007,2019,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2007,2012,4-Button Smart Key,,,,285E3-EW81D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2007,2012,4-Button Smart Key,,CWTWBU735,,285E3-EW82D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2007,2012,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Sentra,2008,2017,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2008,2012,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2013,2014,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Sentra,2013,2018,3-Button Smart Key,,CWTWBAU771,,285E3-1FC0A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Sentra,2013,2013,4-Button Smart Key,,CWTWB1U815,,285E3-3AA0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2013,2019,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2013,2019,4-Button Smart Key,,CWTWBU1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2013,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Sentra,2013,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Sentra,2013,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Sentra,2013,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Sentra,2019,2022,4-Button Smart Key,,KR5TXN1,,285E3-6CA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2019,2024,4-Button Smart Key,,KR5TXN1,,285E3-6LA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Sentra,2020,2020,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Sentra,2023,2024,5-Button Smart Key,,KR5TXPZ3,,285E3-6LY5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Sentra,2024,2025,4-Button Smart Key,4A,KR5TXPZ1,,285E3-6LY1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Titan,2002,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Nissan,Titan,2004,2015,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2004,2014,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2004,2016,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2004,2016,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Nissan,Titan,2007,2016,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2008,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2016,2018,3-Button Smart Key,,KR5S180144014,,285E3-5AA1C,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic"
-Nissan,Titan,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Titan,2017,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Titan,2017,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Titan,2017,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Titan,2017,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Titan,2017,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Titan,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1B,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Titan,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Titan,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,
-Nissan,Titan,2022,2024,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2018,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2016,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2012,3-Button Smart Key,,,,285E3-EM30D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2012,3-Button Smart Key,,,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2012,3-Button Smart Key,,CWTWBU729,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2007,2015,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2007,2015,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2007,2018,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2007,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2007,2012,Emergency Key,ID46,NI05T,,,Unconfirmed,false,
-Nissan,Versa,2012,2019,4-Button Smart Key,,CWTWBU1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2013,2015,4-Button Remote Head Key,ID46,CWTWB1U816,,H0561-3AA0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2013,2018,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2013,2019,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2013,2019,4-Button Smart Key,,CWTWBU1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2013,2015,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Versa,2013,2015,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Versa,2013,2015,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Versa,2013,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Versa,2019,2019,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa,2019,2022,4-Button Smart Key,,KR5TXN1,,285E3-6CA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2020,2020,4-Button Smart Key,,KR5TXN1,,285E3-6LA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa,2020,2024,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Versa,2020,2020,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Nissan,Versa,2023,2025,4-Button Smart Key,4A,KR5TXPZ1,,285E3-6LY1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa Note,2014,2018,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa Note,2014,2019,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa Note,2014,2018,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa Note,2014,2019,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Versa Note,2014,2018,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Versa Note,2014,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Versa Note,2014,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,
-Nissan,Versa Note,2014,2017,Emergency Key,,NI06,,,Unconfirmed,false,
-Nissan,Versa Note,2014,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,
-Nissan,Xterra,2002,2015,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Xterra,2005,2011,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Xterra,2005,2011,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Xterra,2005,2015,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic"
-Nissan,Xterra,2005,2007,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Nissan,Xterra,2005,2015,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Nissan,350Z,2002,2009,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,350Z,2003,2009,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,350Z,2003,2008,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,350Z,2003,2009,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,350Z,2003,2008,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,350Z,2003,2009,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,350Z,2008,2008,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,350Z,2008,2009,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,370Z,2009,2019,3-Button Smart Key,,KR55WK49622,,285E3-1AA7A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,370Z,2009,2018,3-Button Smart Key,,KR55WK49622,,285E3-1ET5A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,370Z,2009,2015,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,370Z,2009,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,370Z,2009,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,370Z,2009,2016,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,370Z,2009,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,370Z,2019,2020,3-Button Smart Key,,KR55WK49622,,285E3-1ET5D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Altima,2002,2004,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2002,2006,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Altima,2005,2006,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Altima,2005,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Altima,2005,2006,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2005,2006,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2005,2006,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2007,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2007,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Altima,2007,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Altima,2007,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Altima,2007,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Altima,2013,2013,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Altima,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-9HP4B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Altima,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-9HP5B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2013,2013,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2014,2015,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Altima,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2019,2020,4-Button Smart Key,,KR5TXN1,,285E3-6CA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2019,2020,4-Button Smart Key,,KR5TXN1,,285E3-6LA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Altima,2019,2024,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2019,2021,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2022,2023,5-Button Smart Key,,KR5TXN4,,285E3-6LS5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Altima,2022,2024,5-Button Smart Key,,KR5TXN4,,285E3-6LS5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Ariya,2022,2024,4-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR3B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Armada,2004,2015,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Armada,2004,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Armada,2004,2016,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Armada,2004,2015,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Armada,2004,2008,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Armada,2004,2015,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Armada,2004,2015,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Armada,2004,2016,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Armada,2008,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Armada,2008,2014,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Armada,2008,2015,4-Button Smart Key,,,,285E3-EW81D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Armada,2008,2015,4-Button Smart Key,,CWTWBU624,,285E3-ZQ31A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Nissan,Armada,2008,2015,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Armada,2008,2015,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Armada,2017,2020,3-Button Smart Key,,,,285E3-1LK0D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Armada,2017,2018,4-Button Smart Key,,CWTWB1U787,,285E3-1LP0C,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Armada,2017,2024,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Armada,2017,2020,5-Button Smart Key,,CWTWB1G744,,285E3-1LB5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Armada,2017,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Armada,2023,2023,4-Button Smart Key,,CWTWB1U787,,285E3-6JU4A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Armada,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Cube,2009,2014,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Cube,2009,2014,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Cube,2009,2010,3-Button Smart Key,,,,285E3-1LK0D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Cube,2009,2014,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Cube,2009,2014,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Cube,2009,2014,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Cube,2009,2014,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Cube,2009,2014,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Cube,2011,2014,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,EX35,2008,2012,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,EX35,2008,2011,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,EX35,2008,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,EX35,2008,2012,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,EX35,2008,2012,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,EX35,2008,2012,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,EX35,2008,2012,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,EX37,2013,2013,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,FX35,2003,2008,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Infiniti,FX35,2003,2008,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,FX35,2003,2009,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Infiniti,FX35,2003,2004,3-Button Smart Key,,NHVWBU612,,285E3-CG025,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Infiniti,FX35,2003,2009,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,FX35,2003,2009,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,FX35,2003,2009,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,FX35,2003,2009,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,FX35,2005,2008,3-Button Smart Key,,CWTWBU619,,285E3-CL02D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,FX35,2005,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Infiniti,FX35,2008,2012,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,FX35,2009,2013,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,FX35,2009,2012,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,FX35,2009,2012,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,FX35,2009,2012,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,FX35,2010,2012,4-Button Smart Key,,KR55WK49622,,285E3-1CA7D,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,FX35,2010,2012,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,FX37,2013,2013,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,FX37,2013,2013,4-Button Smart Key,,KR55WK49622,,285E3-1CA7D,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,FX37,2013,2013,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,FX37,2013,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Infiniti,FX45,2003,2008,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Infiniti,FX45,2003,2008,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,FX45,2003,2008,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Infiniti,FX45,2003,2004,3-Button Smart Key,,NHVWBU612,,285E3-CG025,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Infiniti,FX45,2003,2008,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,FX45,2003,2008,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,FX45,2003,2008,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,FX45,2003,2008,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,FX45,2005,2008,3-Button Smart Key,,CWTWBU619,,285E3-CL02D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,FX45,2005,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Infiniti,FX50,2009,2013,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,FX50,2009,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,FX50,2009,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,FX50,2009,2013,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,FX50,2009,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,FX50,2010,2013,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,FX50,2010,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Frontier,2002,2016,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Frontier,2002,2005,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Frontier,2002,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",315 MHz
+Nissan,Frontier,2005,2018,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Frontier,2005,2018,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Frontier,2005,2017,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Frontier,2005,2017,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Nissan,Frontier,2006,2016,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Frontier,2020,2020,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Frontier,2021,2023,3-Button Smart Key,,KR5TXN7,,285E3-9BU1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Frontier,2022,2024,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Nissan,Frontier,2022,2025,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Infiniti,G25,2011,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G25,2011,2012,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G25,2011,2012,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,G35,2003,2006,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Infiniti,G35,2003,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,G35,2003,2005,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G35,2003,2006,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,G35,2003,2006,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G35,2003,2006,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G35,2005,2007,4-Button Smart Key,,KBRTN001,,285E3-AC70D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,G35,2005,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Infiniti,G35,2005,2006,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Infiniti,G35,2007,2007,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G35,2007,2008,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G35,2007,2008,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,G35,2007,2008,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,G35,2007,2008,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,G35,2007,2008,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,G35,2008,2008,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G37,2008,2013,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G37,2008,2013,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G37,2008,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,G37,2008,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,G37,2008,2013,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,G37,2008,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,G37,2009,2013,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,G37,2009,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,G37,2009,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,G37,2009,2013,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,G37,2009,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,GT-R,2009,2020,4-Button Smart Key,,KR55WK49622,,285E3-JF87A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,GT-R,2009,2020,Emergency Key,,,,H0564-JF00A,Unconfirmed,false,,
+Infiniti,I35,2002,2004,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,I35,2002,2004,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,JX35,2013,2013,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,JX35,2013,2013,4-Button Smart Key,,KR5S180144014,,285E3-9NB4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,JX35,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-9NB5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Infiniti,JX35,2013,2015,5-Button Smart Key,,KR5S180144014,,285E3-9PA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,JX35,2013,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,JX35,2013,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,JX35,2013,2013,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,JX35,2013,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Juke,2011,2013,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Juke,2011,2018,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Juke,2011,2013,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Juke,2011,2017,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Juke,2011,2018,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Juke,2011,2013,4-Button Remote Head Key,ID46,CWTWB1U816,,H0561-3AA0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Juke,2011,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Juke,2011,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Juke,2011,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Juke,2011,2017,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Kicks,2018,2020,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Kicks,2018,2021,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Kicks,2018,2021,3-Button Smart Key,,KR5TXN1,,285E3-6TA1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Kicks,2018,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Kicks,2018,2024,4-Button Smart Key,4A,KR5TXN3,,285E3-6TA5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Kicks,2018,2024,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Kicks,2018,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Kicks,2019,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Kicks,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Kicks,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,,
+Nissan,Leaf,2011,2015,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Leaf,2011,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Leaf,2011,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Leaf,2011,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Leaf,2011,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Leaf,2013,2017,4-Button Smart Key,,CWTWB1U840,,285E3-3NF4A,Unconfirmed,false,"Lock, Unlock, Panic, Charge Port",315 MHz
+Nissan,Leaf,2016,2016,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Leaf,2018,2020,4-Button Smart Key,,CWTWB1G0168,,285E3-5SA1A,Unconfirmed,false,"Lock, Unlock, Panic, Charging Unlock",433 MHz
+Infiniti,M35,2006,2010,4-Button Smart Key,,CWTWBU735,,285E3-EH12A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,M35,2006,2011,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M35,2006,2011,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M35,2006,2011,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,M35,2006,2011,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,M35,2013,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,M37,2011,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,M37,2011,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M37,2011,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M37,2011,2013,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,M37,2011,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,M45,2003,2004,4-Button Smart Key,4D60,KBRASTU13,,H0561-AR200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,M45,2003,2004,Emergency Key,,,,H0564-AG310,Unconfirmed,false,,
+Infiniti,M45,2006,2010,4-Button Smart Key,,CWTWBU735,,285E3-EH12A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,M45,2006,2011,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M45,2006,2011,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M45,2006,2011,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,M45,2006,2011,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,M56,2011,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,M56,2011,2013,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M56,2011,2013,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,M56,2011,2013,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,M56,2011,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Maxima,2002,2003,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Maxima,2002,2006,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Maxima,2004,2006,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Maxima,2004,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Maxima,2004,2006,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Maxima,2004,2006,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Maxima,2004,2006,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Maxima,2007,2008,4-Button Smart Key,,,,285E3-EW81D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Maxima,2007,2008,4-Button Smart Key,,CWTWBU735,,285E3-EW82D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Maxima,2007,2008,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Maxima,2009,2014,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Maxima,2009,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Maxima,2009,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Maxima,2009,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Maxima,2009,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Maxima,2015,2015,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Maxima,2015,2015,4-Button Smart Key,,KR5S180144014,,285E3-9HP4B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Maxima,2015,2015,5-Button Smart Key,,KR5S180144014,,285E3-3TP5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Maxima,2015,2015,5-Button Smart Key,,KR5S180144014,,285E3-9HP5B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Maxima,2016,2017,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Maxima,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Maxima,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Maxima,2019,2023,5-Button Smart Key,,KR5TXN7,,285E3-9DJ3B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Nissan,Maxima,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9DJ3B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Nissan,Maxima,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9DJ3A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Nissan,Maxima,2022,2023,5-Button Smart Key,4A,KR5TXN7,,285E3-9DL5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Nissan,Micra,2017,2017,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Micra,2017,2017,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Murano,2003,2008,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Murano,2003,2008,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Murano,2003,2007,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Murano,2003,2007,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Murano,2003,2007,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Murano,2003,2008,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Murano,2004,2008,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Murano,2005,2007,3-Button Smart Key,,KBRTN001,,285E3-CB80D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Murano,2005,2014,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Murano,2007,2008,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Murano,2007,2008,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Murano,2009,2014,3-Button Smart Key,,KR55WK49622,,285E3-1AA7A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Murano,2009,2014,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Murano,2009,2014,4-Button Smart Key,,KR55WK49622,,285E3-1AA7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Nissan,Murano,2009,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Murano,2009,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Murano,2009,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Murano,2009,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Murano,2014,2019,5-Button Smart Key,,KR5S180144014,,285E3-5AA5C,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Murano,2015,2018,3-Button Smart Key,,KR5S180144014,,285E3-5AA1C,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Murano,2015,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Murano,2015,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Murano,2015,2018,5-Button Smart Key,,KR5S180144014,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Murano,2015,2018,5-Button Smart Key,,KR5S180144014,,285E3-5AA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Murano,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1B,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Murano,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Murano,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Nissan,Murano,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,,
+Nissan,Murano,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Nissan,Murano,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Nissan,Murano,2021,2024,5-Button Smart Key,4A,KR5TXN7,,285E3-9UH7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Nissan,Murano,2022,2024,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Nissan,Murano,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Murano CrossCabriolet,2011,2014,4-Button Smart Key,,KR55WK49622,,285E3-9N07A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,NV,2011,2018,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,NV,2011,2020,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,NV,2012,2018,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,NV,2012,2014,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,NV,2012,2017,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,NV,2012,2017,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic",315 MHz
+Nissan,NV,2012,2017,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Rear Door, Panic",
+Nissan,Pathfinder,2002,2013,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2002,2004,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Pathfinder,2005,2011,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2005,2011,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2005,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Pathfinder,2007,2012,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Pathfinder,2009,2013,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2009,2011,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Pathfinder,2009,2011,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Pathfinder,2009,2011,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Pathfinder,2009,2013,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Pathfinder,2010,2012,3-Button Smart Key,,,,285E3-EM30D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2010,2012,3-Button Smart Key,,,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2010,2012,3-Button Smart Key,,CWTWBU729,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Pathfinder,2013,2016,3-Button Smart Key,,KR5S180144014,,285E3-3KL4A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Pathfinder,2013,2015,3-Button Smart Key,,KR5S180144014,,285E3-9PB3A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Pathfinder,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Pathfinder,2013,2015,4-Button Smart Key,,KR5S180144014,,285E3-9HP4B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Pathfinder,2013,2016,5-Button Smart Key,,KR5S180144014,,285E3-9PA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Pathfinder,2013,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Pathfinder,2013,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Pathfinder,2013,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Pathfinder,2013,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Pathfinder,2014,2016,4-Button Smart Key,,KR5S180144014,,285E3-9PB4A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Pathfinder,2014,2019,5-Button Smart Key,,KR5S180144014,,285E3-5AA5C,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Pathfinder,2016,2018,3-Button Smart Key,,KR5S180144014,,285E3-5AA1C,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Pathfinder,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Pathfinder,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Pathfinder,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-5AA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Pathfinder,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1B,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2019,2021,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Nissan,Pathfinder,2019,2021,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,,
+Nissan,Pathfinder,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Nissan,Pathfinder,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Nissan,Pathfinder,2021,2022,3-Button Smart Key,ID47,,,285E3-6XR1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Pathfinder,2022,2022,4-Button Smart Key,,KR5TXN3,,285E3-6XR5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Pathfinder,2022,2023,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,,433 MHz
+Nissan,Pathfinder,2022,2025,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,,433 MHz
+Nissan,Pathfinder,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Pathfinder,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,,
+Nissan,Pathfinder,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,Q40,2015,2015,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q40,2015,2015,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q40,2015,2015,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,Q40,2015,2015,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,Q40,2015,2015,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,Q40,2015,2015,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,Q45,2002,2006,4-Button Smart Key,4D60,KBRASTU13,,H0561-AR200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q45,2002,2006,Emergency Key,,,,H0564-AG310,Unconfirmed,false,,
+Infiniti,Q50,2014,2016,4-Button Smart Key,,KR5S180144203,,285E3-4HD0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,Q50,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,Q50,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,Q50,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,Q50,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,Q50,2015,2016,4-Button Smart Key,,KR5S180144014,,285E3-9HS4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,Q50,2016,2020,4-Button Smart Key,,KR5S180144204,,285E3-4HB0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,Q50,2016,2016,4-Button Smart Key,,KR5S180144204,,285E3-4HB0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,Q50,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Infiniti,Q50,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4HK0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Infiniti,Q50,2020,2022,4-Button Smart Key,,KR5TXN7,,285E3-6HE1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q50,2020,2020,5-Button Smart Key,,KR5TXN7,,285E3-6HE6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Infiniti,Q60,2014,2014,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q60,2014,2015,4-Button Smart Key,,KR55W48903,,285E3-JK65A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q60,2014,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,Q60,2017,2018,4-Button Smart Key,,KR5S180144204,,285E3-4HB0C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,Q60,2017,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Infiniti,Q60,2017,2019,5-Button Smart Key,,KR5S180144014,,285E3-4HK0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Infiniti,Q60,2020,2024,4-Button Smart Key,,KR5TXN1,,285E3-6SA3A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q60,2020,2022,4-Button Smart Key,,KR5TXN7,,285E3-6HE1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,Q60,2020,2021,5-Button Smart Key,,KR5TXN7,,285E3-6HE6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Infiniti,Q70,2014,2019,4-Button Smart Key,,CWTWB1U787,,285E3-1MP0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,Q70,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,QX30,2017,2019,3-Button Smart Key,,IYZDC12K,,285E3-5DD3A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,QX4,2002,2004,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Infiniti,QX4,2002,2003,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,QX50,2014,2017,3-Button Smart Key,,KR55WK49622,,285E3-1BA7A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Infiniti,QX50,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,QX50,2019,2020,4-Button Smart Key,,KR5TXN1,,285E3-5NA3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Infiniti,QX50,2019,2024,4-Button Smart Key,,KR5TXN1,,285E3-5NY3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Infiniti,QX50,2019,2024,4-Button Smart Key,4A,KR5TXN1,,285E3-5NY3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Infiniti,QX50,2019,2019,5-Button Smart Key,,KR5TXN1,,285E3-5NA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Infiniti,QX50,2020,2021,5-Button Smart Key,,KR5TXN1,,285E3-5NY7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Infiniti,QX50,2020,2021,Emergency Key,,,,H0564-9NR0A,Unconfirmed,false,,
+Infiniti,QX55,2022,2022,5-Button Smart Key,,KR5TXN1,,285E3-5NY7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Infiniti,QX55,2022,2022,Emergency Key,,,,H0564-9NR0A,Unconfirmed,false,,
+Infiniti,QX56,2003,2007,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Infiniti,QX56,2004,2007,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Infiniti,QX56,2004,2007,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,QX56,2004,2007,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,QX56,2008,2010,4-Button Smart Key,,CWTWBU624,,285E3-ZQ31B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,QX56,2008,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Infiniti,QX56,2010,2013,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,QX56,2011,2013,4-Button Smart Key,,CWTWB1U787,,285E3-1LL0D,Unconfirmed,false,,433 MHz
+Infiniti,QX56,2013,2013,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,QX56,2013,2024,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,QX60,2013,2016,5-Button Smart Key,,KR5S180144014,,285E3-9NB5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Infiniti,QX60,2013,2016,5-Button Smart Key,,KR5S180144014,,285E3-9PA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,QX60,2014,2018,3-Button Smart Key,,KR5S180144014,,285E3-9NB3A,Unconfirmed,false,"Lock, Unlock, Rear Hatch",433 MHz
+Infiniti,QX60,2014,2016,4-Button Smart Key,,KR5S180144014,,285E3-3TP0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,QX60,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,QX60,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,QX60,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,QX60,2014,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,QX60,2015,2016,4-Button Smart Key,,KR5S180144014,,285E3-9NB4A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Infiniti,QX60,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-4RA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Infiniti,QX60,2016,2017,5-Button Smart Key,,KR5S180144014,,285E3-9NF5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,QX60,2016,2018,5-Button Smart Key,,KR5S180144014,,285E3-5AA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,QX60,2017,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Infiniti,QX60,2019,2020,4-Button Smart Key,,KR5TXN7,,285E3-9NR4A,Unconfirmed,false,,
+Infiniti,QX60,2019,2019,5-Button Smart Key,,KR5TXN7,,285E3-9NR5B,Unconfirmed,false,,
+Infiniti,QX60,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9NR5B,Unconfirmed,false,,
+Infiniti,QX60,2019,2020,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Infiniti,QX60,2019,2021,5-Button Smart Key,,KR5TXN7,,285E3-9UF7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Infiniti,QX60,2019,2020,Emergency Key,,,,H0564-9NR0A,Unconfirmed,false,,
+Infiniti,QX60,2022,2025,5-Button Smart Key,,KR5TXN4,,285E3-6SA7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,QX70,2014,2015,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Infiniti,QX70,2014,2017,4-Button Smart Key,,KR55WK49622,,285E3-1CA7D,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,QX70,2014,2017,4-Button Smart Key,,KR55WK49622,,285E3-1CA7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Infiniti,QX70,2014,2016,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Infiniti,QX70,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,QX70,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,QX70,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,QX70,2014,2016,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,QX80,2014,2024,5-Button Smart Key,ID46,CWTWB1G744,,285E3-1LA5A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Infiniti,QX80,2014,2016,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,QX80,2014,2016,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Infiniti,QX80,2014,2016,Emergency Key,,NI06,,,Unconfirmed,false,,
+Infiniti,QX80,2014,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Infiniti,QX80,2025,2025,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7JA8B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Qashqai,2014,2019,3-Button Flip Key,4A,CWTWB1G767,,28268-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Qashqai,2014,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1C,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Qashqai,2014,2016,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Qashqai,2017,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Qashqai,2017,2018,4-Button Smart Key,,KR5S180144106,,285E3-6FL2B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Qashqai,2017,2018,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Qashqai,2017,2022,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Qashqai,2017,2020,5-Button Smart Key,,KR5S180144106,,285E3-6FL7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Qashqai,2017,2022,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Qashqai,2018,2021,3-Button Smart Key,,KR5TXN1,,285E3-6TA1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Qashqai,2018,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Qashqai,2019,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Qashqai,2020,2021,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Qashqai,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Qashqai,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,,
+Nissan,Quest,2003,2006,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Quest,2003,2009,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Quest,2004,2014,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Quest,2004,2009,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Quest,2004,2009,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Quest,2004,2014,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Quest,2004,2010,5-Button Keyless Entry Remote,,,,28268-5Z210,Unconfirmed,false,,
+Nissan,Quest,2004,2010,6-Button Keyless Entry Remote,,,,28268-5Z200,Unconfirmed,false,,
+Nissan,Quest,2005,2010,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Quest,2011,2017,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Quest,2011,2018,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Quest,2011,2017,5-Button Smart Key,,CWTWB1U789,,285E3-1JA1A,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",315 MHz
+Nissan,Quest,2011,2017,6-Button Smart Key,,CWTWB1U789,,285E3-1JA2A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Left Sliding Door, Right Sliding Door, Panic",315 MHz
+Nissan,Quest,2011,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Quest,2011,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Quest,2011,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Quest,2011,2017,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Rogue,2008,2013,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Rogue,2008,2015,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Rogue,2008,2015,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Rogue,2008,2013,3-Button Smart Key,,,,285E3-EM30D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Rogue,2008,2013,3-Button Smart Key,,,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Rogue,2008,2013,3-Button Smart Key,,CWTWBU729,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Rogue,2008,2013,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Rogue,2008,2015,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Rogue,2008,2013,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Rogue,2014,2020,3-Button Flip Key,,CWTWB1G767,,H0561-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Rogue,2014,2020,3-Button Flip Key,4A,CWTWB1G767,,28268-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Rogue,2014,2020,3-Button Flip Key,ID46,CWTWB1G767,,H0561-4BA1A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Rogue,2014,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1A,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Rogue,2014,2018,3-Button Smart Key,,KR5S180144106,,285E3-4CB1C,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Rogue,2014,2016,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Rogue,2014,2018,4-Button Smart Key,,KR5S180144106,,285E3-4CB6A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Nissan,Rogue,2014,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Rogue,2014,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Rogue,2014,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Rogue,2014,2020,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Rogue,2017,2018,4-Button Smart Key,,KR5S180144106,,285E3-6FL2B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Rogue,2017,2020,5-Button Smart Key,,,,285E3-6FL7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Nissan,Rogue,2017,2020,5-Button Smart Key,,KR5S180144106,,285E3-6FL7A,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Rogue,2017,2020,5-Button Smart Key,,KR5S180144106,,285E3-6FL7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Rogue,2019,2021,3-Button Smart Key,,KR5TXN1,,285E3-6TA1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Rogue,2019,2021,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Rogue,2019,2023,4-Button Smart Key,,KR5TXN3,,285E3-5RA6A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Rogue,2019,2021,5-Button Smart Key,,KR5TXN4,,285E3-6RR7A,Unconfirmed,false,,433 MHz
+Nissan,Rogue,2021,2022,3-Button Smart Key,ID47,,,285E3-6XR1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Rogue,2021,2022,4-Button Smart Key,4A,KR5TXN3,,285E3-6TA5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Rogue,2021,2021,5-Button Smart Key,,KR5TXN4,,285E3-6TA7B,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Rogue,2022,2023,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,,433 MHz
+Nissan,Rogue,2022,2025,5-Button Smart Key,4A,KR5TXPZ3,,285E3-7LA7A,Unconfirmed,false,,433 MHz
+Nissan,Rogue,2023,2024,3-Button Smart Key,4A,KR5TXPZ1,,285E3-5MR1B,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Rogue,2023,2024,4-Button Smart Key,4A,KR5TXPZ3,,285E3-6RA5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Rogue,2023,2024,Emergency Key,,,,H0564-5MP0A,Unconfirmed,false,,
+Nissan,Rogue,2025,2026,5-Button Smart Key,4A,KR5TXPZ3,,285E3-6RZ7E,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Nissan,Rogue Sport,2019,2020,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Rogue Sport,2019,2021,3-Button Smart Key,,KR5TXN1,,285E3-5RA0A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Sentra,2007,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Sentra,2007,2012,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Sentra,2007,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Sentra,2007,2019,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Sentra,2007,2008,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Sentra,2007,2017,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Sentra,2007,2012,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2007,2019,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2007,2012,4-Button Smart Key,,,,285E3-EW81D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2007,2012,4-Button Smart Key,,CWTWBU735,,285E3-EW82D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Sentra,2007,2012,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Sentra,2008,2017,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Sentra,2008,2012,4-Button Keyless Entry Remote,,,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2013,2014,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Sentra,2013,2018,3-Button Smart Key,,CWTWBAU771,,285E3-1FC0A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Sentra,2013,2013,4-Button Smart Key,,CWTWB1U815,,285E3-3AA0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2013,2019,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Sentra,2013,2019,4-Button Smart Key,,CWTWBU1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2013,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Sentra,2013,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Sentra,2013,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Sentra,2013,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Sentra,2019,2022,4-Button Smart Key,,KR5TXN1,,285E3-6CA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2019,2024,4-Button Smart Key,,KR5TXN1,,285E3-6LA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Sentra,2020,2020,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Sentra,2023,2024,5-Button Smart Key,,KR5TXPZ3,,285E3-6LY5A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Sentra,2024,2025,4-Button Smart Key,4A,KR5TXPZ1,,285E3-6LY1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Titan,2002,2006,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",315 MHz
+Nissan,Titan,2004,2015,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Titan,2004,2014,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Titan,2004,2016,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Titan,2004,2016,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Nissan,Titan,2007,2016,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Titan,2008,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Titan,2016,2018,3-Button Smart Key,,KR5S180144014,,285E3-5AA1C,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Nissan,Titan,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-9NF4A,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",433 MHz
+Nissan,Titan,2016,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Titan,2017,2018,4-Button Smart Key,,KR5S180144014,,285E3-5AA3D,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Nissan,Titan,2017,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Titan,2017,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Titan,2017,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Titan,2017,2019,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Titan,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1B,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Titan,2019,2021,3-Button Smart Key,,KR5TXN7,,285E3-9UF1A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Titan,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Nissan,Titan,2019,2023,4-Button Smart Key,,KR5TXN7,,285E3-9UF5B,Unconfirmed,false,,
+Nissan,Titan,2022,2024,4-Button Smart Key,4A,KR5TXN7,,285E3-9BU5A,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Versa,2007,2012,3-Button Keyless Entry Remote,,KBRASTU15,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Versa,2007,2018,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Versa,2007,2016,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Versa,2007,2012,3-Button Smart Key,,,,285E3-EM30D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Versa,2007,2012,3-Button Smart Key,,,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Versa,2007,2012,3-Button Smart Key,,CWTWBU729,,285E3-EM31D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Versa,2007,2015,4-Button Keyless Entry Remote,,KBRASTU15,,28268-ZB700,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Versa,2007,2015,4-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa,2007,2018,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa,2007,2012,4-Button Smart Key,,,,285E3-JA05A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa,2007,2012,Emergency Key,ID46,NI05T,,,Unconfirmed,false,,
+Nissan,Versa,2012,2019,4-Button Smart Key,,CWTWBU1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa,2013,2015,4-Button Remote Head Key,ID46,CWTWB1U816,,H0561-3AA0A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Versa,2013,2018,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Versa,2013,2019,4-Button Smart Key,,CWTWB1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Versa,2013,2019,4-Button Smart Key,,CWTWBU1U840,,285E3-3SG0D,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa,2013,2015,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Versa,2013,2015,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Versa,2013,2015,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Versa,2013,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Versa,2019,2019,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Versa,2019,2022,4-Button Smart Key,,KR5TXN1,,285E3-6CA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa,2020,2020,4-Button Smart Key,,KR5TXN1,,285E3-6LA1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa,2020,2024,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Versa,2020,2020,5-Button Smart Key,,KR5TXN4,,285E3-6CA6A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Nissan,Versa,2023,2025,4-Button Smart Key,4A,KR5TXPZ1,,285E3-6LY1A,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Nissan,Versa Note,2014,2018,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Versa Note,2014,2019,3-Button Remote Head Key,,CWTWB1U751,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Versa Note,2014,2018,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Versa Note,2014,2019,3-Button Smart Key,,CWTWB1U808,,285E3-1KM0D,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Nissan,Versa Note,2014,2018,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Nissan,Versa Note,2014,2017,Emergency Key,ID46,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Versa Note,2014,2017,Emergency Key,,NI06,,H0564-JG00A,Unconfirmed,false,,
+Nissan,Versa Note,2014,2017,Emergency Key,,NI06,,,Unconfirmed,false,,
+Nissan,Versa Note,2014,2018,Emergency Key,,NI06,,H0564-EG010,Unconfirmed,false,,
+Nissan,Xterra,2002,2015,3-Button Keyless Entry Remote,,,,28268-5W501,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Xterra,2005,2011,3-Button Keyless Entry Remote,,,,28268-ZT03A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Xterra,2005,2011,3-Button Keyless Entry Remote,,,,28268-EA000,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Xterra,2005,2015,3-Button Remote Head Key,ID46,,,H0561-C993A,Unconfirmed,false,"Lock, Unlock, Panic",
+Nissan,Xterra,2005,2007,4-Button Flip Key,ID46,KBRASTU15,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Nissan,Xterra,2005,2015,4-Button Remote Head Key,ID46,,,H0561-3AA0B,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",

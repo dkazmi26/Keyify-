@@ -1,606 +1,606 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Alfa Romeo,Giulia,2017,2022,5-Button Smart Key,,KR5ALFA434,,6EP44LXHAA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Alfa Romeo,Giulia,2017,2022,Emergency Key,,SIP22,,68465851AA,Unconfirmed,false,
-Alfa Romeo,Stelvio,2017,2022,5-Button Smart Key,,KR5ALFA434,,6EP44LXHAA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Alfa Romeo,Stelvio,2017,2022,Emergency Key,,SIP22,,68465851AA,Unconfirmed,false,
-Audi,A3,2002,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A3,2006,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A3,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,A3,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,1997,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,1999,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A4,1999,2004,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A4,1999,2005,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,A4,1999,2004,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,A4,2002,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A4,2005,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,A4,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,A4,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,2009,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,
-Audi,A4,2009,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,2009,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,A4,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A4,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,
-Audi,A5,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,A5,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A5,2008,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,
-Audi,A5,2008,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A5,2008,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,A5,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A5,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,
-Audi,A6,1997,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A6,1997,2004,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A6,1997,2004,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A6,1998,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A6,1998,2004,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A6,1998,2006,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,A6,1998,2004,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,A6,2001,2004,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A6,2005,2011,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,A6,2005,2011,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A6,2012,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A6,2012,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,A6,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A7,2011,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A7,2011,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,A7,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A8,1997,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A8,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A8,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A8,1997,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A8,2001,2001,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,A8,2005,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A8,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,A8,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A8,2009,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,A8,2010,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,A8,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Allroad,2001,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Allroad,2001,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Allroad,2001,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Allroad,2002,2002,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,Allroad,2002,2002,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,Allroad,2013,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Allroad,2013,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,Cabriolet,1997,1998,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Cabriolet,1997,1998,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Cabriolet,1997,1998,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,E-Tron,2019,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Q3,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,Q3,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Q5,2009,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,Q5,2009,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Q5,2009,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,
-Audi,Q5,2009,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Q5,2009,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,Q5,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Q7,2007,2015,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,Q7,2007,2015,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Q7,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,Q7,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,
-Audi,Q8,2019,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,R8,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,R8,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,RS4,2007,2008,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,RS4,2007,2008,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,RS6,2003,2003,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,RS6,2003,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,RS6,2003,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,RS6,2003,2003,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,S3,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,S3,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S4,1998,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S4,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S4,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S4,2000,2006,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,S4,2002,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,S4,2005,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S4,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,S4,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S4,2009,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,
-Audi,S4,2009,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S4,2009,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,S5,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,S5,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S5,2008,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,
-Audi,S5,2008,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S5,2008,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,S5,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S6,1998,2004,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S6,2001,2004,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,S6,2001,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,S6,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S6,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S6,2002,2003,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,S6,2007,2011,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,S6,2007,2011,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S6,2012,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S6,2012,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,S7,2011,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S7,2011,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,S8,1997,2003,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S8,2001,2001,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,S8,2001,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,S8,2001,2003,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,S8,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S8,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S8,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,S8,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S8,2009,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,S8,2010,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,
-Audi,SQ7,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,
-Audi,TT,2000,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,TT,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,TT,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,TT,2000,2006,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Audi,TT,2001,2006,Transponder Key,ID48,,,,Unconfirmed,false,
-Audi,TT,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk"
-Audi,TT,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,TT,2009,2009,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,TT,2017,2019,4-Button Smart Key,,IYZAK01,,8S0-959-754-BA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,TT,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Audi,TT,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,
-BMW,1-Series,2006,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,1-Series,2008,2009,Emergency Key,,HU92,,,Unconfirmed,false,
-BMW,3-Series,1995,1999,Transponder Key,ID44,HU58,,,Unconfirmed,false,
-BMW,3-Series,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,3-Series,2000,2005,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,3-Series,2000,2005,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,3-Series,2006,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,3-Series,2006,2011,3-Button Smart Key,,KR55WK49127,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,3-Series,2006,2010,3-Button Smart Key,,KR55WK49147,,6986583-04,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,3-Series,2006,2010,Emergency Key,,HU92,,,Unconfirmed,false,
-BMW,3-Series,2009,2018,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,3-Series,2009,2013,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,3-Series,2009,2018,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,3-Series,2009,2016,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,3-Series,2009,2013,4-Button Smart Key,,YGOHUF5662CAS4,,7847229-02,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,3-Series,2009,2018,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,3-Series,2009,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,3-Series,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,4-Series,2014,2018,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,4-Series,2014,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,5-Series,1995,2003,Transponder Key,ID44,HU58,,,Unconfirmed,false,
-BMW,5-Series,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,5-Series,2000,2003,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,5-Series,2000,2003,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,5-Series,2004,2005,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,5-Series,2004,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,5-Series,2004,2011,3-Button Smart Key,,KR55WK49127,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,5-Series,2004,2010,3-Button Smart Key,,KR55WK49147,,6986583-04,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,5-Series,2006,2011,Emergency Key,,HU92,,,Unconfirmed,false,
-BMW,5-Series,2009,2017,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,5-Series,2009,2014,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,5-Series,2009,2017,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,5-Series,2009,2016,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,5-Series,2009,2014,4-Button Smart Key,,YGOHUF5662CAS4,,7847229-02,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,5-Series,2009,2017,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,5-Series,2009,2017,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,5-Series,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,5-Series,2016,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,5-Series,2017,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,6-Series,1997,2003,Transponder Key,ID44,HU58,,,Unconfirmed,false,
-BMW,6-Series,2000,2003,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,6-Series,2000,2003,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,6-Series,2004,2005,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,6-Series,2004,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,6-Series,2004,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,6-Series,2006,2011,Emergency Key,,HU92,,2911A12133,Unconfirmed,false,
-BMW,6-Series,2009,2018,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,6-Series,2009,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,6-Series,2017,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,7-Series,1995,2002,Transponder Key,ID44,HU58,,,Unconfirmed,false,
-BMW,7-Series,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,7-Series,2000,2002,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,7-Series,2000,2002,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,7-Series,2002,2008,4-Button Smart Key,,LX8766S,,2911A12133,Unconfirmed,false,
-BMW,7-Series,2002,2011,4-Button Smart Key,,LX8766S,,66126959059,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,7-Series,2003,2008,4-Button Smart Key,,LX8766S,,2911A12133,Unconfirmed,false,
-BMW,7-Series,2003,2011,Emergency Key,,HU92,,2911A12133,Unconfirmed,false,
-BMW,7-Series,2004,2008,4-Button Smart Key,,LX8766S,,2911A12133,Unconfirmed,false,
-BMW,7-Series,2009,2014,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,7-Series,2009,2014,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,7-Series,2009,2016,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,7-Series,2009,2014,4-Button Smart Key,,YGOHUF5662CAS4,,7847229-02,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,7-Series,2009,2014,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,7-Series,2009,2014,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,7-Series,2015,2019,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,8-Series,1995,1999,Transponder Key,ID44,HU58,,,Unconfirmed,false,
-BMW,M3,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,M3,2001,2010,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,M3,2007,2013,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,M5,2000,2003,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,M5,2004,2010,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,M5,2017,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,M6,2005,2010,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X1,2009,2015,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X3,2003,2009,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X3,2003,2009,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,X3,2004,2008,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X3,2009,2014,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X3,2011,2017,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,X3,2011,2017,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,X3,2014,2018,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X3,2014,2018,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X3,2017,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X3,2019,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X4,2014,2018,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,X4,2014,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,X4,2018,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X4,2019,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X5,2000,2006,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X5,2000,2006,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X5,2000,2006,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,X5,2006,2013,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X5,2007,2013,Emergency Key,,HU92,,,Unconfirmed,false,
-BMW,X5,2009,2013,Emergency Key,,HU100R,,,Unconfirmed,false,
-BMW,X5,2009,2013,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,
-BMW,X5,2014,2018,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X5,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X5,2014,2019,4-Button Smart Key,,NBGIDGNG1,,CAS4433N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X5,2014,2018,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X6,2008,2014,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,X6,2008,2010,Emergency Key,,HU92,,,Unconfirmed,false,
-BMW,X6,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,X6,2014,2019,4-Button Smart Key,,NBGIDGNG1,,CAS4433N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,Z3,1996,2002,Transponder Key,ID44,HU58,,,Unconfirmed,false,
-BMW,Z3,2000,2002,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,Z3,2001,2002,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,Z3,2001,2002,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,Z4,2002,2009,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,Z4,2003,2008,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,Z4,2003,2009,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,Z4,2009,2016,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,Z8,2000,2003,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,
-BMW,Z8,2001,2003,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk"
-BMW,i3,2015,2017,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-BMW,i8,2015,2017,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,E-Pace,2017,2023,5-Button Smart Key,4A,,,J9D3-15K601-CC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Hood"
-Jaguar,E-Pace,2018,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic"
-Jaguar,E-Pace,2020,2023,Emergency Key,,HU101,,LR116873,Unconfirmed,false,
-Jaguar,F-Pace,2017,2019,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,F-Pace,2017,2020,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic"
-Jaguar,F-Pace,2017,2019,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,
-Jaguar,F-Pace,2017,2019,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Jaguar,F-Pace,2017,2019,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,F-Type,2014,2015,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,F-Type,2014,2020,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic"
-Jaguar,F-Type,2014,2015,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,
-Jaguar,F-Type,2014,2015,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Jaguar,F-Type,2014,2015,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,S-Type,2001,2008,4-Button Flip Key,,,,1X43-15K601-AB,Unconfirmed,false,"Lock, Unlock, Trunk, Lights"
-Jaguar,S-Type,2001,2008,4-Button Flip Key,,NHVWB1U241NHVWBIU241CWTWB1U243,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,S-Type,2007,2008,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Jaguar,X-Type,2002,2008,4-Button Flip Key,,,,1X43-15K601-AB,Unconfirmed,false,"Lock, Unlock, Trunk, Lights"
-Jaguar,X-Type,2002,2008,4-Button Flip Key,,NHVWB1U241NHVWBIU241CWTWB1U243,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,X-Type,2007,2008,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic"
-Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,
-Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Jaguar,XE,2017,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,XF,2009,2013,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,XF,2009,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Jaguar,XF,2010,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic"
-Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,
-Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Jaguar,XF,2013,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,XJ,1998,1999,Transponder Key,ID13,,,,Unconfirmed,false,
-Jaguar,XJ,2000,2003,Transponder Key,ID48,,,,Unconfirmed,false,
-Jaguar,XJ,2001,2008,4-Button Flip Key,,,,1X43-15K601-AB,Unconfirmed,false,"Lock, Unlock, Trunk, Lights"
-Jaguar,XJ,2001,2008,4-Button Flip Key,,NHVWB1U241NHVWBIU241CWTWB1U243,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,XJ,2007,2009,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Jaguar,XJ,2010,2010,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,XJ,2010,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic"
-Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,
-Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Jaguar,XJ,2011,2017,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Jaguar,XK,1998,1999,Transponder Key,ID13,,,,Unconfirmed,false,
-Jaguar,XK,2000,2006,Transponder Key,ID48,,,,Unconfirmed,false,
-Jaguar,XK,2004,2006,Transponder Key,ID13,,,,Unconfirmed,false,
-Jaguar,XK,2007,2010,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,XK,2007,2014,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,XK,2007,2011,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Jaguar,XK,2007,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Jaguar,XK,2014,2015,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Land Rover,Defender,2020,2025,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Defender,2020,2020,Emergency Key,,HU101,,LR116873,Unconfirmed,false,
-Land Rover,Discovery,1997,2004,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Land Rover,Discovery,2015,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Discovery,2015,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Discovery,2015,2017,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Discovery,2019,2025,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Discovery,2019,2021,Emergency Key,,HU101,,LR116873,Unconfirmed,false,
-Land Rover,Discovery Sport,2016,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Discovery Sport,2016,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Discovery Sport,2016,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,LR2,2006,2012,5-Button Smart Key,ID46,NT1TX9,,,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic"
-Land Rover,LR2,2013,2014,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,LR2,2013,2014,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,LR2,2013,2014,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,LR3,2005,2009,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Land Rover,LR3,2005,2009,3-Button Flip Key,ID44,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Land Rover,LR4,2012,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,LR4,2012,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,LR4,2012,2017,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Range Rover,2006,2009,3-Button Flip Key,ID46,NT815K6014CFFTXA,,YWX000071,Unconfirmed,false,
-Land Rover,Range Rover,2006,2010,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Land Rover,Range Rover,2006,2010,3-Button Flip Key,ID44,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Land Rover,Range Rover,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Range Rover,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Range Rover,2011,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Range Rover,2024,2025,5-Button Smart Key,,K0BJXF23A,,FOBU3R,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Range Rover Evoque,2010,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Range Rover Evoque,2010,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Range Rover Evoque,2010,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Range Rover Evoque,2019,2025,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Range Rover Evoque,2019,2023,Emergency Key,,HU101,,LR116873,Unconfirmed,false,
-Land Rover,Range Rover Sport,2006,2011,3-Button Flip Key,ID46,NT815K6014CFFTXA,,YWX000071,Unconfirmed,false,
-Land Rover,Range Rover Sport,2006,2011,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Land Rover,Range Rover Sport,2006,2011,3-Button Flip Key,ID44,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Land Rover,Range Rover Sport,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Range Rover Sport,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Range Rover Sport,2011,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,
-Land Rover,Range Rover Sport,2015,2018,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Land Rover,Range Rover Sport,2018,2020,Emergency Key,,HU101,,LR116873,Unconfirmed,false,
-MINI,Cooper,2000,2009,3-Button Remote Head Key,,LX8F2V,,66126931749,Unconfirmed,false,
-MINI,Cooper,2005,2007,3-Button Remote Head Key,ID44,LX8F2V,,66126931749,Unconfirmed,false,
-MINI,Cooper,2006,2014,3-Button Smart Key,ID46,,,3452819-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-MINI,Cooper,2006,2014,Emergency Key,,HU92RP,,3452819-01,Unconfirmed,false,
-MINI,Cooper,2014,2018,3-Button Smart Key,,NBGIDGNG1,,9367409-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-MINI,Cooper,2025,2025,4-Button Smart Key,,IYZBK1,,5B3E8E9-01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-MINI,Countryman,2011,2014,3-Button Smart Key,ID46,,,3452819-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-MINI,Paceman,2013,2014,3-Button Smart Key,ID46,,,3452819-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-Mercedes-Benz,C-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,C-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,C-Class,1997,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,C-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,
-Mercedes-Benz,E-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,E-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,E-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,
-Mercedes-Benz,E-Class,2005,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,G-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,G-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,G-Class,2002,2005,Emergency Key,,HU64,,,Unconfirmed,false,
-Mercedes-Benz,G-Class,2004,2011,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,M-Class,1997,2005,4-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,M-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,M-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,M-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,
-Mercedes-Benz,M-Class,1998,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,M-Class,1998,2005,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,M-Class,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,
-Mercedes-Benz,R-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,R-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,R-Class,2006,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,S-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,S-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,S-Class,1997,1999,Transponder Key,ID44,HU39,,,Unconfirmed,false,
-Mercedes-Benz,S-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,
-Mercedes-Benz,S-Class,2001,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,S-Class,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,
-Mercedes-Benz,SL-Class,1997,2005,4-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,SL-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,SL-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,SL-Class,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,
-Mercedes-Benz,SLK-Class,1996,2004,3-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mercedes-Benz,Sprinter,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,Sprinter,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mercedes-Benz,Sprinter,2007,2013,Transponder Key,ID44,HU64,,,Unconfirmed,false,
-Mercedes-Benz,Sprinter,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,
-Porsche,911,2010,2017,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood"
-Porsche,968,1999,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Porsche,Boxster,2010,2016,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood"
-Porsche,Cayenne,2000,2004,4-Button Flip Key,ID46,KR55WK45032,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Porsche,Cayenne,2003,2005,3-Button Flip Key,ID46,KR55WK45032,,,Unconfirmed,false,
-Porsche,Cayenne,2003,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Porsche,Cayenne,2004,2011,4-Button Flip Key,ID46,KR55WK45032,,7L5-959-753-B-K,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Porsche,Cayenne,2010,2017,3-Button Smart Key,,KR55WK50138,,7PP959753AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-Porsche,Cayenne,2010,2017,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood"
-Porsche,Cayman,2010,2016,3-Button Smart Key,,KR55WK50138,,7PP959753AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-Porsche,Cayman,2010,2016,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood"
-Porsche,Macan,2015,2017,3-Button Smart Key,,KR55WK50138,,7PP959753AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch"
-Porsche,Macan,2015,2017,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood"
-Porsche,Panamera,2010,2018,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood"
-Saab,9-3,2003,2011,4-Button Smart Key,ID46,LTQSAAM433TX,,3659-SAAM433,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Saab,9-3,2003,2011,Emergency Key,,,,12799334,Unconfirmed,false,
-Saab,9-3,2008,2009,Emergency Key,,,,93166902,Unconfirmed,false,
-Saab,9-5,2003,2007,4-Button Smart Key,ID46,LTQSAAM433TX,,3659-SAAM433,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Saab,9-5,2003,2007,Emergency Key,,,,12799334,Unconfirmed,false,
-Saab,9-5,2010,2011,Emergency Key,,HU100,,20765513,Unconfirmed,false,
-Volkswagen,Atlas,2018,2020,5-Button Smart Key,,KR5FS14US,,3G0959752T,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Volkswagen,Atlas,2018,2020,Emergency Key,,HU162T,,3G0937048AIS,Unconfirmed,false,
-Volkswagen,Atlas,2018,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,
-Volkswagen,Beetle,1999,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Beetle,2000,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,
-Volkswagen,Beetle,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Beetle,2000,2006,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Beetle,2002,2006,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Beetle,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Beetle,2012,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Beetle,2012,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Beetle,2012,2016,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Beetle,2017,2019,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,CC,2009,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,CC,2009,2015,4-Button Smart Key,ID48,NBG009066T,,HLO3C0959752N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,CC,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,CC,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,CC,2011,2014,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,CC,2011,2014,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,CC,2011,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Cabrio,1998,2000,Transponder Key,ID42,,,,Unconfirmed,false,
-Volkswagen,Cabrio,2000,2002,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Cabrio,2002,2002,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Eos,2007,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Eos,2007,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Eos,2007,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Eos,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Eos,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Eos,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Eos,2011,2017,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,GTI,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,GTI,2006,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,GTI,2006,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,GTI,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,GTI,2010,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,GTI,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,GTI,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,GTI,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,GTI,2015,2019,4-Button Flip Key,4A,NBGFS12A01,,5G0959752BD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,GTI,2015,2019,4-Button Flip Key,4A,NBGFS12P01,,5G0959752BE,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,GTI,2015,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,
-Volkswagen,Golf,1998,2000,Transponder Key,ID42,,,,Unconfirmed,false,
-Volkswagen,Golf,1999,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,
-Volkswagen,Golf,1999,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Golf,2002,2005,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2006,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2006,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Golf,2010,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,Golf,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2015,2019,4-Button Flip Key,4A,NBGFS12A01,,5G0959752BD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2015,2019,4-Button Flip Key,4A,NBGFS12P01,,5G0959752BE,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2015,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,
-Volkswagen,Golf,2017,2019,4-Button Flip Key,4A,NBGFS12A01,,5G0959752BD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2017,2019,4-Button Flip Key,4A,NBGFS12P01,,5G0959752BE,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Golf,2020,2024,3-Button Smart Key,,,,5HG959753B,Unconfirmed,false,"Lock, Unlock, Trunk"
-Volkswagen,Jetta,1999,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2000,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,
-Volkswagen,Jetta,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Jetta,2002,2005,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2005,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2006,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Jetta,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2011,2016,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2012,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,Jetta,2017,2018,4-Button Flip Key,,NBGFS93N,,5KO837202BJ,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2017,2018,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Jetta,2017,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,
-Volkswagen,Passat,1998,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,
-Volkswagen,Passat,1998,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Passat,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Passat,2001,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Passat,2002,2005,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Passat,2003,2005,Transponder Key,ID48,,,,Unconfirmed,false,
-Volkswagen,Passat,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Passat,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Passat,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Passat,2011,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Passat,2012,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,Passat,2017,2018,4-Button Flip Key,,NBGFS93N,,5KO837202BJ,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Passat,2017,2021,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Passat,2017,2022,5-Button Flip Key,,NBGFS93N,,561837202J,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Volkswagen,Passat,2018,2020,5-Button Smart Key,,KR5FS14US,,3G0959752T,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Volkswagen,Passat,2018,2020,Emergency Key,,HU162T,,3G0937048AIS,Unconfirmed,false,
-Volkswagen,Rabbit,2006,2009,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Rabbit,2006,2009,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Rabbit,2006,2009,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Routan,2009,2012,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic"
-Volkswagen,Routan,2009,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Volkswagen,Routan,2009,2012,5-Button Remote Head Key,,M3N5WY783X,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic"
-Volkswagen,Routan,2009,2015,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic"
-Volkswagen,Routan,2009,2012,7-Button Remote Head Key,ID46,IYZC01C,,5026590,Unconfirmed,false,
-Volkswagen,Routan,2010,2012,7-Button Remote Head Key,ID46,,,56046708AA,Unconfirmed,false,
-Volkswagen,Tiguan,2009,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Tiguan,2010,2014,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Tiguan,2010,2017,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,Tiguan,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Tiguan,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Tiguan,2012,2018,4-Button Flip Key,,NBGFS93N,,5KO837202BJ,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Tiguan,2012,2018,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Tiguan,2018,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,
-Volkswagen,Touareg,2004,2008,4-Button Flip Key,ID46,KR55WK45032,,KR55WK45022,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Touareg,2004,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,
-Volkswagen,Touareg,2010,2016,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,
-Volkswagen,Touareg,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Touareg,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Touareg,2011,2014,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volkswagen,Touareg,2011,2017,4-Button Smart Key,,,,7P6-959-754,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Volvo,C30,2007,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,C30,2007,2013,Emergency Key,,HU101,,30784740,Unconfirmed,false,
-Volvo,C30,2008,2013,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Volvo,C40,2022,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,C40,2022,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,C70,2006,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,C70,2006,2013,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Volvo,C70,2006,2013,Emergency Key,,HU101,,30784740,Unconfirmed,false,
-Volvo,S40,1996,2004,Transponder Key,ID44,HU56,,,Unconfirmed,false,
-Volvo,S40,2004,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,S40,2004,2012,Emergency Key,,HU101,,30784740,Unconfirmed,false,
-Volvo,S40,2006,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Volvo,S60,2004,2009,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,S60,2011,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights"
-Volvo,S60,2011,2018,6-Button Smart Key,ID46,KR55WK49266,,,Unconfirmed,false,
-Volvo,S60,2011,2017,Emergency Key,,HU101,,30699525,Unconfirmed,false,
-Volvo,S60,2015,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,S60,2015,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,S60,2016,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,S60,2016,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,S60,2019,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,S60,2019,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,S60,2019,2021,Emergency Key,,HU101,,,Unconfirmed,false,
-Volvo,S80,2004,2008,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,S80,2006,2012,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Volvo,S80,2007,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights"
-Volvo,S80,2007,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,S80,2007,2016,6-Button Smart Key,ID46,KR55WK49266,,,Unconfirmed,false,
-Volvo,S80,2007,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,S80,2007,2016,Emergency Key,,HU101,,30699525,Unconfirmed,false,
-Volvo,S90,2016,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,S90,2017,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,S90,2017,2021,Emergency Key,,HU101,,,Unconfirmed,false,
-Volvo,V40,1996,2004,Transponder Key,ID44,HU56,,,Unconfirmed,false,
-Volvo,V40,2013,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights"
-Volvo,V40,2013,2015,Emergency Key,,HU101,,30699525,Unconfirmed,false,
-Volvo,V50,2004,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,V50,2005,2012,Emergency Key,,,,C2P1755,Unconfirmed,false,
-Volvo,V50,2005,2012,Emergency Key,,HU101,,30784740,Unconfirmed,false,
-Volvo,V60,2011,2016,Emergency Key,,HU101,,30699525,Unconfirmed,false,
-Volvo,V60,2014,2018,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights"
-Volvo,V60,2014,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,V60,2014,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,V60,2015,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,V60,2015,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,V60,2019,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,V60,2019,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,V60,2019,2021,Emergency Key,,HU101,,,Unconfirmed,false,
-Volvo,V60,2020,2020,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,V70,2008,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights"
-Volvo,V70,2008,2010,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,V70,2008,2010,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,V70,2008,2014,Emergency Key,,HU101,,30699525,Unconfirmed,false,
-Volvo,V90,2017,2023,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,V90,2017,2023,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,V90,2017,2021,Emergency Key,,HU101,,,Unconfirmed,false,
-Volvo,XC40,2018,2020,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,XC40,2019,2021,Emergency Key,,HU101,,,Unconfirmed,false,
-Volvo,XC40,2022,2022,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,XC60,2008,2013,6-Button Smart Key,ID46,KR55WK49266,,,Unconfirmed,false,
-Volvo,XC60,2009,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,XC60,2009,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,XC60,2009,2017,Emergency Key,,HU101,,30699525,Unconfirmed,false,
-Volvo,XC60,2010,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights"
-Volvo,XC60,2018,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,XC60,2018,2021,Emergency Key,,HU101,,,Unconfirmed,false,
-Volvo,XC70,2004,2007,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,XC70,2008,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights"
-Volvo,XC70,2008,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,
-Volvo,XC70,2008,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,
-Volvo,XC70,2008,2016,Emergency Key,,HU101,,30699525,Unconfirmed,false,
-Volvo,XC90,2004,2015,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic"
-Volvo,XC90,2016,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,XC90,2016,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Volvo,XC90,2016,2021,Emergency Key,,HU101,,,Unconfirmed,false,
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Alfa Romeo,Giulia,2017,2022,5-Button Smart Key,,KR5ALFA434,,6EP44LXHAA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Alfa Romeo,Giulia,2017,2022,Emergency Key,,SIP22,,68465851AA,Unconfirmed,false,,
+Alfa Romeo,Stelvio,2017,2022,5-Button Smart Key,,KR5ALFA434,,6EP44LXHAA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Alfa Romeo,Stelvio,2017,2022,Emergency Key,,SIP22,,68465851AA,Unconfirmed,false,,
+Audi,A3,2002,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A3,2006,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A3,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,A3,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A4,1997,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A4,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A4,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A4,1999,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A4,1999,2004,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A4,1999,2005,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,A4,1999,2004,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,A4,2002,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A4,2005,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A4,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,A4,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A4,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,A4,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A4,2009,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,,315 MHz
+Audi,A4,2009,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A4,2009,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,A4,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A4,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,,
+Audi,A5,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,A5,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A5,2008,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,,315 MHz
+Audi,A5,2008,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A5,2008,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,A5,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A5,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,,
+Audi,A6,1997,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A6,1997,2004,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A6,1997,2004,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A6,1998,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A6,1998,2004,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A6,1998,2006,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,A6,1998,2004,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,A6,2001,2004,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A6,2005,2011,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,A6,2005,2011,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A6,2012,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A6,2012,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,A6,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A7,2011,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A7,2011,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,A7,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A8,1997,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A8,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A8,1997,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A8,1997,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A8,2001,2001,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,A8,2005,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A8,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,A8,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,A8,2009,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,A8,2010,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,A8,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,Allroad,2001,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,Allroad,2001,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,Allroad,2001,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,Allroad,2002,2002,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,Allroad,2002,2002,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,Allroad,2013,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,Allroad,2013,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,Cabriolet,1997,1998,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,Cabriolet,1997,1998,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,Cabriolet,1997,1998,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,E-Tron,2019,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,Q3,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,Q3,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,Q5,2009,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,Q5,2009,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,Q5,2009,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,,315 MHz
+Audi,Q5,2009,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,Q5,2009,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,Q5,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,Q7,2007,2015,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,Q7,2007,2015,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,Q7,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,Q7,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,,
+Audi,Q8,2019,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,R8,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,R8,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,RS4,2007,2008,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,RS4,2007,2008,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,RS6,2003,2003,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,RS6,2003,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,RS6,2003,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,RS6,2003,2003,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,S3,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,S3,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,S4,1998,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S4,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S4,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S4,2000,2006,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,S4,2002,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,S4,2005,2010,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,S4,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,S4,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,S4,2009,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,,315 MHz
+Audi,S4,2009,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S4,2009,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,S5,2008,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,S5,2008,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,S5,2008,2012,4-Button Smart Key,,IYZFBSB802,,,Unconfirmed,false,,315 MHz
+Audi,S5,2008,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S5,2008,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,S5,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,S6,1998,2004,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S6,2001,2004,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,S6,2001,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,S6,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S6,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S6,2002,2003,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,S6,2007,2011,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,S6,2007,2011,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,S6,2012,2015,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S6,2012,2015,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,S7,2011,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S7,2011,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,S8,1997,2003,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S8,2001,2001,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,S8,2001,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,S8,2001,2003,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,S8,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S8,2002,2003,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S8,2007,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,S8,2007,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,S8,2009,2016,4-Button Smart Key,,IYZFBSB802,,8T0959754G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,S8,2010,2016,Emergency Key,,HU66,,A2016060701,Unconfirmed,false,,
+Audi,SQ7,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,,
+Audi,TT,2000,2005,4-Button Flip Key,,MYT8Z0837231,,4D0837231P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,TT,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0837231E,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,TT,2000,2005,4-Button Flip Key,ID48,MYT8Z0837231,,4D0-837-231-P-01C,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Audi,TT,2000,2006,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Audi,TT,2001,2006,Transponder Key,ID48,,,,Unconfirmed,false,,
+Audi,TT,2006,2010,3-Button Flip Key,,IYZ3314,,4F0837220,Unconfirmed,false,"Lock, Unlock, Trunk",
+Audi,TT,2006,2010,4-Button Flip Key,,IYZ3314,,4F0837220AG,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,TT,2009,2009,4-Button Flip Key,,NBG009272T,,D8X0837220G,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,TT,2017,2019,4-Button Smart Key,,IYZAK01,,8S0-959-754-BA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,TT,2017,2024,4-Button Smart Key,,IYZAK2,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Audi,TT,2017,2018,Emergency Key,,,,4M0959754,Unconfirmed,false,,
+BMW,1-Series,2006,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,1-Series,2008,2009,Emergency Key,,HU92,,,Unconfirmed,false,,
+BMW,3-Series,1995,1999,Transponder Key,ID44,HU58,,,Unconfirmed,false,,
+BMW,3-Series,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,3-Series,2000,2005,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,3-Series,2000,2005,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,3-Series,2006,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,3-Series,2006,2011,3-Button Smart Key,,KR55WK49127,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,3-Series,2006,2010,3-Button Smart Key,,KR55WK49147,,6986583-04,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,3-Series,2006,2010,Emergency Key,,HU92,,,Unconfirmed,false,,
+BMW,3-Series,2009,2018,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,3-Series,2009,2013,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,3-Series,2009,2018,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,3-Series,2009,2016,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,3-Series,2009,2013,4-Button Smart Key,,YGOHUF5662CAS4,,7847229-02,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,3-Series,2009,2018,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,3-Series,2009,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,3-Series,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,4-Series,2014,2018,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,4-Series,2014,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,5-Series,1995,2003,Transponder Key,ID44,HU58,,,Unconfirmed,false,,
+BMW,5-Series,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,5-Series,2000,2003,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,5-Series,2000,2003,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,5-Series,2004,2005,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,5-Series,2004,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,5-Series,2004,2011,3-Button Smart Key,,KR55WK49127,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,5-Series,2004,2010,3-Button Smart Key,,KR55WK49147,,6986583-04,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,5-Series,2006,2011,Emergency Key,,HU92,,,Unconfirmed,false,,
+BMW,5-Series,2009,2017,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,5-Series,2009,2014,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,5-Series,2009,2017,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,5-Series,2009,2016,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,5-Series,2009,2014,4-Button Smart Key,,YGOHUF5662CAS4,,7847229-02,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,5-Series,2009,2017,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,5-Series,2009,2017,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,5-Series,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,5-Series,2016,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,5-Series,2017,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,6-Series,1997,2003,Transponder Key,ID44,HU58,,,Unconfirmed,false,,
+BMW,6-Series,2000,2003,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,6-Series,2000,2003,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,6-Series,2004,2005,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,6-Series,2004,2011,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,6-Series,2004,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,6-Series,2006,2011,Emergency Key,,HU92,,2911A12133,Unconfirmed,false,,
+BMW,6-Series,2009,2018,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,6-Series,2009,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,6-Series,2017,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,7-Series,1995,2002,Transponder Key,ID44,HU58,,,Unconfirmed,false,,
+BMW,7-Series,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,7-Series,2000,2002,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,7-Series,2000,2002,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,7-Series,2002,2008,4-Button Smart Key,,LX8766S,,2911A12133,Unconfirmed,false,,
+BMW,7-Series,2002,2011,4-Button Smart Key,,LX8766S,,66126959059,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,7-Series,2003,2008,4-Button Smart Key,,LX8766S,,2911A12133,Unconfirmed,false,,
+BMW,7-Series,2003,2011,Emergency Key,,HU92,,2911A12133,Unconfirmed,false,,
+BMW,7-Series,2004,2008,4-Button Smart Key,,LX8766S,,2911A12133,Unconfirmed,false,,
+BMW,7-Series,2009,2014,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,7-Series,2009,2014,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,7-Series,2009,2016,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,7-Series,2009,2014,4-Button Smart Key,,YGOHUF5662CAS4,,7847229-02,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,7-Series,2009,2014,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,7-Series,2009,2014,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,7-Series,2015,2019,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,8-Series,1995,1999,Transponder Key,ID44,HU58,,,Unconfirmed,false,,
+BMW,M3,1999,2005,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,M3,2001,2010,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,M3,2007,2013,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,M5,2000,2003,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,M5,2004,2010,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,M5,2017,2020,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,M6,2005,2010,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,X1,2009,2015,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,X3,2003,2009,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,X3,2003,2009,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,X3,2004,2008,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,X3,2009,2014,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X3,2011,2017,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,X3,2011,2017,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,X3,2014,2018,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X3,2014,2018,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X3,2017,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X3,2019,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X4,2014,2018,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,X4,2014,2018,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,X4,2018,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X4,2019,2021,4-Button Smart Key,ID49,N5FID21A,,9395329-05,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X5,2000,2006,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,X5,2000,2006,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,X5,2000,2006,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,X5,2006,2013,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,X5,2007,2013,Emergency Key,,HU92,,,Unconfirmed,false,,
+BMW,X5,2009,2013,Emergency Key,,HU100R,,,Unconfirmed,false,,
+BMW,X5,2009,2013,Emergency Key,,HU100R,,7847229-02,Unconfirmed,false,,
+BMW,X5,2014,2018,4-Button Smart Key,,,,CAS4315N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X5,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X5,2014,2019,4-Button Smart Key,,NBGIDGNG1,,CAS4433N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X5,2014,2018,4-Button Smart Key,,YGOHUF5662,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X6,2008,2014,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,X6,2008,2010,Emergency Key,,HU92,,,Unconfirmed,false,,
+BMW,X6,2014,2019,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,X6,2014,2019,4-Button Smart Key,,NBGIDGNG1,,CAS4433N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,Z3,1996,2002,Transponder Key,ID44,HU58,,,Unconfirmed,false,,
+BMW,Z3,2000,2002,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,Z3,2001,2002,3-Button Remote Head Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,Z3,2001,2002,3-Button Remote Head Key,ID44,LX8FZV,,8382328,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,Z4,2002,2009,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,Z4,2003,2008,3-Button Remote Head Key,ID46,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,Z4,2003,2009,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,Z4,2009,2016,3-Button Smart Key,,,,6986583,Unconfirmed,false,"Lock, Unlock, Trunk",
+BMW,Z8,2000,2003,Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,,315 MHz
+BMW,Z8,2001,2003,3-Button Remote Head Key,ID44,LX8FZV,,6955750,Unconfirmed,false,"Lock, Unlock, Trunk",315 MHz
+BMW,i3,2015,2017,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+BMW,i8,2015,2017,4-Button Smart Key,,NBGIDGNG1,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Jaguar,E-Pace,2017,2023,5-Button Smart Key,4A,,,J9D3-15K601-CC,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Hood",
+Jaguar,E-Pace,2018,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic",315 MHz
+Jaguar,E-Pace,2020,2023,Emergency Key,,HU101,,LR116873,Unconfirmed,false,,
+Jaguar,F-Pace,2017,2019,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Jaguar,F-Pace,2017,2020,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic",315 MHz
+Jaguar,F-Pace,2017,2019,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,,315 MHz
+Jaguar,F-Pace,2017,2019,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Jaguar,F-Pace,2017,2019,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Jaguar,F-Type,2014,2015,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Jaguar,F-Type,2014,2020,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic",315 MHz
+Jaguar,F-Type,2014,2015,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,,315 MHz
+Jaguar,F-Type,2014,2015,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Jaguar,F-Type,2014,2015,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Jaguar,S-Type,2001,2008,4-Button Flip Key,,,,1X43-15K601-AB,Unconfirmed,false,"Lock, Unlock, Trunk, Lights",
+Jaguar,S-Type,2001,2008,4-Button Flip Key,,NHVWB1U241NHVWBIU241CWTWB1U243,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Jaguar,S-Type,2007,2008,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Jaguar,X-Type,2002,2008,4-Button Flip Key,,,,1X43-15K601-AB,Unconfirmed,false,"Lock, Unlock, Trunk, Lights",
+Jaguar,X-Type,2002,2008,4-Button Flip Key,,NHVWB1U241NHVWBIU241CWTWB1U243,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Jaguar,X-Type,2007,2008,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic",315 MHz
+Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,,315 MHz
+Jaguar,XE,2017,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Jaguar,XE,2017,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Jaguar,XF,2009,2013,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jaguar,XF,2009,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Jaguar,XF,2010,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic",315 MHz
+Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,,315 MHz
+Jaguar,XF,2013,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Jaguar,XF,2013,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Jaguar,XJ,1998,1999,Transponder Key,ID13,,,,Unconfirmed,false,,
+Jaguar,XJ,2000,2003,Transponder Key,ID48,,,,Unconfirmed,false,,
+Jaguar,XJ,2001,2008,4-Button Flip Key,,,,1X43-15K601-AB,Unconfirmed,false,"Lock, Unlock, Trunk, Lights",
+Jaguar,XJ,2001,2008,4-Button Flip Key,,NHVWB1U241NHVWBIU241CWTWB1U243,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Jaguar,XJ,2007,2009,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Jaguar,XJ,2010,2010,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jaguar,XJ,2010,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,HK83-15K601-AA,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic",315 MHz
+Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,,Unconfirmed,false,,315 MHz
+Jaguar,XJ,2011,2017,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Jaguar,XJ,2011,2017,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Jaguar,XK,1998,1999,Transponder Key,ID13,,,,Unconfirmed,false,,
+Jaguar,XK,2000,2006,Transponder Key,ID48,,,,Unconfirmed,false,,
+Jaguar,XK,2004,2006,Transponder Key,ID13,,,,Unconfirmed,false,,
+Jaguar,XK,2007,2010,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jaguar,XK,2007,2014,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jaguar,XK,2007,2011,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Jaguar,XK,2007,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Jaguar,XK,2014,2015,4-Button Smart Key,,KR55WK49244,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Land Rover,Defender,2020,2025,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Land Rover,Defender,2020,2020,Emergency Key,,HU101,,LR116873,Unconfirmed,false,,
+Land Rover,Discovery,1997,2004,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Land Rover,Discovery,2015,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Land Rover,Discovery,2015,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,Discovery,2015,2017,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Land Rover,Discovery,2019,2025,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Land Rover,Discovery,2019,2021,Emergency Key,,HU101,,LR116873,Unconfirmed,false,,
+Land Rover,Discovery Sport,2016,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Land Rover,Discovery Sport,2016,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,Discovery Sport,2016,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Land Rover,LR2,2006,2012,5-Button Smart Key,ID46,NT1TX9,,,Unconfirmed,false,"Lock, Unlock, Lights, Rear Hatch, Panic",
+Land Rover,LR2,2013,2014,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Land Rover,LR2,2013,2014,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,LR2,2013,2014,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Land Rover,LR3,2005,2009,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Land Rover,LR3,2005,2009,3-Button Flip Key,ID44,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Land Rover,LR4,2012,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Land Rover,LR4,2012,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,LR4,2012,2017,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Land Rover,Range Rover,2006,2009,3-Button Flip Key,ID46,NT815K6014CFFTXA,,YWX000071,Unconfirmed,false,,
+Land Rover,Range Rover,2006,2010,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Land Rover,Range Rover,2006,2010,3-Button Flip Key,ID44,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Land Rover,Range Rover,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Land Rover,Range Rover,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,Range Rover,2011,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Land Rover,Range Rover,2024,2025,5-Button Smart Key,,K0BJXF23A,,FOBU3R,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,Range Rover Evoque,2010,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Land Rover,Range Rover Evoque,2010,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,Range Rover Evoque,2010,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Land Rover,Range Rover Evoque,2019,2025,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Land Rover,Range Rover Evoque,2019,2023,Emergency Key,,HU101,,LR116873,Unconfirmed,false,,
+Land Rover,Range Rover Sport,2006,2011,3-Button Flip Key,ID46,NT815K6014CFFTXA,,YWX000071,Unconfirmed,false,,
+Land Rover,Range Rover Sport,2006,2011,3-Button Flip Key,ID46,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Land Rover,Range Rover Sport,2006,2011,3-Button Flip Key,ID44,NT815K6014CFFTXA,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Land Rover,Range Rover Sport,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AB,Unconfirmed,false,,315 MHz
+Land Rover,Range Rover Sport,2011,2018,5-Button Smart Key,,KOBJTF10A,,CH22-15K601-AF,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",315 MHz
+Land Rover,Range Rover Sport,2011,2018,Emergency Key,,HU101,,CH22-15K601-AB,Unconfirmed,false,,
+Land Rover,Range Rover Sport,2015,2018,5-Button Smart Key,,,,LR116873,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Land Rover,Range Rover Sport,2018,2020,Emergency Key,,HU101,,LR116873,Unconfirmed,false,,
+MINI,Cooper,2000,2009,3-Button Remote Head Key,,LX8F2V,,66126931749,Unconfirmed,false,,315 MHz
+MINI,Cooper,2005,2007,3-Button Remote Head Key,ID44,LX8F2V,,66126931749,Unconfirmed,false,,315 MHz
+MINI,Cooper,2006,2014,3-Button Smart Key,ID46,,,3452819-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch",
+MINI,Cooper,2006,2014,Emergency Key,,HU92RP,,3452819-01,Unconfirmed,false,,
+MINI,Cooper,2014,2018,3-Button Smart Key,,NBGIDGNG1,,9367409-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch",
+MINI,Cooper,2025,2025,4-Button Smart Key,,IYZBK1,,5B3E8E9-01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+MINI,Countryman,2011,2014,3-Button Smart Key,ID46,,,3452819-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch",
+MINI,Paceman,2013,2014,3-Button Smart Key,ID46,,,3452819-01,Unconfirmed,false,"Lock, Unlock, Rear Hatch",
+Mercedes-Benz,C-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,C-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,C-Class,1997,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,C-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,E-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,E-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,E-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,E-Class,2005,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,G-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,G-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,G-Class,2002,2005,Emergency Key,,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,G-Class,2004,2011,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,M-Class,1997,2005,4-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,M-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,M-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,M-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,M-Class,1998,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,M-Class,1998,2005,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,M-Class,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,,
+Mercedes-Benz,R-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,R-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,R-Class,2006,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,S-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,S-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,S-Class,1997,1999,Transponder Key,ID44,HU39,,,Unconfirmed,false,,
+Mercedes-Benz,S-Class,1998,2005,Emergency Key,,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,S-Class,2001,2009,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,S-Class,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,,
+Mercedes-Benz,SL-Class,1997,2005,4-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,SL-Class,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,SL-Class,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,SL-Class,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,,
+Mercedes-Benz,SLK-Class,1996,2004,3-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Mercedes-Benz,Sprinter,1997,2014,4-Button Remote Head Key,,IYZ3312,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,Sprinter,1997,2014,4-Button Remote Head Key,,IYZ3312B,,5WK47283,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mercedes-Benz,Sprinter,2007,2013,Transponder Key,ID44,HU64,,,Unconfirmed,false,,
+Mercedes-Benz,Sprinter,2010,2019,Emergency Key,,HU64,,5WK47283,Unconfirmed,false,,
+Porsche,911,2010,2017,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood",
+Porsche,968,1999,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Porsche,Boxster,2010,2016,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood",
+Porsche,Cayenne,2000,2004,4-Button Flip Key,ID46,KR55WK45032,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Porsche,Cayenne,2003,2005,3-Button Flip Key,ID46,KR55WK45032,,,Unconfirmed,false,,315 MHz
+Porsche,Cayenne,2003,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Porsche,Cayenne,2004,2011,4-Button Flip Key,ID46,KR55WK45032,,7L5-959-753-B-K,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Porsche,Cayenne,2010,2017,3-Button Smart Key,,KR55WK50138,,7PP959753AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch",
+Porsche,Cayenne,2010,2017,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood",
+Porsche,Cayman,2010,2016,3-Button Smart Key,,KR55WK50138,,7PP959753AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch",
+Porsche,Cayman,2010,2016,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood",
+Porsche,Macan,2015,2017,3-Button Smart Key,,KR55WK50138,,7PP959753AK,Unconfirmed,false,"Lock, Unlock, Rear Hatch",
+Porsche,Macan,2015,2017,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood",
+Porsche,Panamera,2010,2018,4-Button Smart Key,,KR55WK50138,,7PP-959-753-BQ,Unconfirmed,false,"Lock, Unlock, Trunk, Hood",
+Saab,9-3,2003,2011,4-Button Smart Key,ID46,LTQSAAM433TX,,3659-SAAM433,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Saab,9-3,2003,2011,Emergency Key,,,,12799334,Unconfirmed,false,,
+Saab,9-3,2008,2009,Emergency Key,,,,93166902,Unconfirmed,false,,
+Saab,9-5,2003,2007,4-Button Smart Key,ID46,LTQSAAM433TX,,3659-SAAM433,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Saab,9-5,2003,2007,Emergency Key,,,,12799334,Unconfirmed,false,,
+Saab,9-5,2010,2011,Emergency Key,,HU100,,20765513,Unconfirmed,false,,
+Volkswagen,Atlas,2018,2020,5-Button Smart Key,,KR5FS14US,,3G0959752T,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Volkswagen,Atlas,2018,2020,Emergency Key,,HU162T,,3G0937048AIS,Unconfirmed,false,,
+Volkswagen,Atlas,2018,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,,
+Volkswagen,Beetle,1999,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Beetle,2000,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,,
+Volkswagen,Beetle,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Beetle,2000,2006,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Beetle,2002,2006,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Beetle,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Beetle,2012,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Beetle,2012,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Beetle,2012,2016,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Beetle,2017,2019,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,CC,2009,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,CC,2009,2015,4-Button Smart Key,ID48,NBG009066T,,HLO3C0959752N,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,CC,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,CC,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,CC,2011,2014,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,CC,2011,2014,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,CC,2011,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Cabrio,1998,2000,Transponder Key,ID42,,,,Unconfirmed,false,,
+Volkswagen,Cabrio,2000,2002,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Cabrio,2002,2002,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Eos,2007,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Eos,2007,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Eos,2007,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Eos,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Eos,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Eos,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Eos,2011,2017,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,GTI,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,GTI,2006,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,GTI,2006,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,GTI,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,GTI,2010,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,GTI,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,GTI,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,GTI,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,GTI,2015,2019,4-Button Flip Key,4A,NBGFS12A01,,5G0959752BD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,GTI,2015,2019,4-Button Flip Key,4A,NBGFS12P01,,5G0959752BE,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,GTI,2015,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,,
+Volkswagen,Golf,1998,2000,Transponder Key,ID42,,,,Unconfirmed,false,,
+Volkswagen,Golf,1999,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,,
+Volkswagen,Golf,1999,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Golf,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Golf,2002,2005,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Golf,2006,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Golf,2006,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Golf,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Golf,2010,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,Golf,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Golf,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Golf,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Golf,2015,2019,4-Button Flip Key,4A,NBGFS12A01,,5G0959752BD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Golf,2015,2019,4-Button Flip Key,4A,NBGFS12P01,,5G0959752BE,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Golf,2015,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,,
+Volkswagen,Golf,2017,2019,4-Button Flip Key,4A,NBGFS12A01,,5G0959752BD,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Golf,2017,2019,4-Button Flip Key,4A,NBGFS12P01,,5G0959752BE,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Golf,2020,2024,3-Button Smart Key,,,,5HG959753B,Unconfirmed,false,"Lock, Unlock, Trunk",
+Volkswagen,Jetta,1999,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2000,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,,
+Volkswagen,Jetta,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Jetta,2002,2005,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Jetta,2005,2011,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2006,2011,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2006,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Jetta,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2011,2016,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2012,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,Jetta,2017,2018,4-Button Flip Key,,NBGFS93N,,5KO837202BJ,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2017,2018,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Jetta,2017,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,,
+Volkswagen,Passat,1998,2001,3-Button Flip Key,,IJ0959753F,,NBG8137T,Unconfirmed,false,,
+Volkswagen,Passat,1998,2001,4-Button Flip Key,,NBG8137T,,1J0959753F,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Passat,2000,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Passat,2001,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Passat,2002,2005,4-Button Flip Key,ID48,,,HLO1J0959753AM,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volkswagen,Passat,2003,2005,Transponder Key,ID48,,,,Unconfirmed,false,,
+Volkswagen,Passat,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Passat,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Passat,2011,2015,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Passat,2011,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Passat,2012,2015,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,Passat,2017,2018,4-Button Flip Key,,NBGFS93N,,5KO837202BJ,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Passat,2017,2021,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Passat,2017,2022,5-Button Flip Key,,NBGFS93N,,561837202J,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",315 MHz
+Volkswagen,Passat,2018,2020,5-Button Smart Key,,KR5FS14US,,3G0959752T,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Volkswagen,Passat,2018,2020,Emergency Key,,HU162T,,3G0937048AIS,Unconfirmed,false,,
+Volkswagen,Rabbit,2006,2009,4-Button Flip Key,,NBG92596263,,1K0959753H,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Rabbit,2006,2009,4-Button Flip Key,ID48,NBG92596263,,1K0959753P,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Rabbit,2006,2009,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Routan,2009,2012,3-Button Remote Head Key,,,,68051664AB,Unconfirmed,false,"Lock, Unlock, Panic",
+Volkswagen,Routan,2009,2012,3-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Volkswagen,Routan,2009,2012,5-Button Remote Head Key,,M3N5WY783X,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Panic",433 MHz
+Volkswagen,Routan,2009,2015,6-Button Remote Head Key,ID46,,,,Unconfirmed,false,"Lock, Unlock, Left Sliding Door, Right Sliding Door, Rear Hatch, Panic",
+Volkswagen,Routan,2009,2012,7-Button Remote Head Key,ID46,IYZC01C,,5026590,Unconfirmed,false,,
+Volkswagen,Routan,2010,2012,7-Button Remote Head Key,ID46,,,56046708AA,Unconfirmed,false,,
+Volkswagen,Tiguan,2009,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Tiguan,2010,2014,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Tiguan,2010,2017,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,Tiguan,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Tiguan,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Tiguan,2012,2018,4-Button Flip Key,,NBGFS93N,,5KO837202BJ,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Tiguan,2012,2018,4-Button Flip Key,,NBGFS93N,,5K0837202EC,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Tiguan,2018,2020,Transponder Key,4A,HU66,,,Unconfirmed,false,,
+Volkswagen,Touareg,2004,2008,4-Button Flip Key,ID46,KR55WK45032,,KR55WK45022,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Touareg,2004,2016,Transponder Key,ID48,HU66,,,Unconfirmed,false,,
+Volkswagen,Touareg,2010,2016,5-Button Flip Key,,NBG010206T,,561837-202-D,Unconfirmed,false,,315 MHz
+Volkswagen,Touareg,2011,2016,4-Button Flip Key,ID48,NBG010180T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Touareg,2011,2016,4-Button Flip Key,ID48,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Touareg,2011,2014,4-Button Flip Key,,NBG010206T,,5K0837202AK,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Volkswagen,Touareg,2011,2017,4-Button Smart Key,,,,7P6-959-754,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Volvo,C30,2007,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,C30,2007,2013,Emergency Key,,HU101,,30784740,Unconfirmed,false,,
+Volvo,C30,2008,2013,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Volvo,C40,2022,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,C40,2022,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,C70,2006,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,C70,2006,2013,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Volvo,C70,2006,2013,Emergency Key,,HU101,,30784740,Unconfirmed,false,,
+Volvo,S40,1996,2004,Transponder Key,ID44,HU56,,,Unconfirmed,false,,
+Volvo,S40,2004,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,S40,2004,2012,Emergency Key,,HU101,,30784740,Unconfirmed,false,,
+Volvo,S40,2006,2011,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Volvo,S60,2004,2009,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,S60,2011,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights",433 MHz
+Volvo,S60,2011,2018,6-Button Smart Key,ID46,KR55WK49266,,,Unconfirmed,false,,
+Volvo,S60,2011,2017,Emergency Key,,HU101,,30699525,Unconfirmed,false,,
+Volvo,S60,2015,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,S60,2015,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,S60,2016,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,S60,2016,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,S60,2019,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,S60,2019,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,S60,2019,2021,Emergency Key,,HU101,,,Unconfirmed,false,,
+Volvo,S80,2004,2008,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,S80,2006,2012,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Volvo,S80,2007,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights",433 MHz
+Volvo,S80,2007,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,S80,2007,2016,6-Button Smart Key,ID46,KR55WK49266,,,Unconfirmed,false,,
+Volvo,S80,2007,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,S80,2007,2016,Emergency Key,,HU101,,30699525,Unconfirmed,false,,
+Volvo,S90,2016,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,S90,2017,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,S90,2017,2021,Emergency Key,,HU101,,,Unconfirmed,false,,
+Volvo,V40,1996,2004,Transponder Key,ID44,HU56,,,Unconfirmed,false,,
+Volvo,V40,2013,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights",433 MHz
+Volvo,V40,2013,2015,Emergency Key,,HU101,,30699525,Unconfirmed,false,,
+Volvo,V50,2004,2007,5-Button Smart Key,,LTQV0315TX,,30772198,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,V50,2005,2012,Emergency Key,,,,C2P1755,Unconfirmed,false,,
+Volvo,V50,2005,2012,Emergency Key,,HU101,,30784740,Unconfirmed,false,,
+Volvo,V60,2011,2016,Emergency Key,,HU101,,30699525,Unconfirmed,false,,
+Volvo,V60,2014,2018,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights",433 MHz
+Volvo,V60,2014,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,V60,2014,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,V60,2015,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,V60,2015,2018,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,V60,2019,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,V60,2019,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,V60,2019,2021,Emergency Key,,HU101,,,Unconfirmed,false,,
+Volvo,V60,2020,2020,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,V70,2008,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights",433 MHz
+Volvo,V70,2008,2010,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,V70,2008,2010,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,V70,2008,2014,Emergency Key,,HU101,,30699525,Unconfirmed,false,,
+Volvo,V90,2017,2023,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,V90,2017,2023,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,V90,2017,2021,Emergency Key,,HU101,,,Unconfirmed,false,,
+Volvo,XC40,2018,2020,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,XC40,2019,2021,Emergency Key,,HU101,,,Unconfirmed,false,,
+Volvo,XC40,2022,2022,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,XC60,2008,2013,6-Button Smart Key,ID46,KR55WK49266,,,Unconfirmed,false,,
+Volvo,XC60,2009,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,XC60,2009,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,XC60,2009,2017,Emergency Key,,HU101,,30699525,Unconfirmed,false,,
+Volvo,XC60,2010,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights",433 MHz
+Volvo,XC60,2018,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,XC60,2018,2021,Emergency Key,,HU101,,,Unconfirmed,false,,
+Volvo,XC70,2004,2007,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,XC70,2008,2013,5-Button Smart Key,,KR55WK49264,,30659637,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Lights",433 MHz
+Volvo,XC70,2008,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498,Unconfirmed,false,,
+Volvo,XC70,2008,2016,6-Button Smart Key,ID46,KR55WK49266,,30659498-7,Unconfirmed,false,,
+Volvo,XC70,2008,2016,Emergency Key,,HU101,,30699525,Unconfirmed,false,,
+Volvo,XC90,2004,2015,5-Button Flip Key,,LQNP2TAPU,,,Unconfirmed,false,"Lock, Unlock, Trunk, Lights, Panic",
+Volvo,XC90,2016,2025,4-Button Smart Key,,YGOHUF8423,,31652148,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,XC90,2016,2025,4-Button Smart Key,,YGOHUF8423MS,,32256980,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Volvo,XC90,2016,2021,Emergency Key,,HU101,,,Unconfirmed,false,,

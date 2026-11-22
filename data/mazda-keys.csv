@@ -1,136 +1,136 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Mazda,626,1988,1999,Transponder Key,,MAZ50,,,Unconfirmed,false,
-Mazda,B-Series,1999,2009,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,B-Series,1999,2009,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,B-Series,1999,2000,Transponder Key,4C,H72,,,Unconfirmed,false,
-Mazda,B-Series,2001,2009,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,B-Series,2001,2010,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,
-Mazda,B-Series,2001,2012,Transponder Key,4D63,,,,Unconfirmed,false,
-Mazda,CX-3,2016,2020,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-3,2019,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-3,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-3,2020,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-30,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-30,2020,2024,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-30,2020,2021,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-30,2020,2021,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,
-Mazda,CX-5,2012,2020,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-5,2012,2019,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-5,2017,2020,4-Button Smart Key,,,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-5,2017,2019,4-Button Smart Key,,WAZSKE13D01,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-5,2017,2020,4-Button Smart Key,,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-5,2017,2019,4-Button Smart Key,4D63,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-5,2017,2025,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-5,2019,2023,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-5,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5RY,Unconfirmed,false,
-Mazda,CX-5,2020,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-5,2020,2025,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-5,2020,2021,4-Button Smart Key,,WAZSKE13D03,,DGJ2-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-5,2020,2021,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,
-Mazda,CX-50,2023,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-50,2023,2024,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-50,2023,2023,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-50,2023,2025,Emergency Key,,MZ27,,,Unconfirmed,false,
-Mazda,CX-50,2024,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5RY,Unconfirmed,false,
-Mazda,CX-7,2007,2013,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-7,2007,2009,3-Button Smart Key,,BGBX1T458SKE11A01,,TDY2-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-7,2007,2009,4-Button Smart Key,,BGBX1T458SKE11A01,,TDY1-67-5RYA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-7,2007,2009,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,
-Mazda,CX-7,2007,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,CX-7,2007,2012,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,CX-7,2010,2012,3-Button Smart Key,,WAZX1T763SKE11A04,,EHY5-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-7,2010,2012,4-Button Smart Key,,WAZX1T763SKE11A04,,TEY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2007,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-9,2007,2009,3-Button Smart Key,,BGBX1T458SKE11A01,,TDY2-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-9,2007,2009,4-Button Smart Key,,BGBX1T458SKE11A01,,TDY1-67-5RYA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2007,2009,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,
-Mazda,CX-9,2007,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,CX-9,2007,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,CX-9,2010,2015,3-Button Smart Key,,WAZX1T763SKE11A04,,EHY5-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-9,2010,2015,4-Button Smart Key,,WAZX1T763SKE11A04,,TEY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2016,2020,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-9,2016,2019,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-9,2016,2020,4-Button Smart Key,,,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2016,2019,4-Button Smart Key,,WAZSKE13D01,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2016,2020,4-Button Smart Key,,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2016,2019,4-Button Smart Key,4D63,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2016,2023,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2019,2023,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-9,2019,2023,4-Button Smart Key,,WAZSKE13D03,,DGJ2-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5RY,Unconfirmed,false,
-Mazda,CX-9,2020,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-9,2020,2023,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-9,2020,2020,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,
-Mazda,CX-90,2024,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,CX-90,2024,2024,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,CX-90,2024,2024,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,
-Mazda,CX-90,2025,2025,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Mazda,MX-5,2005,2008,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,MX-5,2006,2015,4-Button Flip Key,,BGBX1T478SKE125-01,,G2YA-76-2GXB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,MX-5,2006,2008,4-Button Smart Key,,BGBX1T458SKE11A01,,NFY7-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,MX-5,2006,2008,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,
-Mazda,MX-5,2006,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,MX-5,2009,2015,4-Button Smart Key,,WAZX1T763SKE11A04,,NHY8-67-5RYA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,MX-5,2011,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,MX-5,2016,2019,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,MX-5,2016,2019,4-Button Smart Key,,WAZSKE13D02,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,MX-5,2020,2021,4-Button Smart Key,,WAZSKE13D03,,GDYL-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,MX-5,2024,2025,4-Button Smart Key,4A,WAZSKE11D01,,BCYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda2,2011,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda2,2011,2015,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,Mazda2,2011,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,Mazda3,2004,2008,3-Button Keyless Entry Remote,,KPU41846,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda3,2004,2015,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,Mazda3,2004,2013,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,Mazda3,2005,2008,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2007,2008,3-Button Keyless Entry Remote,,KPU41794,,,Unconfirmed,false,
-Mazda,Mazda3,2007,2009,3-Button Keyless Entry Remote,,KPU41794,,,Unconfirmed,false,
-Mazda,Mazda3,2007,2007,3-Button Keyless Entry Remote,,KPU41794,,,Unconfirmed,false,
-Mazda,Mazda3,2008,2009,4-Button Keyless Entry Remote,,KPU41777,,BAP5-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2009,2013,4-Button Flip Key,,BGBX1T478SKE125-01,,BBM4-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2010,2013,3-Button Smart Key,,WAZX1T763SKE11A03,,BCY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda3,2010,2015,4-Button Flip Key,,BGBX1T478SKE125-01,,BBM4-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2010,2013,4-Button Flip Key,,BGBX1T478SKE125-01,,G2YA-76-2GXB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2010,2013,4-Button Smart Key,,WAZX1T768SKE11A03,,BBY2-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2011,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda3,2013,2018,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda3,2014,2018,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda3,2014,2018,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2014,2018,4-Button Smart Key,,WAZSKE13D02,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2019,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda3,2019,2022,4-Button Smart Key,,WAZSKE11D01,,BCKA-67-5RYA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2019,2025,4-Button Smart Key,4A,WAZSKE11D01,,BCYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda3,2019,2021,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,
-Mazda,Mazda5,2006,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda5,2006,2015,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,Mazda5,2006,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,Mazda6,2003,2005,3-Button Keyless Entry Remote,,KPU41846,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda6,2003,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,Mazda6,2003,2013,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,Mazda6,2005,2008,3-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda6,2006,2008,3-Button Flip Key,,KPU41788,,FE04-67-5RYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda6,2006,2007,3-Button Smart Key,,BGBX1T458SKE11A01,,TDY2-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Mazda6,2006,2008,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda6,2006,2007,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,
-Mazda,Mazda6,2009,2013,4-Button Flip Key,,BGBX1T478SKE125-01,,G2YA-76-2GXB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda6,2009,2013,4-Button Smart Key,,KR55WK49383,,GSYL-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda6,2010,2016,4-Button Flip Key,,BGBX1T478SKE125-01,,BBM4-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda6,2014,2019,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda6,2014,2018,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda6,2014,2018,4-Button Smart Key,,WAZSKE13D02,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,Mazda6,2019,2020,4-Button Smart Key,,WAZSKE13D03,,GDYL-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,RX-8,2004,2008,3-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,RX-8,2004,2011,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,RX-8,2004,2008,4-Button Keyless Entry Remote,,KPU41848,,FEY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,RX-8,2004,2011,4-Button Smart Key,,BGBX1T458SKE11A01,,NFY7-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,RX-8,2004,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,
-Mazda,RX-8,2004,2011,Transponder Key,4D63,MZ31,,,Unconfirmed,false,
-Mazda,RX-8,2005,2008,4-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Mazda,RX-8,2006,2010,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,
-Mazda,Tribute,2001,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Tribute,2001,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Tribute,2001,2004,Transponder Key,4D60,H74,,,Unconfirmed,false,
-Mazda,Tribute,2005,2011,Transponder Key,4D63,,,,Unconfirmed,false,
-Mazda,Tribute,2007,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Mazda,Tribute,2007,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,
-Mazda,Tribute,2007,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Mazda,626,1988,1999,Transponder Key,,MAZ50,,,Unconfirmed,false,,
+Mazda,B-Series,1999,2009,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,B-Series,1999,2009,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,B-Series,1999,2000,Transponder Key,4C,H72,,,Unconfirmed,false,,
+Mazda,B-Series,2001,2009,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,B-Series,2001,2010,4-Button Flip Key,,CWTWB1U331,,,Unconfirmed,false,,315 MHz
+Mazda,B-Series,2001,2012,Transponder Key,4D63,,,,Unconfirmed,false,,
+Mazda,CX-3,2016,2020,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-3,2019,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-3,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",
+Mazda,CX-3,2020,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-30,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",
+Mazda,CX-30,2020,2024,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,CX-30,2020,2021,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,CX-30,2020,2021,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,,
+Mazda,CX-5,2012,2020,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-5,2012,2019,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-5,2017,2020,4-Button Smart Key,,,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,CX-5,2017,2019,4-Button Smart Key,,WAZSKE13D01,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-5,2017,2020,4-Button Smart Key,,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-5,2017,2019,4-Button Smart Key,4D63,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-5,2017,2025,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-5,2019,2023,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-5,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5RY,Unconfirmed,false,,
+Mazda,CX-5,2020,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-5,2020,2025,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-5,2020,2021,4-Button Smart Key,,WAZSKE13D03,,DGJ2-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-5,2020,2021,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,,
+Mazda,CX-50,2023,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",
+Mazda,CX-50,2023,2024,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,CX-50,2023,2023,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,CX-50,2023,2025,Emergency Key,,MZ27,,,Unconfirmed,false,,
+Mazda,CX-50,2024,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5RY,Unconfirmed,false,,
+Mazda,CX-7,2007,2013,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-7,2007,2009,3-Button Smart Key,,BGBX1T458SKE11A01,,TDY2-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-7,2007,2009,4-Button Smart Key,,BGBX1T458SKE11A01,,TDY1-67-5RYA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-7,2007,2009,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,,
+Mazda,CX-7,2007,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,CX-7,2007,2012,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,CX-7,2010,2012,3-Button Smart Key,,WAZX1T763SKE11A04,,EHY5-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-7,2010,2012,4-Button Smart Key,,WAZX1T763SKE11A04,,TEY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2007,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-9,2007,2009,3-Button Smart Key,,BGBX1T458SKE11A01,,TDY2-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-9,2007,2009,4-Button Smart Key,,BGBX1T458SKE11A01,,TDY1-67-5RYA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2007,2009,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,,
+Mazda,CX-9,2007,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,CX-9,2007,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,CX-9,2010,2015,3-Button Smart Key,,WAZX1T763SKE11A04,,EHY5-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-9,2010,2015,4-Button Smart Key,,WAZX1T763SKE11A04,,TEY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2016,2020,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-9,2016,2019,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-9,2016,2020,4-Button Smart Key,,,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,CX-9,2016,2019,4-Button Smart Key,,WAZSKE13D01,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2016,2020,4-Button Smart Key,,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2016,2019,4-Button Smart Key,4D63,WAZSKE13D02,,TKY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2016,2023,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2019,2023,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-9,2019,2023,4-Button Smart Key,,WAZSKE13D03,,DGJ2-67-5RY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2020,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5RY,Unconfirmed,false,,
+Mazda,CX-9,2020,2021,3-Button Smart Key,,WAZSKE13D03,,TAYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,CX-9,2020,2023,4-Button Smart Key,,WAZSKE13D03,,TAYB-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Mazda,CX-9,2020,2020,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,,
+Mazda,CX-90,2024,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",
+Mazda,CX-90,2024,2024,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DYB,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,CX-90,2024,2024,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,,
+Mazda,CX-90,2025,2025,4-Button Smart Key,,WAZSKE11D01,,DGY2-67-5DY,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Mazda,MX-5,2005,2008,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,MX-5,2006,2015,4-Button Flip Key,,BGBX1T478SKE125-01,,G2YA-76-2GXB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,MX-5,2006,2008,4-Button Smart Key,,BGBX1T458SKE11A01,,NFY7-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,MX-5,2006,2008,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,,
+Mazda,MX-5,2006,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,MX-5,2009,2015,4-Button Smart Key,,WAZX1T763SKE11A04,,NHY8-67-5RYA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,MX-5,2011,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,MX-5,2016,2019,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,MX-5,2016,2019,4-Button Smart Key,,WAZSKE13D02,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,MX-5,2020,2021,4-Button Smart Key,,WAZSKE13D03,,GDYL-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,MX-5,2024,2025,4-Button Smart Key,4A,WAZSKE11D01,,BCYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mazda,Mazda2,2011,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda2,2011,2015,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,Mazda2,2011,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,Mazda3,2004,2008,3-Button Keyless Entry Remote,,KPU41846,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda3,2004,2015,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,Mazda3,2004,2013,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,Mazda3,2005,2008,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda3,2007,2008,3-Button Keyless Entry Remote,,KPU41794,,,Unconfirmed,false,,315 MHz
+Mazda,Mazda3,2007,2009,3-Button Keyless Entry Remote,,KPU41794,,,Unconfirmed,false,,315 MHz
+Mazda,Mazda3,2007,2007,3-Button Keyless Entry Remote,,KPU41794,,,Unconfirmed,false,,315 MHz
+Mazda,Mazda3,2008,2009,4-Button Keyless Entry Remote,,KPU41777,,BAP5-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mazda,Mazda3,2009,2013,4-Button Flip Key,,BGBX1T478SKE125-01,,BBM4-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda3,2010,2013,3-Button Smart Key,,WAZX1T763SKE11A03,,BCY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Panic",
+Mazda,Mazda3,2010,2015,4-Button Flip Key,,BGBX1T478SKE125-01,,BBM4-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda3,2010,2013,4-Button Flip Key,,BGBX1T478SKE125-01,,G2YA-76-2GXB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda3,2010,2013,4-Button Smart Key,,WAZX1T768SKE11A03,,BBY2-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda3,2011,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda3,2013,2018,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda3,2014,2018,3-Button Smart Key,,WAZSKE13D01,,KDY3-67-5DY,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda3,2014,2018,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda3,2014,2018,4-Button Smart Key,,WAZSKE13D02,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda3,2019,2024,3-Button Smart Key,4A,WAZSKE11D01,,BCYN-67-5DYB,Unconfirmed,false,"Lock, Unlock, Panic",
+Mazda,Mazda3,2019,2022,4-Button Smart Key,,WAZSKE11D01,,BCKA-67-5RYA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mazda,Mazda3,2019,2025,4-Button Smart Key,4A,WAZSKE11D01,,BCYA-67-5DYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mazda,Mazda3,2019,2021,Emergency Key,,MZ27,,BCY0-76-201,Unconfirmed,false,,
+Mazda,Mazda5,2006,2015,3-Button Flip Key,,BGBX1T478SKE125-01,,CC43-67-5RYC,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda5,2006,2015,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,Mazda5,2006,2014,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,Mazda6,2003,2005,3-Button Keyless Entry Remote,,KPU41846,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda6,2003,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,Mazda6,2003,2013,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,Mazda6,2005,2008,3-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda6,2006,2008,3-Button Flip Key,,KPU41788,,FE04-67-5RYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda6,2006,2007,3-Button Smart Key,,BGBX1T458SKE11A01,,TDY2-67-5RYA,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Mazda6,2006,2008,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda6,2006,2007,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,,
+Mazda,Mazda6,2009,2013,4-Button Flip Key,,BGBX1T478SKE125-01,,G2YA-76-2GXB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda6,2009,2013,4-Button Smart Key,,KR55WK49383,,GSYL-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda6,2010,2016,4-Button Flip Key,,BGBX1T478SKE125-01,,BBM4-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda6,2014,2019,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda6,2014,2018,4-Button Smart Key,,WAZSKE13D01,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda6,2014,2018,4-Button Smart Key,,WAZSKE13D02,,GJY9-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,Mazda6,2019,2020,4-Button Smart Key,,WAZSKE13D03,,GDYL-67-5DY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,RX-8,2004,2008,3-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,RX-8,2004,2011,4-Button Flip Key,,KPU41788,,GP7A-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,RX-8,2004,2008,4-Button Keyless Entry Remote,,KPU41848,,FEY1-67-5RY,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mazda,RX-8,2004,2011,4-Button Smart Key,,BGBX1T458SKE11A01,,NFY7-67-5RYB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Mazda,RX-8,2004,2011,Transponder Key,4D63,MAZ24R,,,Unconfirmed,false,,
+Mazda,RX-8,2004,2011,Transponder Key,4D63,MZ31,,,Unconfirmed,false,,
+Mazda,RX-8,2005,2008,4-Button Flip Key,,,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Mazda,RX-8,2006,2010,Emergency Key,4D63,,,D4Y1-76-2GXA,Unconfirmed,false,,
+Mazda,Tribute,2001,2011,3-Button Keyless Entry Remote,,CWTWB1U331,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Tribute,2001,2011,3-Button Keyless Entry Remote,,CWTWB1U345,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Tribute,2001,2004,Transponder Key,4D60,H74,,,Unconfirmed,false,,
+Mazda,Tribute,2005,2011,Transponder Key,4D63,,,,Unconfirmed,false,,
+Mazda,Tribute,2007,2011,3-Button Remote Head Key,,OUCD6000022,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Mazda,Tribute,2007,2011,4-Button Remote Head Key,,OUC6000022,,,Unconfirmed,false,,
+Mazda,Tribute,2007,2011,4-Button Remote Head Key,80-Bit,OUCD6000022,,164-R7040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
