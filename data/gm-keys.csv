@@ -435,12 +435,12 @@ GMC,Sierra 1500/2500HD/3500HD,2015,2020,Transponder Key,ID46,B119,,,Unconfirmed,
 GMC,Sierra 1500/2500HD/3500HD,2015,2020,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
 GMC,Sierra 1500/2500HD/3500HD,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
 GMC,Sierra 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",
-GMC,Sierra 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",
 GMC,Sierra 1500/2500HD/3500HD,2019,2021,4-Button Keyless Entry Remote,,,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
-GMC,Sierra 1500/2500HD/3500HD,2019,2021,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",433 MHz
-GMC,Sierra 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
-GMC,Sierra 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
-GMC,Sierra 1500/2500HD/3500HD,2019,2020,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+GMC,Sierra 1500/2500HD/3500HD,2019,2021,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+GMC,Sierra 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+GMC,Sierra 1500/2500HD/3500HD,2019,2020,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",
 GMC,Sierra 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,ID46,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
 GMC,Sierra 1500/2500HD/3500HD,2019,2020,5-Button Smart Key,,HYQ1EA,,13508398,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
 GMC,Sierra 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,,HYQ1EA,,13591396,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz

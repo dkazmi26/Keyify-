@@ -307,12 +307,12 @@ Chevrolet,Silverado 1500/2500HD/3500HD,2017,2023,Transponder Key,ID46,B119,,,Unc
 Chevrolet,Silverado 1500/2500HD/3500HD,2017,2023,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
 Chevrolet,Silverado 1500/2500HD/3500HD,2017,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
 Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,3-Button Keyless Entry Remote,,M3N-32337200,,13577765,Unconfirmed,false,"Lock, Unlock, Panic",
 Chevrolet,Silverado 1500/2500HD/3500HD,2019,2023,4-Button Keyless Entry Remote,,,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2023,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",433 MHz
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
-Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2023,4-Button Keyless Entry Remote,,M3N-32337200,,84209237,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic",
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2019,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2020,4-Button Keyless Entry Remote,,M3N-32337200,,22881479,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,5-Button Keyless Entry Remote,,M3N-32337200,,84209236,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",
 Chevrolet,Silverado 1500/2500HD/3500HD,2019,2021,5-Button Smart Key,,HYQ1EA,,13508398,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
 Chevrolet,Silverado 1500/2500HD/3500HD,2021,2024,5-Button Smart Key,,YG0G21TB2,,13548437,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
 Chevrolet,Silverado 1500/2500HD/3500HD,2021,2023,Emergency Key,,,,13536164,Unconfirmed,false,,
@@ -403,7 +403,7 @@ Chevrolet,Suburban,2015,2021,Emergency Key,,HU100,,,Unconfirmed,false,,
 Chevrolet,Suburban,2015,2022,Transponder Key,ID46,B119,,,Unconfirmed,false,,
 Chevrolet,Suburban,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
 Chevrolet,Suburban,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
-Chevrolet,Suburban,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Suburban,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
 Chevrolet,Suburban,2021,2022,4-Button Smart Key,,YG0G21TB2,,13541561,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
 Chevrolet,Suburban,2021,2022,5-Button Smart Key,,,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
 Chevrolet,Suburban,2021,2024,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
@@ -451,7 +451,7 @@ Chevrolet,Tahoe,2015,2021,Emergency Key,,HU100,,,Unconfirmed,false,,
 Chevrolet,Tahoe,2015,2022,Transponder Key,ID46,B119,,,Unconfirmed,false,,
 Chevrolet,Tahoe,2015,2022,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
 Chevrolet,Tahoe,2015,2019,Transponder Key,ID46,HU100,,,Unconfirmed,false,,
-Chevrolet,Tahoe,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Chevrolet,Tahoe,2019,2020,5-Button Smart Key,,M3N-32337200,,13577762,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
 Chevrolet,Tahoe,2021,2022,4-Button Smart Key,,YG0G21TB2,,13541561,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
 Chevrolet,Tahoe,2021,2022,5-Button Smart Key,,,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
 Chevrolet,Tahoe,2021,2024,5-Button Smart Key,,YG0G21TB2,,13541559,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
