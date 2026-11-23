@@ -1,353 +1,353 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Genesis,G70,2021,2023,6-Button Smart Key,,TQ8-FOB-4F36,,95440-AR000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights"
-Genesis,G70,2021,2024,8-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-AR010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights"
-Genesis,G70,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F75M44,,95440-G9720,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Genesis,G80,2017,2020,4-Button Smart Key,,SY5DMFNA04,,95440-D2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Genesis,G80,2017,2021,Emergency Key,,,,81996-B1500,Unconfirmed,false,
-Genesis,G80,2017,2018,Emergency Key,,TQ8-FOB-4F35,,81996-B1500,Unconfirmed,false,
-Genesis,G80,2021,2022,6-Button Smart Key,,TQ8-FOB-4F35,,95440-T1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights"
-Genesis,G80,2021,2022,6-Button Smart Key,,TQ8-FOB-4F36,,95440-G9530,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights"
-Genesis,G80,2021,2023,6-Button Smart Key,ID47,,,95440-T1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights"
-Genesis,G80,2021,2022,8-Button Smart Key,,TQ8-FOB-4F35,,95440-T1200,Unconfirmed,false,
-Genesis,G80,2021,2023,8-Button Smart Key,,TQ8-FOB-4F35,,95440-T1210,Unconfirmed,false,
-Genesis,G90,2017,2022,4-Button Smart Key,,SY5HIFGEO4,,95440-D2000NNB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Genesis,G90,2017,2018,Emergency Key,,,,81996-D2000,Unconfirmed,false,
-Genesis,G90,2022,2024,7-Button Smart Key,,TQ8-FOB-4F53U,,95440-T4110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Genesis,G90,2022,2024,7-Button Smart Key,ID47,TQ8-FOB-4F53U,,95440-T4120PH3,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Genesis,G90,2023,2023,7-Button Smart Key,ID47,,,95440-T4120UYH,Unconfirmed,false,
-Genesis,G90,2023,2025,7-Button Smart Key,ID47,,,95440-T4120BRB,Unconfirmed,false,
-Genesis,G90,2024,2024,7-Button Smart Key,ID47,,,95440-T4120GLD,Unconfirmed,false,
-Genesis,G90,2024,2024,7-Button Smart Key,ID47,,,95440-T4120MDY,Unconfirmed,false,
-Genesis,G90,2024,2025,7-Button Smart Key,ID47,,,95440-T4120SSS,Unconfirmed,false,
-Genesis,GV60,2023,2023,6-Button Smart Key,4A,TQ8-FOB-4F53U,,95440-T6GB0,Unconfirmed,false,"Lock, Unlock, Trunk, Remote Start, Park Assist Forward, Park Assist Backward"
-Genesis,GV60,2023,2023,6-Button Smart Key,,TQ8-FOB-4F53M,,95440-CU220,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Charge Port"
-Genesis,GV60,2023,2023,8-Button Smart Key,ID47,TQ8-FOB-4F53M,,95440-CU310,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port"
-Genesis,GV60,2023,2023,8-Button Smart Key,ID47,TQ8-FOB-4F53M,,95440-CU320,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port"
-Genesis,GV70,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4FA0U44,,95440-ARDA0,Unconfirmed,false,
-Genesis,GV70,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4FA0U44,,95440-ARDB0,Unconfirmed,false,
-Genesis,GV80,2021,2021,6-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-T6100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights"
-Genesis,GV80,2021,2021,8-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-T6011,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights"
-Genesis,GV80,2022,2023,6-Button Smart Key,,TQ8-FOB-4F36,,95440-T6104,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Lights"
-Genesis,GV80,2022,2023,8-Button Smart Key,,TQ8-FOB-4F35,,95440-T6014,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights"
-Genesis,GV80,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6BA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Genesis,GV80,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6BB0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Genesis,GV80,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F75M44,,95440-T6DA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Genesis,GV80,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6AA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Genesis,GV80,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6AB0,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Accent,2012,2014,3-Button Keyless Entry Remote,,TQ8-RKE-3F01,,95430-1R200,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Accent,2014,2017,3-Button Keyless Entry Remote,,TQ8-RKE-4F14,,95430-1R300,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Accent,2018,2021,4-Button Flip Key,4D60,NYOSYEC4TX1707,,95430-J0800,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Accent,2018,2022,4-Button Smart Key,,NYOSYEC4FOB1608,,95440-J0100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Accent,2018,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Accent,2018,2019,Emergency Key,,,,81996-J9020,Unconfirmed,false,
-Hyundai,Accent,2018,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Azera,2006,2013,4-Button Keyless Entry Remote,,,,95430-3L022,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Azera,2011,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Azera,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Azera,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Azera,2012,2014,Emergency Key,,,,81996-3S020,Unconfirmed,false,
-Hyundai,Azera,2012,2014,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,
-Hyundai,Azera,2014,2016,Emergency Key,,,,81996-3N700,Unconfirmed,false,
-Hyundai,Azera,2015,2017,4-Button Smart Key,,SY5DMFNA433,,95440-3V022,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Borrego,2010,2012,Emergency Key,,,,81996-3S020,Unconfirmed,false,
-Hyundai,Borrego,2010,2012,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,
-Hyundai,Elantra,2006,2010,4-Button Keyless Entry Remote,,,,95430-3K200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2006,2010,4-Button Keyless Entry Remote,,,,95430-3Q001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2011,2016,4-Button Keyless Entry Remote,,OSLOKA-360T,,95430-3X501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2011,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2011,2014,Emergency Key,,HY15,,81996-2M020,Unconfirmed,false,
-Hyundai,Elantra,2011,2014,Emergency Key,,HY21,,81996-2M020,Unconfirmed,false,
-Hyundai,Elantra,2013,2017,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2013,2020,Emergency Key,,,,81996-B4520,Unconfirmed,false,
-Hyundai,Elantra,2014,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2014,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2016,2018,4-Button Flip Key,,OKA-NO38,,95430-F2001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2016,2020,4-Button Keyless Entry Remote,,OSLOKA-423T,,95430-F2300,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2016,2019,4-Button Smart Key,,CQOFD00120,,95440-F2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2016,2016,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2016,2016,4-Button Smart Key,,SY5MDFNA433,,95440-3X500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2016,2019,4-Button Smart Key,4A,CQOFD00120,,95440-F2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2018,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Elantra,2018,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Elantra,2019,2020,4-Button Smart Key,,CQOFD00120,,95440-F2002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2019,2020,4-Button Smart Key,4A,CQOFD00120,,95440-F3002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2020,2023,4-Button Flip Key,8A,,,95430-AA100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2021,2024,4-Button Smart Key,6A,NYOMBEC5FOB2004,,95440-AA100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2021,2024,5-Button Smart Key,6A,NYOMBEC5FOB2004,,95440-AA000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Elantra,2021,2023,5-Button Smart Key,,NYOMBEC5FOB2004,,95440-IB000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Elantra,2023,2024,4-Button Flip Key,8A,NYOMBEC4TX2004,,95430-AA600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra,2023,2025,5-Button Smart Key,4A,NYOMBEC7FOB2208,,95440-AA501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Elantra,2023,2026,5-Button Smart Key,4A,NYOMBEC7FOB2208,,95440-AA501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Elantra,2024,2024,5-Button Smart Key,6A,NYOMBECFOB2208,,95440-AA500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Elantra,2024,2026,5-Button Smart Key,6A,NYOMBEC7FOB2208,,95440-IB501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Elantra Coupe,2013,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra Coupe,2013,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra GT,2012,2017,4-Button Keyless Entry Remote,,TQ8-RKE-3F03,,95430-A5200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra GT,2013,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra GT,2014,2015,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra GT,2014,2015,Emergency Key,,HY18,,81996-1R020,Unconfirmed,false,
-Hyundai,Elantra GT,2014,2015,Emergency Key,,,,81996-1R020,Unconfirmed,false,
-Hyundai,Elantra GT,2015,2017,Emergency Key,,HY18,,81996-A5020,Unconfirmed,false,
-Hyundai,Elantra GT,2015,2017,Emergency Key,,SY5MDFNA433,,81996-A5020,Unconfirmed,false,
-Hyundai,Elantra GT,2017,2019,4-Button Flip Key,,OSLOKA-450T,,95430-G3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Elantra GT,2018,2020,4-Button Smart Key,,NYOSYEC4FOB1608,,95440-G3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Elantra GT,2018,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Elantra GT,2018,2019,Emergency Key,,,,81996-J9020,Unconfirmed,false,
-Hyundai,Elantra GT,2018,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Elantra N,2024,2025,4-Button Smart Key,6A,NYOMBEC7FOB2208,,95440-IB600YPN,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Elantra N,2024,2024,5-Button Smart Key,6A,NYOMBEC7FOB2208,,95440-IB500YPN,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Entourage,2007,2009,6-Button Keyless Entry Remote,,SV3-100060235,,95430-4J021,Unconfirmed,false,
-Hyundai,Equus,2011,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Equus,2011,2013,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Equus,2011,2013,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Equus,2012,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,
-Hyundai,Equus,2012,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,
-Hyundai,Equus,2013,2016,4-Button Smart Key,,SY5DMFNA433,,95440-3N470,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Equus,2013,2016,4-Button Smart Key,,SY5DMFNA433,,95440-3N470,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Equus,2013,2016,Emergency Key,,,,81996-3N700,Unconfirmed,false,
-Hyundai,Genesis,2009,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Genesis,2009,2014,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Genesis,2009,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Genesis,2009,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,
-Hyundai,Genesis,2009,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,
-Hyundai,Genesis,2014,2016,Emergency Key,,,,81996-B1000,Unconfirmed,false,
-Hyundai,Genesis,2015,2016,4-Button Smart Key,,SY5DHFNA433,,95440-B1210,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Genesis,2015,2016,4-Button Smart Key,,SY5DHFNA433,,95440-B1200BLH,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Genesis,2022,2023,8-Button Smart Key,ID47,TQ8-FOB-4F53U,,95440-CU110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights"
-Hyundai,Genesis Coupe,2009,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Genesis Coupe,2009,2013,4-Button Smart Key,,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Genesis Coupe,2009,2014,Emergency Key,,HY15,,81996-2M020,Unconfirmed,false,
-Hyundai,Genesis Coupe,2009,2014,Emergency Key,,HY21,,81996-2M020,Unconfirmed,false,
-Hyundai,Genesis Coupe,2013,2016,4-Button Smart Key,,SY5RBFNA433,,95440-2M420,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Ioniq,2017,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-G2000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Ioniq,2017,2019,4-Button Smart Key,,TQ8-FOB-4F11,,95440-G2010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Ioniq,2017,2021,Emergency Key,,,,81996-G2100,Unconfirmed,false,
-Hyundai,Ioniq,2017,2019,Emergency Key,,,,81996-G2100,Unconfirmed,false,
-Hyundai,Ioniq,2018,2019,4-Button Flip Key,4D60,SY5AERGE04,,95430-G2010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Ioniq,2020,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-G2500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Ioniq,2021,2024,5-Button Smart Key,4A,CQOFN01200,,95440-GI011,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port"
-Hyundai,Ioniq,2021,2024,8-Button Smart Key,4A,CQOFD01480,,95440-GI051,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port"
-Hyundai,Ioniq,2022,2024,5-Button Smart Key,4A,CQOFN01200,,95440-GI010,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port"
-Hyundai,Ioniq,2022,2025,Emergency Key,,,,81996-KL010,Unconfirmed,false,
-Hyundai,Ioniq,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F69U44,,95440-NI000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Ioniq,2025,2026,8-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-GO030,Unconfirmed,false,
-Hyundai,Ioniq,2025,2025,8-Button Smart Key,4A,,,95440-GO020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Hood"
-Hyundai,Ioniq 5,2021,2024,6-Button Smart Key,4A,CQOFD01470,,95440-GI021,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Charge Port"
-Hyundai,Ioniq 5,2022,2022,6-Button Smart Key,,CQOFN01210,,95440-GI020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Charge Port"
-Hyundai,Ioniq 5,2022,2024,6-Button Smart Key,,CQOFN01210,,95440-GI020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Charge Port"
-Hyundai,Ioniq 5,2022,2022,8-Button Smart Key,,CQOFD01240,,95440-GI050,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port"
-Hyundai,Ioniq 5,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-GI300,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Ioniq 5,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4FA2U44,,95440-GI120,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Ioniq 5,2024,2024,5-Button Smart Key,ID46,,,95440-GI100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Ioniq 5,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-NI010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Ioniq 5,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4FA2U44,,95440-GI130,Unconfirmed,false,
-Hyundai,Ioniq 5 N,2024,2026,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-NI011,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Ioniq 6,2022,2024,5-Button Smart Key,,NYOMBEC7FOB2208,,95440-KL000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Ioniq 6,2022,2024,7-Button Smart Key,4A,NYOMBEC7FOB2208,,95440-KL200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Ioniq 9,2025,2026,6-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-GO000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Hood"
-Hyundai,Kona,2018,2021,4-Button Flip Key,4D60,OSLOKA-450T,,95430-J9700,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Kona,2018,2021,4-Button Flip Key,,OSLOKA-450T,,95430-J9500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Kona,2018,2021,4-Button Smart Key,,TQ8-FOB-4F18,,95440-J9000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Kona,2018,2020,4-Button Smart Key,,TQ8-FOB-4F18,,95440-J9010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Kona,2018,2022,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Kona,2018,2021,Emergency Key,,,,81996-J9020,Unconfirmed,false,
-Hyundai,Kona,2018,2022,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Kona,2019,2021,4-Button Smart Key,,TQ8-FOB-4F19,,95440-J9001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Kona,2021,2023,3-Button Flip Key,4D60,2AV76-NMOK-451T,,95430-J9400,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Kona,2021,2022,4-Button Smart Key,,TQ8-FOB-4F43,,95440-J9400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2021,2023,4-Button Smart Key,ID47,TQ8-FOB-4F43,,95440-J9450,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F43,,95440-I3450,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F43,,95440-I3400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2023,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE560,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2023,2026,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE560,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2023,2024,4-Button Smart Key,,TQ8-FOB-4F61M43,,95440-BE060,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2023,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF100,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2023,2024,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Kona,2023,2024,5-Button Smart Key,,TQ8-FOB-4F61M43,,95440-BE200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Kona,2023,2024,6-Button Smart Key,,TQ8-FOB-4F61,,95440-BE050,Unconfirmed,false,
-Hyundai,Kona,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Kona,2023,2026,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE700,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Kona,2023,2026,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Kona,2024,2026,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF100,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Kona,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Kona,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE710,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Kona,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Kona Electric,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-J9001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Kona Electric,2019,2021,4-Button Smart Key,,TQ8-FOB-4F18,,95440-J9000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Kona Electric,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Kona Electric,2026,2026,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF100,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Nexo,2018,2024,7-Button Smart Key,ID47,TQ8-FOB-4F20,,95440-M5010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Nexo,2019,2021,4-Button Smart Key,,TQ8-FOB-4F20,,95440-M5300,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Nexo,2019,2023,4-Button Smart Key,ID47,TQ8-FOB-4F21,,95440-M5310,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Nexo,2019,2023,7-Button Smart Key,,TQ8-FOB-4F20,,95440-M5000,Unconfirmed,false,
-Hyundai,Nexo,2019,2021,7-Button Smart Key,,TQ8-FOB-4F20,,95440-M5000,Unconfirmed,false,
-Hyundai,Nexo,2019,2021,Emergency Key,,,,81996-M5000,Unconfirmed,false,
-Hyundai,Nexo,2023,2024,7-Button Smart Key,ID47,TQ8-FOB-4F20,,95440-M5020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Palisade,2019,2022,4-Button Smart Key,ID47,TQ8-FOB-4F32,,95440-S8360,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Palisade,2019,2022,5-Button Smart Key,,TQ8-FOB-4F33,,95440-S8060,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Palisade,2020,2024,3-Button Flip Key,ID47,TQ8-RKE-4F41,,95430-S8400,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Palisade,2020,2021,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S8310,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Palisade,2020,2022,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S8310,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Palisade,2020,2022,5-Button Smart Key,,TQ8-FOB-4F29,,95440-S8010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Palisade,2020,2022,5-Button Smart Key,,TQ8-FOB-4F29,,95440-S8400,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Palisade,2020,2022,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Palisade,2020,2022,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Palisade,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-S8520,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Palisade,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-S8520,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Palisade,2022,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S8540,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Palisade,2022,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S8550,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Palisade,2022,2024,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-S8600,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Palisade,2022,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-S8590,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Palisade,2025,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P9050,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Palisade,2025,2026,5-Button Smart Key,4A,TQ8-FOB-4FA2U44,,95440-P9070,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Palisade,2025,2026,7-Button Smart Key,,,,95440-P9060,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Palisade,2025,2026,7-Button Smart Key,,TQ8-FOB-4FA2U44,,95440-P9080,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Santa Cruz,2021,2023,5-Button Flip Key,,TQ8-RKE-4F40,,95430-K5010,Unconfirmed,false,
-Hyundai,Santa Cruz,2021,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5012,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Hyundai,Santa Cruz,2021,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Santa Cruz,2021,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5002,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Hyundai,Santa Cruz,2022,2023,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Santa Cruz,2022,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Santa Cruz,2022,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5010,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Hyundai,Santa Cruz,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-K5500,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start"
-Hyundai,Santa Fe,2007,2012,3-Button Keyless Entry Remote,,PINHA-T038,,95411-0W100,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Santa Fe,2013,2016,4-Button Flip Key,4D60,TQ8-RKE-3F04,,95430-4Z100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2013,2013,4-Button Flip Key,4D,TQ8-RKE-3F04,,95430-4Z000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Santa Fe,2013,2016,4-Button Flip Key,4D,TQ8-RKE-3F04,,95430-4Z001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2013,2018,4-Button Smart Key,ID46,SY5DMFNA04,,95440-4Z200,Unconfirmed,false,
-Hyundai,Santa Fe,2013,2018,Emergency Key,,HY18R,,81996-2W040,Unconfirmed,false,
-Hyundai,Santa Fe,2015,2019,4-Button Flip Key,4D,TQ8-RKE-4F31,,95430-2W110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2015,2018,4-Button Smart Key,,SY5MDFNA433,,95440-B8100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2017,2019,4-Button Flip Key,4D60,TQ8-RKE-4F31,,95430-2W010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2018,2020,4-Button Flip Key,ID47,TQ8-RKE-4F39,,95430-S2000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2019,2023,3-Button Flip Key,ID47,TQ8-RKE-4F41,,95430-S2200,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Santa Fe,2019,2020,4-Button Flip Key,ID47,TQ8-RKE-4F39,,95430-S1000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Santa Fe,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Santa Fe,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S1000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Santa Fe,2019,2020,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Santa Fe,2019,2020,Emergency Key,,,,81996-J9020,Unconfirmed,false,
-Hyundai,Santa Fe,2019,2020,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Santa Fe,2020,2020,3-Button Smart Key,,TQ8-FOB-4F30,,95440-S2200,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Santa Fe,2020,2020,3-Button Smart Key,ID47,TQ8-FOB-4F30,,95440-S2200,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Santa Fe,2020,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-S2600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Santa Fe,2020,2023,4-Button Smart Key,,TQ8-FOB-4F26,,95440-S2600,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Santa Fe,2021,2022,4-Button Smart Key,,TQ8-FOB-4F26,,95440-S2500,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Santa Fe,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-S1570,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-S1530,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2021,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-S1670,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2021,2022,5-Button Smart Key,,TQ8-FOB-4F28,,95440-S1570,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2021,2023,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S1670,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2021,2022,7-Button Smart Key,,TQ8-FOB-4F27,,95440-S1560,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Santa Fe,2021,2021,Emergency Key,,,,81996-M5000,Unconfirmed,false,
-Hyundai,Santa Fe,2021,2023,Emergency Key,,,,81996-S1030,Unconfirmed,false,
-Hyundai,Santa Fe,2022,2023,7-Button Smart Key,,TQ8-FOB-4F28,,95440-S1660,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Santa Fe,2023,2023,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S1630,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2023,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Santa Fe,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-P6050,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Santa Fe,2023,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6040,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2023,2024,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-P6100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Santa Fe,2023,2027,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-P6101,Unconfirmed,false,
-Hyundai,Santa Fe,2024,2025,5-Button Smart Key,,,,95440-P6051,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Santa Fe,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6041,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Santa Fe,2024,2024,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6090,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Sonata,2007,2010,4-Button Keyless Entry Remote,,,,95430-3K200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2007,2010,4-Button Keyless Entry Remote,,,,95430-3Q001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2010,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2011,2015,4-Button Keyless Entry Remote,,,,95430-3K200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2011,2015,4-Button Keyless Entry Remote,,OSLOKA-950T,,95430-3Q000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2011,2015,4-Button Keyless Entry Remote,,,,95430-3Q001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2011,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,
-Hyundai,Sonata,2011,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,
-Hyundai,Sonata,2014,2017,4-Button Flip Key,4D60,TQ8-RKE-4F16,,95430-C1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2015,2017,4-Button Flip Key,,TQ8-RKE-4F16,,95430-C1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2015,2018,4-Button Smart Key,8A,CQOFD00120,,95440-C1001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2015,2015,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2015,2019,Emergency Key,,,,81999-2S040,Unconfirmed,false,
-Hyundai,Sonata,2017,2020,4-Button Flip Key,,TQ8-RKE-4F25,,95430-C1210,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2017,2020,4-Button Flip Key,,TQ8-RKE-4F25,,95430-C1200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2018,2019,4-Button Smart Key,,CQOFD00120,,95440-C1500NNA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2019,2021,4-Button Flip Key,ID47,TQ8-RKE-4F40,,95430-L1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2019,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-L1060,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2019,2021,5-Button Smart Key,ID47,T08-F08-4F27,,95440-L1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2019,2023,5-Button Smart Key,ID47,T08-F08-4F27,,95440-L1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2019,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-L1500,Unconfirmed,false,
-Hyundai,Sonata,2019,2021,Emergency Key,,,,81996-M5000,Unconfirmed,false,
-Hyundai,Sonata,2020,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2020,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2020,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-L1600,Unconfirmed,false,
-Hyundai,Sonata,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1160,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2021,2022,5-Button Smart Key,,TQ8-FOB-4F26,,95440-L1160,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1710,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2023,2023,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1760,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2023,2023,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1720,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Sonata,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1770,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Sonata,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L5750,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1560,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Sonata,2024,2026,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1570,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Sonata Hybrid,2015,2015,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata Hybrid,2015,2015,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Sonata Hybrid,2015,2015,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Tucson,2005,2010,3-Button Keyless Entry Remote,,OSLOKA-850T,,95430-2S201,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Tucson,2010,2015,3-Button Keyless Entry Remote,,GQ43VT4T,,95430-2S200,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Tucson,2011,2011,3-Button Keyless Entry Remote,,OSLOKA-850T,,95430-2S201,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Tucson,2012,2015,3-Button Keyless Entry Remote,,OSLOKA-850T,,95430-2S201,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Tucson,2012,2013,4-Button Flip Key,ID46,OKA-860T,,95430-2S700,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Tucson,2014,2015,4-Button Smart Key,,,,95440-2S600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Tucson,2014,2021,Emergency Key,,,,81999-2S040,Unconfirmed,false,
-Hyundai,Tucson,2015,2019,4-Button Flip Key,4D60,TQ8-RKE-4F25,,95430-D3010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2015,2019,4-Button Flip Key,4D60,TQ8-RKE-4F25,,95430-D3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2015,2019,4-Button Flip Key,,TQ8-RKE-4F25,,95430-D3010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2015,2021,Emergency Key,,,,81999-2S040,Unconfirmed,false,
-Hyundai,Tucson,2016,2017,4-Button Smart Key,,TQ8-FOB-4F07,,95440-D3100NNA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2017,2019,4-Button Smart Key,,TQ8-FOB-4F11,,95440-D3110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2018,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-D3510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2019,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-D3510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2021,2024,3-Button Flip Key,ID47,TQ8-RKE-4F43,,95430-N9050,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Tucson,2021,2022,4-Button Flip Key,ID47,TQ8-RKE-4F40,,95430-N9010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Tucson,2021,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9052,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Tucson,2021,2024,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9052,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Tucson,2021,2022,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9050,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Tucson,2021,2024,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9052,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Tucson,2021,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9072,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Tucson,2021,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-N9070,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Tucson,2021,2024,5-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9072,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Tucson,2021,2024,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9072,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Tucson,2021,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-N9080,Unconfirmed,false,
-Hyundai,Tucson,2021,2023,7-Button Smart Key,,TQ8-FOB-4F28,,95440-N9082,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Tucson,2021,2022,7-Button Smart Key,,TQ8-FOB-4F28,,95440-N9010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Tucson,2021,2024,7-Button Smart Key,,TQ8-FOB-4F28,,95440-N9082,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Tucson,2021,2024,Emergency Key,,,,81996-M5000,Unconfirmed,false,
-Hyundai,Tucson,2022,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Tucson,2022,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Hyundai,Tucson,2022,2024,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-N9012,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Tucson,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-N9580,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Tucson,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-N9510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward"
-Hyundai,Tucson,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-N9550,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Tucson,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-N9550,Unconfirmed,false,
-Hyundai,Tucson,2024,2025,5-Button Smart Key,,TQ8-FOB-4F89U44,,95440-N9570,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Tucson,2024,2025,5-Button Smart Key,,TQ8-FOB-4F61M43,,95440-N9500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start"
-Hyundai,Veloster,2011,2017,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Veloster,2011,2017,Emergency Key,,HY18,,81996-1R020,Unconfirmed,false,
-Hyundai,Veloster,2011,2017,Emergency Key,,,,81996-1R020,Unconfirmed,false,
-Hyundai,Veloster,2012,2017,4-Button Keyless Entry Remote,,,,95430-2V100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Veloster,2012,2017,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Hyundai,Veloster,2017,2021,4-Button Smart Key,,SY5IGFGE04,,95440-J3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Veloster,2017,2019,4-Button Smart Key,,SY5IGFGE04,,95440-K9000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Veloster,2017,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Veloster,2017,2020,Emergency Key,,,,81996-J9020,Unconfirmed,false,
-Hyundai,Veloster,2017,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Veloster,2019,2021,4-Button Flip Key,4D60,SY5IGRGE04,,95430-J3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
-Hyundai,Venue,2019,2024,4-Button Smart Key,4A,SY5IGFGE04,,95440-K2410,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Venue,2019,2025,4-Button Smart Key,4A,SY5IGFGE04,,95440-K2450,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Venue,2020,2025,3-Button Flip Key,,SY5FD1GRGE03,,95430-K2500,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Venue,2020,2023,3-Button Smart Key,8A,SY5QXFGE03,,95440-K2200,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Venue,2020,2023,4-Button Smart Key,,SY5IGFGE04,,95440-K2400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Hyundai,Venue,2020,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,
-Hyundai,Venue,2020,2021,Emergency Key,,,,81996-J9020,Unconfirmed,false,
-Hyundai,Venue,2020,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,
-Hyundai,Venue,2021,2025,3-Button Flip Key,4A,SY51GRGE03,,95430-K2400,Unconfirmed,false,"Lock, Unlock, Panic"
-Hyundai,Veracruz,2007,2012,4-Button Smart Key,ID46,SY5VISMKFNA04,,95440-3J600,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic"
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Genesis,G70,2021,2023,6-Button Smart Key,,TQ8-FOB-4F36,,95440-AR000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights",433 MHz
+Genesis,G70,2021,2024,8-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-AR010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights",433 MHz
+Genesis,G70,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F75M44,,95440-G9720,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Genesis,G80,2017,2020,4-Button Smart Key,,SY5DMFNA04,,95440-D2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Genesis,G80,2017,2021,Emergency Key,,,,81996-B1500,Unconfirmed,false,,
+Genesis,G80,2017,2018,Emergency Key,,TQ8-FOB-4F35,,81996-B1500,Unconfirmed,false,,433 MHz
+Genesis,G80,2021,2022,6-Button Smart Key,,TQ8-FOB-4F35,,95440-T1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights",433 MHz
+Genesis,G80,2021,2022,6-Button Smart Key,,TQ8-FOB-4F36,,95440-G9530,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights",433 MHz
+Genesis,G80,2021,2023,6-Button Smart Key,ID47,,,95440-T1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights",
+Genesis,G80,2021,2022,8-Button Smart Key,,TQ8-FOB-4F35,,95440-T1200,Unconfirmed,false,,433 MHz
+Genesis,G80,2021,2023,8-Button Smart Key,,TQ8-FOB-4F35,,95440-T1210,Unconfirmed,false,,433 MHz
+Genesis,G90,2017,2022,4-Button Smart Key,,SY5HIFGEO4,,95440-D2000NNB,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Genesis,G90,2017,2018,Emergency Key,,,,81996-D2000,Unconfirmed,false,,
+Genesis,G90,2022,2024,7-Button Smart Key,,TQ8-FOB-4F53U,,95440-T4110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Genesis,G90,2022,2024,7-Button Smart Key,ID47,TQ8-FOB-4F53U,,95440-T4120PH3,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Genesis,G90,2023,2023,7-Button Smart Key,ID47,,,95440-T4120UYH,Unconfirmed,false,,
+Genesis,G90,2023,2025,7-Button Smart Key,ID47,,,95440-T4120BRB,Unconfirmed,false,,
+Genesis,G90,2024,2024,7-Button Smart Key,ID47,,,95440-T4120GLD,Unconfirmed,false,,
+Genesis,G90,2024,2024,7-Button Smart Key,ID47,,,95440-T4120MDY,Unconfirmed,false,,
+Genesis,G90,2024,2025,7-Button Smart Key,ID47,,,95440-T4120SSS,Unconfirmed,false,,
+Genesis,GV60,2023,2023,6-Button Smart Key,4A,TQ8-FOB-4F53U,,95440-T6GB0,Unconfirmed,false,"Lock, Unlock, Trunk, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Genesis,GV60,2023,2023,6-Button Smart Key,,TQ8-FOB-4F53M,,95440-CU220,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Charge Port",433 MHz
+Genesis,GV60,2023,2023,8-Button Smart Key,ID47,TQ8-FOB-4F53M,,95440-CU310,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port",433 MHz
+Genesis,GV60,2023,2023,8-Button Smart Key,ID47,TQ8-FOB-4F53M,,95440-CU320,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port",433 MHz
+Genesis,GV70,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4FA0U44,,95440-ARDA0,Unconfirmed,false,,433 MHz
+Genesis,GV70,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4FA0U44,,95440-ARDB0,Unconfirmed,false,,433 MHz
+Genesis,GV80,2021,2021,6-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-T6100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Lights",433 MHz
+Genesis,GV80,2021,2021,8-Button Smart Key,ID47,TQ8-FOB-4F35,,95440-T6011,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights",433 MHz
+Genesis,GV80,2022,2023,6-Button Smart Key,,TQ8-FOB-4F36,,95440-T6104,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Lights",433 MHz
+Genesis,GV80,2022,2023,8-Button Smart Key,,TQ8-FOB-4F35,,95440-T6014,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights",433 MHz
+Genesis,GV80,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6BA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Genesis,GV80,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6BB0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Genesis,GV80,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F75M44,,95440-T6DA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Genesis,GV80,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6AA0,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Genesis,GV80,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F75U44,,95440-T6AB0,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Accent,2012,2014,3-Button Keyless Entry Remote,,TQ8-RKE-3F01,,95430-1R200,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Hyundai,Accent,2014,2017,3-Button Keyless Entry Remote,,TQ8-RKE-4F14,,95430-1R300,Unconfirmed,false,"Lock, Unlock, Panic",
+Hyundai,Accent,2018,2021,4-Button Flip Key,4D60,NYOSYEC4TX1707,,95430-J0800,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Accent,2018,2022,4-Button Smart Key,,NYOSYEC4FOB1608,,95440-J0100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Accent,2018,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Accent,2018,2019,Emergency Key,,,,81996-J9020,Unconfirmed,false,,
+Hyundai,Accent,2018,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Azera,2006,2013,4-Button Keyless Entry Remote,,,,95430-3L022,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Azera,2011,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Azera,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Azera,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Azera,2012,2014,Emergency Key,,,,81996-3S020,Unconfirmed,false,,
+Hyundai,Azera,2012,2014,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,,
+Hyundai,Azera,2014,2016,Emergency Key,,,,81996-3N700,Unconfirmed,false,,
+Hyundai,Azera,2015,2017,4-Button Smart Key,,SY5DMFNA433,,95440-3V022,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Borrego,2010,2012,Emergency Key,,,,81996-3S020,Unconfirmed,false,,
+Hyundai,Borrego,2010,2012,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,,
+Hyundai,Elantra,2006,2010,4-Button Keyless Entry Remote,,,,95430-3K200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Elantra,2006,2010,4-Button Keyless Entry Remote,,,,95430-3Q001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Elantra,2011,2016,4-Button Keyless Entry Remote,,OSLOKA-360T,,95430-3X501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Elantra,2011,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Elantra,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Elantra,2011,2014,Emergency Key,,HY15,,81996-2M020,Unconfirmed,false,,
+Hyundai,Elantra,2011,2014,Emergency Key,,HY21,,81996-2M020,Unconfirmed,false,,
+Hyundai,Elantra,2013,2017,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2013,2020,Emergency Key,,,,81996-B4520,Unconfirmed,false,,
+Hyundai,Elantra,2014,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2014,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2016,2018,4-Button Flip Key,,OKA-NO38,,95430-F2001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2016,2020,4-Button Keyless Entry Remote,,OSLOKA-423T,,95430-F2300,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2016,2019,4-Button Smart Key,,CQOFD00120,,95440-F2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2016,2016,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2016,2016,4-Button Smart Key,,SY5MDFNA433,,95440-3X500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2016,2019,4-Button Smart Key,4A,CQOFD00120,,95440-F2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2018,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Elantra,2018,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Elantra,2019,2020,4-Button Smart Key,,CQOFD00120,,95440-F2002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2019,2020,4-Button Smart Key,4A,CQOFD00120,,95440-F3002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2020,2023,4-Button Flip Key,8A,,,95430-AA100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Elantra,2021,2024,4-Button Smart Key,6A,NYOMBEC5FOB2004,,95440-AA100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Elantra,2021,2024,5-Button Smart Key,6A,NYOMBEC5FOB2004,,95440-AA000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Hyundai,Elantra,2021,2023,5-Button Smart Key,,NYOMBEC5FOB2004,,95440-IB000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Hyundai,Elantra,2023,2024,4-Button Flip Key,8A,NYOMBEC4TX2004,,95430-AA600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra,2023,2025,5-Button Smart Key,4A,NYOMBEC7FOB2208,,95440-AA501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Elantra,2023,2026,5-Button Smart Key,4A,NYOMBEC7FOB2208,,95440-AA501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Elantra,2024,2024,5-Button Smart Key,6A,NYOMBECFOB2208,,95440-AA500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Elantra,2024,2026,5-Button Smart Key,6A,NYOMBEC7FOB2208,,95440-IB501,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Elantra Coupe,2013,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X520,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra Coupe,2013,2015,4-Button Smart Key,,SY5MDFNA433,,95440-3X500,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra GT,2012,2017,4-Button Keyless Entry Remote,,TQ8-RKE-3F03,,95430-A5200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Elantra GT,2013,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Elantra GT,2014,2015,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Elantra GT,2014,2015,Emergency Key,,HY18,,81996-1R020,Unconfirmed,false,,
+Hyundai,Elantra GT,2014,2015,Emergency Key,,,,81996-1R020,Unconfirmed,false,,
+Hyundai,Elantra GT,2015,2017,Emergency Key,,HY18,,81996-A5020,Unconfirmed,false,,
+Hyundai,Elantra GT,2015,2017,Emergency Key,,SY5MDFNA433,,81996-A5020,Unconfirmed,false,,433 MHz
+Hyundai,Elantra GT,2017,2019,4-Button Flip Key,,OSLOKA-450T,,95430-G3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Elantra GT,2018,2020,4-Button Smart Key,,NYOSYEC4FOB1608,,95440-G3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Elantra GT,2018,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Elantra GT,2018,2019,Emergency Key,,,,81996-J9020,Unconfirmed,false,,
+Hyundai,Elantra GT,2018,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Elantra N,2024,2025,4-Button Smart Key,6A,NYOMBEC7FOB2208,,95440-IB600YPN,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Elantra N,2024,2024,5-Button Smart Key,6A,NYOMBEC7FOB2208,,95440-IB500YPN,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Entourage,2007,2009,6-Button Keyless Entry Remote,,SV3-100060235,,95430-4J021,Unconfirmed,false,,
+Hyundai,Equus,2011,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Equus,2011,2013,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Equus,2011,2013,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Equus,2012,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,,
+Hyundai,Equus,2012,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,,
+Hyundai,Equus,2013,2016,4-Button Smart Key,,SY5DMFNA433,,95440-3N470,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Equus,2013,2016,4-Button Smart Key,,SY5DMFNA433,,95440-3N470,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Equus,2013,2016,Emergency Key,,,,81996-3N700,Unconfirmed,false,,
+Hyundai,Genesis,2009,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Genesis,2009,2014,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Genesis,2009,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Genesis,2009,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,,
+Hyundai,Genesis,2009,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,,
+Hyundai,Genesis,2014,2016,Emergency Key,,,,81996-B1000,Unconfirmed,false,,
+Hyundai,Genesis,2015,2016,4-Button Smart Key,,SY5DHFNA433,,95440-B1210,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Genesis,2015,2016,4-Button Smart Key,,SY5DHFNA433,,95440-B1200BLH,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Genesis,2022,2023,8-Button Smart Key,ID47,TQ8-FOB-4F53U,,95440-CU110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Lights",433 MHz
+Hyundai,Genesis Coupe,2009,2013,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Genesis Coupe,2009,2013,4-Button Smart Key,,SY5HMFNA04,,95440-3M100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Genesis Coupe,2009,2014,Emergency Key,,HY15,,81996-2M020,Unconfirmed,false,,
+Hyundai,Genesis Coupe,2009,2014,Emergency Key,,HY21,,81996-2M020,Unconfirmed,false,,
+Hyundai,Genesis Coupe,2013,2016,4-Button Smart Key,,SY5RBFNA433,,95440-2M420,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Ioniq,2017,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-G2000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Ioniq,2017,2019,4-Button Smart Key,,TQ8-FOB-4F11,,95440-G2010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Ioniq,2017,2021,Emergency Key,,,,81996-G2100,Unconfirmed,false,,
+Hyundai,Ioniq,2017,2019,Emergency Key,,,,81996-G2100,Unconfirmed,false,,
+Hyundai,Ioniq,2018,2019,4-Button Flip Key,4D60,SY5AERGE04,,95430-G2010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Ioniq,2020,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-G2500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Ioniq,2021,2024,5-Button Smart Key,4A,CQOFN01200,,95440-GI011,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port",
+Hyundai,Ioniq,2021,2024,8-Button Smart Key,4A,CQOFD01480,,95440-GI051,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port",433 MHz
+Hyundai,Ioniq,2022,2024,5-Button Smart Key,4A,CQOFN01200,,95440-GI010,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Charge Port",
+Hyundai,Ioniq,2022,2025,Emergency Key,,,,81996-KL010,Unconfirmed,false,,
+Hyundai,Ioniq,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F69U44,,95440-NI000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Ioniq,2025,2026,8-Button Smart Key,4A,TQ8-FOB-4F81M44,,95440-GO030,Unconfirmed,false,,433 MHz
+Hyundai,Ioniq,2025,2025,8-Button Smart Key,4A,,,95440-GO020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Hood",
+Hyundai,Ioniq 5,2021,2024,6-Button Smart Key,4A,CQOFD01470,,95440-GI021,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Charge Port",433 MHz
+Hyundai,Ioniq 5,2022,2022,6-Button Smart Key,,CQOFN01210,,95440-GI020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Charge Port",
+Hyundai,Ioniq 5,2022,2024,6-Button Smart Key,,CQOFN01210,,95440-GI020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Charge Port",
+Hyundai,Ioniq 5,2022,2022,8-Button Smart Key,,CQOFD01240,,95440-GI050,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward, Charge Port",
+Hyundai,Ioniq 5,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-GI300,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Ioniq 5,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4FA2U44,,95440-GI120,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Ioniq 5,2024,2024,5-Button Smart Key,ID46,,,95440-GI100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",
+Hyundai,Ioniq 5,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-NI010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Ioniq 5,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4FA2U44,,95440-GI130,Unconfirmed,false,,433 MHz
+Hyundai,Ioniq 5 N,2024,2026,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-NI011,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Ioniq 6,2022,2024,5-Button Smart Key,,NYOMBEC7FOB2208,,95440-KL000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Ioniq 6,2022,2024,7-Button Smart Key,4A,NYOMBEC7FOB2208,,95440-KL200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Ioniq 9,2025,2026,6-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-GO000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Hood",433 MHz
+Hyundai,Kona,2018,2021,4-Button Flip Key,4D60,OSLOKA-450T,,95430-J9700,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Kona,2018,2021,4-Button Flip Key,,OSLOKA-450T,,95430-J9500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Kona,2018,2021,4-Button Smart Key,,TQ8-FOB-4F18,,95440-J9000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Kona,2018,2020,4-Button Smart Key,,TQ8-FOB-4F18,,95440-J9010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Kona,2018,2022,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Kona,2018,2021,Emergency Key,,,,81996-J9020,Unconfirmed,false,,
+Hyundai,Kona,2018,2022,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Kona,2019,2021,4-Button Smart Key,,TQ8-FOB-4F19,,95440-J9001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Kona,2021,2023,3-Button Flip Key,4D60,2AV76-NMOK-451T,,95430-J9400,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Hyundai,Kona,2021,2022,4-Button Smart Key,,TQ8-FOB-4F43,,95440-J9400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2021,2023,4-Button Smart Key,ID47,TQ8-FOB-4F43,,95440-J9450,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F43,,95440-I3450,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F43,,95440-I3400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2023,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE560,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2023,2026,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE560,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2023,2024,4-Button Smart Key,,TQ8-FOB-4F61M43,,95440-BE060,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2023,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF100,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2023,2024,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Kona,2023,2024,5-Button Smart Key,,TQ8-FOB-4F61M43,,95440-BE200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Kona,2023,2024,6-Button Smart Key,,TQ8-FOB-4F61,,95440-BE050,Unconfirmed,false,,433 MHz
+Hyundai,Kona,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Kona,2023,2026,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE700,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Kona,2023,2026,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Kona,2024,2026,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF100,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Kona,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Kona,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE710,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Kona,2024,2025,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BE000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Kona Electric,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-J9001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Kona Electric,2019,2021,4-Button Smart Key,,TQ8-FOB-4F18,,95440-J9000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Kona Electric,2025,2026,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF200,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Kona Electric,2026,2026,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-BF100,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Nexo,2018,2024,7-Button Smart Key,ID47,TQ8-FOB-4F20,,95440-M5010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Nexo,2019,2021,4-Button Smart Key,,TQ8-FOB-4F20,,95440-M5300,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Nexo,2019,2023,4-Button Smart Key,ID47,TQ8-FOB-4F21,,95440-M5310,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Hyundai,Nexo,2019,2023,7-Button Smart Key,,TQ8-FOB-4F20,,95440-M5000,Unconfirmed,false,,433 MHz
+Hyundai,Nexo,2019,2021,7-Button Smart Key,,TQ8-FOB-4F20,,95440-M5000,Unconfirmed,false,,433 MHz
+Hyundai,Nexo,2019,2021,Emergency Key,,,,81996-M5000,Unconfirmed,false,,
+Hyundai,Nexo,2023,2024,7-Button Smart Key,ID47,TQ8-FOB-4F20,,95440-M5020,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Palisade,2019,2022,4-Button Smart Key,ID47,TQ8-FOB-4F32,,95440-S8360,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Hyundai,Palisade,2019,2022,5-Button Smart Key,,TQ8-FOB-4F33,,95440-S8060,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2020,2024,3-Button Flip Key,ID47,TQ8-RKE-4F41,,95430-S8400,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Hyundai,Palisade,2020,2021,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S8310,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2020,2022,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S8310,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2020,2022,5-Button Smart Key,,TQ8-FOB-4F29,,95440-S8010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2020,2022,5-Button Smart Key,,TQ8-FOB-4F29,,95440-S8400,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2020,2022,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Palisade,2020,2022,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Palisade,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-S8520,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2022,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-S8520,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2022,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S8540,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2022,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S8550,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2022,2024,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-S8600,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Palisade,2022,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-S8590,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Palisade,2025,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P9050,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2025,2026,5-Button Smart Key,4A,TQ8-FOB-4FA2U44,,95440-P9070,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Palisade,2025,2026,7-Button Smart Key,,,,95440-P9060,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",
+Hyundai,Palisade,2025,2026,7-Button Smart Key,,TQ8-FOB-4FA2U44,,95440-P9080,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Santa Cruz,2021,2023,5-Button Flip Key,,TQ8-RKE-4F40,,95430-K5010,Unconfirmed,false,,433 MHz
+Hyundai,Santa Cruz,2021,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5012,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Hyundai,Santa Cruz,2021,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Santa Cruz,2021,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5002,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Hyundai,Santa Cruz,2022,2023,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Santa Cruz,2022,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Santa Cruz,2022,2024,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-K5010,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Hyundai,Santa Cruz,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-K5500,Unconfirmed,false,"Lock, Unlock, Tailgate, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2007,2012,3-Button Keyless Entry Remote,,PINHA-T038,,95411-0W100,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Hyundai,Santa Fe,2013,2016,4-Button Flip Key,4D60,TQ8-RKE-3F04,,95430-4Z100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Hyundai,Santa Fe,2013,2013,4-Button Flip Key,4D,TQ8-RKE-3F04,,95430-4Z000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Santa Fe,2013,2016,4-Button Flip Key,4D,TQ8-RKE-3F04,,95430-4Z001,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",315 MHz
+Hyundai,Santa Fe,2013,2018,4-Button Smart Key,ID46,SY5DMFNA04,,95440-4Z200,Unconfirmed,false,,315 MHz
+Hyundai,Santa Fe,2013,2018,Emergency Key,,HY18R,,81996-2W040,Unconfirmed,false,,
+Hyundai,Santa Fe,2015,2019,4-Button Flip Key,4D,TQ8-RKE-4F31,,95430-2W110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Santa Fe,2015,2018,4-Button Smart Key,,SY5MDFNA433,,95440-B8100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Santa Fe,2017,2019,4-Button Flip Key,4D60,TQ8-RKE-4F31,,95430-2W010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Santa Fe,2018,2020,4-Button Flip Key,ID47,TQ8-RKE-4F39,,95430-S2000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Santa Fe,2019,2023,3-Button Flip Key,ID47,TQ8-RKE-4F41,,95430-S2200,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Hyundai,Santa Fe,2019,2020,4-Button Flip Key,ID47,TQ8-RKE-4F39,,95430-S1000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Santa Fe,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S2000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Santa Fe,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Santa Fe,2019,2020,4-Button Smart Key,,TQ8-FOB-4F19,,95440-S1000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Santa Fe,2019,2020,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Santa Fe,2019,2020,Emergency Key,,,,81996-J9020,Unconfirmed,false,,
+Hyundai,Santa Fe,2019,2020,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Santa Fe,2020,2020,3-Button Smart Key,,TQ8-FOB-4F30,,95440-S2200,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Hyundai,Santa Fe,2020,2020,3-Button Smart Key,ID47,TQ8-FOB-4F30,,95440-S2200,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Hyundai,Santa Fe,2020,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-S2600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Santa Fe,2020,2023,4-Button Smart Key,,TQ8-FOB-4F26,,95440-S2600,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2021,2022,4-Button Smart Key,,TQ8-FOB-4F26,,95440-S2500,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-S1570,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-S1530,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2021,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-S1670,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2021,2022,5-Button Smart Key,,TQ8-FOB-4F28,,95440-S1570,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2021,2023,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S1670,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2021,2022,7-Button Smart Key,,TQ8-FOB-4F27,,95440-S1560,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Santa Fe,2021,2021,Emergency Key,,,,81996-M5000,Unconfirmed,false,,
+Hyundai,Santa Fe,2021,2023,Emergency Key,,,,81996-S1030,Unconfirmed,false,,
+Hyundai,Santa Fe,2022,2023,7-Button Smart Key,,TQ8-FOB-4F28,,95440-S1660,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Santa Fe,2023,2023,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-S1630,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2023,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6040,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-P6050,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2023,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6040,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2023,2024,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-P6100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Santa Fe,2023,2027,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-P6101,Unconfirmed,false,,433 MHz
+Hyundai,Santa Fe,2024,2025,5-Button Smart Key,,,,95440-P6051,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Hyundai,Santa Fe,2024,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6041,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Santa Fe,2024,2024,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-P6090,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Sonata,2007,2010,4-Button Keyless Entry Remote,,,,95430-3K200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Sonata,2007,2010,4-Button Keyless Entry Remote,,,,95430-3Q001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Sonata,2010,2014,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Sonata,2011,2015,4-Button Keyless Entry Remote,,,,95430-3K200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Sonata,2011,2015,4-Button Keyless Entry Remote,,OSLOKA-950T,,95430-3Q000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Sonata,2011,2015,4-Button Keyless Entry Remote,,,,95430-3Q001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Sonata,2011,2014,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Sonata,2011,2013,Emergency Key,,,,81996-3S020,Unconfirmed,false,,
+Hyundai,Sonata,2011,2013,Emergency Key,,HY22,,81996-3S020,Unconfirmed,false,,
+Hyundai,Sonata,2014,2017,4-Button Flip Key,4D60,TQ8-RKE-4F16,,95430-C1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2015,2017,4-Button Flip Key,,TQ8-RKE-4F16,,95430-C1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2015,2018,4-Button Smart Key,8A,CQOFD00120,,95440-C1001,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2015,2015,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Sonata,2015,2019,Emergency Key,,,,81999-2S040,Unconfirmed,false,,
+Hyundai,Sonata,2017,2020,4-Button Flip Key,,TQ8-RKE-4F25,,95430-C1210,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2017,2020,4-Button Flip Key,,TQ8-RKE-4F25,,95430-C1200,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2018,2019,4-Button Smart Key,,CQOFD00120,,95440-C1500NNA,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2019,2021,4-Button Flip Key,ID47,TQ8-RKE-4F40,,95430-L1000,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2019,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-L1060,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2019,2021,5-Button Smart Key,ID47,T08-F08-4F27,,95440-L1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Hyundai,Sonata,2019,2023,5-Button Smart Key,ID47,T08-F08-4F27,,95440-L1010,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",
+Hyundai,Sonata,2019,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-L1500,Unconfirmed,false,,433 MHz
+Hyundai,Sonata,2019,2021,Emergency Key,,,,81996-M5000,Unconfirmed,false,,
+Hyundai,Sonata,2020,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2020,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1110,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2020,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-L1600,Unconfirmed,false,,433 MHz
+Hyundai,Sonata,2021,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-L1160,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2021,2022,5-Button Smart Key,,TQ8-FOB-4F26,,95440-L1160,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2023,2025,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1710,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2023,2023,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1760,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2023,2023,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1720,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Sonata,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1770,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Sonata,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L5750,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Sonata,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1560,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2024,2026,5-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-L1510,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Sonata,2024,2026,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-L1570,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Sonata Hybrid,2015,2015,4-Button Smart Key,ID46,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Sonata Hybrid,2015,2015,4-Button Smart Key,,SY5HMFNA04,,95440-3N250,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Sonata Hybrid,2015,2015,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Tucson,2005,2010,3-Button Keyless Entry Remote,,OSLOKA-850T,,95430-2S201,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Hyundai,Tucson,2010,2015,3-Button Keyless Entry Remote,,GQ43VT4T,,95430-2S200,Unconfirmed,false,"Lock, Unlock, Panic",
+Hyundai,Tucson,2011,2011,3-Button Keyless Entry Remote,,OSLOKA-850T,,95430-2S201,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Hyundai,Tucson,2012,2015,3-Button Keyless Entry Remote,,OSLOKA-850T,,95430-2S201,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Hyundai,Tucson,2012,2013,4-Button Flip Key,ID46,OKA-860T,,95430-2S700,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",
+Hyundai,Tucson,2014,2015,4-Button Smart Key,,,,95440-2S600,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Hyundai,Tucson,2014,2021,Emergency Key,,,,81999-2S040,Unconfirmed,false,,
+Hyundai,Tucson,2015,2019,4-Button Flip Key,4D60,TQ8-RKE-4F25,,95430-D3010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2015,2019,4-Button Flip Key,4D60,TQ8-RKE-4F25,,95430-D3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2015,2019,4-Button Flip Key,,TQ8-RKE-4F25,,95430-D3010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2015,2021,Emergency Key,,,,81999-2S040,Unconfirmed,false,,
+Hyundai,Tucson,2016,2017,4-Button Smart Key,,TQ8-FOB-4F07,,95440-D3100NNA,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2017,2019,4-Button Smart Key,,TQ8-FOB-4F11,,95440-D3110,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2018,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-D3510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2019,2021,4-Button Smart Key,,TQ8-FOB-4F11,,95440-D3510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2021,2024,3-Button Flip Key,ID47,TQ8-RKE-4F43,,95430-N9050,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Hyundai,Tucson,2021,2022,4-Button Flip Key,ID47,TQ8-RKE-4F40,,95430-N9010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Tucson,2021,2023,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9052,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2021,2024,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9052,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Hyundai,Tucson,2021,2022,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9050,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2021,2024,4-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9052,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2021,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9072,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2021,2022,5-Button Smart Key,ID47,TQ8-FOB-4F27,,95440-N9070,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2021,2024,5-Button Smart Key,ID47,TQ8-FOB-4F26,,95440-N9072,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2021,2024,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9072,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2021,2022,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-N9080,Unconfirmed,false,,433 MHz
+Hyundai,Tucson,2021,2023,7-Button Smart Key,,TQ8-FOB-4F28,,95440-N9082,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Tucson,2021,2022,7-Button Smart Key,,TQ8-FOB-4F28,,95440-N9010,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Tucson,2021,2024,7-Button Smart Key,,TQ8-FOB-4F28,,95440-N9082,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Tucson,2021,2024,Emergency Key,,,,81996-M5000,Unconfirmed,false,,
+Hyundai,Tucson,2022,2022,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2022,2023,5-Button Smart Key,,TQ8-FOB-4F27,,95440-N9002,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2022,2024,7-Button Smart Key,ID47,TQ8-FOB-4F28,,95440-N9012,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Tucson,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F89U44,,95440-N9580,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Tucson,2023,2025,7-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-N9510,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start, Park Assist Forward, Park Assist Backward",433 MHz
+Hyundai,Tucson,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-N9550,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2024,2025,4-Button Smart Key,4A,TQ8-FOB-4F61M43,,95440-N9550,Unconfirmed,false,,433 MHz
+Hyundai,Tucson,2024,2025,5-Button Smart Key,,TQ8-FOB-4F89U44,,95440-N9570,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Tucson,2024,2025,5-Button Smart Key,,TQ8-FOB-4F61M43,,95440-N9500,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic, Remote Start",433 MHz
+Hyundai,Veloster,2011,2017,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Veloster,2011,2017,Emergency Key,,HY18,,81996-1R020,Unconfirmed,false,,
+Hyundai,Veloster,2011,2017,Emergency Key,,,,81996-1R020,Unconfirmed,false,,
+Hyundai,Veloster,2012,2017,4-Button Keyless Entry Remote,,,,95430-2V100,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",
+Hyundai,Veloster,2012,2017,4-Button Smart Key,,SY5HMFNA04,,95440-2V100,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Hyundai,Veloster,2017,2021,4-Button Smart Key,,SY5IGFGE04,,95440-J3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Veloster,2017,2019,4-Button Smart Key,,SY5IGFGE04,,95440-K9000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Veloster,2017,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Veloster,2017,2020,Emergency Key,,,,81996-J9020,Unconfirmed,false,,
+Hyundai,Veloster,2017,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Veloster,2019,2021,4-Button Flip Key,4D60,SY5IGRGE04,,95430-J3000,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",433 MHz
+Hyundai,Venue,2019,2024,4-Button Smart Key,4A,SY5IGFGE04,,95440-K2410,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Venue,2019,2025,4-Button Smart Key,4A,SY5IGFGE04,,95440-K2450,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Venue,2020,2025,3-Button Flip Key,,SY5FD1GRGE03,,95430-K2500,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Hyundai,Venue,2020,2023,3-Button Smart Key,8A,SY5QXFGE03,,95440-K2200,Unconfirmed,false,"Lock, Unlock, Panic",
+Hyundai,Venue,2020,2023,4-Button Smart Key,,SY5IGFGE04,,95440-K2400,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Hyundai,Venue,2020,2021,Emergency Key,,,,81996-G3020,Unconfirmed,false,,
+Hyundai,Venue,2020,2021,Emergency Key,,,,81996-J9020,Unconfirmed,false,,
+Hyundai,Venue,2020,2021,Emergency Key,,,,81999-G3020,Unconfirmed,false,,
+Hyundai,Venue,2021,2025,3-Button Flip Key,4A,SY51GRGE03,,95430-K2400,Unconfirmed,false,"Lock, Unlock, Panic",
+Hyundai,Veracruz,2007,2012,4-Button Smart Key,ID46,SY5VISMKFNA04,,95440-3J600,Unconfirmed,false,"Lock, Unlock, Rear Hatch, Panic",

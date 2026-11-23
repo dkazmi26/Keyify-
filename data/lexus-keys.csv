@@ -1,304 +1,304 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified
-Lexus,RX 350,2016,2020,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false
-Lexus,RX 350L,2019,2019,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false
-Lexus,RX 450h,2016,2020,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false
-Lexus,RX 450hL,2019,2019,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false
-Lexus,CT 200h,2011,2017,3-Button Smart Key,,HYQ14ACX,,89904-48481,Unconfirmed,false
-Lexus,RX 250,2010,2013,3-Button Smart Key,,HYQ14ACX,,89904-48481,Unconfirmed,false
-Lexus,RX 450h,2010,2013,3-Button Smart Key,,HYQ14ACX,,89904-48481,Unconfirmed,false
-Lexus,ES 350,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,GS 300,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,GS 350,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,GS 430,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,GS 450h,2006,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,GS 460,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,IS 250,2006,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,IS 350,2006,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,LS 460,2007,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,LS 600h,2007,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,ES 350,2011,2012,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false
-Lexus,IS 250,2012,2013,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false
-Lexus,IS 350,2012,2013,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false
-Lexus,IS C,2011,2012,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false
-Lexus,IS F,2011,2014,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false
-Lexus,LX 570,2016,2020,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false
-Lexus,NX 200t,2015,2020,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false
-Lexus,NX 300,2016,2019,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false
-Lexus,NX 300h,2015,2020,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false
-Lexus,ES 300h,2013,2018,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false
-Lexus,ES 350,2013,2017,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false
-Lexus,GS 350,2013,2020,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false
-Lexus,GS 450h,2013,2016,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false
-Lexus,GS F,2016,2018,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false
-Lexus,HS 250,2010,2012,4-Button Smart Key,,HYQ14ACX,,89904-50F90,Unconfirmed,false
-Lexus,LS 460,2010,2014,4-Button Smart Key,,HYQ14ACX,,89904-50F90,Unconfirmed,false
-Lexus,LS 600h,2010,2014,4-Button Smart Key,,HYQ14ACX,,89904-50F90,Unconfirmed,false
-Lexus,ES 300,1998,2001,Transponder Key,4C,TOY40,,,Unconfirmed,false
-Lexus,LS 400,1997,1997,Transponder Key,4C,TOY40,,,Unconfirmed,false
-Lexus,LX 470,1998,2000,Transponder Key,4C,TOY40,,,Unconfirmed,false
-Lexus,SC 300,1998,2000,Transponder Key,4C,TOY40,,,Unconfirmed,false
-Lexus,SC 400,1998,2000,Transponder Key,4C,TOY40,,,Unconfirmed,false
-Lexus,ES 300,2002,2003,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,GS 300,1998,2005,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,GS 400,1998,2000,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,GS 430,2001,2005,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,IS 300,2001,2005,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,LS 400,1998,2000,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,LX 470,2001,2002,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,RX 300,1999,2003,Transponder Key,4C,TOY48,,,Unconfirmed,false
-Lexus,ES 330,2004,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,GX 460,2003,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,GX 470,2003,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,LS 430,2001,2006,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,LX 470,2003,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,RX 330,2004,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,RX 350,2007,2009,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,RX 400H,2004,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,SC 430,2001,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false
-Lexus,ES 350,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,GS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,GS 450h,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,GS 460,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,HS 250,2012,2013,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,HS 250h,2010,2012,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,IS 250,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,IS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,IS C,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,LS 460,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,LS 600h,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false
-Lexus,CT 200h,2011,2014,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,GS 460,2010,2019,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,RX 350,2010,2015,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,RX 450h,2010,2015,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,RC F,2014,2019,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false
-Lexus,LX 570,2008,2016,4-Button Smart Key,,HYQ14AEM,,89904-60A00,Unconfirmed,false
-Lexus,RX 350,2012,2012,4-Button Smart Key,,HYQ14AEM,,89904-60A00,Unconfirmed,false
-Lexus,NX 200t,2015,2017,3-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false
-Lexus,NX 300h,2015,2019,3-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false
-Lexus,ES 330,2004,2007,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false
-Lexus,RX 330,2004,2006,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false
-Lexus,RX 350,2007,2009,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false
-Lexus,RX 400H,2006,2008,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false
-Lexus,RX 450h,2010,2010,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false
-Lexus,ES 300h,2019,2019,4-Button Smart Key,,HYQ14FBF,0440,8990H-33020,Unconfirmed,false
-Lexus,ES 350,2019,2019,4-Button Smart Key,,HYQ14FBF,0440,8990H-33020,Unconfirmed,false
-Lexus,ES 350h,2019,2019,4-Button Smart Key,,HYQ14FBF,0440,8990H-33020,Unconfirmed,false
-Lexus,LS 460,2013,2017,4-Button Smart Key,,HYQ14ACX,,89904-50N10,Unconfirmed,false
-Lexus,LS 600h,2013,2016,4-Button Smart Key,,HYQ14ACX,,89904-50N10,Unconfirmed,false
-Lexus,ES 350,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,GS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,GS 450h,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,GS 460,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,HS 250,2012,2013,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,HS 250h,2010,2012,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,IS,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,IS 250,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,IS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,LS 460,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,LS 600h,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false
-Lexus,LX 570,2008,2016,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false
-Lexus,GX 470,2003,2008,3-Button Remote Head Key,4D68,HYQ1512V,,,Unconfirmed,false
-Lexus,LX 470,2003,2008,3-Button Remote Head Key,4D68,HYQ1512V,,,Unconfirmed,false
-Lexus,ES 330,2004,2007,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false
-Lexus,RX 330,2004,2006,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false
-Lexus,RX 350,2007,2009,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false
-Lexus,RX 400H,2006,2008,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false
-Lexus,RX 450h,2010,2010,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false
-Lexus,ES 300,2002,2003,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false
-Lexus,GS 300,1998,2005,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false
-Lexus,GS 400,1998,2000,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false
-Lexus,GS 430,2001,2005,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false
-Lexus,IS 300,2001,2005,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false
-Lexus,LS 400,1998,2000,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false
-Lexus,GX 470,2003,2009,3-Button Remote Head Key,,,,89070-60801,Unconfirmed,false
-Lexus,LX 470,2003,2007,3-Button Remote Head Key,,,,89070-60801,Unconfirmed,false
-Lexus,ES 300,2000,2001,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false
-Lexus,GS 300,1998,2005,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false
-Lexus,SC 300,1998,2000,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false
-Lexus,SC 400,1998,2000,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false
-Lexus,ES 300,2002,2003,Transponder Key,,TOY48BT4,,,Unconfirmed,false
-Lexus,GS 300,1998,2005,Transponder Key,,TOY48BT4,,,Unconfirmed,false
-Lexus,GS 430,1998,2005,Transponder Key,,TOY48BT4,,,Unconfirmed,false
-Lexus,IS 300,2001,2005,Transponder Key,,TOY48BT4,,,Unconfirmed,false
-Lexus,LS 400,1998,2000,Transponder Key,,TOY48BT4,,,Unconfirmed,false
-Lexus,LX 470,2001,2002,Transponder Key,,TOY48BT4,,,Unconfirmed,false
-Lexus,RX 300,1998,2003,Transponder Key,,TOY48BT4,,,Unconfirmed,false
-Lexus,ES 300h,2013,2018,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,IS 200,2017,2017,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,IS 200T,2016,2017,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,IS 250,2014,2016,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,IS 350,2014,2018,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,RC 350,2015,2016,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,LX 570,2016,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false
-Lexus,NX 200t,2015,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false
-Lexus,NX 300,2019,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false
-Lexus,NX 300h,2015,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false
-Lexus,CT 200h,2011,2017,3-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,RX 350,2010,2013,3-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,RX 450h,2010,2013,3-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,RX 350,2012,2012,4-Button Smart Key,,HYQ14AEM,,,Unconfirmed,false
-Lexus,LS 430,2001,2006,3-Button Remote Head Key,,HYQ12BBK,,,Unconfirmed,false
-Lexus,SC 430,2002,2009,3-Button Remote Head Key,,HYQ12BBK,,,Unconfirmed,false
-Lexus,LX 470,1998,2000,3-Button Remote Head Key,,HYQ1512V,,,Unconfirmed,false
-Lexus,LX 470,2001,2002,3-Button Remote Head Key,,HYQ1512V,,,Unconfirmed,false
-Lexus,LX 570,2021,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false
-Lexus,NX 200t,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false
-Lexus,NX 300h,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false
-Lexus,RX 350,2021,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false
-Lexus,RX 450h,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false
-Lexus,RX 450hL,2021,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false
-Lexus,ES 330,2002,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,GX 470,2003,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,LS 400,2001,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,LS 430,2001,2006,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,LX 470,2003,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,RX 330,2004,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,RX 400H,2004,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,SC 430,2002,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false
-Lexus,NX 200t,2015,2020,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false
-Lexus,NX 300,2018,2021,3-Button Smart Key,,,,89904-78460,Unconfirmed,false
-Lexus,NX 300h,2015,2021,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false
-Lexus,ES 300h,2013,2018,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false
-Lexus,ES 350,2013,2018,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false
-Lexus,GS 200t,2016,2017,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false
-Lexus,GS 350,2013,2020,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false
-Lexus,GS 450h,2013,2015,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false
-Lexus,IS 300,2017,2020,4-Button Smart Key,,,,89904-53651,Unconfirmed,false
-Lexus,IS 350,2014,2020,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,RC 200T,2016,2017,4-Button Smart Key,,,,89904-53651,Unconfirmed,false
-Lexus,RC 300,2016,2020,4-Button Smart Key,,,,89904-53651,Unconfirmed,false
-Lexus,RC 350,2015,2020,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false
-Lexus,ES 300,1998,2001,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,LS 400,1997,1997,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,LS 430,1997,1997,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,LX 450,1998,1998,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,LX 470,1998,2000,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,SC 300,1998,2000,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,SC 400,1998,2000,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,SC 430,1998,2001,Transponder Key,,TOY40BT4,,,Unconfirmed,false
-Lexus,RC F,2014,2020,4-Button Smart Key,,HYQ14FBA,2110,89904-24100,Unconfirmed,false
-Lexus,NX 200t,2015,2017,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false
-Lexus,NX 300h,2015,2019,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false
-Lexus,RX 350,2011,2012,4-Button Smart Key,,HYQ14AEM,,89904-60A00,Unconfirmed,false
-Lexus,UX 200,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76590,Unconfirmed,false
-Lexus,UX 250h,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76590,Unconfirmed,false
-Lexus,UX 200,2019,2020,3-Button Smart Key,,HYQ14FBF,,8990H-76010,Unconfirmed,false
-Lexus,UX 250h,2019,2021,3-Button Smart Key,,HYQ14FBF,,8990H-76010,Unconfirmed,false
-Lexus,UX 200,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76610,Unconfirmed,false
-Lexus,UX 250h,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76610,Unconfirmed,false
-Lexus,IS 300,2020,2023,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,IS 350,2020,2023,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,RC 200T,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,RC 300,2020,2024,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,RC 350,2020,2024,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,RC F,2020,2024,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,NX,2022,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false
-Lexus,NX 200t,2020,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false
-Lexus,NX 300h,2020,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false
-Lexus,RZ,2024,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false
-Lexus,UX,2024,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false
-Lexus,LX 600,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,LX 700h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,NX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,NX 250,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,NX 350,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,NX 350h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,NX 450h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,RX 350,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,RX 450h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,RX 500h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,TX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false
-Lexus,LX,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false
-Lexus,NX,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false
-Lexus,NX 250,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false
-Lexus,NX 350,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false
-Lexus,NX 350h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false
-Lexus,NX 450h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false
-Lexus,RX,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false
-Lexus,LX 600,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78021,Unconfirmed,false
-Lexus,NX,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78021,Unconfirmed,false
-Lexus,NX F Sport,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78021,Unconfirmed,false
-Lexus,TX,2025,2026,4-Button Smart Key,,HYQ14FLD,,8990H-0EA20,Unconfirmed,false
-Lexus,HS 250,2010,2012,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,HS 250h,2010,2012,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,LS 460,2010,2014,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,LS 600h,2010,2014,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false
-Lexus,RX 300,1999,2003,3-Button Remote Head Key,,,,89070-48020,Unconfirmed,false
-Lexus,ES 250,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false
-Lexus,ES 300h,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false
-Lexus,ES 350,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false
-Lexus,ES 350h,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false
-Lexus,LS 500,2020,2023,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false
-Lexus,LS 500,2018,2020,4-Button Smart Key,,HYQ14FBF,,8990H-50020,Unconfirmed,false
-Lexus,IS 300,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,IS 350,2021,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,RC 300,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,RC 350,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,RC F,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false
-Lexus,NX 300,2020,2022,3-Button Smart Key,,HYQ14FLB,,89904-78G50,Unconfirmed,false
-Lexus,NX 300h,2020,2022,3-Button Smart Key,,HYQ14FLB,,89904-78G50,Unconfirmed,false
-Lexus,CT 200h,2011,2014,4-Button Smart Key,,HYQ14ACX,5290,89904-0E031,Unconfirmed,false
-Lexus,RX 350,2010,2015,4-Button Smart Key,,HYQ14ACX,5290,89904-0E031,Unconfirmed,false
-Lexus,RX 450h,2010,2015,4-Button Smart Key,,HYQ14ACX,5290,89904-0E031,Unconfirmed,false
-Lexus,ES 250,2021,2025,4-Button Smart Key,,HYQ14FBZ,,8990H-06020,Unconfirmed,false
-Lexus,NX 300h,2020,2021,3-Button Smart Key,,HYQ14FLB,,89904-78G30,Unconfirmed,false
-Lexus,ES 300h,2018,2020,4-Button Smart Key,,HYQ14FBF,,8990H-33020,Unconfirmed,false
-Lexus,NX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false
-Lexus,RX 350,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false
-Lexus,RX 450h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false
-Lexus,RX 500h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false
-Lexus,TX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false
-Lexus,GX 460,2010,2020,4-Button Smart Key,,HYQ14ACX,,89904-60590,Unconfirmed,false
-Lexus,RC 350,2015,2020,4-Button Smart Key,,HYQ14FBA,,89904-24100,Unconfirmed,false
-Lexus,RC F,2014,2020,4-Button Smart Key,,HYQ14FBA,,89904-24100,Unconfirmed,false
-Lexus,GX 460,2021,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false
-Lexus,GX 550,2024,2025,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false
-Lexus,LX 600,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false
-Lexus,NX 300h,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false
-Lexus,RX 350,2023,2025,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false
-Lexus,RX 500h,2023,2025,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false
-Lexus,CT 200h,2011,2017,3-Button Smart Key,,HYQ14ACX,5290,89904-48481,Unconfirmed,false
-Lexus,RX 350,2010,2013,3-Button Smart Key,,HYQ14ACX,5290,89904-48481,Unconfirmed,false
-Lexus,RX 450h,2010,2013,3-Button Smart Key,,HYQ14ACX,5290,89904-48481,Unconfirmed,false
-Lexus,UX 200,2019,2020,4-Button Smart Key,,HYQ14FBF,,8990H-76040,Unconfirmed,false
-Lexus,UX 250h,2019,2020,3-Button Smart Key,,HYQ14FBF,,8990H-76010,Unconfirmed,false
-Lexus,GX 460,2021,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-60010,Unconfirmed,false
-Lexus,GX 460,2021,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78020,Unconfirmed,false
-Lexus,IS 300,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false
-Lexus,LC 500,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false
-Lexus,LX 570,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false
-Lexus,NX 300,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false
-Lexus,NX 300h,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false
-Lexus,RC 200T,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false
-Lexus,RC 300,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false
-Lexus,IS,2017,2017,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,IS 200T,2016,2016,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,IS 250,2014,2015,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,IS 300,2016,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,IS 350,2014,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,LX 570,2015,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,NX 200t,2015,2017,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,NX 300,2018,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,NX 300h,2015,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,RC,2017,2017,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,RC 300,2016,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,RC 350,2015,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,RX 200T,2016,2016,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false
-Lexus,LC 500,2024,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-11010,Unconfirmed,false
-Lexus,LC 500,2018,2021,4-Button Smart Key,,HYQ14FBF,0440,89904-11190,Unconfirmed,false
-Lexus,LC 500h,2018,2021,4-Button Smart Key,,HYQ14FBF,0440,89904-11190,Unconfirmed,false
-Lexus,NX,2023,2024,Smart Key Wallet Card,,HYQ14CCP,,8990H-78621,Unconfirmed,false
-Lexus,TX,2024,2024,Smart Key Wallet Card,,HYQ14CCP,,8990H-78621,Unconfirmed,false
-Lexus,GX 550,2024,2024,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false
-Lexus,LX 600,2022,2024,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false
-Lexus,NX,2021,2022,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false
-Lexus,TX,2024,2024,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false
-Lexus,LS 430,2003,2006,3-Button Smart Key,,HYQ12BZE,,89994-50241,Unconfirmed,false
-Lexus,RX 350,2021,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false
-Lexus,RX 350L,2022,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false
-Lexus,RX 450h,2021,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false
-Lexus,RX 450hL,2022,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false
-Lexus,NX 350h,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6100,Unconfirmed,false
-Lexus,LX 600,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6031,Unconfirmed,false
-Lexus,NX,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6031,Unconfirmed,false
-Lexus,NX F,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6031,Unconfirmed,false
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,frequency
+Lexus,RX 350,2016,2020,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false,315 MHz
+Lexus,RX 350L,2019,2019,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false,315 MHz
+Lexus,RX 450h,2016,2020,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false,315 MHz
+Lexus,RX 450hL,2019,2019,4-Button Smart Key,,HYQ14FBB,0010,89904-0E160,Unconfirmed,false,315 MHz
+Lexus,CT 200h,2011,2017,3-Button Smart Key,,HYQ14ACX,,89904-48481,Unconfirmed,false,
+Lexus,RX 250,2010,2013,3-Button Smart Key,,HYQ14ACX,,89904-48481,Unconfirmed,false,
+Lexus,RX 450h,2010,2013,3-Button Smart Key,,HYQ14ACX,,89904-48481,Unconfirmed,false,
+Lexus,ES 350,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,GS 300,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,GS 350,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,GS 430,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,GS 450h,2006,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,GS 460,2005,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,IS 250,2006,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,IS 350,2006,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,LS 460,2007,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,LS 600h,2007,2008,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,ES 350,2011,2012,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false,315 MHz
+Lexus,IS 250,2012,2013,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false,315 MHz
+Lexus,IS 350,2012,2013,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false,315 MHz
+Lexus,IS C,2011,2012,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false,315 MHz
+Lexus,IS F,2011,2014,4-Button Smart Key,,HYQ14AEM,,89904-30C60,Unconfirmed,false,315 MHz
+Lexus,LX 570,2016,2020,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false,315 MHz
+Lexus,NX 200t,2015,2020,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false,315 MHz
+Lexus,NX 300,2016,2019,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false,315 MHz
+Lexus,NX 300h,2015,2020,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false,315 MHz
+Lexus,ES 300h,2013,2018,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false,315 MHz
+Lexus,ES 350,2013,2017,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false,315 MHz
+Lexus,GS 350,2013,2020,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false,315 MHz
+Lexus,GS 450h,2013,2016,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false,315 MHz
+Lexus,GS F,2016,2018,4-Button Smart Key,,HYQ14FBA,0020,,Unconfirmed,false,315 MHz
+Lexus,HS 250,2010,2012,4-Button Smart Key,,HYQ14ACX,,89904-50F90,Unconfirmed,false,
+Lexus,LS 460,2010,2014,4-Button Smart Key,,HYQ14ACX,,89904-50F90,Unconfirmed,false,
+Lexus,LS 600h,2010,2014,4-Button Smart Key,,HYQ14ACX,,89904-50F90,Unconfirmed,false,
+Lexus,ES 300,1998,2001,Transponder Key,4C,TOY40,,,Unconfirmed,false,
+Lexus,LS 400,1997,1997,Transponder Key,4C,TOY40,,,Unconfirmed,false,
+Lexus,LX 470,1998,2000,Transponder Key,4C,TOY40,,,Unconfirmed,false,
+Lexus,SC 300,1998,2000,Transponder Key,4C,TOY40,,,Unconfirmed,false,
+Lexus,SC 400,1998,2000,Transponder Key,4C,TOY40,,,Unconfirmed,false,
+Lexus,ES 300,2002,2003,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,GS 300,1998,2005,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,GS 400,1998,2000,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,GS 430,2001,2005,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,IS 300,2001,2005,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,LS 400,1998,2000,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,LX 470,2001,2002,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,RX 300,1999,2003,Transponder Key,4C,TOY48,,,Unconfirmed,false,
+Lexus,ES 330,2004,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,GX 460,2003,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,GX 470,2003,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,LS 430,2001,2006,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,LX 470,2003,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,RX 330,2004,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,RX 350,2007,2009,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,RX 400H,2004,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,SC 430,2001,2010,Transponder Key,4D,TOY50,,,Unconfirmed,false,
+Lexus,ES 350,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,GS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,GS 450h,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,GS 460,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,HS 250,2012,2013,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,HS 250h,2010,2012,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,IS 250,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,IS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,IS C,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,LS 460,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,LS 600h,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,89904-50380,Unconfirmed,false,315 MHz
+Lexus,CT 200h,2011,2014,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,GS 460,2010,2019,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,RX 350,2010,2015,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,RX 450h,2010,2015,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,RC F,2014,2019,4-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false,315 MHz
+Lexus,LX 570,2008,2016,4-Button Smart Key,,HYQ14AEM,,89904-60A00,Unconfirmed,false,315 MHz
+Lexus,RX 350,2012,2012,4-Button Smart Key,,HYQ14AEM,,89904-60A00,Unconfirmed,false,315 MHz
+Lexus,NX 200t,2015,2017,3-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false,315 MHz
+Lexus,NX 300h,2015,2019,3-Button Smart Key,,HYQ14FBA,2110,,Unconfirmed,false,315 MHz
+Lexus,ES 330,2004,2007,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false,315 MHz
+Lexus,RX 330,2004,2006,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false,315 MHz
+Lexus,RX 350,2007,2009,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false,315 MHz
+Lexus,RX 400H,2006,2008,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false,315 MHz
+Lexus,RX 450h,2010,2010,3-Button Remote Head Key,,HYQ12BBT,,,Unconfirmed,false,315 MHz
+Lexus,ES 300h,2019,2019,4-Button Smart Key,,HYQ14FBF,0440,8990H-33020,Unconfirmed,false,
+Lexus,ES 350,2019,2019,4-Button Smart Key,,HYQ14FBF,0440,8990H-33020,Unconfirmed,false,
+Lexus,ES 350h,2019,2019,4-Button Smart Key,,HYQ14FBF,0440,8990H-33020,Unconfirmed,false,
+Lexus,LS 460,2013,2017,4-Button Smart Key,,HYQ14ACX,,89904-50N10,Unconfirmed,false,
+Lexus,LS 600h,2013,2016,4-Button Smart Key,,HYQ14ACX,,89904-50N10,Unconfirmed,false,
+Lexus,ES 350,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,GS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,GS 450h,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,GS 460,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,HS 250,2012,2013,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,HS 250h,2010,2012,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,IS,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,IS 250,2009,2012,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,IS 350,2009,2011,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,LS 460,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,LS 600h,2009,2009,4-Button Smart Key,,HYQ14AAB,3370,,Unconfirmed,false,315 MHz
+Lexus,LX 570,2008,2016,4-Button Smart Key,,HYQ14AAB,0140,89904-30270,Unconfirmed,false,315 MHz
+Lexus,GX 470,2003,2008,3-Button Remote Head Key,4D68,HYQ1512V,,,Unconfirmed,false,315 MHz
+Lexus,LX 470,2003,2008,3-Button Remote Head Key,4D68,HYQ1512V,,,Unconfirmed,false,315 MHz
+Lexus,ES 330,2004,2007,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false,315 MHz
+Lexus,RX 330,2004,2006,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false,315 MHz
+Lexus,RX 350,2007,2009,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false,315 MHz
+Lexus,RX 400H,2006,2008,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false,315 MHz
+Lexus,RX 450h,2010,2010,3-Button Remote Head Key,,HYQ12BBT,,89070-48821,Unconfirmed,false,315 MHz
+Lexus,ES 300,2002,2003,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false,
+Lexus,GS 300,1998,2005,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false,
+Lexus,GS 400,1998,2000,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false,
+Lexus,GS 430,2001,2005,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false,
+Lexus,IS 300,2001,2005,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false,
+Lexus,LS 400,1998,2000,3-Button Remote Head Key,,,,89070-53531,Unconfirmed,false,
+Lexus,GX 470,2003,2009,3-Button Remote Head Key,,,,89070-60801,Unconfirmed,false,
+Lexus,LX 470,2003,2007,3-Button Remote Head Key,,,,89070-60801,Unconfirmed,false,
+Lexus,ES 300,2000,2001,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false,
+Lexus,GS 300,1998,2005,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false,
+Lexus,SC 300,1998,2000,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false,
+Lexus,SC 400,1998,2000,3-Button Remote Head Key,,,,89070-50170,Unconfirmed,false,
+Lexus,ES 300,2002,2003,Transponder Key,,TOY48BT4,,,Unconfirmed,false,
+Lexus,GS 300,1998,2005,Transponder Key,,TOY48BT4,,,Unconfirmed,false,
+Lexus,GS 430,1998,2005,Transponder Key,,TOY48BT4,,,Unconfirmed,false,
+Lexus,IS 300,2001,2005,Transponder Key,,TOY48BT4,,,Unconfirmed,false,
+Lexus,LS 400,1998,2000,Transponder Key,,TOY48BT4,,,Unconfirmed,false,
+Lexus,LX 470,2001,2002,Transponder Key,,TOY48BT4,,,Unconfirmed,false,
+Lexus,RX 300,1998,2003,Transponder Key,,TOY48BT4,,,Unconfirmed,false,
+Lexus,ES 300h,2013,2018,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,IS 200,2017,2017,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,IS 200T,2016,2017,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,IS 250,2014,2016,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,IS 350,2014,2018,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,RC 350,2015,2016,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,LX 570,2016,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false,315 MHz
+Lexus,NX 200t,2015,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false,315 MHz
+Lexus,NX 300,2019,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false,315 MHz
+Lexus,NX 300h,2015,2019,4-Button Smart Key,,HYQ14FBA,2020,,Unconfirmed,false,315 MHz
+Lexus,CT 200h,2011,2017,3-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,RX 350,2010,2013,3-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,RX 450h,2010,2013,3-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,RX 350,2012,2012,4-Button Smart Key,,HYQ14AEM,,,Unconfirmed,false,315 MHz
+Lexus,LS 430,2001,2006,3-Button Remote Head Key,,HYQ12BBK,,,Unconfirmed,false,
+Lexus,SC 430,2002,2009,3-Button Remote Head Key,,HYQ12BBK,,,Unconfirmed,false,
+Lexus,LX 470,1998,2000,3-Button Remote Head Key,,HYQ1512V,,,Unconfirmed,false,315 MHz
+Lexus,LX 470,2001,2002,3-Button Remote Head Key,,HYQ1512V,,,Unconfirmed,false,315 MHz
+Lexus,LX 570,2021,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false,315 MHz
+Lexus,NX 200t,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false,315 MHz
+Lexus,NX 300h,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false,315 MHz
+Lexus,RX 350,2021,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false,315 MHz
+Lexus,RX 450h,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false,315 MHz
+Lexus,RX 450hL,2021,2021,4-Button Smart Key,,HYQ14FLB,,89904-0E180,Unconfirmed,false,315 MHz
+Lexus,ES 330,2002,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,GX 470,2003,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,LS 400,2001,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,LS 430,2001,2006,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,LX 470,2003,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,RX 330,2004,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,RX 400H,2004,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,SC 430,2002,2010,Transponder Key,,TOY50-PT,,,Unconfirmed,false,
+Lexus,NX 200t,2015,2020,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false,315 MHz
+Lexus,NX 300,2018,2021,3-Button Smart Key,,,,89904-78460,Unconfirmed,false,
+Lexus,NX 300h,2015,2021,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false,315 MHz
+Lexus,ES 300h,2013,2018,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false,315 MHz
+Lexus,ES 350,2013,2018,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false,315 MHz
+Lexus,GS 200t,2016,2017,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false,315 MHz
+Lexus,GS 350,2013,2020,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false,315 MHz
+Lexus,GS 450h,2013,2015,4-Button Smart Key,,HYQ14FBA,,,Unconfirmed,false,315 MHz
+Lexus,IS 300,2017,2020,4-Button Smart Key,,,,89904-53651,Unconfirmed,false,
+Lexus,IS 350,2014,2020,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,RC 200T,2016,2017,4-Button Smart Key,,,,89904-53651,Unconfirmed,false,
+Lexus,RC 300,2016,2020,4-Button Smart Key,,,,89904-53651,Unconfirmed,false,
+Lexus,RC 350,2015,2020,4-Button Smart Key,,HYQ14FBA,,89904-53651,Unconfirmed,false,315 MHz
+Lexus,ES 300,1998,2001,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,LS 400,1997,1997,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,LS 430,1997,1997,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,LX 450,1998,1998,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,LX 470,1998,2000,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,SC 300,1998,2000,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,SC 400,1998,2000,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,SC 430,1998,2001,Transponder Key,,TOY40BT4,,,Unconfirmed,false,
+Lexus,RC F,2014,2020,4-Button Smart Key,,HYQ14FBA,2110,89904-24100,Unconfirmed,false,315 MHz
+Lexus,NX 200t,2015,2017,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false,315 MHz
+Lexus,NX 300h,2015,2019,3-Button Smart Key,,HYQ14FBA,,89904-78460,Unconfirmed,false,315 MHz
+Lexus,RX 350,2011,2012,4-Button Smart Key,,HYQ14AEM,,89904-60A00,Unconfirmed,false,315 MHz
+Lexus,UX 200,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76590,Unconfirmed,false,315 MHz
+Lexus,UX 250h,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76590,Unconfirmed,false,315 MHz
+Lexus,UX 200,2019,2020,3-Button Smart Key,,HYQ14FBF,,8990H-76010,Unconfirmed,false,
+Lexus,UX 250h,2019,2021,3-Button Smart Key,,HYQ14FBF,,8990H-76010,Unconfirmed,false,
+Lexus,UX 200,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76610,Unconfirmed,false,315 MHz
+Lexus,UX 250h,2020,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-76610,Unconfirmed,false,315 MHz
+Lexus,IS 300,2020,2023,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,IS 350,2020,2023,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,RC 200T,2020,2021,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,RC 300,2020,2024,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,RC 350,2020,2024,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,RC F,2020,2024,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,NX,2022,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false,
+Lexus,NX 200t,2020,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false,
+Lexus,NX 300h,2020,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false,
+Lexus,RZ,2024,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false,
+Lexus,UX,2024,2026,3-Button Smart Key,,HYQ14FLC,,8990H-78010,Unconfirmed,false,
+Lexus,LX 600,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,LX 700h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,NX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,NX 250,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,NX 350,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,NX 350h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,NX 450h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,RX 350,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,RX 450h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,RX 500h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,TX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-78A90,Unconfirmed,false,
+Lexus,LX,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false,
+Lexus,NX,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false,
+Lexus,NX 250,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false,
+Lexus,NX 350,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false,
+Lexus,NX 350h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false,
+Lexus,NX 450h,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false,
+Lexus,RX,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78640,Unconfirmed,false,
+Lexus,LX 600,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78021,Unconfirmed,false,
+Lexus,NX,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78021,Unconfirmed,false,
+Lexus,NX F Sport,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78021,Unconfirmed,false,
+Lexus,TX,2025,2026,4-Button Smart Key,,HYQ14FLD,,8990H-0EA20,Unconfirmed,false,433 MHz
+Lexus,HS 250,2010,2012,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,HS 250h,2010,2012,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,LS 460,2010,2014,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,LS 600h,2010,2014,4-Button Smart Key,,HYQ14ACX,,,Unconfirmed,false,
+Lexus,RX 300,1999,2003,3-Button Remote Head Key,,,,89070-48020,Unconfirmed,false,
+Lexus,ES 250,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false,315 MHz
+Lexus,ES 300h,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false,315 MHz
+Lexus,ES 350,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false,315 MHz
+Lexus,ES 350h,2020,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false,315 MHz
+Lexus,LS 500,2020,2023,4-Button Smart Key,,HYQ14FBZ,,8990H-06021,Unconfirmed,false,315 MHz
+Lexus,LS 500,2018,2020,4-Button Smart Key,,HYQ14FBF,,8990H-50020,Unconfirmed,false,
+Lexus,IS 300,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,IS 350,2021,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,RC 300,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,RC 350,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,RC F,2020,2022,4-Button Smart Key,,HYQ14FLB,,89904-53E70,Unconfirmed,false,315 MHz
+Lexus,NX 300,2020,2022,3-Button Smart Key,,HYQ14FLB,,89904-78G50,Unconfirmed,false,315 MHz
+Lexus,NX 300h,2020,2022,3-Button Smart Key,,HYQ14FLB,,89904-78G50,Unconfirmed,false,315 MHz
+Lexus,CT 200h,2011,2014,4-Button Smart Key,,HYQ14ACX,5290,89904-0E031,Unconfirmed,false,
+Lexus,RX 350,2010,2015,4-Button Smart Key,,HYQ14ACX,5290,89904-0E031,Unconfirmed,false,
+Lexus,RX 450h,2010,2015,4-Button Smart Key,,HYQ14ACX,5290,89904-0E031,Unconfirmed,false,
+Lexus,ES 250,2021,2025,4-Button Smart Key,,HYQ14FBZ,,8990H-06020,Unconfirmed,false,315 MHz
+Lexus,NX 300h,2020,2021,3-Button Smart Key,,HYQ14FLB,,89904-78G30,Unconfirmed,false,315 MHz
+Lexus,ES 300h,2018,2020,4-Button Smart Key,,HYQ14FBF,,8990H-33020,Unconfirmed,false,
+Lexus,NX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false,
+Lexus,RX 350,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false,
+Lexus,RX 450h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false,
+Lexus,RX 500h,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false,
+Lexus,TX,2025,2026,4-Button Smart Key,,HYQ14FLC,,8990H-F6080,Unconfirmed,false,
+Lexus,GX 460,2010,2020,4-Button Smart Key,,HYQ14ACX,,89904-60590,Unconfirmed,false,
+Lexus,RC 350,2015,2020,4-Button Smart Key,,HYQ14FBA,,89904-24100,Unconfirmed,false,315 MHz
+Lexus,RC F,2014,2020,4-Button Smart Key,,HYQ14FBA,,89904-24100,Unconfirmed,false,315 MHz
+Lexus,GX 460,2021,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false,
+Lexus,GX 550,2024,2025,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false,
+Lexus,LX 600,2022,2023,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false,
+Lexus,NX 300h,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false,
+Lexus,RX 350,2023,2025,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false,
+Lexus,RX 500h,2023,2025,4-Button Smart Key,,HYQ14FLC,,8990H-78022,Unconfirmed,false,
+Lexus,CT 200h,2011,2017,3-Button Smart Key,,HYQ14ACX,5290,89904-48481,Unconfirmed,false,
+Lexus,RX 350,2010,2013,3-Button Smart Key,,HYQ14ACX,5290,89904-48481,Unconfirmed,false,
+Lexus,RX 450h,2010,2013,3-Button Smart Key,,HYQ14ACX,5290,89904-48481,Unconfirmed,false,
+Lexus,UX 200,2019,2020,4-Button Smart Key,,HYQ14FBF,,8990H-76040,Unconfirmed,false,
+Lexus,UX 250h,2019,2020,3-Button Smart Key,,HYQ14FBF,,8990H-76010,Unconfirmed,false,
+Lexus,GX 460,2021,2022,4-Button Smart Key,,HYQ14FBZ,,8990H-60010,Unconfirmed,false,315 MHz
+Lexus,GX 460,2021,2022,4-Button Smart Key,,HYQ14FLC,,8990H-78020,Unconfirmed,false,
+Lexus,IS 300,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false,
+Lexus,LC 500,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false,
+Lexus,LX 570,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false,
+Lexus,NX 300,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false,
+Lexus,NX 300h,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false,
+Lexus,RC 200T,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false,
+Lexus,RC 300,2020,2021,SmartAccess Card Key,,HYQ14CBM,,89904-48X70,Unconfirmed,false,
+Lexus,IS,2017,2017,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,IS 200T,2016,2016,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,IS 250,2014,2015,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,IS 300,2016,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,IS 350,2014,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,LX 570,2015,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,NX 200t,2015,2017,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,NX 300,2018,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,NX 300h,2015,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,RC,2017,2017,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,RC 300,2016,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,RC 350,2015,2019,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,RX 200T,2016,2016,Smart Key Wallet Card,,HYQ14CBB,,89904-53511,Unconfirmed,false,
+Lexus,LC 500,2024,2024,4-Button Smart Key,,HYQ14FBZ,,8990H-11010,Unconfirmed,false,315 MHz
+Lexus,LC 500,2018,2021,4-Button Smart Key,,HYQ14FBF,0440,89904-11190,Unconfirmed,false,
+Lexus,LC 500h,2018,2021,4-Button Smart Key,,HYQ14FBF,0440,89904-11190,Unconfirmed,false,
+Lexus,NX,2023,2024,Smart Key Wallet Card,,HYQ14CCP,,8990H-78621,Unconfirmed,false,
+Lexus,TX,2024,2024,Smart Key Wallet Card,,HYQ14CCP,,8990H-78621,Unconfirmed,false,
+Lexus,GX 550,2024,2024,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false,315 MHz
+Lexus,LX 600,2022,2024,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false,315 MHz
+Lexus,NX,2021,2022,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false,315 MHz
+Lexus,TX,2024,2024,Smart Key Wallet Card,,HYQ14CBP,,8990H-78491,Unconfirmed,false,315 MHz
+Lexus,LS 430,2003,2006,3-Button Smart Key,,HYQ12BZE,,89994-50241,Unconfirmed,false,315 MHz
+Lexus,RX 350,2021,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false,315 MHz
+Lexus,RX 350L,2022,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false,315 MHz
+Lexus,RX 450h,2021,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false,315 MHz
+Lexus,RX 450hL,2022,2022,4-Button Smart Key,,HYQ14FLB,,8990H-0E290,Unconfirmed,false,315 MHz
+Lexus,NX 350h,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6100,Unconfirmed,false,
+Lexus,LX 600,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6031,Unconfirmed,false,
+Lexus,NX,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6031,Unconfirmed,false,
+Lexus,NX F,2022,2022,4-Button Smart Key,,HYQ14FLC,,8990H-F6031,Unconfirmed,false,

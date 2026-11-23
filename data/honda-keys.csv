@@ -1,354 +1,354 @@
-make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons
-Honda,Accord,2008,2012,4-Button Remote Head Key,,KR55WK49308,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Pilot,2009,2015,4-Button Remote Head Key,,KR55WK49308,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2017,2020,4-Button Smart Key,,KR5V2X,,72147-TBA-A011-M1,Unconfirmed,false,
-Honda,Accord,2016,2017,4-Button Remote Head Key,,MLBHLIK6-1TA,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2016,2020,4-Button Remote Head Key,,MLBHLIK6-1TA,,,Unconfirmed,false,
-Honda,Accord,2003,2007,4-Button Remote Head Key,,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Element,2010,2010,4-Button Remote Head Key,,OUCG8D-380H-A,,,Unconfirmed,false,
-Honda,Civic,2016,2021,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,
-Honda,Pilot,2005,2008,3-Button Remote Head Key,,CWTWB1U545,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Acura,CSX,2006,2011,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,
-Acura,MDX,2007,2013,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Acura,RDX,2008,2009,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Civic,2006,2013,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Odyssey,2011,2017,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Fit,2006,2008,Transponder Key,,HD113,,,Unconfirmed,false,
-Honda,S2000,2000,2009,Transponder Key,,HD113,,,Unconfirmed,false,
-Honda,CR-V,2002,2006,Transponder Key,,HO01,,,Unconfirmed,false,
-Honda,Civic,2003,2005,Transponder Key,,HO01,,,Unconfirmed,false,
-Honda,Element,2003,2005,Transponder Key,,HO01,,,Unconfirmed,false,
-Honda,Odyssey,2003,2004,Transponder Key,,HO01,,,Unconfirmed,false,
-Honda,Pilot,2003,2005,Transponder Key,,HO01,,,Unconfirmed,false,
-Honda,S2000,2004,2005,Transponder Key,,HO01,,,Unconfirmed,false,
-Acura,CSX,2006,2010,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Acura,EL,2001,2005,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Acura,MDX,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Acura,RDX,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Acura,RL,2010,2012,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Acura,TL,2007,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Acura,TSX,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Acura,ZDX,2010,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Accord,2003,2012,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,CR-V,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,CR-Z,2011,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Civic,2006,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Crosstour,2010,2012,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Element,2006,2011,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Fit,2007,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Insight,2010,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Odyssey,2005,2016,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Pilot,2005,2015,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Ridgeline,2006,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,S2000,2008,2009,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,
-Honda,Accord,2013,2017,Transponder Key,G Chip,HO05,,,Unconfirmed,false,
-Honda,CR-V,2014,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,
-Honda,Civic,2014,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,
-Honda,Crosstour,2013,2014,Transponder Key,G Chip,HO05,,,Unconfirmed,false,
-Honda,Fit,2015,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,
-Honda,HR-V,2016,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,
-Honda,Accord,2008,2012,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-V,2007,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-Z,2011,2015,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Fit,2009,2014,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Insight,2010,2014,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Acura,MDX,2007,2013,4-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2006,2013,4-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Fit,2007,2008,3-Button Remote Head Key,46,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Odyssey,2005,2010,3-Button Remote Head Key,46,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Ridgeline,2006,2014,3-Button Remote Head Key,46,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-V,2005,2006,3-Button Remote Head Key,Megamos ID 13,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Acura,TL,2009,2014,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Acura,TSX,2009,2014,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Acura,ZDX,2010,2013,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,2008,2012,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,CR-V,2009,2012,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,
-Honda,Fit,2009,2013,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Odyssey,2011,2013,6-Button Remote Head Key,,N5F-A04TAA,,35118-TK8-A20,Unconfirmed,false,
-Honda,Fit,2015,2017,3-Button Smart Key,,KR5V1X,,72147-T5A-A01,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,HR-V,2016,2017,3-Button Smart Key,,KR5V1X,,72147-T5A-A01,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Odyssey,2014,2017,6-Button Smart Key,,KR5V1X,,72147-TK8-A51,Unconfirmed,false,
-Honda,Fit,2018,2020,4-Button Smart Key,,KR5V1X,,72147-T7S-A01,Unconfirmed,false,
-Honda,HR-V,2016,2022,4-Button Smart Key,,KR5V1X,,72147-T7S-A01,Unconfirmed,false,
-Honda,Accord,2013,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2014,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,2018,2020,4-Button Smart Key,,CWTWB1G0090,,72147-TVA-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2001,2005,3-Button Keyless Entry Remote,,NHVWB1U523,,72147-S5A-A01,Unconfirmed,false,
-Honda,Element,2004,2006,3-Button Keyless Entry Remote,,NHVWB1U523,,72147-S5A-A01,Unconfirmed,false,
-Honda,Pilot,2003,2007,3-Button Keyless Entry Remote,,NHVWB1U523,,72147-S5A-A01,Unconfirmed,false,
-Honda,CR-V,2002,2004,4-Button Keyless Entry Remote,,OUCG8D-344H-A,,72147-S9A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Odyssey,2001,2004,5-Button Keyless Entry Remote,,OUCG8D-440H-A,,72147-S0X-A02,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Honda,Accord,2013,2022,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,CR-V,2015,2022,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,CR-Z,2016,2016,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Civic,2014,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Clarity,2018,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Crosstour,2013,2016,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Fit,2015,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,HR-V,2016,2022,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Insight,2019,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Odyssey,2014,2023,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Pilot,2016,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Ridgeline,2017,2025,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,CR-V,2015,2016,4-Button Smart Key,,ACJ932HK1210A,,72147-T0A-A11,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Crosstour,2013,2015,3-Button Smart Key,,ACJ932HK1210A,,72147-TP6-A61,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Odyssey,2005,2010,5-Button Keyless Entry Remote,,OUCG8D-399H-A,,,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Honda,Odyssey,2005,2010,6-Button Keyless Entry Remote,,OUCG8D-399H-A,,,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch, Right Sliding Door, Left Sliding Door"
-Honda,Odyssey,2018,2020,7-Button Smart Key,,KR5V2X,,72147-THR-A11,Unconfirmed,false,
-Honda,Civic,2018,2019,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,
-Honda,Odyssey,2018,2020,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Pilot,2016,2018,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Ridgeline,2018,2018,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,
-Honda,Accord,2018,2022,5-Button Smart Key,,CWTWB1G0090,,72147-TVA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,Clarity,2018,2021,6-Button Smart Key,,KR5V2X,,72147-TRW-A01,Unconfirmed,false,
-Honda,CR-V,2007,2011,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-Z,2011,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Crosstour,2008,2012,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Fit,2009,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Insight,2010,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Odyssey,2011,2016,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Civic,2006,2011,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Accord,2003,2007,4-Button Remote Head Key,,,,35118-SDA-A11,Unconfirmed,false,
-Honda,Element,2010,2010,4-Button Remote Head Key,,,,35118-SDA-A11,Unconfirmed,false,
-Honda,Accord,2013,2015,4-Button Remote Head Key,,,,35118-T2A-A20,Unconfirmed,false,
-Honda,Civic,2014,2015,4-Button Remote Head Key,,,,35118-T2A-A20,Unconfirmed,false,
-Honda,Accord,2008,2012,4-Button Remote Head Key,,,,35118-TA0-A00,Unconfirmed,false,
-Honda,Pilot,2009,2015,4-Button Remote Head Key,,,,35118-TA0-A00,Unconfirmed,false,
-Honda,Civic,2006,2011,4-Button Remote Head Key,,,,35111-SVA-306,Unconfirmed,false,
-Honda,Fit,2007,2008,3-Button Remote Head Key,,,,35111-SHJ-305,Unconfirmed,false,
-Honda,Odyssey,2005,2010,3-Button Remote Head Key,,,,35111-SHJ-305,Unconfirmed,false,
-Honda,Ridgeline,2006,2014,3-Button Remote Head Key,,,,35111-SHJ-305,Unconfirmed,false,
-Honda,CR-V,2005,2006,3-Button Remote Head Key,,,,35111-S9A-305,Unconfirmed,false,
-Honda,Fit,2007,2008,3-Button Remote Head Key,,OUCG8D-380H-A,,35111-SLN-305,Unconfirmed,false,
-Honda,Accord,2016,2017,4-Button Remote Head Key,,,,35118-T2A-A60,Unconfirmed,false,
-Honda,Civic,2016,2019,4-Button Remote Head Key,,,,35118-T2A-A60,Unconfirmed,false,
-Honda,CR-V,2014,2016,3-Button Remote Head Key,,,,35118-TY4-A00,Unconfirmed,false,
-Honda,Crosstour,2013,2015,3-Button Remote Head Key,,,,35118-TY4-A00,Unconfirmed,false,
-Honda,Fit,2015,2020,3-Button Remote Head Key,,,,35118-TY4-A00,Unconfirmed,false,
-Honda,CR-V,2014,2016,4-Button Remote Head Key,,MLBHLIK6-1T,,35118-T7S-A00,Unconfirmed,false,
-Honda,HR-V,2016,2021,4-Button Remote Head Key,,MLBHLIK6-1T,,35118-T7S-A00,Unconfirmed,false,
-Acura,CL,1998,2003,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Acura,EL,2001,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Acura,Integra,2000,2001,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Acura,MDX,2000,2006,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Acura,NSX,1997,2005,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Acura,RL,1996,2004,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Acura,RSX,2002,2006,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Acura,TL,1999,2003,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Honda,Accord,1998,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Honda,Civic,2001,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Honda,Insight,2000,2006,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Honda,Odyssey,1998,2004,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Honda,Prelude,1997,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Honda,S2000,2000,2005,Transponder Key,,HD106-PT,,,Unconfirmed,false,
-Honda,CR-V,2017,2020,4-Button Remote Head Key,Philips ID 47 (Honda G),MLBHLIK6-1TA,,35118-TGG-A00,Unconfirmed,false,
-Honda,Civic,2017,2020,4-Button Remote Head Key,Philips ID 47 (Honda G),MLBHLIK6-1TA,,35118-TGG-A00,Unconfirmed,false,
-Honda,CR-V,2005,2006,4-Button Remote Head Key,,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Odyssey,2011,2013,5-Button Remote Head Key,,N5F-A04TAA,,35118-TK8-A10,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Honda,Insight,2000,2006,3-Button Keyless Entry Remote,,E4EG8DJ,,72147-S3Y-A01,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Civic,2002,2005,4-Button Keyless Entry Remote,,OUCG8D-344H-A,,72147-S9A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Element,2005,2011,4-Button Keyless Entry Remote,,OUCG8D-344H-A,,72147-S9A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,1994,1997,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,1996,2000,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Odyssey,1996,2004,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Prelude,1996,2002,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,CR-V,1997,2001,4-Button Keyless Entry Remote,,E4EG8DJ,,72147-S2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,S2000,2000,2008,4-Button Keyless Entry Remote,,E4EG8DJ,,72147-S2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Acura,TL,1999,2003,4-Button Keyless Entry Remote,,KOBUTAH2T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,1998,2002,4-Button Keyless Entry Remote,,KOBUTAH2T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Odyssey,2005,2010,5-Button Keyless Entry Remote,,OUCG8D-399H-A,,72147-SHJ-A21,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Honda,Civic,2001,2005,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,
-Honda,Pilot,2003,2007,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,
-Honda,Civic,2002,2005,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,
-Honda,Element,2002,2011,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,
-Honda,Ridgeline,2017,2019,4-Button Smart Key,,A2C97488400,,72147-T6Z-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Honda,Accord,2018,2020,4-Button Smart Key,,CWTWB1G0090,,72147-TVA-X11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,2013,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,CR-V,2015,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,HR-V,2016,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Odyssey,2014,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Ridgeline,2017,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,
-Honda,Accord,2016,2017,4-Button Smart Key,,ACJ932HK1310A,,72147-T2G-A71,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,2016,2017,4-Button Smart Key,,ACJ932HK1310A,,72147-T2G-A61,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Crosstour,2013,2015,3-Button Smart Key,,ACJ932HK1210A,,72147-TP6-A51,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-V,2002,2006,Transponder Key,,HO01-PT,,,Unconfirmed,false,
-Honda,Civic,2003,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,
-Honda,Element,2003,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,
-Honda,Odyssey,2003,2004,Transponder Key,,HO01-PT,,,Unconfirmed,false,
-Honda,Pilot,2003,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,
-Honda,S2000,2004,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,
-Honda,CR-V,2002,2006,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,
-Honda,Civic,2003,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,
-Honda,Element,2003,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,
-Honda,Odyssey,2003,2004,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,
-Honda,Pilot,2003,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,
-Honda,S2000,2004,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,
-Honda,CR-V,2002,2006,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,
-Honda,Civic,2003,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,
-Honda,Element,2003,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,
-Honda,Odyssey,2003,2004,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,
-Honda,Pilot,2003,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,
-Honda,S2000,2004,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,
-Honda,Accord,2022,2022,Emergency Key,,,,35118-T20-305,Unconfirmed,false,
-Honda,Civic,2022,2022,Emergency Key,,,,35118-T20-305,Unconfirmed,false,
-Honda,HR-V,2023,2023,Emergency Key,,,,35118-T20-305,Unconfirmed,false,
-Honda,Odyssey,2025,2026,Emergency Key,,,,35118-T20-305,Unconfirmed,false,
-Honda,CR-V,2017,2022,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,
-Honda,Civic,2017,2021,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,
-Honda,Pilot,2017,2022,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,
-Acura,CSX,2006,2010,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Acura,EL,2001,2005,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Acura,MDX,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Acura,RDX,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Acura,RL,2010,2012,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Acura,TL,2007,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Acura,TSX,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Acura,ZDX,2010,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Accord,2003,2012,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,CR-V,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,CR-Z,2011,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Civic,2006,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Crosstour,2010,2012,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Element,2006,2011,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Fit,2007,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Insight,2010,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Odyssey,2005,2016,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Pilot,2005,2015,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Ridgeline,2006,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,S2000,2008,2009,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,
-Honda,Fit,2006,2008,Transponder Key,,HD113-PT,,,Unconfirmed,false,
-Honda,S2000,2000,2009,Transponder Key,,HD113-PT,,,Unconfirmed,false,
-Honda,Odyssey,2014,2017,5-Button Smart Key,,KR5V1X,,72147-TK8-A81,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door"
-Honda,CR-V,2017,2022,6-Button Smart Key,,KR5V1X,,72147-TK8-A71,Unconfirmed,false,
-Honda,Odyssey,2014,2017,6-Button Smart Key,,KR5V1X,,72147-TK8-A71,Unconfirmed,false,
-Honda,Odyssey,2018,2020,7-Button Smart Key,,KR5V2X,,72147-THR-A21,Unconfirmed,false,
-Honda,Ridgeline,2017,2019,3-Button Smart Key,,A2C97488400,,72147-T6Z-A01,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Fit,2007,2008,3-Button Remote Head Key,8E,OUCG8D-380H-A,,35111-SLN-305,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-V,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-T43-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,HR-V,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-T43-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Pilot,2023,2023,5-Button Smart Key,,KR5TP-4,,72147-T43-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Civic,2022,2024,4-Button Smart Key,,KR5TP-4,,72147-T20-A01,Unconfirmed,false,
-Honda,HR-V,2023,2024,4-Button Smart Key,,KR5TP-4,,72147-T20-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Accord,2022,2024,5-Button Smart Key,,KR5TP-4,,72147-T20-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,Civic,2022,2024,5-Button Smart Key,,KR5TP-4,,72147-T20-A11,Unconfirmed,false,
-Acura,CSX,2006,2010,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Acura,EL,2001,2005,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Acura,MDX,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Acura,RDX,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Acura,RL,2010,2012,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Acura,TL,2007,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Acura,TSX,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Acura,ZDX,2010,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Accord,2003,2012,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,CR-V,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,CR-Z,2011,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Civic,2006,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Crosstour,2010,2012,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Element,2006,2011,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Fit,2007,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Insight,2010,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Odyssey,2005,2016,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Pilot,2005,2015,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Ridgeline,2006,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,S2000,2008,2009,Transponder Key,V 46 Chip,,,,Unconfirmed,false,
-Honda,Accord,2013,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2014,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,2013,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A22,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2014,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A22,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Ridgeline,2017,2019,4-Button Smart Key,,A2C97488400,,72147-T6Z-A21,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Honda,Ridgeline,2017,2019,4-Button Smart Key,,A2C97488400,,72147-T6Z-A31,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start"
-Honda,CR-V,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-3A0-A01,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Pilot,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-3A0-A01,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,CR-V,2023,2025,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Civic,2022,2025,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,
-Honda,HR-V,2023,2024,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Pilot,2023,2024,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Odyssey,2014,2017,6-Button Smart Key,,KR5V1X,,72147-TK8-A61,Unconfirmed,false,
-Acura,TL,2009,2014,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Acura,TSX,2009,2014,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Acura,ZDX,2010,2013,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,2008,2012,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Odyssey,2025,2026,7-Button Smart Key,,KR5TP-4,,72147-THR-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door"
-Honda,Odyssey,2025,2026,7-Button Smart Key,,KR5TP-4,,72147-THR-AC1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door"
-Honda,Accord,2021,2025,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,CR-V,2023,2026,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Civic,2022,2025,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,
-Honda,Pilot,2023,2026,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Accord,2013,2015,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Civic,2014,2015,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic"
-Honda,Accord,2018,2020,5-Button Smart Key,,CWTWB1G0090,,72147-TVA-A31,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,Accord,2018,2020,5-Button Smart Key,,CWTWB1G0090,,72147-TVA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,Accord,2016,2017,5-Button Smart Key,,ACJ932HK1310A,,72147-T2G-A41,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,CR-V,2014,2021,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,
-Honda,HR-V,2016,2021,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,
-Honda,CR-V,2014,2016,3-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Crosstour,2013,2015,3-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Fit,2015,2019,3-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Passport,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Pilot,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Passport,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Pilot,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Accord,2018,2020,5-Button Smart Key,,CWTWB1G0090,,72147-TWA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,Insight,2019,2022,5-Button Smart Key,,CWTWB1G0090,,72147-TWA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,Passport,2019,2021,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Pilot,2019,2021,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Passport,2019,2021,5-Button Smart Key,,KR5V41,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Pilot,2019,2021,5-Button Smart Key,,KR5V41,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch"
-Honda,Accord,2013,2017,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
-Honda,CR-V,2014,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
-Honda,Civic,2014,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
-Honda,Crosstour,2013,2014,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
-Honda,Fit,2015,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
-Honda,HR-V,2016,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,
-Honda,Odyssey,2021,2022,7-Button Smart Key,,KR5T4X,,72147-THR-A61,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door"
-Honda,Civic,2018,2019,4-Button Smart Key,,KR5V2X,,72147-THR-A01,Unconfirmed,false,
-Honda,Odyssey,2018,2020,4-Button Smart Key,,KR5V2X,,72147-THR-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Pilot,2016,2018,4-Button Smart Key,,KR5V2X,,72147-THR-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Honda,Odyssey,2018,2020,7-Button Smart Key,,KR5V2X,,72147-THR-A31,Unconfirmed,false,
-Honda,Crosstour,2013,2015,3-Button Smart Key,,ACJ932HK1210A,,72147-TP6-A71,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Civic,2022,2024,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,
-Honda,CR-V,2015,2016,4-Button Smart Key,,ACJ932HK1210A,,72147-T0A-A31,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch"
-Acura,CL,1998,2003,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Acura,EL,2001,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Acura,Integra,2000,2001,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Acura,MDX,2000,2006,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Acura,NSX,1997,2005,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Acura,RL,1996,2004,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Acura,RSX,2002,2006,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Acura,TL,1999,2003,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Honda,Accord,1998,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Honda,Civic,2001,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Honda,Insight,2000,2006,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Honda,Odyssey,1998,2004,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Honda,Prelude,1997,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Honda,S2000,2000,2005,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,
-Honda,Odyssey,2021,2023,7-Button Smart Key,,KR5T4X,,72147-THR-A61,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door"
-Honda,Odyssey,2021,2024,7-Button Smart Key,,KR5T4X,,72147-THR-A51,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door"
-Acura,CL,1998,2003,Transponder Key,,HD106,,,Unconfirmed,false,
-Acura,Integra,2000,2001,Transponder Key,,HD106,,,Unconfirmed,false,
-Acura,MDX,2000,2006,Transponder Key,,HD106,,,Unconfirmed,false,
-Acura,NSX,1997,2005,Transponder Key,,HD106,,,Unconfirmed,false,
-Acura,RL,1996,2004,Transponder Key,,HD106,,,Unconfirmed,false,
-Acura,RSX,2002,2006,Transponder Key,,HD106,,,Unconfirmed,false,
-Acura,TL,1998,2003,Transponder Key,,HD106,,,Unconfirmed,false,
-Honda,Accord,1998,2002,Transponder Key,,HD106,,,Unconfirmed,false,
-Honda,Civic,2001,2002,Transponder Key,,HD106,,,Unconfirmed,false,
-Honda,Insight,2000,2006,Transponder Key,,HD106,,,Unconfirmed,false,
-Honda,Odyssey,1998,2002,Transponder Key,,HD106,,,Unconfirmed,false,
-Honda,Prelude,1997,2002,Transponder Key,,HD106,,,Unconfirmed,false,
-Honda,S2000,2000,2004,Transponder Key,,HD106,,,Unconfirmed,false,
-Honda,Pilot,2016,2021,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,
-Honda,CR-V,2017,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A21,Unconfirmed,false,
-Honda,Civic,2017,2020,5-Button Smart Key,,KR5V2X,,72147-TLA-A21,Unconfirmed,false,
-Honda,Pilot,2016,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A21,Unconfirmed,false,
-Honda,CR-V,2017,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A621,Unconfirmed,false,
-Honda,Civic,2017,2020,5-Button Smart Key,,KR5V2X,,72147-TLA-A621,Unconfirmed,false,
-Honda,Pilot,2016,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A621,Unconfirmed,false,
-Honda,Accord,2008,2012,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-V,2007,2013,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,CR-Z,2011,2015,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Fit,2009,2014,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Insight,2010,2014,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic"
-Honda,Accord,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-30A-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start"
-Honda,Civic,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-30A-A11,Unconfirmed,false,
-Honda,Odyssey,2021,2022,7-Button Smart Key,,KR5T4X,,72147-THR-A72,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door"
+make,model,yearFrom,yearTo,keyType,chip,fcc,board,partNumber,programming,verified,buttons,frequency
+Honda,Accord,2008,2012,4-Button Remote Head Key,,KR55WK49308,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Pilot,2009,2015,4-Button Remote Head Key,,KR55WK49308,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Civic,2017,2020,4-Button Smart Key,,KR5V2X,,72147-TBA-A011-M1,Unconfirmed,false,,
+Honda,Accord,2016,2017,4-Button Remote Head Key,,MLBHLIK6-1TA,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Honda,Civic,2016,2020,4-Button Remote Head Key,,MLBHLIK6-1TA,,,Unconfirmed,false,,
+Honda,Accord,2003,2007,4-Button Remote Head Key,,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Element,2010,2010,4-Button Remote Head Key,,OUCG8D-380H-A,,,Unconfirmed,false,,315 MHz
+Honda,Civic,2016,2021,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,,
+Honda,Pilot,2005,2008,3-Button Remote Head Key,,CWTWB1U545,,,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Acura,CSX,2006,2011,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,,315 MHz
+Acura,MDX,2007,2013,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Acura,RDX,2008,2009,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Civic,2006,2013,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Odyssey,2011,2017,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Fit,2006,2008,Transponder Key,,HD113,,,Unconfirmed,false,,
+Honda,S2000,2000,2009,Transponder Key,,HD113,,,Unconfirmed,false,,
+Honda,CR-V,2002,2006,Transponder Key,,HO01,,,Unconfirmed,false,,
+Honda,Civic,2003,2005,Transponder Key,,HO01,,,Unconfirmed,false,,
+Honda,Element,2003,2005,Transponder Key,,HO01,,,Unconfirmed,false,,
+Honda,Odyssey,2003,2004,Transponder Key,,HO01,,,Unconfirmed,false,,
+Honda,Pilot,2003,2005,Transponder Key,,HO01,,,Unconfirmed,false,,
+Honda,S2000,2004,2005,Transponder Key,,HO01,,,Unconfirmed,false,,
+Acura,CSX,2006,2010,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Acura,EL,2001,2005,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Acura,MDX,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Acura,RDX,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Acura,RL,2010,2012,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Acura,TL,2007,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Acura,TSX,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Acura,ZDX,2010,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Accord,2003,2012,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,CR-V,2007,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,CR-Z,2011,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Civic,2006,2013,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Crosstour,2010,2012,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Element,2006,2011,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Fit,2007,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Insight,2010,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Odyssey,2005,2016,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Pilot,2005,2015,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Ridgeline,2006,2014,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,S2000,2008,2009,Transponder Key,V 46 Chip,HO03,,,Unconfirmed,false,,
+Honda,Accord,2013,2017,Transponder Key,G Chip,HO05,,,Unconfirmed,false,,
+Honda,CR-V,2014,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,,
+Honda,Civic,2014,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,,
+Honda,Crosstour,2013,2014,Transponder Key,G Chip,HO05,,,Unconfirmed,false,,
+Honda,Fit,2015,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,,
+Honda,HR-V,2016,2021,Transponder Key,G Chip,HO05,,,Unconfirmed,false,,
+Honda,Accord,2008,2012,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-V,2007,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-Z,2011,2015,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Fit,2009,2014,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Insight,2010,2014,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Acura,MDX,2007,2013,4-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Civic,2006,2013,4-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Fit,2007,2008,3-Button Remote Head Key,46,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Odyssey,2005,2010,3-Button Remote Head Key,46,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Ridgeline,2006,2014,3-Button Remote Head Key,46,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-V,2005,2006,3-Button Remote Head Key,Megamos ID 13,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Acura,TL,2009,2014,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Acura,TSX,2009,2014,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Acura,ZDX,2010,2013,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Accord,2008,2012,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,CR-V,2009,2012,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,,315 MHz
+Honda,Fit,2009,2013,4-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Odyssey,2011,2013,6-Button Remote Head Key,,N5F-A04TAA,,35118-TK8-A20,Unconfirmed,false,,315 MHz
+Honda,Fit,2015,2017,3-Button Smart Key,,KR5V1X,,72147-T5A-A01,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,HR-V,2016,2017,3-Button Smart Key,,KR5V1X,,72147-T5A-A01,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Odyssey,2014,2017,6-Button Smart Key,,KR5V1X,,72147-TK8-A51,Unconfirmed,false,,315 MHz
+Honda,Fit,2018,2020,4-Button Smart Key,,KR5V1X,,72147-T7S-A01,Unconfirmed,false,,315 MHz
+Honda,HR-V,2016,2022,4-Button Smart Key,,KR5V1X,,72147-T7S-A01,Unconfirmed,false,,315 MHz
+Honda,Accord,2013,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Civic,2014,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Accord,2018,2020,4-Button Smart Key,,CWTWB1G0090,,72147-TVA-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,Civic,2001,2005,3-Button Keyless Entry Remote,,NHVWB1U523,,72147-S5A-A01,Unconfirmed,false,,433 MHz
+Honda,Element,2004,2006,3-Button Keyless Entry Remote,,NHVWB1U523,,72147-S5A-A01,Unconfirmed,false,,433 MHz
+Honda,Pilot,2003,2007,3-Button Keyless Entry Remote,,NHVWB1U523,,72147-S5A-A01,Unconfirmed,false,,433 MHz
+Honda,CR-V,2002,2004,4-Button Keyless Entry Remote,,OUCG8D-344H-A,,72147-S9A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Odyssey,2001,2004,5-Button Keyless Entry Remote,,OUCG8D-440H-A,,72147-S0X-A02,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",
+Honda,Accord,2013,2022,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,CR-V,2015,2022,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,CR-Z,2016,2016,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Civic,2014,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Clarity,2018,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Crosstour,2013,2016,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Fit,2015,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,HR-V,2016,2022,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Insight,2019,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Odyssey,2014,2023,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Pilot,2016,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Ridgeline,2017,2025,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,CR-V,2015,2016,4-Button Smart Key,,ACJ932HK1210A,,72147-T0A-A11,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",315 MHz
+Honda,Crosstour,2013,2015,3-Button Smart Key,,ACJ932HK1210A,,72147-TP6-A61,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Odyssey,2005,2010,5-Button Keyless Entry Remote,,OUCG8D-399H-A,,,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",
+Honda,Odyssey,2005,2010,6-Button Keyless Entry Remote,,OUCG8D-399H-A,,,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch, Right Sliding Door, Left Sliding Door",
+Honda,Odyssey,2018,2020,7-Button Smart Key,,KR5V2X,,72147-THR-A11,Unconfirmed,false,,
+Honda,Civic,2018,2019,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,,
+Honda,Odyssey,2018,2020,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",
+Honda,Pilot,2016,2018,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",
+Honda,Ridgeline,2018,2018,4-Button Smart Key,,KR5V2X,,72147-TG7-A01,Unconfirmed,false,,
+Honda,Accord,2018,2022,5-Button Smart Key,,CWTWB1G0090,,72147-TVA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,Clarity,2018,2021,6-Button Smart Key,,KR5V2X,,72147-TRW-A01,Unconfirmed,false,,
+Honda,CR-V,2007,2011,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-Z,2011,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Crosstour,2008,2012,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Fit,2009,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Insight,2010,2013,3-Button Remote Head Key,,MLBHLIK-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Odyssey,2011,2016,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Civic,2006,2011,3-Button Remote Head Key,,N5F-S0084A,,,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Accord,2003,2007,4-Button Remote Head Key,,,,35118-SDA-A11,Unconfirmed,false,,
+Honda,Element,2010,2010,4-Button Remote Head Key,,,,35118-SDA-A11,Unconfirmed,false,,
+Honda,Accord,2013,2015,4-Button Remote Head Key,,,,35118-T2A-A20,Unconfirmed,false,,
+Honda,Civic,2014,2015,4-Button Remote Head Key,,,,35118-T2A-A20,Unconfirmed,false,,
+Honda,Accord,2008,2012,4-Button Remote Head Key,,,,35118-TA0-A00,Unconfirmed,false,,
+Honda,Pilot,2009,2015,4-Button Remote Head Key,,,,35118-TA0-A00,Unconfirmed,false,,
+Honda,Civic,2006,2011,4-Button Remote Head Key,,,,35111-SVA-306,Unconfirmed,false,,
+Honda,Fit,2007,2008,3-Button Remote Head Key,,,,35111-SHJ-305,Unconfirmed,false,,
+Honda,Odyssey,2005,2010,3-Button Remote Head Key,,,,35111-SHJ-305,Unconfirmed,false,,
+Honda,Ridgeline,2006,2014,3-Button Remote Head Key,,,,35111-SHJ-305,Unconfirmed,false,,
+Honda,CR-V,2005,2006,3-Button Remote Head Key,,,,35111-S9A-305,Unconfirmed,false,,
+Honda,Fit,2007,2008,3-Button Remote Head Key,,OUCG8D-380H-A,,35111-SLN-305,Unconfirmed,false,,315 MHz
+Honda,Accord,2016,2017,4-Button Remote Head Key,,,,35118-T2A-A60,Unconfirmed,false,,
+Honda,Civic,2016,2019,4-Button Remote Head Key,,,,35118-T2A-A60,Unconfirmed,false,,
+Honda,CR-V,2014,2016,3-Button Remote Head Key,,,,35118-TY4-A00,Unconfirmed,false,,
+Honda,Crosstour,2013,2015,3-Button Remote Head Key,,,,35118-TY4-A00,Unconfirmed,false,,
+Honda,Fit,2015,2020,3-Button Remote Head Key,,,,35118-TY4-A00,Unconfirmed,false,,
+Honda,CR-V,2014,2016,4-Button Remote Head Key,,MLBHLIK6-1T,,35118-T7S-A00,Unconfirmed,false,,
+Honda,HR-V,2016,2021,4-Button Remote Head Key,,MLBHLIK6-1T,,35118-T7S-A00,Unconfirmed,false,,
+Acura,CL,1998,2003,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Acura,EL,2001,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Acura,Integra,2000,2001,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Acura,MDX,2000,2006,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Acura,NSX,1997,2005,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Acura,RL,1996,2004,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Acura,RSX,2002,2006,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Acura,TL,1999,2003,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Honda,Accord,1998,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Honda,Civic,2001,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Honda,Insight,2000,2006,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Honda,Odyssey,1998,2004,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Honda,Prelude,1997,2002,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Honda,S2000,2000,2005,Transponder Key,,HD106-PT,,,Unconfirmed,false,,
+Honda,CR-V,2017,2020,4-Button Remote Head Key,Philips ID 47 (Honda G),MLBHLIK6-1TA,,35118-TGG-A00,Unconfirmed,false,,
+Honda,Civic,2017,2020,4-Button Remote Head Key,Philips ID 47 (Honda G),MLBHLIK6-1TA,,35118-TGG-A00,Unconfirmed,false,,
+Honda,CR-V,2005,2006,4-Button Remote Head Key,,OUCG8D-380H-A,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Odyssey,2011,2013,5-Button Remote Head Key,,N5F-A04TAA,,35118-TK8-A10,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",315 MHz
+Honda,Insight,2000,2006,3-Button Keyless Entry Remote,,E4EG8DJ,,72147-S3Y-A01,Unconfirmed,false,"Lock, Unlock, Panic",
+Honda,Civic,2002,2005,4-Button Keyless Entry Remote,,OUCG8D-344H-A,,72147-S9A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Element,2005,2011,4-Button Keyless Entry Remote,,OUCG8D-344H-A,,72147-S9A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Accord,1994,1997,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,Civic,1996,2000,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,Odyssey,1996,2004,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,Prelude,1996,2002,4-Button Keyless Entry Remote,,A269ZUA101,,39950-S01-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,CR-V,1997,2001,4-Button Keyless Entry Remote,,E4EG8DJ,,72147-S2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Honda,S2000,2000,2008,4-Button Keyless Entry Remote,,E4EG8DJ,,72147-S2A-A01,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Acura,TL,1999,2003,4-Button Keyless Entry Remote,,KOBUTAH2T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Accord,1998,2002,4-Button Keyless Entry Remote,,KOBUTAH2T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Odyssey,2005,2010,5-Button Keyless Entry Remote,,OUCG8D-399H-A,,72147-SHJ-A21,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",
+Honda,Civic,2001,2005,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,,
+Honda,Pilot,2003,2007,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,,
+Honda,Civic,2002,2005,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,,
+Honda,Element,2002,2011,3-Button Keyless Entry Remote,,,,72147-S5T-A01,Unconfirmed,false,,
+Honda,Ridgeline,2017,2019,4-Button Smart Key,,A2C97488400,,72147-T6Z-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Honda,Accord,2018,2020,4-Button Smart Key,,CWTWB1G0090,,72147-TVA-X11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,Accord,2013,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,CR-V,2015,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,HR-V,2016,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Odyssey,2014,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Ridgeline,2017,2021,Emergency Key,,HO01,,35118-T2A-A50,Unconfirmed,false,,
+Honda,Accord,2016,2017,4-Button Smart Key,,ACJ932HK1310A,,72147-T2G-A71,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,Accord,2016,2017,4-Button Smart Key,,ACJ932HK1310A,,72147-T2G-A61,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",433 MHz
+Honda,Crosstour,2013,2015,3-Button Smart Key,,ACJ932HK1210A,,72147-TP6-A51,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-V,2002,2006,Transponder Key,,HO01-PT,,,Unconfirmed,false,,
+Honda,Civic,2003,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,,
+Honda,Element,2003,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,,
+Honda,Odyssey,2003,2004,Transponder Key,,HO01-PT,,,Unconfirmed,false,,
+Honda,Pilot,2003,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,,
+Honda,S2000,2004,2005,Transponder Key,,HO01-PT,,,Unconfirmed,false,,
+Honda,CR-V,2002,2006,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,,
+Honda,Civic,2003,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,,
+Honda,Element,2003,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,,
+Honda,Odyssey,2003,2004,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,,
+Honda,Pilot,2003,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,,
+Honda,S2000,2004,2005,Transponder Key,T5 Cloning Chip,HO01T5,,,Unconfirmed,false,,
+Honda,CR-V,2002,2006,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,,
+Honda,Civic,2003,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,,
+Honda,Element,2003,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,,
+Honda,Odyssey,2003,2004,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,,
+Honda,Pilot,2003,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,,
+Honda,S2000,2004,2005,Transponder Key,T5 Cloning Chip,HOV01T5,,,Unconfirmed,false,,
+Honda,Accord,2022,2022,Emergency Key,,,,35118-T20-305,Unconfirmed,false,,
+Honda,Civic,2022,2022,Emergency Key,,,,35118-T20-305,Unconfirmed,false,,
+Honda,HR-V,2023,2023,Emergency Key,,,,35118-T20-305,Unconfirmed,false,,
+Honda,Odyssey,2025,2026,Emergency Key,,,,35118-T20-305,Unconfirmed,false,,
+Honda,CR-V,2017,2022,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,,
+Honda,Civic,2017,2021,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,,
+Honda,Pilot,2017,2022,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,,
+Acura,CSX,2006,2010,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Acura,EL,2001,2005,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Acura,MDX,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Acura,RDX,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Acura,RL,2010,2012,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Acura,TL,2007,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Acura,TSX,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Acura,ZDX,2010,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Accord,2003,2012,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,CR-V,2007,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,CR-Z,2011,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Civic,2006,2013,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Crosstour,2010,2012,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Element,2006,2011,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Fit,2007,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Insight,2010,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Odyssey,2005,2016,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Pilot,2005,2015,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Ridgeline,2006,2014,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,S2000,2008,2009,Transponder Key,V 46 Chip,HO03-PT,,,Unconfirmed,false,,
+Honda,Fit,2006,2008,Transponder Key,,HD113-PT,,,Unconfirmed,false,,
+Honda,S2000,2000,2009,Transponder Key,,HD113-PT,,,Unconfirmed,false,,
+Honda,Odyssey,2014,2017,5-Button Smart Key,,KR5V1X,,72147-TK8-A81,Unconfirmed,false,"Lock, Unlock, Panic, Right Sliding Door, Left Sliding Door",315 MHz
+Honda,CR-V,2017,2022,6-Button Smart Key,,KR5V1X,,72147-TK8-A71,Unconfirmed,false,,315 MHz
+Honda,Odyssey,2014,2017,6-Button Smart Key,,KR5V1X,,72147-TK8-A71,Unconfirmed,false,,315 MHz
+Honda,Odyssey,2018,2020,7-Button Smart Key,,KR5V2X,,72147-THR-A21,Unconfirmed,false,,
+Honda,Ridgeline,2017,2019,3-Button Smart Key,,A2C97488400,,72147-T6Z-A01,Unconfirmed,false,"Lock, Unlock, Panic",433 MHz
+Honda,Fit,2007,2008,3-Button Remote Head Key,8E,OUCG8D-380H-A,,35111-SLN-305,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-V,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-T43-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Honda,HR-V,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-T43-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Honda,Pilot,2023,2023,5-Button Smart Key,,KR5TP-4,,72147-T43-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Honda,Civic,2022,2024,4-Button Smart Key,,KR5TP-4,,72147-T20-A01,Unconfirmed,false,,433 MHz
+Honda,HR-V,2023,2024,4-Button Smart Key,,KR5TP-4,,72147-T20-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",433 MHz
+Honda,Accord,2022,2024,5-Button Smart Key,,KR5TP-4,,72147-T20-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,Civic,2022,2024,5-Button Smart Key,,KR5TP-4,,72147-T20-A11,Unconfirmed,false,,433 MHz
+Acura,CSX,2006,2010,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Acura,EL,2001,2005,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Acura,MDX,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Acura,RDX,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Acura,RL,2010,2012,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Acura,TL,2007,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Acura,TSX,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Acura,ZDX,2010,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Accord,2003,2012,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,CR-V,2007,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,CR-Z,2011,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Civic,2006,2013,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Crosstour,2010,2012,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Element,2006,2011,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Fit,2007,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Insight,2010,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Odyssey,2005,2016,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Pilot,2005,2015,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Ridgeline,2006,2014,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,S2000,2008,2009,Transponder Key,V 46 Chip,,,,Unconfirmed,false,,
+Honda,Accord,2013,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Civic,2014,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Accord,2013,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A22,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Civic,2014,2015,4-Button Smart Key,,ACJ932HK1210A,,72147-T2A-A22,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Ridgeline,2017,2019,4-Button Smart Key,,A2C97488400,,72147-T6Z-A21,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Honda,Ridgeline,2017,2019,4-Button Smart Key,,A2C97488400,,72147-T6Z-A31,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start",433 MHz
+Honda,CR-V,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-3A0-A01,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Honda,Pilot,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-3A0-A01,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Honda,CR-V,2023,2025,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",433 MHz
+Honda,Civic,2022,2025,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,,433 MHz
+Honda,HR-V,2023,2024,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",433 MHz
+Honda,Pilot,2023,2024,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",433 MHz
+Honda,Odyssey,2014,2017,6-Button Smart Key,,KR5V1X,,72147-TK8-A61,Unconfirmed,false,,315 MHz
+Acura,TL,2009,2014,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Acura,TSX,2009,2014,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Acura,ZDX,2010,2013,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Accord,2008,2012,4-Button Flip Key,,MLBHLIK-1T,,35113-TL0-A10,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",315 MHz
+Honda,Odyssey,2025,2026,7-Button Smart Key,,KR5TP-4,,72147-THR-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door",433 MHz
+Honda,Odyssey,2025,2026,7-Button Smart Key,,KR5TP-4,,72147-THR-AC1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door",433 MHz
+Honda,Accord,2021,2025,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,CR-V,2023,2026,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Honda,Civic,2022,2025,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,,433 MHz
+Honda,Pilot,2023,2026,5-Button Smart Key,,KR5TP-4,,72147-3A0-A11,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",433 MHz
+Honda,Accord,2013,2015,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Honda,Civic,2014,2015,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Trunk, Panic",
+Honda,Accord,2018,2020,5-Button Smart Key,,CWTWB1G0090,,72147-TVA-A31,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,Accord,2018,2020,5-Button Smart Key,,CWTWB1G0090,,72147-TVA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,Accord,2016,2017,5-Button Smart Key,,ACJ932HK1310A,,72147-T2G-A41,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,CR-V,2014,2021,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,,
+Honda,HR-V,2016,2021,4-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,,
+Honda,CR-V,2014,2016,3-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Honda,Crosstour,2013,2015,3-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Honda,Fit,2015,2019,3-Button Remote Head Key,,MLBHLIK6-1T,,,Unconfirmed,false,"Lock, Unlock, Panic",
+Honda,Passport,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Pilot,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Passport,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Pilot,2019,2020,5-Button Smart Key,,KR5V44,,72147-TG7-AB1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Accord,2018,2020,5-Button Smart Key,,CWTWB1G0090,,72147-TWA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,Insight,2019,2022,5-Button Smart Key,,CWTWB1G0090,,72147-TWA-A21,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,Passport,2019,2021,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Pilot,2019,2021,5-Button Smart Key,,KR5V44,,72147-TG7-AA1,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Passport,2019,2021,5-Button Smart Key,,KR5V41,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Pilot,2019,2021,5-Button Smart Key,,KR5V41,,,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch",
+Honda,Accord,2013,2017,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,,
+Honda,CR-V,2014,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,,
+Honda,Civic,2014,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,,
+Honda,Crosstour,2013,2014,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,,
+Honda,Fit,2015,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,,
+Honda,HR-V,2016,2021,Transponder Key,G Chip,HO05-PT,,,Unconfirmed,false,,
+Honda,Odyssey,2021,2022,7-Button Smart Key,,KR5T4X,,72147-THR-A61,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door",433 MHz
+Honda,Civic,2018,2019,4-Button Smart Key,,KR5V2X,,72147-THR-A01,Unconfirmed,false,,
+Honda,Odyssey,2018,2020,4-Button Smart Key,,KR5V2X,,72147-THR-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",
+Honda,Pilot,2016,2018,4-Button Smart Key,,KR5V2X,,72147-THR-A01,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",
+Honda,Odyssey,2018,2020,7-Button Smart Key,,KR5V2X,,72147-THR-A31,Unconfirmed,false,,
+Honda,Crosstour,2013,2015,3-Button Smart Key,,ACJ932HK1210A,,72147-TP6-A71,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Civic,2022,2024,4-Button Smart Key,,KR5TP-4,,72147-T43-A01,Unconfirmed,false,,433 MHz
+Honda,CR-V,2015,2016,4-Button Smart Key,,ACJ932HK1210A,,72147-T0A-A31,Unconfirmed,false,"Lock, Unlock, Panic, Rear Hatch",315 MHz
+Acura,CL,1998,2003,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Acura,EL,2001,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Acura,Integra,2000,2001,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Acura,MDX,2000,2006,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Acura,NSX,1997,2005,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Acura,RL,1996,2004,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Acura,RSX,2002,2006,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Acura,TL,1999,2003,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Honda,Accord,1998,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Honda,Civic,2001,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Honda,Insight,2000,2006,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Honda,Odyssey,1998,2004,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Honda,Prelude,1997,2002,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Honda,S2000,2000,2005,Transponder Key,Megamos ID 13,HD106-PT,,,Unconfirmed,false,,
+Honda,Odyssey,2021,2023,7-Button Smart Key,,KR5T4X,,72147-THR-A61,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door",433 MHz
+Honda,Odyssey,2021,2024,7-Button Smart Key,,KR5T4X,,72147-THR-A51,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door",433 MHz
+Acura,CL,1998,2003,Transponder Key,,HD106,,,Unconfirmed,false,,
+Acura,Integra,2000,2001,Transponder Key,,HD106,,,Unconfirmed,false,,
+Acura,MDX,2000,2006,Transponder Key,,HD106,,,Unconfirmed,false,,
+Acura,NSX,1997,2005,Transponder Key,,HD106,,,Unconfirmed,false,,
+Acura,RL,1996,2004,Transponder Key,,HD106,,,Unconfirmed,false,,
+Acura,RSX,2002,2006,Transponder Key,,HD106,,,Unconfirmed,false,,
+Acura,TL,1998,2003,Transponder Key,,HD106,,,Unconfirmed,false,,
+Honda,Accord,1998,2002,Transponder Key,,HD106,,,Unconfirmed,false,,
+Honda,Civic,2001,2002,Transponder Key,,HD106,,,Unconfirmed,false,,
+Honda,Insight,2000,2006,Transponder Key,,HD106,,,Unconfirmed,false,,
+Honda,Odyssey,1998,2002,Transponder Key,,HD106,,,Unconfirmed,false,,
+Honda,Prelude,1997,2002,Transponder Key,,HD106,,,Unconfirmed,false,,
+Honda,S2000,2000,2004,Transponder Key,,HD106,,,Unconfirmed,false,,
+Honda,Pilot,2016,2021,5-Button Smart Key,,KR5V2X,,,Unconfirmed,false,,
+Honda,CR-V,2017,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A21,Unconfirmed,false,,
+Honda,Civic,2017,2020,5-Button Smart Key,,KR5V2X,,72147-TLA-A21,Unconfirmed,false,,
+Honda,Pilot,2016,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A21,Unconfirmed,false,,
+Honda,CR-V,2017,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A621,Unconfirmed,false,,
+Honda,Civic,2017,2020,5-Button Smart Key,,KR5V2X,,72147-TLA-A621,Unconfirmed,false,,
+Honda,Pilot,2016,2019,5-Button Smart Key,,KR5V2X,,72147-TLA-A621,Unconfirmed,false,,
+Honda,Accord,2008,2012,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-V,2007,2013,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,CR-Z,2011,2015,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Fit,2009,2014,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Insight,2010,2014,3-Button Remote Head Key,,MLBHLIK-1T,,35111-SWA-306,Unconfirmed,false,"Lock, Unlock, Panic",315 MHz
+Honda,Accord,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-30A-A11,Unconfirmed,false,"Lock, Unlock, Trunk, Panic, Remote Start",433 MHz
+Honda,Civic,2023,2024,5-Button Smart Key,,KR5TP-4,,72147-30A-A11,Unconfirmed,false,,433 MHz
+Honda,Odyssey,2021,2022,7-Button Smart Key,,KR5T4X,,72147-THR-A72,Unconfirmed,false,"Lock, Unlock, Panic, Remote Start, Rear Hatch, Right Sliding Door, Left Sliding Door",433 MHz
