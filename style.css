@@ -22,7 +22,9 @@ main { max-width: 720px; margin: 0 auto; padding: 16px; }
   border-radius: 8px;
 }
 label { display: flex; flex-direction: column; font-weight: 600; gap: 4px; }
-select { padding: 10px; font-size: 1rem; }
+.field { display: flex; flex-direction: column; gap: 4px; }
+.field label { font-weight: 600; }
+select { padding: 10px; font-size: 1rem; touch-action: manipulation; }
 .card {
   background: #fff;
   border-left: 5px solid #2f80ed;
